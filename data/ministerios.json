@@ -1,4 +1,29 @@
 {
-  "atualizado_em": null,
-  "ministerios": {}
+  "atualizado_em": "2026-07-22T15:16:41.791827+00:00",
+  "ministerios": {
+    "mj": {
+      "nome": "Ministério da Justiça e Segurança Pública",
+      "noticias": [],
+      "agenda": {
+        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
+        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
+      }
+    },
+    "mec": {
+      "nome": "Ministério da Educação",
+      "noticias": [],
+      "agenda": {
+        "resumo": "",
+        "link_agenda_completa": ""
+      }
+    },
+    "mcti": {
+      "nome": "Ministério da Ciência, Tecnologia e Inovação",
+      "noticias": [],
+      "agenda": {
+        "resumo": "19 Dom 20 Seg 21 Ter 22 Qua 23 Qui 24 Sex 25 Sáb Atualmente não existem compromissos agendados.",
+        "link_agenda_completa": ""
+      }
+    }
+  }
 }
