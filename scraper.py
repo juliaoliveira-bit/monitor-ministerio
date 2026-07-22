@@ -27,6 +27,7 @@ IMPORTANTE — leia antes de usar:
 
 import json
 import os
+import re
 import time
 from datetime import datetime, timezone
 
@@ -88,32 +89,38 @@ def buscar_html(url):
 
 def extrair_noticias(soup, base_url):
     """
-    Extrai a lista de notícias de uma página de listagem do gov.br (Plone).
-    O tema padrão do gov.br usa itens do tipo <article class="tileItem">
-    (ou variações), cada um com um título em <h2> e um link em <a>.
-    Tentamos alguns seletores diferentes para cobrir variações de tema.
+    Extrai a lista de notícias de uma página de listagem do gov.br.
+    Estrutura confirmada (inspecionada diretamente no MJ em 22/07/2026):
+
+        <ul class="noticias ...">
+          <li>
+            <div class="conteudo">
+              <div class="subtitulo-noticia">CATEGORIA</div>
+              <h2 class="titulo"><a href="...">Título</a></h2>
+              <span class="descricao">
+                <span class="data">DD/MM/AAAA</span> - Resumo da notícia
+              </span>
+            </div>
+          </li>
+        </ul>
+
+    Mantemos alguns seletores alternativos como fallback, caso algum
+    ministério específico use uma variação de tema diferente.
     """
     noticias = []
     if soup is None:
         return noticias
 
-    # Tenta o padrão mais comum primeiro, depois alternativas
-    candidatos = (
-        soup.select("article.tileItem")
-        or soup.select("div.tileItem")
+    itens = (
+        soup.select("ul.noticias li")
         or soup.select("li.tileItem")
-        or soup.select("article")
-        or soup.select("h2 a, h3 a")  # último recurso: qualquer título linkado
+        or soup.select("article.tileItem")
+        or soup.select("div.tileItem")
     )
-    print(f"  (diagnóstico: {len(candidatos)} candidato(s) bruto(s) encontrados na página)")
+    print(f"  (diagnóstico: {len(itens)} candidato(s) bruto(s) encontrados na página)")
 
-    for item in candidatos[:MAX_NOTICIAS_POR_MINISTERIO]:
-        # 'item' pode ser o container da notícia (article/div/li) OU,
-        # no último fallback, já ser o próprio link do título.
-        if item.name == "a":
-            link_tag = item
-        else:
-            link_tag = item.select_one("h2 a, h3 a, a.summary")
+    for item in itens[:MAX_NOTICIAS_POR_MINISTERIO]:
+        link_tag = item.select_one("h2.titulo a, h2 a, h3 a, a.summary")
         if not link_tag:
             continue
 
@@ -122,16 +129,22 @@ def extrair_noticias(soup, base_url):
         if link and not link.startswith("http"):
             link = base_url.rstrip("/") + "/" + link.lstrip("/")
 
-        # A data geralmente aparece solta no texto do card, formato dd/mm/aaaa
-        texto_item = item.get_text(" ", strip=True)
-        data_publicacao = ""
-        import re
-        match_data = re.search(r"\d{2}/\d{2}/\d{4}", texto_item)
-        if match_data:
-            data_publicacao = match_data.group(0)
+        data_tag = item.select_one("span.data")
+        data_publicacao = data_tag.get_text(strip=True) if data_tag else ""
+        if not data_publicacao:
+            # fallback: procura qualquer data solta no texto do item
+            match_data = re.search(r"\d{2}/\d{2}/\d{4}", item.get_text(" ", strip=True))
+            data_publicacao = match_data.group(0) if match_data else ""
 
-        resumo_tag = item.select_one("p.description, span.description")
-        resumo = resumo_tag.get_text(strip=True) if resumo_tag else ""
+        resumo = ""
+        descricao_tag = item.select_one("span.descricao")
+        if descricao_tag:
+            texto = descricao_tag.get_text(" ", strip=True)
+            # remove a data e o traço do início, deixando só o texto do resumo
+            resumo = re.sub(r"^\d{2}/\d{2}/\d{4}\s*-?\s*", "", texto).strip()
+        else:
+            resumo_tag = item.select_one("p.description, span.description")
+            resumo = resumo_tag.get_text(strip=True) if resumo_tag else ""
 
         if titulo:
             noticias.append(
