@@ -1,9 +1,70 @@
 {
-  "atualizado_em": "2026-07-22T15:16:41.791827+00:00",
+  "atualizado_em": "2026-07-22T15:36:12.838053+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Roda de conversa reúne no MJSP representantes da ANPD e do CNPD no Dia Nacional da Proteção de Dados e da Privacidade",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/roda-de-conversa-reune-no-mjsp-representantes-da-anpd-e-do-cnpd-no-dia-nacional-da-protecao-de-dados-e-da-privacidade",
+          "data": "22/07/2026",
+          "resumo": "Encontro organizado pela Data Privacy Brasil apresentou os eixos, os objetivos e os desafios da política pública"
+        },
+        {
+          "titulo": "Ministério da Justiça e Segurança Pública firma acordo de cooperação com o Conar para atuação conjunta na publicidade digital",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-e-seguranca-publica-firma-acordo-de-cooperacao-com-o-conar-para-atuacao-conjunta-na-publicidade-digital",
+          "data": "21/07/2026",
+          "resumo": "Instrumento prevê canal para análise de anúncios, monitoramento conjunto de publicidade dirigida a grupos vulneráveis e capacitação de Procons"
+        },
+        {
+          "titulo": "Força Nacional orienta população sobre prevenção de incêndios florestais na estiagem",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-orienta-populacao-sobre-prevencao-de-incendios-florestais-na-estiagem",
+          "data": "21/07/2026",
+          "resumo": "Com a chegada do período seco, medidas preventivas ajudam a proteger vidas, propriedades e o meio ambiente"
+        },
+        {
+          "titulo": "Senad disponibiliza cursos on-line para profissionais e sociedade civil",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-disponibiliza-cursos-on-line-para-profissionais-e-sociedade-civil",
+          "data": "20/07/2026",
+          "resumo": "Capacitações abordam políticas sobre drogas, acesso a direitos e população em situação de rua"
+        },
+        {
+          "titulo": "Senacon determina que Viagogo informe ao consumidor que não é canal oficial de venda",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-determina-que-viagogo-informe-ao-consumidor-que-nao-e-canal-oficial-de-venda",
+          "data": "20/07/2026",
+          "resumo": "Medida cautelar faz parte de processo administrativo sobre possíveis infrações no setor de revendas digitais de ingressos"
+        },
+        {
+          "titulo": "Curso de Atendimento à Pessoa Idosa reúne profissionais da segurança pública de todo o País",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-de-atendimento-a-pessoa-idosa-reune-profissionais-da-seguranca-publica-de-todo-o-pais",
+          "data": "20/07/2026",
+          "resumo": "Iniciativa segue até sexta-feira (24) e busca atualizar a atuação na proteção e na garantia dos direitos da população idosa"
+        },
+        {
+          "titulo": "Operação Cartão Vermelho contra a pirataria na Copa do Mundo 2026 é realizada em nove países",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-cartao-vermelho-contra-a-pirataria-na-copa-do-mundo-2026-e-realizada-em-nove-paises",
+          "data": "20/07/2026",
+          "resumo": "No Brasil, atuação com foco no ambiente digital bloqueou 309 domínios de transmissão ilegal dos jogos"
+        },
+        {
+          "titulo": "Treinamento orienta agentes de segurança pública sobre atendimento à população LGBTI+",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/treinamento-orienta-agentes-de-seguranca-publica-sobre-atendimento-a-populacao-lgbti",
+          "data": "20/07/2026",
+          "resumo": "Capacitação abordou procedimentos voltados ao acolhimento, ao registro de ocorrências e à proteção de direitos"
+        },
+        {
+          "titulo": "População migrante e refugiada contribui para as sociedades que a acolhem, apontam estudos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/populacao-migrante-e-refugiada-contribui-para-as-sociedades-que-a-acolhem-apontam-estudos",
+          "data": "17/07/2026",
+          "resumo": "Atuação do MJSP abrange a análise de pedidos de refúgio, a regularização documental, a acolhida e a integração socioeconômica"
+        },
+        {
+          "titulo": "Inscrições abertas para pós-graduação em direitos digitais e segurança cibernética",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-pos-graduacao-em-direitos-digitais-e-seguranca-cibernetica",
+          "data": "17/07/2026",
+          "resumo": "Curso na modalidade de ensino a distância (EaD) disponibiliza 232 vagas para profissionais de segurança pública, com inscrições até 3 de agosto"
+        }
+      ],
       "agenda": {
         "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
         "link_agenda_completa": "https://eagendas.cgu.gov.br/"
@@ -11,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Saiba como utilizar o aplicativo MEC Idiomas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/saiba-como-utilizar-o-aplicativo-mec-idiomas",
+          "data": "22/07/2026",
+          "resumo": "Estudantes e população em geral podem iniciar ou complementar seu aprendizado de línguas estrangeiras com cursos gratuitos de inglês e espanhol no aplicativo. Acesso é feito pelo cadastro do Gov.br"
+        },
+        {
+          "titulo": "Consulta sobre educação bilíngue de surdos acaba sábado (25)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/consulta-sobre-educacao-bilingue-de-surdos-acaba-sabado-25",
+          "data": "21/07/2026",
+          "resumo": "Professores, profissionais da educação, gestores educacionais e sociedade civil podem colaborar com a iniciativa. Para participar, interessados devem acessar a plataforma Brasil Participativo"
+        },
+        {
+          "titulo": "MEC Livros: conheça os dez títulos líderes de acessos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-conheca-os-dez-titulos-lideres-de-acessos",
+          "data": "21/07/2026",
+          "resumo": "Plataforma do Ministério da Educação reúne obras em domínio público e títulos contemporâneos para empréstimo digital. O acesso é gratuito, mediante login com a conta Gov.br"
+        },
+        {
+          "titulo": "Norma atualiza licenciamento de creches e pré-escolas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/norma-atualiza-licenciamento-de-creches-e-pre-escolas",
+          "data": "20/07/2026",
+          "resumo": "Atualização revisa critérios para o licenciamento sanitário de creches e pré-escolas, amplia a flexibilidade dos projetos de infraestrutura e dialoga com as ações de assistência técnica e financeira do FNDE"
+        },
+        {
+          "titulo": "Pagamentos do programa Pé-de-Meia retornam em agosto",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pagamentos-do-programa-pe-de-meia-retornam-em-agosto",
+          "data": "20/07/2026",
+          "resumo": "Próximas parcelas serão repassadas entre 24 e 31 de agosto, de acordo com o mês de nascimento dos beneficiários. Calendário completo de pagamentos está disponível na página do programa e no aplicativo Caixa Tem"
+        },
+        {
+          "titulo": "Últimos dias para inscrição de cuidotecas em federais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/ultimos-dias-para-inscricao-de-cuidotecas-em-federais",
+          "data": "20/07/2026",
+          "resumo": "Universidades federais têm até 1º de agosto para enviar candidaturas. Ação destina recursos para espaços de cuidado infantil a filhos de estudantes, docentes, técnicos administrativos e trabalhadores noturnos"
+        },
+        {
+          "titulo": "Inscrições do Fies são ampliadas até domingo (19)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricoes-do-fies-sao-ampliadas-ate-domingo-19",
+          "data": "17/07/2026",
+          "resumo": "Prorrogação permite que mais estudantes tenham acesso às 75,5 mil vagas disponíveis para ingresso no segundo semestre. Participação é gratuita e ocorre exclusivamente pelo Portal Acesso Único ao Ensino Superior"
+        },
+        {
+          "titulo": "Levantamento da educação infantil termina neste domingo (19/7)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/levantamento-da-educacao-infantil-termina-neste-domingo-19-7",
+          "data": "17/07/2026",
+          "resumo": "Questionário nacional mapeia a demanda por vagas em creches e pré-escolas em todo o país. Gestores municipais e do Distrito Federal devem enviar as informações no Simec até 19 de julho"
+        },
+        {
+          "titulo": "Universidades federais oferecem serviços gratuitos à população",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/universidades-federais-oferecem-servicos-gratuitos-a-populacao",
+          "data": "17/07/2026",
+          "resumo": "Universidades públicas federais oferecem extensão à comunidade em áreas como saúde, pelas clínicas-escola, e direito, por meio dos núcleos de prática jurídica. Saiba como buscar as opções em seu estado"
+        },
+        {
+          "titulo": "Redes de ensino podem acessar materiais de educação fiscal",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/redes-de-ensino-podem-acessar-materiais-de-educacao-fiscal",
+          "data": "17/07/2026",
+          "resumo": "Secretarias estaduais e municipais podem acessar, no portal do FNDE, materiais do projeto Educação Fiscal, Cidadania e Controle Social nas Escolas para uso em disciplinas, projetos pedagógicos e educação integral"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
