@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Monitor Ministerial</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:      #FAF8F3;
+    --paper-dim:  #F1EEE5;
+    --ink:        #1B1F2A;
+    --ink-soft:   #52586A;
+    --rule:       #C9C2B3;
+    --wire-blue:  #2C4A6B;
+    --wire-red:   #8B2635;
+  }
+
+  *{ box-sizing: border-box; }
+
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter', sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ---------- masthead ---------- */
+  header.masthead{
+    max-width:1160px;
+    margin:0 auto;
+    padding:40px 24px 20px;
+    border-bottom:3px double var(--ink);
+  }
+  .masthead-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  h1{
+    font-family:'Source Serif 4', serif;
+    font-weight:700;
+    font-size:clamp(32px, 5vw, 52px);
+    letter-spacing:-0.01em;
+    margin:0;
+  }
+  .masthead-meta{
+    font-family:'JetBrains Mono', monospace;
+    font-size:12px;
+    color:var(--ink-soft);
+    text-transform:uppercase;
+    letter-spacing:.06em;
+  }
+  .masthead-sub{
+    font-family:'Source Serif 4', serif;
+    font-style:italic;
+    color:var(--ink-soft);
+    font-size:15px;
+    margin-top:6px;
+  }
+
+  /* ---------- board ---------- */
+  main{
+    max-width:1160px;
+    margin:0 auto;
+    padding:0 24px 80px;
+  }
+  .board{
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+    gap:0;
+    margin-top:24px;
+  }
+  .column{
+    border-right:1px solid var(--rule);
+    padding:0 24px;
+  }
+  .column:last-child{ border-right:none; }
+  .column:first-child{ padding-left:0; }
+
+  .dispatch-code{
+    display:inline-block;
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    letter-spacing:.08em;
+    color:var(--paper);
+    background:var(--wire-blue);
+    padding:3px 8px;
+    margin-bottom:10px;
+  }
+  .column h2{
+    font-family:'Source Serif 4', serif;
+    font-size:21px;
+    line-height:1.25;
+    margin:0 0 16px;
+    padding-bottom:14px;
+    border-bottom:1px solid var(--ink);
+  }
+
+  .agenda-box{
+    background:var(--paper-dim);
+    border-left:3px solid var(--wire-red);
+    padding:12px 14px;
+    margin-bottom:22px;
+    font-size:13.5px;
+    line-height:1.5;
+    color:var(--ink-soft);
+  }
+  .agenda-box .label{
+    display:block;
+    font-family:'JetBrains Mono', monospace;
+    font-size:10.5px;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    color:var(--wire-red);
+    margin-bottom:6px;
+  }
+  .agenda-box a{
+    color:var(--wire-blue);
+    font-size:12px;
+  }
+
+  .noticia{
+    padding:14px 0;
+    border-bottom:1px solid var(--rule);
+  }
+  .noticia:last-child{ border-bottom:none; }
+  .noticia time{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+    letter-spacing:.03em;
+  }
+  .noticia h3{
+    font-family:'Source Serif 4', serif;
+    font-weight:600;
+    font-size:16px;
+    line-height:1.35;
+    margin:4px 0 6px;
+  }
+  .noticia h3 a{
+    color:var(--ink);
+    text-decoration:none;
+  }
+  .noticia h3 a:hover{ text-decoration:underline; }
+  .noticia p{
+    font-size:13px;
+    line-height:1.5;
+    color:var(--ink-soft);
+    margin:0;
+  }
+
+  .empty-state{
+    font-family:'Source Serif 4', serif;
+    font-style:italic;
+    color:var(--ink-soft);
+    padding:60px 0;
+    text-align:center;
+    font-size:17px;
+  }
+
+  a:focus-visible, button:focus-visible{
+    outline:2px solid var(--wire-blue);
+    outline-offset:2px;
+  }
+
+  @media (max-width:640px){
+    .column{
+      border-right:none;
+      border-bottom:1px solid var(--rule);
+      padding:24px 0;
+    }
+    .column:first-child{ padding-top:0; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-top">
+    <h1>Monitor Ministerial</h1>
+    <span class="masthead-meta" id="atualizado-em">carregando…</span>
+  </div>
+  <p class="masthead-sub">Notícias e agenda pública dos ministérios acompanhados, atualizadas automaticamente.</p>
+</header>
+
+<main>
+  <div class="board" id="board">
+    <p class="empty-state">Carregando dados…</p>
+  </div>
+</main>
+
+<script>
+async function carregar() {
+  const board = document.getElementById('board');
+  const meta = document.getElementById('atualizado-em');
+
+  try {
+    const resp = await fetch('data/ministerios.json', { cache: 'no-store' });
+    const dados = await resp.json();
+
+    if (dados.atualizado_em) {
+      const dt = new Date(dados.atualizado_em);
+      meta.textContent = 'Atualizado em ' + dt.toLocaleString('pt-BR', {
+        day: '2-digit', month: '2-digit', year: 'numeric',
+        hour: '2-digit', minute: '2-digit'
+      });
+    } else {
+      meta.textContent = 'Aguardando primeira execução do robô';
+    }
+
+    const siglas = Object.keys(dados.ministerios || {});
+    if (siglas.length === 0) {
+      board.innerHTML = '<p class="empty-state">Nenhum dado ainda. O robô roda automaticamente ' +
+        'todos os dias — depois da primeira execução, as notícias e a agenda aparecem aqui.</p>';
+      return;
+    }
+
+    board.innerHTML = siglas.map(sigla => {
+      const m = dados.ministerios[sigla];
+      const agenda = m.agenda || {};
+
+      const agendaHtml = agenda.resumo
+        ? `<div class="agenda-box">
+             <span class="label">Agenda do ministro</span>
+             ${escapeHtml(agenda.resumo)}
+             ${agenda.link_agenda_completa ? `<br><a href="${agenda.link_agenda_completa}" target="_blank" rel="noopener">Ver agenda completa (e-Agendas) →</a>` : ''}
+           </div>`
+        : '';
+
+      const noticiasHtml = (m.noticias || []).map(n => `
+        <article class="noticia">
+          <time>${escapeHtml(n.data || '')}</time>
+          <h3><a href="${n.link}" target="_blank" rel="noopener">${escapeHtml(n.titulo)}</a></h3>
+          ${n.resumo ? `<p>${escapeHtml(n.resumo)}</p>` : ''}
+        </article>
+      `).join('') || '<p class="empty-state" style="padding:20px 0;">Sem notícias no momento.</p>';
+
+      return `
+        <section class="column">
+          <span class="dispatch-code">${sigla.toUpperCase()}</span>
+          <h2>${escapeHtml(m.nome)}</h2>
+          ${agendaHtml}
+          ${noticiasHtml}
+        </section>
+      `;
+    }).join('');
+
+  } catch (erro) {
+    board.innerHTML = '<p class="empty-state">Não foi possível carregar os dados agora.</p>';
+    meta.textContent = '';
+    console.error(erro);
+  }
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str || '';
+  return div.innerHTML;
+}
+
+carregar();
+</script>
+
+</body>
+</html>
