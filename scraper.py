@@ -26,6 +26,7 @@ IMPORTANTE — leia antes de usar:
 """
 
 import json
+import os
 import time
 from datetime import datetime, timezone
 
@@ -100,11 +101,19 @@ def extrair_noticias(soup, base_url):
     candidatos = (
         soup.select("article.tileItem")
         or soup.select("div.tileItem")
+        or soup.select("li.tileItem")
         or soup.select("article")
+        or soup.select("h2 a, h3 a")  # último recurso: qualquer título linkado
     )
+    print(f"  (diagnóstico: {len(candidatos)} candidato(s) bruto(s) encontrados na página)")
 
     for item in candidatos[:MAX_NOTICIAS_POR_MINISTERIO]:
-        link_tag = item.select_one("h2 a, h3 a, a.summary")
+        # 'item' pode ser o container da notícia (article/div/li) OU,
+        # no último fallback, já ser o próprio link do título.
+        if item.name == "a":
+            link_tag = item
+        else:
+            link_tag = item.select_one("h2 a, h3 a, a.summary")
         if not link_tag:
             continue
 
@@ -186,6 +195,7 @@ def main():
 
         time.sleep(1)
 
+    os.makedirs("data", exist_ok=True)  # cria a pasta se ela não existir no repositório
     with open("data/ministerios.json", "w", encoding="utf-8") as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2)
 
