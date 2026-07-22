@@ -1,0 +1,36 @@
+name: Atualizar dados dos ministérios
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+    - cron: "0 21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o código do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar o scraper
+        run: python scraper.py
+
+      - name: Salvar (commitar) os dados atualizados
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/ministerios.json
+          git diff --quiet --cached || git commit -m "Atualização automática dos dados"
+          git push
