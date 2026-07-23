@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-22T22:06:19.762539+00:00",
+  "atualizado_em": "2026-07-23T12:16:27.165549+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Indicação de bolsas acadêmicas aos indígenas vai até 31 de julho",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/indicacao-de-bolsas-academicas-aos-indigenas-vai-ate-31-de-julho",
+          "data": "22/07/2026",
+          "resumo": "Instituições de ensino superior devem informar as vagas que pretendem ofertar no Programa de Desenvolvimento Acadêmico Indígena (PDAI), que prevê até 300 bolsas de mestrado e doutorado para estudantes indígenas"
+        },
+        {
+          "titulo": "Prorrogado o prazo para preencher Retrato da Educação Infantil",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/prorrogado-o-prazo-para-preencher-retrato-da-educacao-infantil",
+          "data": "22/07/2026",
+          "resumo": "Gestores de municípios e do Distrito Federal podem responder ao questionário até 27 de julho. Levantamento nacional mapeia a gestão da demanda por vagas em creches e pré-escolas em todo o país. Cerca de 90% dos municípios já participaram."
+        },
+        {
+          "titulo": "Último dia para preencher o Diagnóstico Equidade",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/ultimo-dia-para-preencher-o-diagnosticoequidade",
+          "data": "22/07/2026",
+          "resumo": "Redes de ensino têm até esta quarta-feira (22) para preencher os questionários. O mapeamento busca subsidiar políticas públicas voltadas à superação das desigualdades étnico-raciais e do racismo nas escolas"
+        },
+        {
+          "titulo": "Aberta consulta sobre formação continuada de professores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/aberta-consulta-sobre-formacao-continuada-de-professores",
+          "data": "22/07/2026",
+          "resumo": "Interessados têm até 21 de agosto para participar da iniciativa por meio de formulário online disponível na plataforma Brasil Participativo. Resultados embasarão Diretrizes Nacionais para Formação Continuada"
+        },
+        {
+          "titulo": "Publicados parâmetros de qualidade e equidade da educação integral",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/publicados-parametros-de-qualidade-e-equidade-da-educacao-integral",
+          "data": "22/07/2026",
+          "resumo": "Resolução do CNE reúne referências nacionais para orientar a implementação, a expansão e o aprimoramento da Política de Educação Integral em Tempo Integral"
+        },
+        {
+          "titulo": "MEC Livros terá totens de acesso durante a Flip 2026",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-tera-totens-de-acesso-durante-a-flip-2026",
+          "data": "22/07/2026",
+          "resumo": "Durante a 24ª Festa Literária Internacional de Paraty, o público poderá acessar, gratuitamente, os mais de 25 mil títulos disponíveis para leitura no MEC Livros, por meio de cinco displays de acesso online instalados no evento"
+        },
+        {
+          "titulo": "Prouni: prazo para confirmar informações acaba sexta (24)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/prouni-prazo-para-confirmar-informacoes-acaba-sexta-24",
+          "data": "22/07/2026",
+          "resumo": "Documentação exigida deve ser apresentada diretamente na instituição em que o aluno foi pré-selecionado. É responsabilidade do candidato verificar com a universidade os horários e locais para realizar este processo"
+        },
+        {
+          "titulo": "Saiba como utilizar o aplicativo MEC Idiomas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/saiba-como-utilizar-o-aplicativo-mec-idiomas",
+          "data": "22/07/2026",
+          "resumo": "Estudantes e população em geral podem iniciar ou complementar seu aprendizado de línguas estrangeiras com cursos gratuitos de inglês e espanhol no aplicativo. Acesso é feito pelo cadastro do Gov.br"
+        },
+        {
+          "titulo": "Consulta sobre educação bilíngue de surdos acaba sábado (25)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/consulta-sobre-educacao-bilingue-de-surdos-acaba-sabado-25",
+          "data": "21/07/2026",
+          "resumo": "Professores, profissionais da educação, gestores educacionais e sociedade civil podem colaborar com a iniciativa. Para participar, interessados devem acessar a plataforma Brasil Participativo"
+        },
+        {
+          "titulo": "MEC Livros: conheça os dez títulos líderes de acessos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-conheca-os-dez-titulos-lideres-de-acessos",
+          "data": "21/07/2026",
+          "resumo": "Plataforma do Ministério da Educação reúne obras em domínio público e títulos contemporâneos para empréstimo digital. O acesso é gratuito, mediante login com a conta Gov.br"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "19 Dom 20 Seg 21 Ter 22 Qua 23 Qui 24 Sex 25 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "20 Seg 21 Ter 22 Qua 23 Qui 24 Sex 25 Sáb 26 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
