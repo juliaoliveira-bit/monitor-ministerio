@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-07-24T12:09:36.890613+00:00",
+  "atualizado_em": "2026-07-24T22:07:19.288279+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação Dark Wallet desmonta esquema de fraudes eletrônicas com movimentação superior a R$ 188 milhões",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-dark-wallet-desmonta-esquema-de-fraudes-eletronicas-com-movimentacao-superior-a-r-188-milhoes",
+          "data": "24/07/2026",
+          "resumo": "Investigações começaram após uma vítima relatar prejuízo acima de R$ 640 mil ao investir em uma suposta plataforma internacional"
+        },
+        {
+          "titulo": "Operação Data Venia desarticula grupo investigado por golpe do falso advogado com prejuízo superior a R$ 1 milhão no Pará",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-data-venia-desarticula-grupo-investigado-por-golpe-do-falso-advogado-com-prejuizo-superior-a-r-1-milhao-no-para",
+          "data": "24/07/2026",
+          "resumo": "MJSP presta apoio à ação deflagrada pela Polícia Civil paraense em cidades do Ceará"
+        },
+        {
+          "titulo": "Programa nacional possibilitará integração entre bases de dados da Segurança Pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/programa-nacional-possibilitara-integracao-entre-bases-de-dados-da-seguranca-publica",
+          "data": "24/07/2026",
+          "resumo": "Portaria institui o Infoseg e estabelece diretrizes para integração e compartilhamento de dados e informações da Segurança Pública"
+        },
         {
           "titulo": "Encontro internacional debate biometria, fiscalização e cooperação em proteção de dados pessoais",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-internacional-debate-biometria-fiscalizacao-e-cooperacao-em-protecao-de-dados-pessoais",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-processos-para-apurar-possivel-descumprimento-de-regras-de-concessao-de-credito-pela-crefisa-agil-e-valor",
           "data": "23/07/2026",
           "resumo": "As decisões publicadas no DOU apontam indícios de descumprimento das normas de concessão responsável de crédito e de prevenção ao superendividamento previstas no Código de Defesa do Consumidor"
-        },
-        {
-          "titulo": "DF concentra quase metade dos Alertas Amber emitidos no País desde 2023",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/df-concentra-quase-metade-dos-alertas-amber-emitidos-no-pais-desde-2023",
-          "data": "22/07/2026",
-          "resumo": "Ferramenta divulga cartazes nas primeiras 24 horas para apoiar as buscas por crianças e adolescentes desaparecidos"
-        },
-        {
-          "titulo": "Entram em vigor diretrizes de proteção às mulheres na internet e de enfrentamento da violência em ambiente digital",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/entram-em-vigor-diretrizes-de-protecao-as-mulheres-na-internet-e-de-enfrentamento-da-violencia-em-ambiente-digital",
-          "data": "22/07/2026",
-          "resumo": "Decreto nº 12.976/2026 estabelece deveres para provedores de aplicações de internet, entre eles a retirada, em até duas horas, de conteúdo íntimo divulgado sem autorização"
-        },
-        {
-          "titulo": "Operação Metástase combate esquema de roubo de medicamentos para tratamento de câncer que movimentou R$ 33 milhões",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-metastase-combate-esquema-de-roubo-de-medicamentos-para-tratamento-de-cancer-que-movimentou-r-33-milhoes",
-          "data": "22/07/2026",
-          "resumo": "Foram cumpridos mandados judiciais no Rio de Janeiro, São Paulo, Goiás e Pará"
         }
       ],
       "agenda": {
@@ -73,6 +73,48 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "MEC Normas reúne normativos e atos da educação brasileira",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-normas-reune-normativos-e-atos-da-educacao-brasileira",
+          "data": "24/07/2026",
+          "resumo": "Sistema reúne leis, decretos, resoluções, portarias e outros atos do MEC e de entidades vinculadas, com atualização diária e ferramentas de busca que facilitam a consulta gratuita à legislação da educação brasileira"
+        },
+        {
+          "titulo": "Inscrições para formação do tempo integral encerram hoje (24)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricoes-para-formacao-do-tempo-integral-encerram-hoje-24",
+          "data": "24/07/2026",
+          "resumo": "Gestores escolares, coordenadores pedagógicos e profissionais das redes de ensino têm até esta sexta-feira (24) para garantir participação na formação voltada à atualização dos Projetos Político-Pedagógicos"
+        },
+        {
+          "titulo": "MEC Livros: como a tecnologia pode aproximar novos leitores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-como-a-tecnologia-pode-aproximar-novos-leitores",
+          "data": "24/07/2026",
+          "resumo": "Durante a Festa Literária Internacional de Paraty (Flip), que ocorre de 22 a 26 de julho, escritores e especialistas refletem sobre o papel da tecnologia na formação de leitores e destacam iniciativas como o MEC Livros"
+        },
+        {
+          "titulo": "Prouni: prazo para comprovar informações da inscrição acaba hoje (24)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/prouni-prazo-para-comprovar-informacoes-da-inscricao-acaba-hoje-24",
+          "data": "24/07/2026",
+          "resumo": "Pré-selecionados na 1ª chamada do Prouni do 2º semestre de 2026 devem consultar a instituição de ensino para verificar horários e locais de comprovação das informações da inscrição. Instituições podem disponibilizar o procedimento por meio de serviços eletrônicos"
+        },
+        {
+          "titulo": "MEC Enem: estudantes podem fazer simulados e exercícios",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-enem-estudantes-podem-fazer-simulados-e-exercicios",
+          "data": "24/07/2026",
+          "resumo": "Participantes do Exame Nacional do Ensino Médio (Enem) podem acessar simulados, exercícios e conteúdos de estudo pelo aplicativo. O acesso é gratuito e realizado com login do Gov.br"
+        },
+        {
+          "titulo": "MEC Livros: entenda como acessar o aplicativo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-entenda-como-acessar-o-aplicativo",
+          "data": "24/07/2026",
+          "resumo": "Plataforma disponibiliza mais de 25 mil obras literárias licenciadas e em domínio público para toda a população. Acervo é voltado para estudantes, professores, pesquisadores e leitores em geral"
+        },
+        {
+          "titulo": "Pé-de-Meia: CadÚnico atualizado permite acesso ao programa",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pe-de-meia-cadunico-atualizado-permite-acesso-ao-programa",
+          "data": "24/07/2026",
+          "resumo": "As informações do Cadastro Único são utilizadas pelo MEC para verificar a elegibilidade dos estudantes. A família deve estar inscrita no CadÚnico até 7 de agosto com renda por pessoa de até meio salário mínimo"
+        },
         {
           "titulo": "Obmep: medalhistas de ouro podem concorrer a intercâmbio na China",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/obmep-medalhistas-de-ouro-podem-concorrer-a-intercambio-na-china",
@@ -90,48 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/portaria-estabelece-criterios-para-composicao-do-acervo-do-mec-livros",
           "data": "23/07/2026",
           "resumo": "O documento busca assegurar que as obras disponíveis tenham qualidade literária e editorial e que estejam de acordo com os ideais de diversidade cultural, geográfica e linguística, democratizando o acesso à leitura"
-        },
-        {
-          "titulo": "Prorrogado prazo para submissão em edital de projetos de extensão",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/prorrogado-prazo-para-submissao-em-edital-de-projetos-de-extensao",
-          "data": "23/07/2026",
-          "resumo": "Instituições da Rede Federal de Educação Profissional, Científica e Tecnológica podem submeter, até 18 de setembro, propostas voltadas ao acesso, à permanência e ao êxito de estudantes. Projetos serão avaliados por comissão técnica"
-        },
-        {
-          "titulo": "Prazo para declaração do Censo Escolar encerra em 31 de julho",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/prazo-para-declaracao-do-censo-escolar-encerra-em-31-de-julho",
-          "data": "23/07/2026",
-          "resumo": "Gestores devem informar os dados dos estudantes da rede pública da educação especial no Censo Escolar. As informações são utilizadas no planejamento das políticas públicas e repasse de recursos para as redes"
-        },
-        {
-          "titulo": "Indicação de bolsas acadêmicas aos indígenas vai até 31 de julho",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/indicacao-de-bolsas-academicas-aos-indigenas-vai-ate-31-de-julho",
-          "data": "22/07/2026",
-          "resumo": "Instituições de ensino superior devem informar as vagas que pretendem ofertar no Programa de Desenvolvimento Acadêmico Indígena (PDAI), que prevê até 300 bolsas de mestrado e doutorado para estudantes indígenas"
-        },
-        {
-          "titulo": "Prorrogado o prazo para preencher Retrato da Educação Infantil",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/prorrogado-o-prazo-para-preencher-retrato-da-educacao-infantil",
-          "data": "22/07/2026",
-          "resumo": "Gestores de municípios e do Distrito Federal podem responder ao questionário até 27 de julho. Levantamento nacional mapeia a gestão da demanda por vagas em creches e pré-escolas em todo o país. Cerca de 90% dos municípios já participaram."
-        },
-        {
-          "titulo": "Último dia para preencher o Diagnóstico Equidade",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/ultimo-dia-para-preencher-o-diagnosticoequidade",
-          "data": "22/07/2026",
-          "resumo": "Redes de ensino têm até esta quarta-feira (22) para preencher os questionários. O mapeamento busca subsidiar políticas públicas voltadas à superação das desigualdades étnico-raciais e do racismo nas escolas"
-        },
-        {
-          "titulo": "Aberta consulta sobre formação continuada de professores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/aberta-consulta-sobre-formacao-continuada-de-professores",
-          "data": "22/07/2026",
-          "resumo": "Interessados têm até 21 de agosto para participar da iniciativa por meio de formulário online disponível na plataforma Brasil Participativo. Resultados embasarão Diretrizes Nacionais para Formação Continuada"
-        },
-        {
-          "titulo": "Publicados parâmetros de qualidade e equidade da educação integral",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/publicados-parametros-de-qualidade-e-equidade-da-educacao-integral",
-          "data": "22/07/2026",
-          "resumo": "Resolução do CNE reúne referências nacionais para orientar a implementação, a expansão e o aprimoramento da Política de Educação Integral em Tempo Integral"
         }
       ],
       "agenda": {
