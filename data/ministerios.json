@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-24T22:07:19.288279+00:00",
+  "atualizado_em": "2026-07-25T11:54:20.005634+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -74,6 +74,18 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "Como escolas e famílias formam novos leitores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-escolas-e-familias-formam-novos-leitores",
+          "data": "24/07/2026",
+          "resumo": "A 24ª Festa Literária Internacional de Paraty (Flip) destaca o papel da escola e das famílias na formação de leitores. Até 31/7, municípios, estados e DF podem aderir à Comunidade Nacional da Primeira Infância"
+        },
+        {
+          "titulo": "Dia do Escritor: a escola na formação de leitores e escritores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/dia-do-escritor-a-escola-na-formacao-de-leitores-e-escritores",
+          "data": "24/07/2026",
+          "resumo": "Reflexões da 24ª Festa Literária Internacional de Paraty marcam o Dia do Escritor, celebrado em 25 de julho, e reforçam a importância da leitura, da imaginação e da escola na formação de leitores e autores"
+        },
+        {
           "titulo": "MEC Normas reúne normativos e atos da educação brasileira",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-normas-reune-normativos-e-atos-da-educacao-brasileira",
           "data": "24/07/2026",
@@ -120,18 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/obmep-medalhistas-de-ouro-podem-concorrer-a-intercambio-na-china",
           "data": "23/07/2026",
           "resumo": "Inscrições devem ser realizadas até 31 de julho, por meio de formulário online, seguindo critérios estabelecidos no edital de seleção. Ao Todo, MEC e Impa disponibilizam 26 vagas para participar das atividades na China"
-        },
-        {
-          "titulo": "Na Ponta do Lápis recebe planos de ação até 31 de julho",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/na-ponta-do-lapis-recebe-planos-de-acao-ate-31-de-julho",
-          "data": "23/07/2026",
-          "resumo": "Redes estaduais e municipais participantes devem apresentar Planos de Ação para 2026. A iniciativa promove o letramento financeiro dos estudantes e disponibiliza cursos gratuitos para professores e gestores"
-        },
-        {
-          "titulo": "Portaria estabelece critérios para composição do acervo do MEC Livros",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/portaria-estabelece-criterios-para-composicao-do-acervo-do-mec-livros",
-          "data": "23/07/2026",
-          "resumo": "O documento busca assegurar que as obras disponíveis tenham qualidade literária e editorial e que estejam de acordo com os ideais de diversidade cultural, geográfica e linguística, democratizando o acesso à leitura"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "21 Ter 22 Qua 23 Qui 24 Sex 25 Sáb 26 Dom 27 Seg Atualmente não existem compromissos agendados.",
+        "resumo": "22 Qua 23 Qui 24 Sex 25 Sáb 26 Dom 27 Seg 28 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
