@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-25T21:58:52.667443+00:00",
+  "atualizado_em": "2026-07-26T11:51:26.949760+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Como escolas e famílias formam novos leitores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-escolas-e-familias-formam-novos-leitores",
+          "data": "24/07/2026",
+          "resumo": "A 24ª Festa Literária Internacional de Paraty (Flip) destaca o papel da escola e das famílias na formação de leitores. Até 31/7, municípios, estados e DF podem aderir à Comunidade Nacional da Primeira Infância"
+        },
+        {
+          "titulo": "Dia do Escritor: a escola na formação de leitores e escritores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/dia-do-escritor-a-escola-na-formacao-de-leitores-e-escritores",
+          "data": "24/07/2026",
+          "resumo": "Reflexões da 24ª Festa Literária Internacional de Paraty marcam o Dia do Escritor, celebrado em 25 de julho, e reforçam a importância da leitura, da imaginação e da escola na formação de leitores e autores"
+        },
+        {
+          "titulo": "MEC Normas reúne normativos e atos da educação brasileira",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-normas-reune-normativos-e-atos-da-educacao-brasileira",
+          "data": "24/07/2026",
+          "resumo": "Sistema reúne leis, decretos, resoluções, portarias e outros atos do MEC e de entidades vinculadas, com atualização diária e ferramentas de busca que facilitam a consulta gratuita à legislação da educação brasileira"
+        },
+        {
+          "titulo": "Inscrições para formação do tempo integral encerram hoje (24)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricoes-para-formacao-do-tempo-integral-encerram-hoje-24",
+          "data": "24/07/2026",
+          "resumo": "Gestores escolares, coordenadores pedagógicos e profissionais das redes de ensino têm até esta sexta-feira (24) para garantir participação na formação voltada à atualização dos Projetos Político-Pedagógicos"
+        },
+        {
+          "titulo": "MEC Livros: como a tecnologia pode aproximar novos leitores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-como-a-tecnologia-pode-aproximar-novos-leitores",
+          "data": "24/07/2026",
+          "resumo": "Durante a Festa Literária Internacional de Paraty (Flip), que ocorre de 22 a 26 de julho, escritores e especialistas refletem sobre o papel da tecnologia na formação de leitores e destacam iniciativas como o MEC Livros"
+        },
+        {
+          "titulo": "Prouni: prazo para comprovar informações da inscrição acaba hoje (24)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/prouni-prazo-para-comprovar-informacoes-da-inscricao-acaba-hoje-24",
+          "data": "24/07/2026",
+          "resumo": "Pré-selecionados na 1ª chamada do Prouni do 2º semestre de 2026 devem consultar a instituição de ensino para verificar horários e locais de comprovação das informações da inscrição. Instituições podem disponibilizar o procedimento por meio de serviços eletrônicos"
+        },
+        {
+          "titulo": "MEC Enem: estudantes podem fazer simulados e exercícios",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-enem-estudantes-podem-fazer-simulados-e-exercicios",
+          "data": "24/07/2026",
+          "resumo": "Participantes do Exame Nacional do Ensino Médio (Enem) podem acessar simulados, exercícios e conteúdos de estudo pelo aplicativo. O acesso é gratuito e realizado com login do Gov.br"
+        },
+        {
+          "titulo": "MEC Livros: entenda como acessar o aplicativo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-entenda-como-acessar-o-aplicativo",
+          "data": "24/07/2026",
+          "resumo": "Plataforma disponibiliza mais de 25 mil obras literárias licenciadas e em domínio público para toda a população. Acervo é voltado para estudantes, professores, pesquisadores e leitores em geral"
+        },
+        {
+          "titulo": "Pé-de-Meia: CadÚnico atualizado permite acesso ao programa",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pe-de-meia-cadunico-atualizado-permite-acesso-ao-programa",
+          "data": "24/07/2026",
+          "resumo": "As informações do Cadastro Único são utilizadas pelo MEC para verificar a elegibilidade dos estudantes. A família deve estar inscrita no CadÚnico até 7 de agosto com renda por pessoa de até meio salário mínimo"
+        },
+        {
+          "titulo": "Obmep: medalhistas de ouro podem concorrer a intercâmbio na China",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/obmep-medalhistas-de-ouro-podem-concorrer-a-intercambio-na-china",
+          "data": "23/07/2026",
+          "resumo": "Inscrições devem ser realizadas até 31 de julho, por meio de formulário online, seguindo critérios estabelecidos no edital de seleção. Ao Todo, MEC e Impa disponibilizam 26 vagas para participar das atividades na China"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "22 Qua 23 Qui 24 Sex 25 Sáb 26 Dom 27 Seg 28 Ter Atualmente não existem compromissos agendados.",
+        "resumo": "23 Qui 24 Sex 25 Sáb 26 Dom 27 Seg 28 Ter 29 Qua Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
