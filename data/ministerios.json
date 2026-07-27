@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-07-27T13:31:11.587524+00:00",
+  "atualizado_em": "2026-07-27T22:10:41.182306+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Acordo formaliza integração da PGE/SP à Rede-Lab",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acordo-formaliza-integracao-da-pge-sp-a-rede-lab",
+          "data": "27/07/2026",
+          "resumo": "Cooperação técnica prevê ações conjuntas para o desenvolvimento de estratégias de recuperação de ativos"
+        },
         {
           "titulo": "Mais de R$ 750 mil são apreendidos durante ação integrada em Foz do Iguaçu",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-r-750-mil-sao-apreendidos-durante-acao-integrada-em-foz-do-iguacu",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-disponibiliza-curso-de-metodologia-da-pesquisa-cientifica",
           "data": "23/07/2026",
           "resumo": "Formação é voltada a profissionais do Sistema Único de Segurança Pública e aborda métodos e técnicas de investigação acadêmica"
-        },
-        {
-          "titulo": "Pronatec amplia qualificação profissional para jovens do Pronasci Juventude no Rio de Janeiro e em Salvador",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pronatec-amplia-qualificacao-profissional-para-jovens-do-pronasci-juventude-no-rio-de-janeiro-e-em-salvador",
-          "data": "23/07/2026",
-          "resumo": "Cursos oferecidos nos próprios territórios contribuem para a inclusão socioprodutiva e ampliam oportunidades de formação e trabalho"
         }
       ],
       "agenda": {
@@ -73,6 +73,36 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Clínica veterinária do Ifap oferta atendimento gratuito",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/clinica-veterinaria-do-ifap-oferta-atendimento-gratuito",
+          "data": "27/07/2026",
+          "resumo": "Serviço voltado a animais de estimação e silvestres está disponível no Campus Porto Grande do Instituto Federal do Amapá. Espaço já realizou mais de 300 atendimentos e integra a formação de estudantes"
+        },
+        {
+          "titulo": "Inscrição de Cuidotecas nas federais vai até sábado (1º)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricao-de-cuidotecas-nas-federais-vai-ate-sabado-1o",
+          "data": "27/07/2026",
+          "resumo": "Chamada Estratégica Unicuidotecas selecionará até 50 universidades federais para implantação de espaços gratuitos de acolhimento infantil nos campi. Propostas devem ser enviadas, exclusivamente, por e-mail"
+        },
+        {
+          "titulo": "Último dia para preencher o Retrato da Educação Infantil",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/ultimo-dia-para-preencher-o-retrato-da-educacao-infantil",
+          "data": "27/07/2026",
+          "resumo": "Levantamento realizado pelo MEC visa mapear a gestão da oferta de vagas em creches e pré-escolas do país. Prazo para preenchimento do questionário termina nesta segunda-feira (27), pelo Simec"
+        },
+        {
+          "titulo": "MEC e FNDE finalizam distribuição de livros em braille",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-e-fnde-finalizam-distribuicao-de-livros-em-braille",
+          "data": "27/07/2026",
+          "resumo": "Livros didáticos em formato braille-tinta destinados aos estudantes com deficiência visual dos anos iniciais e finais do ensino fundamental já foram enviados às redes públicas de ensino de todo o país"
+        },
+        {
+          "titulo": "Pnae integra conjunto de ações voltadas à segurança alimentar",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pnae-integra-conjunto-de-acoes-voltadas-a-seguranca-alimentar",
+          "data": "27/07/2026",
+          "resumo": "Relatório da FAO/ONU mantém o Brasil abaixo do índice de 2,5% de subnutrição crônica. No país, o Pnae estabelece diretrizes para a alimentação escolar e prevê a oferta de refeições aos estudantes da educação básica pública"
+        },
         {
           "titulo": "Como escolas e famílias formam novos leitores",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-escolas-e-familias-formam-novos-leitores",
@@ -102,36 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-como-a-tecnologia-pode-aproximar-novos-leitores",
           "data": "24/07/2026",
           "resumo": "Durante a Festa Literária Internacional de Paraty (Flip), que ocorre de 22 a 26 de julho, escritores e especialistas refletem sobre o papel da tecnologia na formação de leitores e destacam iniciativas como o MEC Livros"
-        },
-        {
-          "titulo": "Prouni: prazo para comprovar informações da inscrição acaba hoje (24)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/prouni-prazo-para-comprovar-informacoes-da-inscricao-acaba-hoje-24",
-          "data": "24/07/2026",
-          "resumo": "Pré-selecionados na 1ª chamada do Prouni do 2º semestre de 2026 devem consultar a instituição de ensino para verificar horários e locais de comprovação das informações da inscrição. Instituições podem disponibilizar o procedimento por meio de serviços eletrônicos"
-        },
-        {
-          "titulo": "MEC Enem: estudantes podem fazer simulados e exercícios",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-enem-estudantes-podem-fazer-simulados-e-exercicios",
-          "data": "24/07/2026",
-          "resumo": "Participantes do Exame Nacional do Ensino Médio (Enem) podem acessar simulados, exercícios e conteúdos de estudo pelo aplicativo. O acesso é gratuito e realizado com login do Gov.br"
-        },
-        {
-          "titulo": "MEC Livros: entenda como acessar o aplicativo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-livros-entenda-como-acessar-o-aplicativo",
-          "data": "24/07/2026",
-          "resumo": "Plataforma disponibiliza mais de 25 mil obras literárias licenciadas e em domínio público para toda a população. Acervo é voltado para estudantes, professores, pesquisadores e leitores em geral"
-        },
-        {
-          "titulo": "Pé-de-Meia: CadÚnico atualizado permite acesso ao programa",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pe-de-meia-cadunico-atualizado-permite-acesso-ao-programa",
-          "data": "24/07/2026",
-          "resumo": "As informações do Cadastro Único são utilizadas pelo MEC para verificar a elegibilidade dos estudantes. A família deve estar inscrita no CadÚnico até 7 de agosto com renda por pessoa de até meio salário mínimo"
-        },
-        {
-          "titulo": "Obmep: medalhistas de ouro podem concorrer a intercâmbio na China",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/obmep-medalhistas-de-ouro-podem-concorrer-a-intercambio-na-china",
-          "data": "23/07/2026",
-          "resumo": "Inscrições devem ser realizadas até 31 de julho, por meio de formulário online, seguindo critérios estabelecidos no edital de seleção. Ao Todo, MEC e Impa disponibilizam 26 vagas para participar das atividades na China"
         }
       ],
       "agenda": {
