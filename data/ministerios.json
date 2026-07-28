@@ -1,17 +1,139 @@
 {
-  "atualizado_em": "2026-07-28T12:28:01.090777+00:00",
+  "atualizado_em": "2026-07-28T22:06:20.298998+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Curso de Investigação Qualificada de Organizações Criminosas reúne 40 delegados na região Norte",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-de-investigacao-qualificada-de-organizacoes-criminosas-reune-40-delegados-na-regiao-norte",
+          "data": "28/07/2026",
+          "resumo": "Capacitação da Secretaria Nacional de Segurança Pública (Senasp) ocorre até 7 de agosto, em Macapá (AP)"
+        },
+        {
+          "titulo": "Termo entre Senajus e UnB prevê pesquisa aplicada para análise de dados e recuperação de ativos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/termo-entre-senajus-e-unb-preve-pesquisa-aplicada-para-analise-de-dados-e-recuperacao-de-ativos",
+          "data": "27/07/2026",
+          "resumo": "Plano de trabalho contempla estudos sobre compartilhamento seguro de informações, análise documental com inteligência artificial e automação de processos para recuperação de ativos"
+        },
+        {
+          "titulo": "Acordo formaliza integração da PGE/SP à Rede-Lab",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acordo-formaliza-integracao-da-pge-sp-a-rede-lab",
+          "data": "27/07/2026",
+          "resumo": "Cooperação técnica prevê ações conjuntas para o desenvolvimento de estratégias de recuperação de ativos"
+        },
+        {
+          "titulo": "Mais de R$ 750 mil são apreendidos durante ação integrada em Foz do Iguaçu",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-r-750-mil-sao-apreendidos-durante-acao-integrada-em-foz-do-iguacu",
+          "data": "26/07/2026",
+          "resumo": "Forças policiais receberam informações sobre saque de quantia em dinheiro em agência bancária e realizaram a apreensão"
+        },
+        {
+          "titulo": "Cerca de 40 mil pacotes de cigarros são apreendidos em Mato Grosso do Sul",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cerca-de-40-mil-pacotes-de-cigarros-sao-apreendidos-em-mato-grosso-do-sul",
+          "data": "26/07/2026",
+          "resumo": "Carga irregular é avaliada em aproximadamente R$ 2 milhões"
+        },
+        {
+          "titulo": "Operação apreende mais de 345 kg de cocaína e helicóptero em Mato Grosso do Sul",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-mais-de-345-kg-de-cocaina-e-helicoptero-em-mato-grosso-do-sul",
+          "data": "26/07/2026",
+          "resumo": "Prejuízo estimado às atividades criminosas supera R$ 31 milhões"
+        },
+        {
+          "titulo": "Operação Dark Wallet desmonta esquema de fraudes eletrônicas com movimentação superior a R$ 188 milhões",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-dark-wallet-desmonta-esquema-de-fraudes-eletronicas-com-movimentacao-superior-a-r-188-milhoes",
+          "data": "24/07/2026",
+          "resumo": "Investigações começaram após uma vítima relatar prejuízo acima de R$ 640 mil ao investir em uma suposta plataforma internacional"
+        },
+        {
+          "titulo": "Operação Data Venia desarticula grupo investigado por golpe do falso advogado com prejuízo superior a R$ 1 milhão no Pará",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-data-venia-desarticula-grupo-investigado-por-golpe-do-falso-advogado-com-prejuizo-superior-a-r-1-milhao-no-para",
+          "data": "24/07/2026",
+          "resumo": "MJSP presta apoio à ação deflagrada pela Polícia Civil paraense em cidades do Ceará"
+        },
+        {
+          "titulo": "Programa nacional possibilitará integração entre bases de dados da Segurança Pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/programa-nacional-possibilitara-integracao-entre-bases-de-dados-da-seguranca-publica",
+          "data": "24/07/2026",
+          "resumo": "Portaria institui o Infoseg e estabelece diretrizes para integração e compartilhamento de dados e informações da Segurança Pública"
+        },
+        {
+          "titulo": "Encontro internacional debate biometria, fiscalização e cooperação em proteção de dados pessoais",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-internacional-debate-biometria-fiscalizacao-e-cooperacao-em-protecao-de-dados-pessoais",
+          "data": "23/07/2026",
+          "resumo": "Evento realizado pela ANPD reuniu autoridades de Angola, Argentina, Brasil, Macau e Portugal"
+        }
+      ],
       "agenda": {
-        "resumo": "",
-        "link_agenda_completa": ""
+        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
+        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Inscrição de artigos para o Cadernos Equidade termina em um mês",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricao-de-artigos-para-o-cadernos-equidade-termina-em-um-mes",
+          "data": "28/07/2026",
+          "resumo": "Produções devem abordar temas relacionados à educação bilíngue de surdos ou à educação especial inclusiva. Período de inscrição ocorre até 28 de agosto"
+        },
+        {
+          "titulo": "Carteira Nacional Docente do Brasil: saiba como emitir o documento",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/carteira-nacional-docente-do-brasil-saiba-como-emitir-o-documento",
+          "data": "28/07/2026",
+          "resumo": "Gratuita, com versão física e digital, a CNDB pode ser emitida por professores das redes pública e privada e garante acesso aos benefícios do programa Mais Professores para o Brasil"
+        },
+        {
+          "titulo": "Saúde no Tapajós: como acessar os serviços do Navio Abaré",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/saude-no-tapajos-como-acessar-os-servicos-do-navio-abare",
+          "data": "28/07/2026",
+          "resumo": "Vinculado ao MEC, o Navio Hospital Escola Abaré, da Ufopa, oferece atendimento gratuito às comunidades ribeirinhas. Saiba quais documentos levar, os horários de atendimento e como acessar os serviços"
+        },
+        {
+          "titulo": "Clínica veterinária do Ifap oferta atendimento gratuito",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/clinica-veterinaria-do-ifap-oferta-atendimento-gratuito",
+          "data": "27/07/2026",
+          "resumo": "Serviço voltado a animais de estimação e silvestres está disponível no Campus Porto Grande do Instituto Federal do Amapá. Espaço já realizou mais de 300 atendimentos e integra a formação de estudantes"
+        },
+        {
+          "titulo": "Inscrição de Cuidotecas nas federais vai até sábado (1º)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricao-de-cuidotecas-nas-federais-vai-ate-sabado-1o",
+          "data": "27/07/2026",
+          "resumo": "Chamada Estratégica Unicuidotecas selecionará até 50 universidades federais para implantação de espaços gratuitos de acolhimento infantil nos campi. Propostas devem ser enviadas, exclusivamente, por e-mail"
+        },
+        {
+          "titulo": "Último dia para preencher o Retrato da Educação Infantil",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/ultimo-dia-para-preencher-o-retrato-da-educacao-infantil",
+          "data": "27/07/2026",
+          "resumo": "Levantamento realizado pelo MEC visa mapear a gestão da oferta de vagas em creches e pré-escolas do país. Prazo para preenchimento do questionário termina nesta segunda-feira (27), pelo Simec"
+        },
+        {
+          "titulo": "MEC e FNDE finalizam distribuição de livros em braille",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-e-fnde-finalizam-distribuicao-de-livros-em-braille",
+          "data": "27/07/2026",
+          "resumo": "Livros didáticos em formato braille-tinta destinados aos estudantes com deficiência visual dos anos iniciais e finais do ensino fundamental já foram enviados às redes públicas de ensino de todo o país"
+        },
+        {
+          "titulo": "Pnae integra conjunto de ações voltadas à segurança alimentar",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pnae-integra-conjunto-de-acoes-voltadas-a-seguranca-alimentar",
+          "data": "27/07/2026",
+          "resumo": "Relatório da FAO/ONU mantém o Brasil abaixo do índice de 2,5% de subnutrição crônica. No país, o Pnae estabelece diretrizes para a alimentação escolar e prevê a oferta de refeições aos estudantes da educação básica pública"
+        },
+        {
+          "titulo": "Como escolas e famílias formam novos leitores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-escolas-e-familias-formam-novos-leitores",
+          "data": "24/07/2026",
+          "resumo": "A 24ª Festa Literária Internacional de Paraty (Flip) destaca o papel da escola e das famílias na formação de leitores. Até 31/7, municípios, estados e DF podem aderir à Comunidade Nacional da Primeira Infância"
+        },
+        {
+          "titulo": "Dia do Escritor: a escola na formação de leitores e escritores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/dia-do-escritor-a-escola-na-formacao-de-leitores-e-escritores",
+          "data": "24/07/2026",
+          "resumo": "Reflexões da 24ª Festa Literária Internacional de Paraty marcam o Dia do Escritor, celebrado em 25 de julho, e reforçam a importância da leitura, da imaginação e da escola na formação de leitores e autores"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -21,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "",
+        "resumo": "25 Sáb 26 Dom 27 Seg 28 Ter 29 Qua 30 Qui 31 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
