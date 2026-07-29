@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-07-28T22:06:20.298998+00:00",
+  "atualizado_em": "2026-07-29T12:52:33.021201+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Capacitação orienta agentes aeroportuários e de controle migratório sobre tráfico de pessoas em Guarulhos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-orienta-agentes-aeroportuarios-e-de-controle-migratorio-sobre-trafico-de-pessoas-em-guarulhos",
+          "data": "28/07/2026",
+          "resumo": "Atividade integra a mobilização pelo Dia Mundial e Nacional de Enfrentamento ao Tráfico de Pessoas"
+        },
         {
           "titulo": "Curso de Investigação Qualificada de Organizações Criminosas reúne 40 delegados na região Norte",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-de-investigacao-qualificada-de-organizacoes-criminosas-reune-40-delegados-na-regiao-norte",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/programa-nacional-possibilitara-integracao-entre-bases-de-dados-da-seguranca-publica",
           "data": "24/07/2026",
           "resumo": "Portaria institui o Infoseg e estabelece diretrizes para integração e compartilhamento de dados e informações da Segurança Pública"
-        },
-        {
-          "titulo": "Encontro internacional debate biometria, fiscalização e cooperação em proteção de dados pessoais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-internacional-debate-biometria-fiscalizacao-e-cooperacao-em-protecao-de-dados-pessoais",
-          "data": "23/07/2026",
-          "resumo": "Evento realizado pela ANPD reuniu autoridades de Angola, Argentina, Brasil, Macau e Portugal"
         }
       ],
       "agenda": {
@@ -73,6 +73,18 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Museus de universidades federais têm visita gratuita",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/museus-de-universidades-federais-tem-visita-gratuita",
+          "data": "29/07/2026",
+          "resumo": "Universidades federais vinculadas ao MEC mantêm museus, galerias e centros culturais abertos gratuitamente à população. Saiba como localizar exposições e espaços de visitação em diferentes estados"
+        },
+        {
+          "titulo": "Inscrições para formação continuada são prorrogadas até sexta (7/8)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricoes-para-formacao-continuada-sao-prorrogadas-ate-sexta-7-8",
+          "data": "28/07/2026",
+          "resumo": "Até 7 de agosto, gestores, coordenadores e multiplicadores das redes de ensino podem confirmar a inscrição. A formação apoia a atualização dos projetos político-pedagógicos das escolas de tempo integral"
+        },
         {
           "titulo": "Inscrição de artigos para o Cadernos Equidade termina em um mês",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricao-de-artigos-para-o-cadernos-equidade-termina-em-um-mes",
@@ -120,18 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pnae-integra-conjunto-de-acoes-voltadas-a-seguranca-alimentar",
           "data": "27/07/2026",
           "resumo": "Relatório da FAO/ONU mantém o Brasil abaixo do índice de 2,5% de subnutrição crônica. No país, o Pnae estabelece diretrizes para a alimentação escolar e prevê a oferta de refeições aos estudantes da educação básica pública"
-        },
-        {
-          "titulo": "Como escolas e famílias formam novos leitores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-escolas-e-familias-formam-novos-leitores",
-          "data": "24/07/2026",
-          "resumo": "A 24ª Festa Literária Internacional de Paraty (Flip) destaca o papel da escola e das famílias na formação de leitores. Até 31/7, municípios, estados e DF podem aderir à Comunidade Nacional da Primeira Infância"
-        },
-        {
-          "titulo": "Dia do Escritor: a escola na formação de leitores e escritores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/dia-do-escritor-a-escola-na-formacao-de-leitores-e-escritores",
-          "data": "24/07/2026",
-          "resumo": "Reflexões da 24ª Festa Literária Internacional de Paraty marcam o Dia do Escritor, celebrado em 25 de julho, e reforçam a importância da leitura, da imaginação e da escola na formação de leitores e autores"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "25 Sáb 26 Dom 27 Seg 28 Ter 29 Qua 30 Qui 31 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "26 Dom 27 Seg 28 Ter 29 Qua 30 Qui 31 Sex 1 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
