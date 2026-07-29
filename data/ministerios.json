@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-07-29T12:52:33.021201+00:00",
+  "atualizado_em": "2026-07-29T22:03:01.162285+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação apreende 487 kg de maconha e causa prejuízo estimado em R$ 1,1 milhão ao crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-487-kg-de-maconha-e-causa-prejuizo-estimado-em-r-1-1-milhao-ao-crime-organizado",
+          "data": "29/07/2026",
+          "resumo": "Ação integrada recuperou caminhonete com registro de furto/roubo e apreendeu carga de drogas transportada entre municípios do Paraná"
+        },
+        {
+          "titulo": "Rede EaD Senasp disponibiliza curso sobre Gestão Humanizada",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-disponibiliza-curso-sobre-gestao-humanizada",
+          "data": "29/07/2026",
+          "resumo": "Formação voltada a profissionais de segurança pública aborda práticas de gestão, liderança e cultura organizacional na segurança pública"
+        },
+        {
+          "titulo": "Centro Integrado Mulher Segura recebe autoridades para apresentação das ações de enfrentamento à violência contra as mulheres",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/centro-integrado-mulher-segura-recebe-autoridades-para-apresentacao-das-acoes-de-enfrentamento-a-violencia-contra-as-mulheres",
+          "data": "29/07/2026",
+          "resumo": "Durante a visita, foram apresentados o monitoramento da Operação Mulher Segura, os indicadores nacionais de feminicídio e as ações integradas de enfrentamento à violência contra as mulheres"
+        },
         {
           "titulo": "Capacitação orienta agentes aeroportuários e de controle migratório sobre tráfico de pessoas em Guarulhos",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-orienta-agentes-aeroportuarios-e-de-controle-migratorio-sobre-trafico-de-pessoas-em-guarulhos",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-mais-de-345-kg-de-cocaina-e-helicoptero-em-mato-grosso-do-sul",
           "data": "26/07/2026",
           "resumo": "Prejuízo estimado às atividades criminosas supera R$ 31 milhões"
-        },
-        {
-          "titulo": "Operação Dark Wallet desmonta esquema de fraudes eletrônicas com movimentação superior a R$ 188 milhões",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-dark-wallet-desmonta-esquema-de-fraudes-eletronicas-com-movimentacao-superior-a-r-188-milhoes",
-          "data": "24/07/2026",
-          "resumo": "Investigações começaram após uma vítima relatar prejuízo acima de R$ 640 mil ao investir em uma suposta plataforma internacional"
-        },
-        {
-          "titulo": "Operação Data Venia desarticula grupo investigado por golpe do falso advogado com prejuízo superior a R$ 1 milhão no Pará",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-data-venia-desarticula-grupo-investigado-por-golpe-do-falso-advogado-com-prejuizo-superior-a-r-1-milhao-no-para",
-          "data": "24/07/2026",
-          "resumo": "MJSP presta apoio à ação deflagrada pela Polícia Civil paraense em cidades do Ceará"
-        },
-        {
-          "titulo": "Programa nacional possibilitará integração entre bases de dados da Segurança Pública",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/programa-nacional-possibilitara-integracao-entre-bases-de-dados-da-seguranca-publica",
-          "data": "24/07/2026",
-          "resumo": "Portaria institui o Infoseg e estabelece diretrizes para integração e compartilhamento de dados e informações da Segurança Pública"
         }
       ],
       "agenda": {
@@ -74,64 +74,64 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "CadEJA: facilita acesso de estudantes e gestores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/cadeja-facilita-acesso-de-estudantes-e-gestores",
+          "data": "29/07/2026",
+          "resumo": "Plataforma do Ministério da Educação permite registrar o interesse em cursar a educação de jovens e adultos, auxilia o planejamento da oferta de vagas e orienta sobre inscrição e matrícula nas redes públicas"
+        },
+        {
+          "titulo": "Adesão à Comunidade da Primeira Infância termina sexta (31)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/adesao-a-comunidade-da-primeira-infancia-termina-sexta-31",
+          "data": "29/07/2026",
+          "resumo": "Estados, municípios e Distrito Federal podem aderir à iniciativa do MEC até 31 de julho. A participação é voluntária e busca fortalecer políticas públicas para crianças de zero a seis anos"
+        },
+        {
+          "titulo": "MEC convida professores para avaliar livros do PNLD",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-convida-professores-para-avaliar-livros-do-pnld",
+          "data": "29/07/2026",
+          "resumo": "Cadastro online e gratuito no Banco de Avaliadores do programa busca selecionar docentes de todo o Brasil. A chamada destaca oportunidades para profissionais licenciados em diversas áreas de formação"
+        },
+        {
+          "titulo": "Abertas inscrições para curso sobre direitos da população em situação de rua",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/abertas-inscricoes-para-curso-sobre-direitos-da-populacao-em-situacao-de-rua",
+          "data": "29/07/2026",
+          "resumo": "Capacitação é voltada a profissionais da educação básica e oferece conhecimentos, reflexões e estratégias pedagógicas para fortalecer práticas de acolhimento, cuidado, alfabetização, letramento e gestão educacional."
+        },
+        {
+          "titulo": "Portaria institui comissão de implantação da UFEsporte",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/portaria-institui-comissao-de-implantacao-da-ufesporte",
+          "data": "29/07/2026",
+          "resumo": "A comissão será responsável por elaborar o estatuto e o regimento da Universidade Federal do Esporte, bem como pelo estabelecimento do modelo de governança e pela definição dos cursos que serão ofertados"
+        },
+        {
+          "titulo": "Como são selecionados os livros didáticos da rede pública",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-sao-selecionados-os-livros-didaticos-da-rede-publica",
+          "data": "29/07/2026",
+          "resumo": "Obras passam por avaliação pedagógica realizada por especialistas selecionados por comissão técnica. O processo considera critérios como alinhamento à Base Nacional Comum Curricular e qualidade didática"
+        },
+        {
+          "titulo": "Pescado integra a alimentação escolar em diferentes regiões do país",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pescado-integra-a-alimentacao-escolar-em-diferentes-regioes-do-pais",
+          "data": "29/07/2026",
+          "resumo": "A inclusão do alimento nos cardápios considera aspectos nutricionais, culturais e disponibilidade da produção local"
+        },
+        {
+          "titulo": "Agosto pode ter até 8,1 mil vagas de qualificação em economia verde",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/agosto-pode-ter-ate-8-1-mil-vagas-de-qualificacao-em-economia-verde",
+          "data": "29/07/2026",
+          "resumo": "Oportunidades de formação profissional por meio do Pronatec contemplam áreas de energias renováveis, sustentabilidade e bioeconomia em 21 estados brasileiros"
+        },
+        {
+          "titulo": "Estudantes criam plataforma preparatória para ingresso nos IFs",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/estudantes-criam-plataforma-preparatoria-para-ingresso-nos-ifs",
+          "data": "29/07/2026",
+          "resumo": "O IFocus é uma plataforma gratuita com listas de exercícios e simulados que permitem aos estudantes avaliar o próprio desempenho e se preparar para ingressar nos institutos federais"
+        },
+        {
           "titulo": "Museus de universidades federais têm visita gratuita",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/museus-de-universidades-federais-tem-visita-gratuita",
           "data": "29/07/2026",
           "resumo": "Universidades federais vinculadas ao MEC mantêm museus, galerias e centros culturais abertos gratuitamente à população. Saiba como localizar exposições e espaços de visitação em diferentes estados"
-        },
-        {
-          "titulo": "Inscrições para formação continuada são prorrogadas até sexta (7/8)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricoes-para-formacao-continuada-sao-prorrogadas-ate-sexta-7-8",
-          "data": "28/07/2026",
-          "resumo": "Até 7 de agosto, gestores, coordenadores e multiplicadores das redes de ensino podem confirmar a inscrição. A formação apoia a atualização dos projetos político-pedagógicos das escolas de tempo integral"
-        },
-        {
-          "titulo": "Inscrição de artigos para o Cadernos Equidade termina em um mês",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricao-de-artigos-para-o-cadernos-equidade-termina-em-um-mes",
-          "data": "28/07/2026",
-          "resumo": "Produções devem abordar temas relacionados à educação bilíngue de surdos ou à educação especial inclusiva. Período de inscrição ocorre até 28 de agosto"
-        },
-        {
-          "titulo": "Carteira Nacional Docente do Brasil: saiba como emitir o documento",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/carteira-nacional-docente-do-brasil-saiba-como-emitir-o-documento",
-          "data": "28/07/2026",
-          "resumo": "Gratuita, com versão física e digital, a CNDB pode ser emitida por professores das redes pública e privada e garante acesso aos benefícios do programa Mais Professores para o Brasil"
-        },
-        {
-          "titulo": "Saúde no Tapajós: como acessar os serviços do Navio Abaré",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/saude-no-tapajos-como-acessar-os-servicos-do-navio-abare",
-          "data": "28/07/2026",
-          "resumo": "Vinculado ao MEC, o Navio Hospital Escola Abaré, da Ufopa, oferece atendimento gratuito às comunidades ribeirinhas. Saiba quais documentos levar, os horários de atendimento e como acessar os serviços"
-        },
-        {
-          "titulo": "Clínica veterinária do Ifap oferta atendimento gratuito",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/clinica-veterinaria-do-ifap-oferta-atendimento-gratuito",
-          "data": "27/07/2026",
-          "resumo": "Serviço voltado a animais de estimação e silvestres está disponível no Campus Porto Grande do Instituto Federal do Amapá. Espaço já realizou mais de 300 atendimentos e integra a formação de estudantes"
-        },
-        {
-          "titulo": "Inscrição de Cuidotecas nas federais vai até sábado (1º)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/inscricao-de-cuidotecas-nas-federais-vai-ate-sabado-1o",
-          "data": "27/07/2026",
-          "resumo": "Chamada Estratégica Unicuidotecas selecionará até 50 universidades federais para implantação de espaços gratuitos de acolhimento infantil nos campi. Propostas devem ser enviadas, exclusivamente, por e-mail"
-        },
-        {
-          "titulo": "Último dia para preencher o Retrato da Educação Infantil",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/ultimo-dia-para-preencher-o-retrato-da-educacao-infantil",
-          "data": "27/07/2026",
-          "resumo": "Levantamento realizado pelo MEC visa mapear a gestão da oferta de vagas em creches e pré-escolas do país. Prazo para preenchimento do questionário termina nesta segunda-feira (27), pelo Simec"
-        },
-        {
-          "titulo": "MEC e FNDE finalizam distribuição de livros em braille",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-e-fnde-finalizam-distribuicao-de-livros-em-braille",
-          "data": "27/07/2026",
-          "resumo": "Livros didáticos em formato braille-tinta destinados aos estudantes com deficiência visual dos anos iniciais e finais do ensino fundamental já foram enviados às redes públicas de ensino de todo o país"
-        },
-        {
-          "titulo": "Pnae integra conjunto de ações voltadas à segurança alimentar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pnae-integra-conjunto-de-acoes-voltadas-a-seguranca-alimentar",
-          "data": "27/07/2026",
-          "resumo": "Relatório da FAO/ONU mantém o Brasil abaixo do índice de 2,5% de subnutrição crônica. No país, o Pnae estabelece diretrizes para a alimentação escolar e prevê a oferta de refeições aos estudantes da educação básica pública"
         }
       ],
       "agenda": {
