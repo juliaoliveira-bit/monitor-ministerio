@@ -1,17 +1,139 @@
 {
-  "atualizado_em": "2026-07-30T12:19:44.249155+00:00",
+  "atualizado_em": "2026-07-30T22:08:27.447502+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Parte de arrecadação das bets será destinada a fundo voltado a forças de segurança pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/parte-de-arrecadacao-das-bets-sera-destinada-a-fundo-voltado-a-forcas-de-seguranca-publica",
+          "data": "30/07/2026",
+          "resumo": "Valores das apostas de quota fixa serão direcionados para operacionalização de atividades e para custeio de despesas com saúde"
+        },
+        {
+          "titulo": "Dia contra o Tráfico de Pessoas reforça importância da prevenção e da informação",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-contra-o-trafico-de-pessoas-reforca-importancia-da-prevencao-e-da-informacao",
+          "data": "30/07/2026",
+          "resumo": "Celebrada em 30 de julho, a data chama atenção para novas formas de aliciamento, os diferentes perfis de vítimas e os canais de denúncia"
+        },
+        {
+          "titulo": "Entram em vigor medidas de proteção às mulheres",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/entram-em-vigor-medidas-de-protecao-as-mulheres",
+          "data": "29/07/2026",
+          "resumo": "Leis e decretos incluem monitoração eletrônica, transferência de pensão alimentícia e divulgação do Ligue 180"
+        },
+        {
+          "titulo": "Operação apreende 487 kg de maconha e causa prejuízo estimado em R$ 1,1 milhão ao crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-487-kg-de-maconha-e-causa-prejuizo-estimado-em-r-1-1-milhao-ao-crime-organizado",
+          "data": "29/07/2026",
+          "resumo": "Ação integrada recuperou caminhonete com registro de furto/roubo e apreendeu carga de drogas transportada entre municípios do Paraná"
+        },
+        {
+          "titulo": "Rede EaD Senasp disponibiliza curso sobre Gestão Humanizada",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-disponibiliza-curso-sobre-gestao-humanizada",
+          "data": "29/07/2026",
+          "resumo": "Formação voltada a profissionais de segurança pública aborda práticas de gestão, liderança e cultura organizacional na segurança pública"
+        },
+        {
+          "titulo": "Centro Integrado Mulher Segura recebe autoridades para apresentação das ações de enfrentamento à violência contra as mulheres",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/centro-integrado-mulher-segura-recebe-autoridades-para-apresentacao-das-acoes-de-enfrentamento-a-violencia-contra-as-mulheres",
+          "data": "29/07/2026",
+          "resumo": "Durante a visita, foram apresentados o monitoramento da Operação Mulher Segura, os indicadores nacionais de feminicídio e as ações integradas de enfrentamento à violência contra as mulheres"
+        },
+        {
+          "titulo": "Capacitação orienta agentes aeroportuários e de controle migratório sobre tráfico de pessoas em Guarulhos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-orienta-agentes-aeroportuarios-e-de-controle-migratorio-sobre-trafico-de-pessoas-em-guarulhos",
+          "data": "28/07/2026",
+          "resumo": "Atividade integra a mobilização pelo Dia Mundial e Nacional de Enfrentamento ao Tráfico de Pessoas"
+        },
+        {
+          "titulo": "Curso de Investigação Qualificada de Organizações Criminosas reúne 40 delegados na região Norte",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-de-investigacao-qualificada-de-organizacoes-criminosas-reune-40-delegados-na-regiao-norte",
+          "data": "28/07/2026",
+          "resumo": "Capacitação da Secretaria Nacional de Segurança Pública (Senasp) ocorre até 7 de agosto, em Macapá (AP)"
+        },
+        {
+          "titulo": "Termo entre Senajus e UnB prevê pesquisa aplicada para análise de dados e recuperação de ativos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/termo-entre-senajus-e-unb-preve-pesquisa-aplicada-para-analise-de-dados-e-recuperacao-de-ativos",
+          "data": "27/07/2026",
+          "resumo": "Plano de trabalho contempla estudos sobre compartilhamento seguro de informações, análise documental com inteligência artificial e automação de processos para recuperação de ativos"
+        },
+        {
+          "titulo": "Acordo formaliza integração da PGE/SP à Rede-Lab",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acordo-formaliza-integracao-da-pge-sp-a-rede-lab",
+          "data": "27/07/2026",
+          "resumo": "Cooperação técnica prevê ações conjuntas para o desenvolvimento de estratégias de recuperação de ativos"
+        }
+      ],
       "agenda": {
-        "resumo": "",
-        "link_agenda_completa": ""
+        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
+        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "PNLD Digital: como acessar as obras da rede pública",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pnld-digital-como-acessar-as-obras-da-rede-publica",
+          "data": "30/07/2026",
+          "resumo": "Plataforma permite que professores e estudantes da rede pública de ensino acessem livros didáticos em formato digital de forma prática, segura e gratuita. O acesso pode ser feito com o Gov.br"
+        },
+        {
+          "titulo": "Entram em vigor medidas sobre proteção às mulheres",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/entram-em-vigor-medidas-sobre-protecao-as-mulheres",
+          "data": "30/07/2026",
+          "resumo": "Leis e decretos dispõem sobre monitoração eletrônica, Sistema Nacional de Informações Mulher Segura, divulgação do Ligue 180 e transferência automática de pensão alimentícia"
+        },
+        {
+          "titulo": "MEC disponibiliza guia para regularização do PDDE",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-disponibiliza-guia-para-regularizacao-do-pdde",
+          "data": "30/07/2026",
+          "resumo": "Disponível no portal do MEC, a publicação tem como objetivo apoiar as escolas públicas de todo o país na regularização de pendências junto ao Fundo Nacional de Desenvolvimento da Educação"
+        },
+        {
+          "titulo": "CadEJA: facilita acesso de estudantes e gestores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/cadeja-facilita-acesso-de-estudantes-e-gestores",
+          "data": "29/07/2026",
+          "resumo": "Plataforma do Ministério da Educação permite registrar o interesse em cursar a educação de jovens e adultos, auxilia o planejamento da oferta de vagas e orienta sobre inscrição e matrícula nas redes públicas"
+        },
+        {
+          "titulo": "Adesão à Comunidade da Primeira Infância termina sexta (31)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/adesao-a-comunidade-da-primeira-infancia-termina-sexta-31",
+          "data": "29/07/2026",
+          "resumo": "Estados, municípios e Distrito Federal podem aderir à iniciativa do MEC até 31 de julho. A participação é voluntária e busca fortalecer políticas públicas para crianças de zero a seis anos"
+        },
+        {
+          "titulo": "MEC convida professores para avaliar livros do PNLD",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-convida-professores-para-avaliar-livros-do-pnld",
+          "data": "29/07/2026",
+          "resumo": "Cadastro online e gratuito no Banco de Avaliadores do programa busca selecionar docentes de todo o Brasil. A chamada destaca oportunidades para profissionais licenciados em diversas áreas de formação"
+        },
+        {
+          "titulo": "Abertas inscrições para curso sobre direitos da população em situação de rua",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/abertas-inscricoes-para-curso-sobre-direitos-da-populacao-em-situacao-de-rua",
+          "data": "29/07/2026",
+          "resumo": "Capacitação é voltada a profissionais da educação básica e oferece conhecimentos, reflexões e estratégias pedagógicas para fortalecer práticas de acolhimento, cuidado, alfabetização, letramento e gestão educacional."
+        },
+        {
+          "titulo": "Portaria institui comissão de implantação da UFEsporte",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/portaria-institui-comissao-de-implantacao-da-ufesporte",
+          "data": "29/07/2026",
+          "resumo": "A comissão será responsável por elaborar o estatuto e o regimento da Universidade Federal do Esporte, bem como pelo estabelecimento do modelo de governança e pela definição dos cursos que serão ofertados"
+        },
+        {
+          "titulo": "Como são selecionados os livros didáticos da rede pública",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-sao-selecionados-os-livros-didaticos-da-rede-publica",
+          "data": "29/07/2026",
+          "resumo": "Obras passam por avaliação pedagógica realizada por especialistas selecionados por comissão técnica. O processo considera critérios como alinhamento à Base Nacional Comum Curricular e qualidade didática"
+        },
+        {
+          "titulo": "Pescado integra a alimentação escolar em diferentes regiões do país",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pescado-integra-a-alimentacao-escolar-em-diferentes-regioes-do-pais",
+          "data": "29/07/2026",
+          "resumo": "A inclusão do alimento nos cardápios considera aspectos nutricionais, culturais e disponibilidade da produção local"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -21,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "",
+        "resumo": "27 Seg 28 Ter 29 Qua 30 Qui 31 Sex 1 Sáb 2 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
