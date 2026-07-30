@@ -1,139 +1,17 @@
 {
-  "atualizado_em": "2026-07-29T22:03:01.162285+00:00",
+  "atualizado_em": "2026-07-30T12:19:44.249155+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [
-        {
-          "titulo": "Operação apreende 487 kg de maconha e causa prejuízo estimado em R$ 1,1 milhão ao crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-487-kg-de-maconha-e-causa-prejuizo-estimado-em-r-1-1-milhao-ao-crime-organizado",
-          "data": "29/07/2026",
-          "resumo": "Ação integrada recuperou caminhonete com registro de furto/roubo e apreendeu carga de drogas transportada entre municípios do Paraná"
-        },
-        {
-          "titulo": "Rede EaD Senasp disponibiliza curso sobre Gestão Humanizada",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-disponibiliza-curso-sobre-gestao-humanizada",
-          "data": "29/07/2026",
-          "resumo": "Formação voltada a profissionais de segurança pública aborda práticas de gestão, liderança e cultura organizacional na segurança pública"
-        },
-        {
-          "titulo": "Centro Integrado Mulher Segura recebe autoridades para apresentação das ações de enfrentamento à violência contra as mulheres",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/centro-integrado-mulher-segura-recebe-autoridades-para-apresentacao-das-acoes-de-enfrentamento-a-violencia-contra-as-mulheres",
-          "data": "29/07/2026",
-          "resumo": "Durante a visita, foram apresentados o monitoramento da Operação Mulher Segura, os indicadores nacionais de feminicídio e as ações integradas de enfrentamento à violência contra as mulheres"
-        },
-        {
-          "titulo": "Capacitação orienta agentes aeroportuários e de controle migratório sobre tráfico de pessoas em Guarulhos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-orienta-agentes-aeroportuarios-e-de-controle-migratorio-sobre-trafico-de-pessoas-em-guarulhos",
-          "data": "28/07/2026",
-          "resumo": "Atividade integra a mobilização pelo Dia Mundial e Nacional de Enfrentamento ao Tráfico de Pessoas"
-        },
-        {
-          "titulo": "Curso de Investigação Qualificada de Organizações Criminosas reúne 40 delegados na região Norte",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-de-investigacao-qualificada-de-organizacoes-criminosas-reune-40-delegados-na-regiao-norte",
-          "data": "28/07/2026",
-          "resumo": "Capacitação da Secretaria Nacional de Segurança Pública (Senasp) ocorre até 7 de agosto, em Macapá (AP)"
-        },
-        {
-          "titulo": "Termo entre Senajus e UnB prevê pesquisa aplicada para análise de dados e recuperação de ativos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/termo-entre-senajus-e-unb-preve-pesquisa-aplicada-para-analise-de-dados-e-recuperacao-de-ativos",
-          "data": "27/07/2026",
-          "resumo": "Plano de trabalho contempla estudos sobre compartilhamento seguro de informações, análise documental com inteligência artificial e automação de processos para recuperação de ativos"
-        },
-        {
-          "titulo": "Acordo formaliza integração da PGE/SP à Rede-Lab",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acordo-formaliza-integracao-da-pge-sp-a-rede-lab",
-          "data": "27/07/2026",
-          "resumo": "Cooperação técnica prevê ações conjuntas para o desenvolvimento de estratégias de recuperação de ativos"
-        },
-        {
-          "titulo": "Mais de R$ 750 mil são apreendidos durante ação integrada em Foz do Iguaçu",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-r-750-mil-sao-apreendidos-durante-acao-integrada-em-foz-do-iguacu",
-          "data": "26/07/2026",
-          "resumo": "Forças policiais receberam informações sobre saque de quantia em dinheiro em agência bancária e realizaram a apreensão"
-        },
-        {
-          "titulo": "Cerca de 40 mil pacotes de cigarros são apreendidos em Mato Grosso do Sul",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cerca-de-40-mil-pacotes-de-cigarros-sao-apreendidos-em-mato-grosso-do-sul",
-          "data": "26/07/2026",
-          "resumo": "Carga irregular é avaliada em aproximadamente R$ 2 milhões"
-        },
-        {
-          "titulo": "Operação apreende mais de 345 kg de cocaína e helicóptero em Mato Grosso do Sul",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-mais-de-345-kg-de-cocaina-e-helicoptero-em-mato-grosso-do-sul",
-          "data": "26/07/2026",
-          "resumo": "Prejuízo estimado às atividades criminosas supera R$ 31 milhões"
-        }
-      ],
+      "noticias": [],
       "agenda": {
-        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
-        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
+        "resumo": "",
+        "link_agenda_completa": ""
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "CadEJA: facilita acesso de estudantes e gestores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/cadeja-facilita-acesso-de-estudantes-e-gestores",
-          "data": "29/07/2026",
-          "resumo": "Plataforma do Ministério da Educação permite registrar o interesse em cursar a educação de jovens e adultos, auxilia o planejamento da oferta de vagas e orienta sobre inscrição e matrícula nas redes públicas"
-        },
-        {
-          "titulo": "Adesão à Comunidade da Primeira Infância termina sexta (31)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/adesao-a-comunidade-da-primeira-infancia-termina-sexta-31",
-          "data": "29/07/2026",
-          "resumo": "Estados, municípios e Distrito Federal podem aderir à iniciativa do MEC até 31 de julho. A participação é voluntária e busca fortalecer políticas públicas para crianças de zero a seis anos"
-        },
-        {
-          "titulo": "MEC convida professores para avaliar livros do PNLD",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-convida-professores-para-avaliar-livros-do-pnld",
-          "data": "29/07/2026",
-          "resumo": "Cadastro online e gratuito no Banco de Avaliadores do programa busca selecionar docentes de todo o Brasil. A chamada destaca oportunidades para profissionais licenciados em diversas áreas de formação"
-        },
-        {
-          "titulo": "Abertas inscrições para curso sobre direitos da população em situação de rua",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/abertas-inscricoes-para-curso-sobre-direitos-da-populacao-em-situacao-de-rua",
-          "data": "29/07/2026",
-          "resumo": "Capacitação é voltada a profissionais da educação básica e oferece conhecimentos, reflexões e estratégias pedagógicas para fortalecer práticas de acolhimento, cuidado, alfabetização, letramento e gestão educacional."
-        },
-        {
-          "titulo": "Portaria institui comissão de implantação da UFEsporte",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/portaria-institui-comissao-de-implantacao-da-ufesporte",
-          "data": "29/07/2026",
-          "resumo": "A comissão será responsável por elaborar o estatuto e o regimento da Universidade Federal do Esporte, bem como pelo estabelecimento do modelo de governança e pela definição dos cursos que serão ofertados"
-        },
-        {
-          "titulo": "Como são selecionados os livros didáticos da rede pública",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-sao-selecionados-os-livros-didaticos-da-rede-publica",
-          "data": "29/07/2026",
-          "resumo": "Obras passam por avaliação pedagógica realizada por especialistas selecionados por comissão técnica. O processo considera critérios como alinhamento à Base Nacional Comum Curricular e qualidade didática"
-        },
-        {
-          "titulo": "Pescado integra a alimentação escolar em diferentes regiões do país",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pescado-integra-a-alimentacao-escolar-em-diferentes-regioes-do-pais",
-          "data": "29/07/2026",
-          "resumo": "A inclusão do alimento nos cardápios considera aspectos nutricionais, culturais e disponibilidade da produção local"
-        },
-        {
-          "titulo": "Agosto pode ter até 8,1 mil vagas de qualificação em economia verde",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/agosto-pode-ter-ate-8-1-mil-vagas-de-qualificacao-em-economia-verde",
-          "data": "29/07/2026",
-          "resumo": "Oportunidades de formação profissional por meio do Pronatec contemplam áreas de energias renováveis, sustentabilidade e bioeconomia em 21 estados brasileiros"
-        },
-        {
-          "titulo": "Estudantes criam plataforma preparatória para ingresso nos IFs",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/estudantes-criam-plataforma-preparatoria-para-ingresso-nos-ifs",
-          "data": "29/07/2026",
-          "resumo": "O IFocus é uma plataforma gratuita com listas de exercícios e simulados que permitem aos estudantes avaliar o próprio desempenho e se preparar para ingressar nos institutos federais"
-        },
-        {
-          "titulo": "Museus de universidades federais têm visita gratuita",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/museus-de-universidades-federais-tem-visita-gratuita",
-          "data": "29/07/2026",
-          "resumo": "Universidades federais vinculadas ao MEC mantêm museus, galerias e centros culturais abertos gratuitamente à população. Saiba como localizar exposições e espaços de visitação em diferentes estados"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +21,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "26 Dom 27 Seg 28 Ter 29 Qua 30 Qui 31 Sex 1 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "",
         "link_agenda_completa": ""
       }
     }
