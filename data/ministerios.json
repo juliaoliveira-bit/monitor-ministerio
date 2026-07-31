@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-30T22:08:27.447502+00:00",
+  "atualizado_em": "2026-07-31T12:49:46.348525+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -74,6 +74,12 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "MEC divulga resultado do Fies para segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-divulga-resultado-do-fies-para-segundo-semestre",
+          "data": "30/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações de suas inscrições entre 31/7 e 4/8, pelo endereço eletrônico do Fies Seleção. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
+        },
+        {
           "titulo": "PNLD Digital: como acessar as obras da rede pública",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pnld-digital-como-acessar-as-obras-da-rede-publica",
           "data": "30/07/2026",
@@ -126,12 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-sao-selecionados-os-livros-didaticos-da-rede-publica",
           "data": "29/07/2026",
           "resumo": "Obras passam por avaliação pedagógica realizada por especialistas selecionados por comissão técnica. O processo considera critérios como alinhamento à Base Nacional Comum Curricular e qualidade didática"
-        },
-        {
-          "titulo": "Pescado integra a alimentação escolar em diferentes regiões do país",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pescado-integra-a-alimentacao-escolar-em-diferentes-regioes-do-pais",
-          "data": "29/07/2026",
-          "resumo": "A inclusão do alimento nos cardápios considera aspectos nutricionais, culturais e disponibilidade da produção local"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "27 Seg 28 Ter 29 Qua 30 Qui 31 Sex 1 Sáb 2 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "28 Ter 29 Qua 30 Qui 31 Sex 1 Sáb 2 Dom 3 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
