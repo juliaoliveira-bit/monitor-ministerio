@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-07-31T12:49:46.348525+00:00",
+  "atualizado_em": "2026-07-31T22:08:22.523423+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Mapa da Segurança Pública 2026 traz 30 indicadores nacionais sobre criminalidade",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mapa-da-seguranca-publica-2026-traz-30-indicadores-nacionais-sobre-criminalidade",
+          "data": "31/07/2026",
+          "resumo": "Edição anual reúne dados de todas as unidades da Federação"
+        },
+        {
+          "titulo": "Operação no Paraná apreende carga de celulares e produtos importados avaliada em R$ 2,5 milhões",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-no-parana-apreende-carga-de-celulares-e-produtos-importados-avaliada-em-r-2-5-milhoes",
+          "data": "31/07/2026",
+          "resumo": "Apreensão ocorreu em Cascavel no âmbito das ações de combate ao crime organizado"
+        },
         {
           "titulo": "Parte de arrecadação das bets será destinada a fundo voltado a forças de segurança pública",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/parte-de-arrecadacao-das-bets-sera-destinada-a-fundo-voltado-a-forcas-de-seguranca-publica",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-de-investigacao-qualificada-de-organizacoes-criminosas-reune-40-delegados-na-regiao-norte",
           "data": "28/07/2026",
           "resumo": "Capacitação da Secretaria Nacional de Segurança Pública (Senasp) ocorre até 7 de agosto, em Macapá (AP)"
-        },
-        {
-          "titulo": "Termo entre Senajus e UnB prevê pesquisa aplicada para análise de dados e recuperação de ativos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/termo-entre-senajus-e-unb-preve-pesquisa-aplicada-para-analise-de-dados-e-recuperacao-de-ativos",
-          "data": "27/07/2026",
-          "resumo": "Plano de trabalho contempla estudos sobre compartilhamento seguro de informações, análise documental com inteligência artificial e automação de processos para recuperação de ativos"
-        },
-        {
-          "titulo": "Acordo formaliza integração da PGE/SP à Rede-Lab",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acordo-formaliza-integracao-da-pge-sp-a-rede-lab",
-          "data": "27/07/2026",
-          "resumo": "Cooperação técnica prevê ações conjuntas para o desenvolvimento de estratégias de recuperação de ativos"
         }
       ],
       "agenda": {
@@ -74,64 +74,64 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
-          "titulo": "MEC divulga resultado do Fies para segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-divulga-resultado-do-fies-para-segundo-semestre",
-          "data": "30/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações de suas inscrições entre 31/7 e 4/8, pelo endereço eletrônico do Fies Seleção. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
+          "titulo": "Fies 2026: Santa Catarina registrou 1,7 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-santa-catarina-registrou-1-7-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "PNLD Digital: como acessar as obras da rede pública",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/pnld-digital-como-acessar-as-obras-da-rede-publica",
-          "data": "30/07/2026",
-          "resumo": "Plataforma permite que professores e estudantes da rede pública de ensino acessem livros didáticos em formato digital de forma prática, segura e gratuita. O acesso pode ser feito com o Gov.br"
+          "titulo": "Fies 2026: Rio Grande do Sul registrou 3,9 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-rio-grande-do-sul-registrou-3-9-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "Entram em vigor medidas sobre proteção às mulheres",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/entram-em-vigor-medidas-sobre-protecao-as-mulheres",
-          "data": "30/07/2026",
-          "resumo": "Leis e decretos dispõem sobre monitoração eletrônica, Sistema Nacional de Informações Mulher Segura, divulgação do Ligue 180 e transferência automática de pensão alimentícia"
+          "titulo": "Fies 2026: Paraná registrou 4,7 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-parana-registrou-4-7-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "MEC disponibiliza guia para regularização do PDDE",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-disponibiliza-guia-para-regularizacao-do-pdde",
-          "data": "30/07/2026",
-          "resumo": "Disponível no portal do MEC, a publicação tem como objetivo apoiar as escolas públicas de todo o país na regularização de pendências junto ao Fundo Nacional de Desenvolvimento da Educação"
+          "titulo": "Fies 2026: São Paulo registrou 17,9 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-sao-paulo-registrou17-9-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "CadEJA: facilita acesso de estudantes e gestores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/cadeja-facilita-acesso-de-estudantes-e-gestores",
-          "data": "29/07/2026",
-          "resumo": "Plataforma do Ministério da Educação permite registrar o interesse em cursar a educação de jovens e adultos, auxilia o planejamento da oferta de vagas e orienta sobre inscrição e matrícula nas redes públicas"
+          "titulo": "Fies 2026: Rio de Janeiro registrou 9,2 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-rio-de-janeiro-registrou9-2-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "Adesão à Comunidade da Primeira Infância termina sexta (31)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/adesao-a-comunidade-da-primeira-infancia-termina-sexta-31",
-          "data": "29/07/2026",
-          "resumo": "Estados, municípios e Distrito Federal podem aderir à iniciativa do MEC até 31 de julho. A participação é voluntária e busca fortalecer políticas públicas para crianças de zero a seis anos"
+          "titulo": "Fies 2026: Minas Gerais registrou 13,2 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-minas-gerais-registrou13-2-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "MEC convida professores para avaliar livros do PNLD",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/mec-convida-professores-para-avaliar-livros-do-pnld",
-          "data": "29/07/2026",
-          "resumo": "Cadastro online e gratuito no Banco de Avaliadores do programa busca selecionar docentes de todo o Brasil. A chamada destaca oportunidades para profissionais licenciados em diversas áreas de formação"
+          "titulo": "Fies 2026: Espírito Santo registrou 2 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-espirito-santo-registrou2-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "Abertas inscrições para curso sobre direitos da população em situação de rua",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/abertas-inscricoes-para-curso-sobre-direitos-da-populacao-em-situacao-de-rua",
-          "data": "29/07/2026",
-          "resumo": "Capacitação é voltada a profissionais da educação básica e oferece conhecimentos, reflexões e estratégias pedagógicas para fortalecer práticas de acolhimento, cuidado, alfabetização, letramento e gestão educacional."
+          "titulo": "Fies 2026: Tocantins registrou 1,3 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-tocantins-registrou1-3-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "Portaria institui comissão de implantação da UFEsporte",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/portaria-institui-comissao-de-implantacao-da-ufesporte",
-          "data": "29/07/2026",
-          "resumo": "A comissão será responsável por elaborar o estatuto e o regimento da Universidade Federal do Esporte, bem como pelo estabelecimento do modelo de governança e pela definição dos cursos que serão ofertados"
+          "titulo": "Fies 2026: Roraima registrou 212 inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-roraima-registrou212inscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         },
         {
-          "titulo": "Como são selecionados os livros didáticos da rede pública",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/como-sao-selecionados-os-livros-didaticos-da-rede-publica",
-          "data": "29/07/2026",
-          "resumo": "Obras passam por avaliação pedagógica realizada por especialistas selecionados por comissão técnica. O processo considera critérios como alinhamento à Base Nacional Comum Curricular e qualidade didática"
+          "titulo": "Fies 2026: Rondônia registrou 2,1 mil inscritos no segundo semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-rondonia-registrou2-1-milinscritos-no-segundo-semestre",
+          "data": "31/07/2026",
+          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         }
       ],
       "agenda": {
