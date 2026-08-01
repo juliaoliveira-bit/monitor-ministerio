@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-07-31T22:08:22.523423+00:00",
+  "atualizado_em": "2026-08-01T11:53:02.417235+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Convenção relativa ao Estatuto dos Refugiados completa 75 anos como marco da proteção internacional",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/convencao-relativa-ao-estatuto-dos-refugiados-completa-75-anos-como-marco-da-protecao-internacional",
+          "data": "31/07/2026",
+          "resumo": "Instrumento adotado em 1951 permanece como referência jurídica internacional para a proteção de pessoas obrigadas a deixar seus países de origem"
+        },
         {
           "titulo": "Mapa da Segurança Pública 2026 traz 30 indicadores nacionais sobre criminalidade",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mapa-da-seguranca-publica-2026-traz-30-indicadores-nacionais-sobre-criminalidade",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-orienta-agentes-aeroportuarios-e-de-controle-migratorio-sobre-trafico-de-pessoas-em-guarulhos",
           "data": "28/07/2026",
           "resumo": "Atividade integra a mobilização pelo Dia Mundial e Nacional de Enfrentamento ao Tráfico de Pessoas"
-        },
-        {
-          "titulo": "Curso de Investigação Qualificada de Organizações Criminosas reúne 40 delegados na região Norte",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-de-investigacao-qualificada-de-organizacoes-criminosas-reune-40-delegados-na-regiao-norte",
-          "data": "28/07/2026",
-          "resumo": "Capacitação da Secretaria Nacional de Segurança Pública (Senasp) ocorre até 7 de agosto, em Macapá (AP)"
         }
       ],
       "agenda": {
@@ -73,6 +73,12 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Consulta do Novo Marco Regulatório da EaD vai até 14/8",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/consulta-do-novo-marco-regulatorio-da-ead-vai-ate-14-8",
+          "data": "31/07/2026",
+          "resumo": "Contribuições para a elaboração da regulamentação de EaD no Brasil devem ser enviadas à plataforma Brasil Participativo. Proposta aborda parâmetros acadêmicos, mediação docente e o formato semipresencial"
+        },
         {
           "titulo": "Fies 2026: Santa Catarina registrou 1,7 mil inscritos no segundo semestre",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-santa-catarina-registrou-1-7-milinscritos-no-segundo-semestre",
@@ -126,12 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-roraima-registrou212inscritos-no-segundo-semestre",
           "data": "31/07/2026",
           "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: Rondônia registrou 2,1 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-rondonia-registrou2-1-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "28 Ter 29 Qua 30 Qui 31 Sex 1 Sáb 2 Dom 3 Seg Atualmente não existem compromissos agendados.",
+        "resumo": "29 Qua 30 Qui 31 Sex 1 Sáb 2 Dom 3 Seg 4 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
