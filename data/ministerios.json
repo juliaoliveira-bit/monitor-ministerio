@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-08-03T13:32:02.764864+00:00",
+  "atualizado_em": "2026-08-03T22:11:08.166273+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Encontro reúne instituições para discutir princípios e práticas do Direito Migratório",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-reune-instituicoes-para-discutir-principios-e-praticas-do-direito-migratorio",
+          "data": "03/08/2026",
+          "resumo": "Atividade realizada pelo MJSP e pela OIM aborda atualização normativa, acesso a direitos e aplicação das políticas migratórias nos estados e municípios"
+        },
+        {
+          "titulo": "Força Nacional realiza primeira edição do Curso de Necropapiloscopia Avançada",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-realiza-primeira-edicao-do-curso-de-necropapiloscopia-avancada",
+          "data": "03/08/2026",
+          "resumo": "Capacitação reúne profissionais de oito estados para aprimorar técnicas de identificação humana em situações de alta complexidade"
+        },
+        {
+          "titulo": "Ligue 180 terá divulgação ampliada para facilitar acesso de mulheres em situação de violência",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ligue-180-tera-divulgacao-ampliada-para-facilitar-acesso-de-mulheres-em-situacao-de-violencia",
+          "data": "03/08/2026",
+          "resumo": "Nova lei amplia a divulgação do serviço em espaços públicos e privados de grande circulação"
+        },
         {
           "titulo": "Convenção relativa ao Estatuto dos Refugiados completa 75 anos como marco da proteção internacional",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/convencao-relativa-ao-estatuto-dos-refugiados-completa-75-anos-como-marco-da-protecao-internacional",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-487-kg-de-maconha-e-causa-prejuizo-estimado-em-r-1-1-milhao-ao-crime-organizado",
           "data": "29/07/2026",
           "resumo": "Ação integrada recuperou caminhonete com registro de furto/roubo e apreendeu carga de drogas transportada entre municípios do Paraná"
-        },
-        {
-          "titulo": "Rede EaD Senasp disponibiliza curso sobre Gestão Humanizada",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-disponibiliza-curso-sobre-gestao-humanizada",
-          "data": "29/07/2026",
-          "resumo": "Formação voltada a profissionais de segurança pública aborda práticas de gestão, liderança e cultura organizacional na segurança pública"
-        },
-        {
-          "titulo": "Centro Integrado Mulher Segura recebe autoridades para apresentação das ações de enfrentamento à violência contra as mulheres",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/centro-integrado-mulher-segura-recebe-autoridades-para-apresentacao-das-acoes-de-enfrentamento-a-violencia-contra-as-mulheres",
-          "data": "29/07/2026",
-          "resumo": "Durante a visita, foram apresentados o monitoramento da Operação Mulher Segura, os indicadores nacionais de feminicídio e as ações integradas de enfrentamento à violência contra as mulheres"
-        },
-        {
-          "titulo": "Capacitação orienta agentes aeroportuários e de controle migratório sobre tráfico de pessoas em Guarulhos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-orienta-agentes-aeroportuarios-e-de-controle-migratorio-sobre-trafico-de-pessoas-em-guarulhos",
-          "data": "28/07/2026",
-          "resumo": "Atividade integra a mobilização pelo Dia Mundial e Nacional de Enfrentamento ao Tráfico de Pessoas"
         }
       ],
       "agenda": {
@@ -74,10 +74,34 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "Prorrogadas inscrições em edital de economia solidária",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prorrogadas-inscricoes-em-edital-de-economia-solidaria",
+          "data": "03/08/2026",
+          "resumo": "Chamada pública para incubadoras tecnológicas ligadas à Rede Federal de Educação Profissional, Científica e Tecnológica recebe submissões até 3 de setembro. Edital vai financiar e capacitar projetos coletivos"
+        },
+        {
+          "titulo": "Fies 2026: prazo de complementação termina nesta terça (4)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/fies-2026-prazo-de-complementacao-termina-nesta-terca-4",
+          "data": "03/08/2026",
+          "resumo": "Pré-selecionados devem complementar informações da inscrição no Fies Seleções. Em seguida, apresentar documentos à Comissão Permanente de Supervisão das universidades e comparecer a uma agência bancária"
+        },
+        {
+          "titulo": "Universidades federais ofertam cursos de idiomas à população",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/universidades-federais-ofertam-cursos-de-idiomas-a-populacao",
+          "data": "03/08/2026",
+          "resumo": "Vinculadas ao MEC, as universidades federais oferecem aulas de inglês, espanhol, Libras e outras línguas para a comunidade. Saiba como acessar as opções no seu estado"
+        },
+        {
+          "titulo": "PET: bolsistas devem observar prazos para saque",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pet-bolsistas-devem-observar-prazos-para-saque",
+          "data": "03/08/2026",
+          "resumo": "Regras para saque e procedimentos para a correta movimentação da conta-benefício utilizada para recebimento da bolsa foram estabelecidas pela Resolução CD/FNDE nº 20/2025"
+        },
+        {
           "titulo": "Aberta consulta para novo Catálogo Nacional de Cursos Técnicos",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/aberta-consulta-para-novo-catalogo-nacional-de-cursos-tecnicos",
           "data": "03/08/2026",
-          "resumo": "Instituições de ensino, profissionais da educação, estudantes e sociedade em geral poderão contribuir até 2 de setembro para atualização da 5ª edição do documento na plataforma Brasil Participativo"
+          "resumo": "Instituições de ensino, profissionais da educação, estudantes e sociedade em geral poderão contribuir para atualização da 5ª edição do documento até 2 de setembro, pela plataforma Brasil Participativo"
         },
         {
           "titulo": "Consulta do Novo Marco Regulatório da EaD vai até 14/8",
@@ -106,30 +130,6 @@
         {
           "titulo": "Fies 2026: São Paulo registrou 17,9 mil inscritos no segundo semestre",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-sao-paulo-registrou17-9-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: Rio de Janeiro registrou 9,2 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-rio-de-janeiro-registrou9-2-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: Minas Gerais registrou 13,2 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-minas-gerais-registrou13-2-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: Espírito Santo registrou 2 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-espirito-santo-registrou2-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: Tocantins registrou 1,3 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-tocantins-registrou1-3-milinscritos-no-segundo-semestre",
           "data": "31/07/2026",
           "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         }
