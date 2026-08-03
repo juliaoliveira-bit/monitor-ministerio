@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-02T21:58:15.203971+00:00",
+  "atualizado_em": "2026-08-03T13:32:02.764864+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -74,6 +74,12 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "Aberta consulta para novo Catálogo Nacional de Cursos Técnicos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/aberta-consulta-para-novo-catalogo-nacional-de-cursos-tecnicos",
+          "data": "03/08/2026",
+          "resumo": "Instituições de ensino, profissionais da educação, estudantes e sociedade em geral poderão contribuir até 2 de setembro para atualização da 5ª edição do documento na plataforma Brasil Participativo"
+        },
+        {
           "titulo": "Consulta do Novo Marco Regulatório da EaD vai até 14/8",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/consulta-do-novo-marco-regulatorio-da-ead-vai-ate-14-8",
           "data": "31/07/2026",
@@ -126,12 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-tocantins-registrou1-3-milinscritos-no-segundo-semestre",
           "data": "31/07/2026",
           "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: Roraima registrou 212 inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-roraima-registrou212inscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         }
       ],
       "agenda": {
@@ -141,70 +141,9 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [
-        {
-          "titulo": "Entre astronomia e biotecnologia, estandes das vinculadas do MCTI transformam pesquisa em experiências na SBPC",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/entre-astronomia-e-biotecnologia-estandes-das-vinculadas-do-mcti-transformam-pesquisa-em-experiencias-na-sbpc",
-          "data": "31/07/2026",
-          "resumo": "Jogos, microscópios, realidade virtual e atividades práticas traduzem conceitos científicos e os deixam mais acessíveis aos visitantes da ExpoT&C"
-        },
-        {
-          "titulo": "Unidades vinculadas dão show de divulgação científica na ExpoT&C",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/unidades-vinculadas-dao-show-de-divulgacao-cientifica-na-expot-c",
-          "data": "31/07/2026",
-          "resumo": "Exposição segue até 1º de agosto, na UFF. A entrada é gratuita, e as atividades ocorrem das 9h às 17h30"
-        },
-        {
-          "titulo": "Como comunicar ciência em tempos de desinformação? Debate na SBPC aponta caminhos",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/como-comunicar-ciencia-em-tempos-de-desinformacao-debate-na-sbpc-aponta-caminhos",
-          "data": "31/07/2026",
-          "resumo": "Palestra discutiu como diferentes linguagens, entre elas os quadrinhos, podem aproximar a ciência da sociedade e estimular o pensamento crítico em um ambiente marcado pelo excesso de informações"
-        },
-        {
-          "titulo": "FNDCT e fortalecimento da ciência brasileira foram tema de mesa-redonda da 78ª Reunião Anual da SBPC",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/fndct-e-fortalecimento-da-ciencia-brasileira-foram-tema-de-mesa-redonda-da-78a-reuniao-anual-da-sbpc",
-          "data": "30/07/2026",
-          "resumo": "Recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico são geridos pelo MCTI. Encontro em Niterói segue até 1º de agosto, com extensa programação"
-        },
-        {
-          "titulo": "Grupo de trabalho faz primeira reunião para elaborar o Plano de Ação em Ciência, Tecnologia e Inovação",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/grupo-de-trabalho-faz-primeira-reuniao-para-elaborar-o-plano-de-acao-em-ciencia-tecnologia-e-inovacao",
-          "data": "30/07/2026",
-          "resumo": "Durante o encontro, foram apresentadas a metodologia, a estrutura de governança e o cronograma das atividades que vão subsidiar a construção do documento"
-        },
-        {
-          "titulo": "Glossário de termos da computação pode te ajudar a entender melhor a informática",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/glossario-de-termos-da-computacao-pode-te-ajudar-a-entender-melhor-a-informatica",
-          "data": "30/07/2026",
-          "resumo": "Compreender o vocabulário da tecnologia facilita o uso prático das ferramentas digitais. A lista reúne as peças da máquina e os jargões em ordem alfabética"
-        },
-        {
-          "titulo": "ExpoT&C aproxima cibersegurança, IA e realidade virtual da população fluminense",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/expot-c-aproxima-ciberseguranca-ia-e-realidade-virtual-da-populacao-fluminense",
-          "data": "29/07/2026",
-          "resumo": "Exposição científica ocorre até 1º de agosto, na UFF"
-        },
-        {
-          "titulo": "Debate na SBPC discute estratégias para ampliar o alcance da comunicação científica",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/debate-na-sbpc-discute-estrategias-para-ampliar-o-alcance-da-comunicacao-cientifica",
-          "data": "29/07/2026",
-          "resumo": "Especialista abordou os desafios de comunicar a produção científica em plataformas digitais e compartilhou experiências sobre como aproximar a pesquisa da sociedade"
-        },
-        {
-          "titulo": "Innospace atualiza cronograma de missões previstas para o Centro de Lançamento de Alcântara",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/innospace-atualiza-cronograma-de-missoes-previstas-para-o-centro-de-lancamento-de-alcantara",
-          "data": "29/07/2026",
-          "resumo": "Empresa sul-coreana prevê o voo inaugural do veículo suborbital Sebit para 19 de agosto e mantém para novembro a missão do lançador Hanbit-Nano, que colocará em órbita o satélite de testes InnoSat-0"
-        },
-        {
-          "titulo": "Da Amazônia ao Pantanal: ExpoT&C reúne experiências sobre a diversidade dos biomas brasileiros",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/da-amazonia-ao-pantanal-expot-c-reune-experiencias-sobre-a-diversidade-dos-biomas-brasileiros",
-          "data": "28/07/2026",
-          "resumo": "Até o dia 1º, público tem acesso a exemplares de espécies nativas, jogos educativos e coleções científicas gratuitamente durante a 78ª Reunião Anual da SBPC, em Niterói"
-        }
-      ],
+      "noticias": [],
       "agenda": {
-        "resumo": "30 Qui 31 Sex 1 Sáb 2 Dom 3 Seg 4 Ter 5 Qua Atualmente não existem compromissos agendados.",
+        "resumo": "31 Sex 1 Sáb 2 Dom 3 Seg 4 Ter 5 Qua 6 Qui Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
