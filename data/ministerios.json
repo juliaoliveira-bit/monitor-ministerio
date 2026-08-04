@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-08-04T12:50:25.421814+00:00",
+  "atualizado_em": "2026-08-04T22:15:13.856007+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Sistema integrado unificará registros de violência contra mulheres no Brasil",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sistema-integrado-unificara-registros-de-violencia-contra-mulheres-no-brasil",
+          "data": "04/08/2026",
+          "resumo": "Ferramenta reunirá informações dos órgãos públicos das esferas federal, estadual, distrital e municipal"
+        },
+        {
+          "titulo": "Operação Lívia e Rede Interrompida mobilizam Ministério da Justiça e Segurança Pública e polícias civis de oito estados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-livia-e-rede-interrompida-mobilizam-ministerio-da-justica-e-seguranca-publica-e-policias-civis-de-oito-estados",
+          "data": "04/08/2026",
+          "resumo": "Investigações revelaram a atuação de grupos que disseminavam crimes de ódio e incentivavam violência contra adolescentes no ambiente digital"
+        },
         {
           "titulo": "Operações integradas reforçam enfrentamento à misoginia digital e a crimes de ódio no ambiente virtual",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacoes-integradas-reforcam-enfrentamento-a-misoginia-digital-e-a-crimes-de-odio-no-ambiente-virtual",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/parte-de-arrecadacao-das-bets-sera-destinada-a-fundo-voltado-a-forcas-de-seguranca-publica",
           "data": "30/07/2026",
           "resumo": "Valores das apostas de quota fixa serão direcionados para operacionalização de atividades e para custeio de despesas com saúde"
-        },
-        {
-          "titulo": "Dia contra o Tráfico de Pessoas reforça importância da prevenção e da informação",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-contra-o-trafico-de-pessoas-reforca-importancia-da-prevencao-e-da-informacao",
-          "data": "30/07/2026",
-          "resumo": "Celebrada em 30 de julho, a data chama atenção para novas formas de aliciamento, os diferentes perfis de vítimas e os canais de denúncia"
-        },
-        {
-          "titulo": "Entram em vigor medidas de proteção às mulheres",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/entram-em-vigor-medidas-de-protecao-as-mulheres",
-          "data": "29/07/2026",
-          "resumo": "Leis e decretos incluem monitoração eletrônica, transferência de pensão alimentícia e divulgação do Ligue 180"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "OBMEP: divulgada lista de classificados para 2ª fase",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/obmep-divulgada-lista-de-classificados-para-2a-fase",
+          "data": "04/08/2026",
+          "resumo": "Cerca de 900 mil estudantes avançam para a segunda etapa da olimpíada brasileira, que será realizada em 17 de outubro. Locais de prova serão divulgados em 28 de agosto, no site oficial da competição"
+        },
+        {
+          "titulo": "Novo PAR: MEC disponibiliza cursos para capacitação da RenaPAR",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/novo-par-mec-disponibiliza-cursos-para-capacitacao-da-renapar",
+          "data": "04/08/2026",
+          "resumo": "Formação é um dos eixos da atuação da rede, que atuará na mobilização, na assistência técnica e na formação dos profissionais envolvidos no Novo PAR, fortalecendo as capacidades das redes de ensino e o regime de colaboração federativa"
+        },
+        {
+          "titulo": "Fies 2026: último dia para complementar as informações da inscrição",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/fies-2026-ultimo-dia-para-complementar-as-informacoes-da-inscricao",
+          "data": "04/08/2026",
+          "resumo": "Pré-selecionados devem apresentar, até esta terça (4), documento de identificação, comprovante de residência, nível de escolaridade e renda, por meio do endereço eletrônico do Fies Seleção"
+        },
         {
           "titulo": "Prorrogadas inscrições em edital de economia solidária",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prorrogadas-inscricoes-em-edital-de-economia-solidaria",
@@ -112,24 +130,6 @@
         {
           "titulo": "Fies 2026: Santa Catarina registrou 1,7 mil inscritos no segundo semestre",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-santa-catarina-registrou-1-7-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: Rio Grande do Sul registrou 3,9 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-rio-grande-do-sul-registrou-3-9-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: Paraná registrou 4,7 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-parana-registrou-4-7-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
-        },
-        {
-          "titulo": "Fies 2026: São Paulo registrou 17,9 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-sao-paulo-registrou17-9-milinscritos-no-segundo-semestre",
           "data": "31/07/2026",
           "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         }
