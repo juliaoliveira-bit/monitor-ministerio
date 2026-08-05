@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-08-05T12:29:21.703012+00:00",
+  "atualizado_em": "2026-08-05T22:14:11.414129+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Encontro Nacional de Chefes de Organismos de Inteligência de Segurança Pública reúne lideranças de todo o País",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-nacional-de-chefes-de-organismos-de-inteligencia-de-seguranca-publica-reune-liderancas-de-todo-o-pais",
+          "data": "05/08/2026",
+          "resumo": "Evento com cerca de 200 representantes das 27 unidades da Federação debate inteligência estratégica, IA e integração no enfrentamento ao crime organizado"
+        },
+        {
+          "titulo": "Cúpula amplia cooperação internacional contra o crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cupula-amplia-cooperacao-internacional-contra-o-crime-organizado",
+          "data": "05/08/2026",
+          "resumo": "Encontro reúne autoridades de diversos países para alinhar estratégias de cooperação em segurança e justiça e marca parceria do Brasil com a Interpol"
+        },
         {
           "titulo": "Sistema integrado unificará registros de violência contra mulheres no Brasil",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sistema-integrado-unificara-registros-de-violencia-contra-mulheres-no-brasil",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mapa-da-seguranca-publica-2026-traz-30-indicadores-nacionais-sobre-criminalidade",
           "data": "31/07/2026",
           "resumo": "Edição anual reúne dados de todas as unidades da Federação"
-        },
-        {
-          "titulo": "Operação no Paraná apreende carga de celulares e produtos importados avaliada em R$ 2,5 milhões",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-no-parana-apreende-carga-de-celulares-e-produtos-importados-avaliada-em-r-2-5-milhoes",
-          "data": "31/07/2026",
-          "resumo": "Apreensão ocorreu em Cascavel no âmbito das ações de combate ao crime organizado"
-        },
-        {
-          "titulo": "Parte de arrecadação das bets será destinada a fundo voltado a forças de segurança pública",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/parte-de-arrecadacao-das-bets-sera-destinada-a-fundo-voltado-a-forcas-de-seguranca-publica",
-          "data": "30/07/2026",
-          "resumo": "Valores das apostas de quota fixa serão direcionados para operacionalização de atividades e para custeio de despesas com saúde"
         }
       ],
       "agenda": {
@@ -73,6 +73,42 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica no Rio Grande do Sul",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-rio-grande-do-sul",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem da língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança no ensino fundamental no Amazonas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-no-ensino-fundamental-no-amazonas",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e se mantêm no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica no Amapá",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-amapa",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica no Paraná",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basicano-parana",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem da língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica no Acre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-acre",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Cursos gratuitos apoiam ações para a primeira infância",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cursos-gratuitos-apoiam-acoes-para-a-primeira-infancia",
+          "data": "05/08/2026",
+          "resumo": "Plataforma oferece formações on-line sobre desenvolvimento integral das crianças de zero a seis anos. Estados, municípios e o Distrito Federal podem aderir à Comunidade Nacional de Gestores até 15 de agosto"
+        },
         {
           "titulo": "Enade 2026 abre recursos para atendimento especializado",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/enade-2026-abre-recursos-para-atendimento-especializado",
@@ -96,42 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/obmep-divulgada-lista-de-classificados-para-2a-fase",
           "data": "04/08/2026",
           "resumo": "Cerca de 900 mil estudantes avançam para a segunda etapa da olimpíada brasileira, que será realizada em 17 de outubro. Locais de prova serão divulgados em 28 de agosto, no site oficial da competição"
-        },
-        {
-          "titulo": "Novo PAR: MEC disponibiliza cursos para capacitação da RenaPAR",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/novo-par-mec-disponibiliza-cursos-para-capacitacao-da-renapar",
-          "data": "04/08/2026",
-          "resumo": "Formação é um dos eixos da atuação da rede, que atuará na mobilização, na assistência técnica e na formação dos profissionais envolvidos no Novo PAR, fortalecendo as capacidades das redes de ensino e o regime de colaboração federativa"
-        },
-        {
-          "titulo": "Fies 2026: último dia para complementar as informações da inscrição",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/fies-2026-ultimo-dia-para-complementar-as-informacoes-da-inscricao",
-          "data": "04/08/2026",
-          "resumo": "Pré-selecionados devem apresentar, até esta terça (4), documento de identificação, comprovante de residência, nível de escolaridade e renda, por meio do endereço eletrônico do Fies Seleção"
-        },
-        {
-          "titulo": "Prorrogadas inscrições em edital de economia solidária",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prorrogadas-inscricoes-em-edital-de-economia-solidaria",
-          "data": "03/08/2026",
-          "resumo": "Chamada pública para incubadoras tecnológicas ligadas à Rede Federal de Educação Profissional, Científica e Tecnológica recebe submissões até 3 de setembro. Edital vai financiar e capacitar projetos coletivos"
-        },
-        {
-          "titulo": "Fies 2026: prazo de complementação termina nesta terça (4)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/fies-2026-prazo-de-complementacao-termina-nesta-terca-4",
-          "data": "03/08/2026",
-          "resumo": "Pré-selecionados devem complementar informações da inscrição no Fies Seleções. Em seguida, apresentar documentos à Comissão Permanente de Supervisão das universidades e comparecer a uma agência bancária"
-        },
-        {
-          "titulo": "Universidades federais ofertam cursos de idiomas à população",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/universidades-federais-ofertam-cursos-de-idiomas-a-populacao",
-          "data": "03/08/2026",
-          "resumo": "Vinculadas ao MEC, as universidades federais oferecem aulas de inglês, espanhol, Libras e outras línguas para a comunidade. Saiba como acessar as opções no seu estado"
-        },
-        {
-          "titulo": "PET: bolsistas devem observar prazos para saque",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pet-bolsistas-devem-observar-prazos-para-saque",
-          "data": "03/08/2026",
-          "resumo": "Regras para saque e procedimentos para a correta movimentação da conta-benefício utilizada para recebimento da bolsa foram estabelecidas pela Resolução CD/FNDE nº 20/2025"
         }
       ],
       "agenda": {
