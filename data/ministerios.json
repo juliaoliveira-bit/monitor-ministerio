@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-04T22:15:13.856007+00:00",
+  "atualizado_em": "2026-08-05T12:29:21.703012+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -74,6 +74,24 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "Enade 2026 abre recursos para atendimento especializado",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/enade-2026-abre-recursos-para-atendimento-especializado",
+          "data": "05/08/2026",
+          "resumo": "Participantes de cursos de bacharelado e tecnologia que tiveram o pedido de atendimento especializado indeferido podem recorrer até 7 de agosto, exclusivamente pelo Sistema Enade, conforme previsto no edital"
+        },
+        {
+          "titulo": "Prouni 2026: divulgada a 2ª chamada para o 2º semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prouni-2026-divulgada-a-2a-chamada-para-o-2o-semestre",
+          "data": "05/08/2026",
+          "resumo": "Resultado está disponível no Portal Acesso Único ao Ensino Superior. Pré-selecionados na segunda chamada devem comprovar, diretamente na instituição de ensino, as informações da inscrição entre 5 e 14 de agosto"
+        },
+        {
+          "titulo": "Portaria distribui 937 novos cargos em institutos federais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/portaria-distribui-937-novos-cargos-em-institutos-federais",
+          "data": "05/08/2026",
+          "resumo": "Medida possibilita a realização de concursos para o cargo de professor do ensino básico, técnico e tecnológico e contempla 28 IFs. Objetivo é expandir a oferta de cursos de educação profissional e tecnológica"
+        },
+        {
           "titulo": "OBMEP: divulgada lista de classificados para 2ª fase",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/obmep-divulgada-lista-de-classificados-para-2a-fase",
           "data": "04/08/2026",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pet-bolsistas-devem-observar-prazos-para-saque",
           "data": "03/08/2026",
           "resumo": "Regras para saque e procedimentos para a correta movimentação da conta-benefício utilizada para recebimento da bolsa foram estabelecidas pela Resolução CD/FNDE nº 20/2025"
-        },
-        {
-          "titulo": "Aberta consulta para novo Catálogo Nacional de Cursos Técnicos",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/aberta-consulta-para-novo-catalogo-nacional-de-cursos-tecnicos",
-          "data": "03/08/2026",
-          "resumo": "Instituições de ensino, profissionais da educação, estudantes e sociedade em geral poderão contribuir para atualização da 5ª edição do documento até 2 de setembro, pela plataforma Brasil Participativo"
-        },
-        {
-          "titulo": "Consulta do Novo Marco Regulatório da EaD vai até 14/8",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/consulta-do-novo-marco-regulatorio-da-ead-vai-ate-14-8",
-          "data": "31/07/2026",
-          "resumo": "Contribuições para a elaboração da regulamentação de EaD no Brasil devem ser enviadas à plataforma Brasil Participativo. Proposta aborda parâmetros acadêmicos, mediação docente e o formato semipresencial"
-        },
-        {
-          "titulo": "Fies 2026: Santa Catarina registrou 1,7 mil inscritos no segundo semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/julho/fies-2026-santa-catarina-registrou-1-7-milinscritos-no-segundo-semestre",
-          "data": "31/07/2026",
-          "resumo": "Pré-selecionados devem complementar as informações da inscrição pelo endereço eletrônico do Fies Seleção até 4/8. Aqueles que não foram pré-selecionados são incluídos automaticamente na lista de espera"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "1 Sáb 2 Dom 3 Seg 4 Ter 5 Qua 6 Qui 7 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "2 Dom 3 Seg 4 Ter 5 Qua 6 Qui 7 Sex 8 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
