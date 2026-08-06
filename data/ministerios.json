@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-08-05T22:14:11.414129+00:00",
+  "atualizado_em": "2026-08-06T12:47:28.483172+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Dia dos Pais: conheça os direitos do consumidor na compra de presentes",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes",
+          "data": "05/08/2026",
+          "resumo": "Orientações da Senacon destacam cuidados com preços, ofertas, prazos de entrega e políticas de troca"
+        },
         {
           "titulo": "Encontro Nacional de Chefes de Organismos de Inteligência de Segurança Pública reúne lideranças de todo o País",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-nacional-de-chefes-de-organismos-de-inteligencia-de-seguranca-publica-reune-liderancas-de-todo-o-pais",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/convencao-relativa-ao-estatuto-dos-refugiados-completa-75-anos-como-marco-da-protecao-internacional",
           "data": "31/07/2026",
           "resumo": "Instrumento adotado em 1951 permanece como referência jurídica internacional para a proteção de pessoas obrigadas a deixar seus países de origem"
-        },
-        {
-          "titulo": "Mapa da Segurança Pública 2026 traz 30 indicadores nacionais sobre criminalidade",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mapa-da-seguranca-publica-2026-traz-30-indicadores-nacionais-sobre-criminalidade",
-          "data": "31/07/2026",
-          "resumo": "Edição anual reúne dados de todas as unidades da Federação"
         }
       ],
       "agenda": {
@@ -74,64 +74,64 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
-          "titulo": "Ideb avança em todas as etapas da educação básica no Rio Grande do Sul",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-rio-grande-do-sul",
-          "data": "05/08/2026",
-          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem da língua portuguesa e matemática"
-        },
-        {
-          "titulo": "Ideb avança no ensino fundamental no Amazonas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-no-ensino-fundamental-no-amazonas",
-          "data": "05/08/2026",
-          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e se mantêm no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
-        },
-        {
-          "titulo": "Ideb avança em todas as etapas da educação básica no Amapá",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-amapa",
+          "titulo": "Ideb avança em todas as etapas da educação básica no Rio Grande do Norte",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-rio-grande-do-norte",
           "data": "05/08/2026",
           "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         },
         {
-          "titulo": "Ideb avança em todas as etapas da educação básica no Paraná",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basicano-parana",
-          "data": "05/08/2026",
-          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem da língua portuguesa e matemática"
-        },
-        {
-          "titulo": "Ideb avança em todas as etapas da educação básica no Acre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-acre",
+          "titulo": "Ideb avança em todas as etapas da educação básica em Sergipe",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-em-sergipe",
           "data": "05/08/2026",
           "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         },
         {
-          "titulo": "Cursos gratuitos apoiam ações para a primeira infância",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cursos-gratuitos-apoiam-acoes-para-a-primeira-infancia",
+          "titulo": "Ideb avança em todas as etapas da educação básica no Piauí",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
           "data": "05/08/2026",
-          "resumo": "Plataforma oferece formações on-line sobre desenvolvimento integral das crianças de zero a seis anos. Estados, municípios e o Distrito Federal podem aderir à Comunidade Nacional de Gestores até 15 de agosto"
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         },
         {
-          "titulo": "Enade 2026 abre recursos para atendimento especializado",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/enade-2026-abre-recursos-para-atendimento-especializado",
+          "titulo": "Ideb avança no ensino fundamental em Mato Grosso",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-no-ensino-fundamental-em-mato-grosso",
           "data": "05/08/2026",
-          "resumo": "Participantes de cursos de bacharelado e tecnologia que tiveram o pedido de atendimento especializado indeferido podem recorrer até 7 de agosto, exclusivamente pelo Sistema Enade, conforme previsto no edital"
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e permanece estável no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         },
         {
-          "titulo": "Prouni 2026: divulgada a 2ª chamada para o 2º semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prouni-2026-divulgada-a-2a-chamada-para-o-2o-semestre",
+          "titulo": "Ideb avança em todas as etapas da educação básica em Pernambuco",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-em-pernambuco",
           "data": "05/08/2026",
-          "resumo": "Resultado está disponível no Portal Acesso Único ao Ensino Superior. Pré-selecionados na segunda chamada devem comprovar, diretamente na instituição de ensino, as informações da inscrição entre 5 e 14 de agosto"
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         },
         {
-          "titulo": "Portaria distribui 937 novos cargos em institutos federais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/portaria-distribui-937-novos-cargos-em-institutos-federais",
+          "titulo": "Ideb avança em todas as etapas da educação básica em Mato Grosso do Sul",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-em-mato-grosso-do-sul",
           "data": "05/08/2026",
-          "resumo": "Medida possibilita a realização de concursos para o cargo de professor do ensino básico, técnico e tecnológico e contempla 28 IFs. Objetivo é expandir a oferta de cursos de educação profissional e tecnológica"
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         },
         {
-          "titulo": "OBMEP: divulgada lista de classificados para 2ª fase",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/obmep-divulgada-lista-de-classificados-para-2a-fase",
-          "data": "04/08/2026",
-          "resumo": "Cerca de 900 mil estudantes avançam para a segunda etapa da olimpíada brasileira, que será realizada em 17 de outubro. Locais de prova serão divulgados em 28 de agosto, no site oficial da competição"
+          "titulo": "Ideb avança em todas as etapas da educação básica na Paraíba",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-na-paraiba",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica no Maranhão",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-maranhao",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança no ensino fundamental em Goiás",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-no-ensino-fundamental-em-goias",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e permanece estável no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica no Ceará",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-ceara",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "2 Dom 3 Seg 4 Ter 5 Qua 6 Qui 7 Sex 8 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "3 Seg 4 Ter 5 Qua 6 Qui 7 Sex 8 Sáb 9 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
