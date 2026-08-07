@@ -1,17 +1,139 @@
 {
-  "atualizado_em": "2026-08-07T01:00:53.770982+00:00",
+  "atualizado_em": "2026-08-07T11:35:02.012629+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Nota de Pesar – MJSP lamenta a morte do secretário-geral da Junta Nacional de Drogas do Uruguai, Gabriel Rossi",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-de-pesar-2013-mjsp-lamenta-a-morte-do-secretario-geral-da-junta-nacional-de-drogas-do-uruguai-gabriel-rossi",
+          "data": "06/08/2026",
+          "resumo": ""
+        },
+        {
+          "titulo": "Brasil assume presidência de aliança internacional e anuncia novas ações contra o crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-assume-presidencia-de-alianca-internacional-e-anuncia-novas-acoes-contra-o-crime-organizado",
+          "data": "06/08/2026",
+          "resumo": "Acordo com BID e participação da Interpol em força-tarefa marcam encerramento da terceira edição do encontro"
+        },
+        {
+          "titulo": "Dia dos Pais: conheça os direitos do consumidor na compra de presentes",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes",
+          "data": "05/08/2026",
+          "resumo": "Orientações da Senacon destacam cuidados com preços, ofertas, prazos de entrega e políticas de troca"
+        },
+        {
+          "titulo": "Encontro Nacional de Chefes de Organismos de Inteligência de Segurança Pública reúne lideranças de todo o País",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-nacional-de-chefes-de-organismos-de-inteligencia-de-seguranca-publica-reune-liderancas-de-todo-o-pais",
+          "data": "05/08/2026",
+          "resumo": "Evento com cerca de 200 representantes das 27 unidades da Federação debate inteligência estratégica, IA e integração no enfrentamento ao crime organizado"
+        },
+        {
+          "titulo": "Cúpula amplia cooperação internacional contra o crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cupula-amplia-cooperacao-internacional-contra-o-crime-organizado",
+          "data": "05/08/2026",
+          "resumo": "Encontro reúne autoridades de diversos países para alinhar estratégias de cooperação em segurança e justiça e marca parceria do Brasil com a Interpol"
+        },
+        {
+          "titulo": "Sistema integrado unificará registros de violência contra mulheres no Brasil",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sistema-integrado-unificara-registros-de-violencia-contra-mulheres-no-brasil",
+          "data": "04/08/2026",
+          "resumo": "Ferramenta reunirá informações dos órgãos públicos das esferas federal, estadual, distrital e municipal"
+        },
+        {
+          "titulo": "Operação Lívia e Rede Interrompida mobilizam Ministério da Justiça e Segurança Pública e polícias civis de oito estados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-livia-e-rede-interrompida-mobilizam-ministerio-da-justica-e-seguranca-publica-e-policias-civis-de-oito-estados",
+          "data": "04/08/2026",
+          "resumo": "Investigações revelaram a atuação de grupos que disseminavam crimes de ódio e incentivavam violência contra adolescentes no ambiente digital"
+        },
+        {
+          "titulo": "Operações integradas reforçam enfrentamento à misoginia digital e a crimes de ódio no ambiente virtual",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacoes-integradas-reforcam-enfrentamento-a-misoginia-digital-e-a-crimes-de-odio-no-ambiente-virtual",
+          "data": "04/08/2026",
+          "resumo": ""
+        },
+        {
+          "titulo": "Encontro reúne instituições para discutir princípios e práticas do Direito Migratório",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-reune-instituicoes-para-discutir-principios-e-praticas-do-direito-migratorio",
+          "data": "03/08/2026",
+          "resumo": "Atividade realizada pelo MJSP e pela OIM aborda atualização normativa, acesso a direitos e aplicação das políticas migratórias nos estados e municípios"
+        },
+        {
+          "titulo": "Força Nacional realiza primeira edição do Curso de Necropapiloscopia Avançada",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-realiza-primeira-edicao-do-curso-de-necropapiloscopia-avancada",
+          "data": "03/08/2026",
+          "resumo": "Capacitação reúne profissionais de oito estados para aprimorar técnicas de identificação humana em situações de alta complexidade"
+        }
+      ],
       "agenda": {
-        "resumo": "",
-        "link_agenda_completa": ""
+        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
+        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Saeb 2025: consulte os resultados finais da avaliação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/saeb-2025-consulte-os-resultados-finais-da-avaliacao",
+          "data": "06/08/2026",
+          "resumo": "Dados da avaliação estão disponíveis para consulta no Saeb e abrangem escolas participantes de todo o país. Os resultados subsidiam análises e acompanhamento de indicadores da educação básica"
+        },
+        {
+          "titulo": "Ideb é maior em escolas com educação em tempo integral",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-e-maior-em-escolas-com-educacao-em-tempo-integral",
+          "data": "06/08/2026",
+          "resumo": "Levantamento divulgado na última quarta (5) apresenta o Ideb médio das escolas conforme o tempo médio de permanência dos estudantes em atividades escolares no ensino fundamental e no ensino médio"
+        },
+        {
+          "titulo": "MEC divulga período de inscrições para o Observatório da Educação Inclusiva",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-divulga-periodo-de-inscricoes-para-o-observatorio-da-educacao-inclusiva",
+          "data": "06/08/2026",
+          "resumo": "Docentes de Instituições de Ensino Superior públicas de todo o Brasil poderão submeter propostas entre os dias 24 de agosto e 5 de outubro"
+        },
+        {
+          "titulo": "Qualificação profissional para mulheres tem mais de 8 mil vagas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/qualificacao-profissional-para-mulheres-tem-mais-de-8-mil-vagas",
+          "data": "06/08/2026",
+          "resumo": "Cursos do programa Mulheres Mil são ofertados por instituições das redes estaduais e federal de educação profissional e tecnológica"
+        },
+        {
+          "titulo": "Bolsas e cursos apoiam a formação de profissionais da educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/bolsas-e-cursos-apoiam-a-formacao-de-profissionais-da-educacao",
+          "data": "06/08/2026",
+          "resumo": "Neste Dia Nacional dos Profissionais da Educação, o MEC reúne bolsas, cursos, plataformas gratuitas e programas de valorização para docentes, gestores e equipes de apoio da educação básica no país"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica no Rio Grande do Norte",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-rio-grande-do-norte",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica em Sergipe",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-em-sergipe",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica no Piauí",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança no ensino fundamental em Mato Grosso",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-no-ensino-fundamental-em-mato-grosso",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e permanece estável no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        },
+        {
+          "titulo": "Ideb avança em todas as etapas da educação básica em Pernambuco",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-em-pernambuco",
+          "data": "05/08/2026",
+          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -21,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "",
+        "resumo": "4 Ter 5 Qua 6 Qui 7 Sex 8 Sáb 9 Dom 10 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
