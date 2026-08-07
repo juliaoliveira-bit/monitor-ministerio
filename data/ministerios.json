@@ -1,9 +1,39 @@
 {
-  "atualizado_em": "2026-08-07T11:35:02.012629+00:00",
+  "atualizado_em": "2026-08-07T21:41:20.825866+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Território Seguro, Amazônia Soberana alinha ações integradas para Amazônia Legal e faixa de fronteira",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/politica-sobre-drogas",
+          "data": "07/08/2026",
+          "resumo": "Encontro definiu critérios para priorização territorial e apresentou os quatro eixos de atuação previstos para a implementação do programa"
+        },
+        {
+          "titulo": "Dia Internacional dos Povos Indígenas destaca ações de proteção territorial e acesso a direitos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-internacional-dos-povos-indigenas-destaca-acoes-de-protecao-territorial-e-acesso-a-direitos",
+          "data": "07/08/2026",
+          "resumo": "Senad reúne inteligência, prevenção, desenvolvimento sustentável e políticas públicas para reduzir vulnerabilidades em territórios indígenas"
+        },
+        {
+          "titulo": "Quinta edição do Curso de Comportamento do Fogo em Compartimentos é realizada em Brasília",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/quinta-edicao-do-curso-de-comportamento-do-fogo-em-compartimentos-e-realizada-em-brasilia",
+          "data": "07/08/2026",
+          "resumo": "Capacitação reúne profissionais dos Corpos de Bombeiros Militares de 10 unidades da Federação"
+        },
+        {
+          "titulo": "Diagnóstico apresenta panorama das unidades especializadas de atendimento às mulheres",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/10o-diagnostico-nacional-reune-dados-sobre-as-unidades-de-policia-civil-especializadas-no-atendimento-as-mulheres",
+          "data": "07/08/2026",
+          "resumo": "Estudo traz novos indicadores sobre funcionamento, capacidade de atendimento e estrutura da rede especializada"
+        },
+        {
+          "titulo": "Nova lei amplia medidas de combate à violência sexual contra crianças e adolescentes no ambiente digital",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-amplia-medidas-de-combate-a-violencia-sexual-contra-criancas-e-adolescentes-no-ambiente-digital",
+          "data": "07/08/2026",
+          "resumo": "Texto atualiza normas penais e o Estatuto da Criança e do Adolescente, que passa a prever medidas relacionadas ao ambiente digital e ao uso de inteligência artificial"
+        },
         {
           "titulo": "Nota de Pesar – MJSP lamenta a morte do secretário-geral da Junta Nacional de Drogas do Uruguai, Gabriel Rossi",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-de-pesar-2013-mjsp-lamenta-a-morte-do-secretario-geral-da-junta-nacional-de-drogas-do-uruguai-gabriel-rossi",
@@ -33,36 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cupula-amplia-cooperacao-internacional-contra-o-crime-organizado",
           "data": "05/08/2026",
           "resumo": "Encontro reúne autoridades de diversos países para alinhar estratégias de cooperação em segurança e justiça e marca parceria do Brasil com a Interpol"
-        },
-        {
-          "titulo": "Sistema integrado unificará registros de violência contra mulheres no Brasil",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sistema-integrado-unificara-registros-de-violencia-contra-mulheres-no-brasil",
-          "data": "04/08/2026",
-          "resumo": "Ferramenta reunirá informações dos órgãos públicos das esferas federal, estadual, distrital e municipal"
-        },
-        {
-          "titulo": "Operação Lívia e Rede Interrompida mobilizam Ministério da Justiça e Segurança Pública e polícias civis de oito estados",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-livia-e-rede-interrompida-mobilizam-ministerio-da-justica-e-seguranca-publica-e-policias-civis-de-oito-estados",
-          "data": "04/08/2026",
-          "resumo": "Investigações revelaram a atuação de grupos que disseminavam crimes de ódio e incentivavam violência contra adolescentes no ambiente digital"
-        },
-        {
-          "titulo": "Operações integradas reforçam enfrentamento à misoginia digital e a crimes de ódio no ambiente virtual",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacoes-integradas-reforcam-enfrentamento-a-misoginia-digital-e-a-crimes-de-odio-no-ambiente-virtual",
-          "data": "04/08/2026",
-          "resumo": ""
-        },
-        {
-          "titulo": "Encontro reúne instituições para discutir princípios e práticas do Direito Migratório",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-reune-instituicoes-para-discutir-principios-e-praticas-do-direito-migratorio",
-          "data": "03/08/2026",
-          "resumo": "Atividade realizada pelo MJSP e pela OIM aborda atualização normativa, acesso a direitos e aplicação das políticas migratórias nos estados e municípios"
-        },
-        {
-          "titulo": "Força Nacional realiza primeira edição do Curso de Necropapiloscopia Avançada",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-realiza-primeira-edicao-do-curso-de-necropapiloscopia-avancada",
-          "data": "03/08/2026",
-          "resumo": "Capacitação reúne profissionais de oito estados para aprimorar técnicas de identificação humana em situações de alta complexidade"
         }
       ],
       "agenda": {
@@ -73,6 +73,30 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Próximo ciclo educacional focará em aprendizagem e equidade",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/proximo-ciclo-educacional-focara-em-aprendizagem-e-equidade",
+          "data": "07/08/2026",
+          "resumo": "Com a aprovação do Novo PNE, sancionado em abril de 2026, o MEC divulgará, até outubro, o Plano de Ação da União contendo o conjunto de políticas e programas que atendem às demandas do PNE 2026-2036"
+        },
+        {
+          "titulo": "Último dia para inscrição em Formação Continuada 2026",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultimo-dia-para-inscricao-em-formacao-continuada-2026",
+          "data": "07/08/2026",
+          "resumo": "Ação é voltada para gestores escolares, coordenadores pedagógicos e profissionais indicados pelas redes para atuarem como multiplicadores da formação. Objetivo é qualificar os projetos político-pedagógicos das escolas"
+        },
+        {
+          "titulo": "Último dia para atualizar o CadÚnico e ter direito ao Pé-de-Meia",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultimo-dia-para-atualizar-o-cadunico-e-ter-direito-ao-pe-de-meia",
+          "data": "07/08/2026",
+          "resumo": "Data de referência do Cadastro Único é 7 de agosto de 2026. Prazo integra os critérios do programa Pé-de-Meia a estudantes do ensino médio da rede pública"
+        },
+        {
+          "titulo": "Bolsa Permanência Prouni: confira regras e como solicitar",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/bolsa-permanencia-prouni-confira-regras-e-como-solicitar",
+          "data": "07/08/2026",
+          "resumo": "Estudantes beneficiários de bolsa integral do Prouni matriculados em cursos presenciais integrais podem solicitar a Bolsa Permanência. Confira os critérios de elegibilidade e como acessar o benefício"
+        },
         {
           "titulo": "Saeb 2025: consulte os resultados finais da avaliação",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/saeb-2025-consulte-os-resultados-finais-da-avaliacao",
@@ -106,30 +130,6 @@
         {
           "titulo": "Ideb avança em todas as etapas da educação básica no Rio Grande do Norte",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-rio-grande-do-norte",
-          "data": "05/08/2026",
-          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
-        },
-        {
-          "titulo": "Ideb avança em todas as etapas da educação básica em Sergipe",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-em-sergipe",
-          "data": "05/08/2026",
-          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
-        },
-        {
-          "titulo": "Ideb avança em todas as etapas da educação básica no Piauí",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
-          "data": "05/08/2026",
-          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
-        },
-        {
-          "titulo": "Ideb avança no ensino fundamental em Mato Grosso",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-no-ensino-fundamental-em-mato-grosso",
-          "data": "05/08/2026",
-          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e permanece estável no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
-        },
-        {
-          "titulo": "Ideb avança em todas as etapas da educação básica em Pernambuco",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-em-pernambuco",
           "data": "05/08/2026",
           "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         }
