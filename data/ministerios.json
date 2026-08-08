@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-08-07T21:41:20.825866+00:00",
+  "atualizado_em": "2026-08-08T11:16:47.144050+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Audiência internacional sobre Acesso à Justiça acontece em meio ao marco de 20 anos da Lei Maria da Penha",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/audiencia-internacional-sobre-acesso-a-justica-acontece-em-meio-ao-marco-de-20-anos-da-lei-maria-da-penha",
+          "data": "07/08/2026",
+          "resumo": "Delegação apresenta diagnóstico ao Conselho Nacional de direitos Humanos sobre a efetividade das políticas de proteção de direitos"
+        },
         {
           "titulo": "Território Seguro, Amazônia Soberana alinha ações integradas para Amazônia Legal e faixa de fronteira",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/politica-sobre-drogas",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-nacional-de-chefes-de-organismos-de-inteligencia-de-seguranca-publica-reune-liderancas-de-todo-o-pais",
           "data": "05/08/2026",
           "resumo": "Evento com cerca de 200 representantes das 27 unidades da Federação debate inteligência estratégica, IA e integração no enfrentamento ao crime organizado"
-        },
-        {
-          "titulo": "Cúpula amplia cooperação internacional contra o crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cupula-amplia-cooperacao-internacional-contra-o-crime-organizado",
-          "data": "05/08/2026",
-          "resumo": "Encontro reúne autoridades de diversos países para alinhar estratégias de cooperação em segurança e justiça e marca parceria do Brasil com a Interpol"
         }
       ],
       "agenda": {
@@ -74,10 +74,22 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "Educação Escolar Indígena: conheça programas e ações do MEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/educacao-escolar-indigena-conheca-programas-e-acoes-do-mec",
+          "data": "07/08/2026",
+          "resumo": "No Dia Internacional dos Povos Indígenas, celebrado em 9 de agosto, conheça as políticas públicas de educação escolar indígena, que abrangem formação docente, apoio às escolas e acesso ao ensino superior"
+        },
+        {
+          "titulo": "Fies 2026: iniciada convocação da lista de espera do 2º semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/fies-2026-iniciada-convocacao-da-lista-de-espera-do-2o-semestre",
+          "data": "07/08/2026",
+          "resumo": "Participantes devem acompanhar eventual pré-seleção no endereço eletrônico do Fies Seleção entre 7 de agosto e 24 de setembro. Os pré-selecionados na lista de espera precisam cumprir as etapas e os prazos"
+        },
+        {
           "titulo": "Próximo ciclo educacional focará em aprendizagem e equidade",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/proximo-ciclo-educacional-focara-em-aprendizagem-e-equidade",
           "data": "07/08/2026",
-          "resumo": "Com a aprovação do Novo PNE, sancionado em abril de 2026, o MEC divulgará, até outubro, o Plano de Ação da União contendo o conjunto de políticas e programas que atendem às demandas do PNE 2026-2036"
+          "resumo": "Com a aprovação do Novo PNE, sancionado em abril de 2026, o MEC divulgará o Plano de Ação da União contendo o conjunto de políticas e programas que atendem às demandas do PNE 2026-2036"
         },
         {
           "titulo": "Último dia para inscrição em Formação Continuada 2026",
@@ -120,18 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/qualificacao-profissional-para-mulheres-tem-mais-de-8-mil-vagas",
           "data": "06/08/2026",
           "resumo": "Cursos do programa Mulheres Mil são ofertados por instituições das redes estaduais e federal de educação profissional e tecnológica"
-        },
-        {
-          "titulo": "Bolsas e cursos apoiam a formação de profissionais da educação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/bolsas-e-cursos-apoiam-a-formacao-de-profissionais-da-educacao",
-          "data": "06/08/2026",
-          "resumo": "Neste Dia Nacional dos Profissionais da Educação, o MEC reúne bolsas, cursos, plataformas gratuitas e programas de valorização para docentes, gestores e equipes de apoio da educação básica no país"
-        },
-        {
-          "titulo": "Ideb avança em todas as etapas da educação básica no Rio Grande do Norte",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-rio-grande-do-norte",
-          "data": "05/08/2026",
-          "resumo": "Indicadores de 2025 crescem nos anos iniciais e finais do ensino fundamental e no ensino médio. Saeb também mostra avanço na aprendizagem de língua portuguesa e matemática"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "4 Ter 5 Qua 6 Qui 7 Sex 8 Sáb 9 Dom 10 Seg Atualmente não existem compromissos agendados.",
+        "resumo": "5 Qua 6 Qui 7 Sex 8 Sáb 9 Dom 10 Seg 11 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
