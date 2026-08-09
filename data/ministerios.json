@@ -1,17 +1,139 @@
 {
-  "atualizado_em": "2026-08-08T21:33:28.212960+00:00",
+  "atualizado_em": "2026-08-09T11:16:52.142795+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Audiência internacional sobre Acesso à Justiça acontece em meio ao marco de 20 anos da Lei Maria da Penha",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/audiencia-internacional-sobre-acesso-a-justica-acontece-em-meio-ao-marco-de-20-anos-da-lei-maria-da-penha",
+          "data": "07/08/2026",
+          "resumo": "Delegação apresenta diagnóstico ao Conselho Nacional de direitos Humanos sobre a efetividade das políticas de proteção de direitos"
+        },
+        {
+          "titulo": "Território Seguro, Amazônia Soberana alinha ações integradas para Amazônia Legal e faixa de fronteira",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/politica-sobre-drogas",
+          "data": "07/08/2026",
+          "resumo": "Encontro definiu critérios para priorização territorial e apresentou os quatro eixos de atuação previstos para a implementação do programa"
+        },
+        {
+          "titulo": "Dia Internacional dos Povos Indígenas destaca ações de proteção territorial e acesso a direitos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-internacional-dos-povos-indigenas-destaca-acoes-de-protecao-territorial-e-acesso-a-direitos",
+          "data": "07/08/2026",
+          "resumo": "Senad reúne inteligência, prevenção, desenvolvimento sustentável e políticas públicas para reduzir vulnerabilidades em territórios indígenas"
+        },
+        {
+          "titulo": "Quinta edição do Curso de Comportamento do Fogo em Compartimentos é realizada em Brasília",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/quinta-edicao-do-curso-de-comportamento-do-fogo-em-compartimentos-e-realizada-em-brasilia",
+          "data": "07/08/2026",
+          "resumo": "Capacitação reúne profissionais dos Corpos de Bombeiros Militares de 10 unidades da Federação"
+        },
+        {
+          "titulo": "Diagnóstico apresenta panorama das unidades especializadas de atendimento às mulheres",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/10o-diagnostico-nacional-reune-dados-sobre-as-unidades-de-policia-civil-especializadas-no-atendimento-as-mulheres",
+          "data": "07/08/2026",
+          "resumo": "Estudo traz novos indicadores sobre funcionamento, capacidade de atendimento e estrutura da rede especializada"
+        },
+        {
+          "titulo": "Nova lei amplia medidas de combate à violência sexual contra crianças e adolescentes no ambiente digital",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-amplia-medidas-de-combate-a-violencia-sexual-contra-criancas-e-adolescentes-no-ambiente-digital",
+          "data": "07/08/2026",
+          "resumo": "Texto atualiza normas penais e o Estatuto da Criança e do Adolescente, que passa a prever medidas relacionadas ao ambiente digital e ao uso de inteligência artificial"
+        },
+        {
+          "titulo": "Nota de Pesar – MJSP lamenta a morte do secretário-geral da Junta Nacional de Drogas do Uruguai, Gabriel Rossi",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-de-pesar-2013-mjsp-lamenta-a-morte-do-secretario-geral-da-junta-nacional-de-drogas-do-uruguai-gabriel-rossi",
+          "data": "06/08/2026",
+          "resumo": ""
+        },
+        {
+          "titulo": "Brasil assume presidência de aliança internacional e anuncia novas ações contra o crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-assume-presidencia-de-alianca-internacional-e-anuncia-novas-acoes-contra-o-crime-organizado",
+          "data": "06/08/2026",
+          "resumo": "Acordo com BID e participação da Interpol em força-tarefa marcam encerramento da terceira edição do encontro"
+        },
+        {
+          "titulo": "Dia dos Pais: conheça os direitos do consumidor na compra de presentes",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes",
+          "data": "05/08/2026",
+          "resumo": "Orientações da Senacon destacam cuidados com preços, ofertas, prazos de entrega e políticas de troca"
+        },
+        {
+          "titulo": "Encontro Nacional de Chefes de Organismos de Inteligência de Segurança Pública reúne lideranças de todo o País",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-nacional-de-chefes-de-organismos-de-inteligencia-de-seguranca-publica-reune-liderancas-de-todo-o-pais",
+          "data": "05/08/2026",
+          "resumo": "Evento com cerca de 200 representantes das 27 unidades da Federação debate inteligência estratégica, IA e integração no enfrentamento ao crime organizado"
+        }
+      ],
       "agenda": {
-        "resumo": "",
-        "link_agenda_completa": ""
+        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
+        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Educação Escolar Indígena: conheça programas e ações do MEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/educacao-escolar-indigena-conheca-programas-e-acoes-do-mec",
+          "data": "07/08/2026",
+          "resumo": "No Dia Internacional dos Povos Indígenas, celebrado em 9 de agosto, conheça as políticas públicas de educação escolar indígena, que abrangem formação docente, apoio às escolas e acesso ao ensino superior"
+        },
+        {
+          "titulo": "Fies 2026: iniciada convocação da lista de espera do 2º semestre",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/fies-2026-iniciada-convocacao-da-lista-de-espera-do-2o-semestre",
+          "data": "07/08/2026",
+          "resumo": "Participantes devem acompanhar eventual pré-seleção no endereço eletrônico do Fies Seleção entre 7 de agosto e 24 de setembro. Os pré-selecionados na lista de espera precisam cumprir as etapas e os prazos"
+        },
+        {
+          "titulo": "Próximo ciclo educacional focará em aprendizagem e equidade",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/proximo-ciclo-educacional-focara-em-aprendizagem-e-equidade",
+          "data": "07/08/2026",
+          "resumo": "Com a aprovação do Novo PNE, sancionado em abril de 2026, o MEC divulgará o Plano de Ação da União contendo o conjunto de políticas e programas que atendem às demandas do PNE 2026-2036"
+        },
+        {
+          "titulo": "Último dia para inscrição em Formação Continuada 2026",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultimo-dia-para-inscricao-em-formacao-continuada-2026",
+          "data": "07/08/2026",
+          "resumo": "Ação é voltada para gestores escolares, coordenadores pedagógicos e profissionais indicados pelas redes para atuarem como multiplicadores da formação. Objetivo é qualificar os projetos político-pedagógicos das escolas"
+        },
+        {
+          "titulo": "Último dia para atualizar o CadÚnico e ter direito ao Pé-de-Meia",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultimo-dia-para-atualizar-o-cadunico-e-ter-direito-ao-pe-de-meia",
+          "data": "07/08/2026",
+          "resumo": "Data de referência do Cadastro Único é 7 de agosto de 2026. Prazo integra os critérios do programa Pé-de-Meia a estudantes do ensino médio da rede pública"
+        },
+        {
+          "titulo": "Bolsa Permanência Prouni: confira regras e como solicitar",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/bolsa-permanencia-prouni-confira-regras-e-como-solicitar",
+          "data": "07/08/2026",
+          "resumo": "Estudantes beneficiários de bolsa integral do Prouni matriculados em cursos presenciais integrais podem solicitar a Bolsa Permanência. Confira os critérios de elegibilidade e como acessar o benefício"
+        },
+        {
+          "titulo": "Saeb 2025: consulte os resultados finais da avaliação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/saeb-2025-consulte-os-resultados-finais-da-avaliacao",
+          "data": "06/08/2026",
+          "resumo": "Dados da avaliação estão disponíveis para consulta no Saeb e abrangem escolas participantes de todo o país. Os resultados subsidiam análises e acompanhamento de indicadores da educação básica"
+        },
+        {
+          "titulo": "Ideb é maior em escolas com educação em tempo integral",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-e-maior-em-escolas-com-educacao-em-tempo-integral",
+          "data": "06/08/2026",
+          "resumo": "Levantamento divulgado na última quarta (5) apresenta o Ideb médio das escolas conforme o tempo médio de permanência dos estudantes em atividades escolares no ensino fundamental e no ensino médio"
+        },
+        {
+          "titulo": "MEC divulga período de inscrições para o Observatório da Educação Inclusiva",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-divulga-periodo-de-inscricoes-para-o-observatorio-da-educacao-inclusiva",
+          "data": "06/08/2026",
+          "resumo": "Docentes de Instituições de Ensino Superior públicas de todo o Brasil poderão submeter propostas entre os dias 24 de agosto e 5 de outubro"
+        },
+        {
+          "titulo": "Qualificação profissional para mulheres tem mais de 8 mil vagas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/qualificacao-profissional-para-mulheres-tem-mais-de-8-mil-vagas",
+          "data": "06/08/2026",
+          "resumo": "Cursos do programa Mulheres Mil são ofertados por instituições das redes estaduais e federal de educação profissional e tecnológica"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -21,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "",
+        "resumo": "6 Qui 7 Sex 8 Sáb 9 Dom 10 Seg 11 Ter 12 Qua Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
