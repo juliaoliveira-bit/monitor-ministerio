@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-08-10T11:38:45.455611+00:00",
+  "atualizado_em": "2026-08-10T21:43:57.295802+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação Redecarga estima R$ 18 milhões em prejuízos ao crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-redecarga-estima-r-18-milhoes-em-prejuizos-ao-crime-organizado",
+          "data": "10/08/2026",
+          "resumo": "Segunda edição da ação prendeu 154 pessoas, apreendeu 33 armas e 47 veículos e recuperou R$ 830 mil em cargas"
+        },
+        {
+          "titulo": "Senasp participa de Blitz do Autismo em ação de conscientização no Distrito Federal",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-participa-de-blitz-do-autismo-em-acao-de-conscientizacao-no-distrito-federal",
+          "data": "10/08/2026",
+          "resumo": "Mobilização reuniu órgãos de segurança, trânsito e entidades da sociedade civil e marcou a abertura da programação do Dia Internacional da Superdotação 2026"
+        },
+        {
+          "titulo": "Workshop promove alinhamento para segurança das Eleições 2026",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-promove-alinhamento-para-seguranca-das-eleicoes-2026",
+          "data": "10/08/2026",
+          "resumo": "Evento reúne em Brasília representantes das 27 unidades da Federação e órgãos federais"
+        },
         {
           "titulo": "Audiência internacional sobre Acesso à Justiça acontece em meio ao marco de 20 anos da Lei Maria da Penha",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/audiencia-internacional-sobre-acesso-a-justica-acontece-em-meio-ao-marco-de-20-anos-da-lei-maria-da-penha",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-de-pesar-2013-mjsp-lamenta-a-morte-do-secretario-geral-da-junta-nacional-de-drogas-do-uruguai-gabriel-rossi",
           "data": "06/08/2026",
           "resumo": ""
-        },
-        {
-          "titulo": "Brasil assume presidência de aliança internacional e anuncia novas ações contra o crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-assume-presidencia-de-alianca-internacional-e-anuncia-novas-acoes-contra-o-crime-organizado",
-          "data": "06/08/2026",
-          "resumo": "Acordo com BID e participação da Interpol em força-tarefa marcam encerramento da terceira edição do encontro"
-        },
-        {
-          "titulo": "Dia dos Pais: conheça os direitos do consumidor na compra de presentes",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes",
-          "data": "05/08/2026",
-          "resumo": "Orientações da Senacon destacam cuidados com preços, ofertas, prazos de entrega e políticas de troca"
-        },
-        {
-          "titulo": "Encontro Nacional de Chefes de Organismos de Inteligência de Segurança Pública reúne lideranças de todo o País",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-nacional-de-chefes-de-organismos-de-inteligencia-de-seguranca-publica-reune-liderancas-de-todo-o-pais",
-          "data": "05/08/2026",
-          "resumo": "Evento com cerca de 200 representantes das 27 unidades da Federação debate inteligência estratégica, IA e integração no enfrentamento ao crime organizado"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Escolas de fronteira poderão aderir ao Peif em setembro",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/escolas-de-fronteira-poderao-aderir-ao-peif-em-setembro",
+          "data": "10/08/2026",
+          "resumo": "Secretarias de educação e escolas elegíveis deverão realizar a adesão ao Programa Escolas Interculturais de Fronteira pelo PDDE Interativo. Repasses às unidades participantes estão previstos para novembro"
+        },
+        {
+          "titulo": "Ideb 2025 apresenta resultados estaduais da EPT articulada ao ensino médio",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-2025-apresenta-resultados-estaduais-da-ept-articulada-ao-ensino-medio",
+          "data": "10/08/2026",
+          "resumo": "Indicador considera as diferentes formas de articulação da educação profissional técnica de nível médio e permite uma representação mais abrangente das matrículas que compõem as redes estaduais"
+        },
+        {
+          "titulo": "Última semana para participar da Consulta ao Marco Regulatório da EaD",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultima-semana-para-participar-da-consulta-ao-marco-regulatorio-da-ead",
+          "data": "10/08/2026",
+          "resumo": "Objetivo é receber sugestões e análises que subsidiarão a consolidação definitiva da nova regulamentação para a modalidade de ensino. Interessados têm até 14 de agosto para contribuir por meio do Brasil Participativo"
+        },
         {
           "titulo": "Educação Escolar Indígena: conheça programas e ações do MEC",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/educacao-escolar-indigena-conheca-programas-e-acoes-do-mec",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/saeb-2025-consulte-os-resultados-finais-da-avaliacao",
           "data": "06/08/2026",
           "resumo": "Dados da avaliação estão disponíveis para consulta no Saeb e abrangem escolas participantes de todo o país. Os resultados subsidiam análises e acompanhamento de indicadores da educação básica"
-        },
-        {
-          "titulo": "Ideb é maior em escolas com educação em tempo integral",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-e-maior-em-escolas-com-educacao-em-tempo-integral",
-          "data": "06/08/2026",
-          "resumo": "Levantamento divulgado na última quarta (5) apresenta o Ideb médio das escolas conforme o tempo médio de permanência dos estudantes em atividades escolares no ensino fundamental e no ensino médio"
-        },
-        {
-          "titulo": "MEC divulga período de inscrições para o Observatório da Educação Inclusiva",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-divulga-periodo-de-inscricoes-para-o-observatorio-da-educacao-inclusiva",
-          "data": "06/08/2026",
-          "resumo": "Docentes de Instituições de Ensino Superior públicas de todo o Brasil poderão submeter propostas entre os dias 24 de agosto e 5 de outubro"
-        },
-        {
-          "titulo": "Qualificação profissional para mulheres tem mais de 8 mil vagas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/qualificacao-profissional-para-mulheres-tem-mais-de-8-mil-vagas",
-          "data": "06/08/2026",
-          "resumo": "Cursos do programa Mulheres Mil são ofertados por instituições das redes estaduais e federal de educação profissional e tecnológica"
         }
       ],
       "agenda": {
