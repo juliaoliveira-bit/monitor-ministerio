@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-08-11T11:34:12.200215+00:00",
+  "atualizado_em": "2026-08-11T21:51:58.540307+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Cooperação jurídica internacional em matéria civil é tema de Câmara Técnica da Secretaria Nacional de Justiça",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cooperacao-juridica-internacional-em-materia-civil-e-tema-de-camara-tecnica-da-secretaria-nacional-de-justica",
+          "data": "11/08/2026",
+          "resumo": "Especialistas discutiram o aperfeiçoamento de mecanismos de cooperação jurídica internacional voltados à proteção de direitos de famílias, cidadãos e empresas em situações transnacionais"
+        },
         {
           "titulo": "Sessão especial no Senado celebra o primeiro Dia Nacional da Proteção de Dados",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sessao-especial-no-senado-celebra-o-primeiro-dia-nacional-da-protecao-de-dados-1",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-internacional-dos-povos-indigenas-destaca-acoes-de-protecao-territorial-e-acesso-a-direitos",
           "data": "07/08/2026",
           "resumo": "Senad reúne inteligência, prevenção, desenvolvimento sustentável e políticas públicas para reduzir vulnerabilidades em territórios indígenas"
-        },
-        {
-          "titulo": "Quinta edição do Curso de Comportamento do Fogo em Compartimentos é realizada em Brasília",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/quinta-edicao-do-curso-de-comportamento-do-fogo-em-compartimentos-e-realizada-em-brasilia",
-          "data": "07/08/2026",
-          "resumo": "Capacitação reúne profissionais dos Corpos de Bombeiros Militares de 10 unidades da Federação"
         }
       ],
       "agenda": {
@@ -74,6 +74,54 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "Educação em tempo integral proporciona atividades além da sala de aula",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/educacao-em-tempo-integral-proporciona-atividades-alem-da-sala-de-aula",
+          "data": "11/08/2026",
+          "resumo": "Jornada igual ou superior a sete horas diárias permite que estudantes tenham acesso a atividades que possibilitam desenvolver habilidades esportivas, tecnológicas, culturais, socioemocionais e cognitivas"
+        },
+        {
+          "titulo": "Seleção do ProLEEI abre inscrições em 17 de agosto",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/selecao-do-proleei-abre-inscricoes-em-17-de-agosto",
+          "data": "11/08/2026",
+          "resumo": "Processo seletivo de instituições federais definirá as responsáveis pela formação continuada de professores da educação infantil em 2027, uma das ações do Programa Leitura e Escrita na Educação Infantil (ProLEEI)"
+        },
+        {
+          "titulo": "Rede Certifica oferta formação para profissionais da EPT",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/rede-certifica-oferta-formacao-para-profissionais-da-ept",
+          "data": "11/08/2026",
+          "resumo": "Capacitação virtual gratuita começará na quarta-feira, 12 de agosto, para orientar redes ofertantes sobre adesão ao programa de certificação profissional voltado ao reconhecimento de competências profissionais"
+        },
+        {
+          "titulo": "Caderno Equidade: inscrições seguem até 28 de agosto",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/caderno-equidade-inscricoes-seguem-ate-28-de-agosto",
+          "data": "11/08/2026",
+          "resumo": "Artigos para a composição do Caderno Equidade deverão abranger as áreas de educação bilíngue de surdos e educação especial inclusiva"
+        },
+        {
+          "titulo": "Pnae atende cerca de 40 milhões de estudantes de escolas públicas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pnae-atende-cerca-de-40-milhoes-de-estudantes-de-escolas-publicas",
+          "data": "11/08/2026",
+          "resumo": "Legislação do Programa Nacional de Alimentação Escolar define regras para aquisição de alimentos e planejamento dos cardápios destinados aos estudantes da educação básica pública"
+        },
+        {
+          "titulo": "Universidades federais abrem 11 mil vagas em novos cursos para 2027",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/universidades-federais-abrem-11-mil-vagas-em-novos-cursos-para-2027",
+          "data": "11/08/2026",
+          "resumo": "Estimuladas pelo MEC, 65 universidades federais do país passarão a oferecer vagas em 244 novos cursos de graduação a partir do ano que vem"
+        },
+        {
+          "titulo": "Confira como acessar os resultados do Ideb por escola",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/confira-como-acessar-os-resultados-do-ideb-por-escola",
+          "data": "11/08/2026",
+          "resumo": "Plataforma on-line disponibilizada pelo Inep permite verificar os resultados do Ideb 2025 por unidade escolar e acessar indicadores nacionais, estaduais e municipais"
+        },
+        {
+          "titulo": "Prouni: última semana para comprovar informações da inscrição",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prouni-ultima-semana-para-comprovar-informacoes-da-inscricao",
+          "data": "11/08/2026",
+          "resumo": "Estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos devem apresentar a documentação na instituição de ensino superior até sexta-feira, 14 de agosto"
+        },
+        {
           "titulo": "Ferramentas auxiliam estudantes na preparação para o Enem",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ferramentas-auxiliam-estudantes-na-preparacao-para-o-enem",
           "data": "10/08/2026",
@@ -84,54 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ifrr-oferece-oficinas-gratuitas-na-area-de-musica-e-danca",
           "data": "10/08/2026",
           "resumo": "Inscrições vão até sexta-feira, 14 de agosto, para 240 vagas distribuídas nos três turnos em cursos de curta duração. Formação ocorre no Campus Boa Vista do Instituto Federal de Roraima"
-        },
-        {
-          "titulo": "Escolas de fronteira poderão aderir ao Peif em setembro",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/escolas-de-fronteira-poderao-aderir-ao-peif-em-setembro",
-          "data": "10/08/2026",
-          "resumo": "Secretarias de educação e escolas elegíveis deverão realizar a adesão ao Programa Escolas Interculturais de Fronteira pelo PDDE Interativo. Repasses às unidades participantes estão previstos para novembro"
-        },
-        {
-          "titulo": "Ideb 2025 apresenta resultados estaduais da EPT articulada ao ensino médio",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-2025-apresenta-resultados-estaduais-da-ept-articulada-ao-ensino-medio",
-          "data": "10/08/2026",
-          "resumo": "Indicador considera as diferentes formas de articulação da educação profissional técnica de nível médio e permite uma representação mais abrangente das matrículas que compõem as redes estaduais"
-        },
-        {
-          "titulo": "Última semana para participar da Consulta ao Marco Regulatório da EaD",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultima-semana-para-participar-da-consulta-ao-marco-regulatorio-da-ead",
-          "data": "10/08/2026",
-          "resumo": "Objetivo é receber sugestões e análises que subsidiarão a consolidação definitiva da nova regulamentação para a modalidade de ensino. Interessados têm até 14 de agosto para contribuir por meio do Brasil Participativo"
-        },
-        {
-          "titulo": "Educação Escolar Indígena: conheça programas e ações do MEC",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/educacao-escolar-indigena-conheca-programas-e-acoes-do-mec",
-          "data": "07/08/2026",
-          "resumo": "No Dia Internacional dos Povos Indígenas, celebrado em 9 de agosto, conheça as políticas públicas de educação escolar indígena, que abrangem formação docente, apoio às escolas e acesso ao ensino superior"
-        },
-        {
-          "titulo": "Fies 2026: iniciada convocação da lista de espera do 2º semestre",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/fies-2026-iniciada-convocacao-da-lista-de-espera-do-2o-semestre",
-          "data": "07/08/2026",
-          "resumo": "Participantes devem acompanhar eventual pré-seleção no endereço eletrônico do Fies Seleção entre 7 de agosto e 24 de setembro. Os pré-selecionados na lista de espera precisam cumprir as etapas e os prazos"
-        },
-        {
-          "titulo": "Próximo ciclo educacional focará em aprendizagem e equidade",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/proximo-ciclo-educacional-focara-em-aprendizagem-e-equidade",
-          "data": "07/08/2026",
-          "resumo": "Com a aprovação do Novo PNE, sancionado em abril de 2026, o MEC divulgará o Plano de Ação da União contendo o conjunto de políticas e programas que atendem às demandas do PNE 2026-2036"
-        },
-        {
-          "titulo": "Último dia para inscrição em Formação Continuada 2026",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultimo-dia-para-inscricao-em-formacao-continuada-2026",
-          "data": "07/08/2026",
-          "resumo": "Ação é voltada para gestores escolares, coordenadores pedagógicos e profissionais indicados pelas redes para atuarem como multiplicadores da formação. Objetivo é qualificar os projetos político-pedagógicos das escolas"
-        },
-        {
-          "titulo": "Último dia para atualizar o CadÚnico e ter direito ao Pé-de-Meia",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultimo-dia-para-atualizar-o-cadunico-e-ter-direito-ao-pe-de-meia",
-          "data": "07/08/2026",
-          "resumo": "Data de referência do Cadastro Único é 7 de agosto de 2026. Prazo integra os critérios do programa Pé-de-Meia a estudantes do ensino médio da rede pública"
         }
       ],
       "agenda": {
