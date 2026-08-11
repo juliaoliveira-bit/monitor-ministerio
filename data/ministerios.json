@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-08-10T21:43:57.295802+00:00",
+  "atualizado_em": "2026-08-11T11:34:12.200215+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Sessão especial no Senado celebra o primeiro Dia Nacional da Proteção de Dados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sessao-especial-no-senado-celebra-o-primeiro-dia-nacional-da-protecao-de-dados-1",
+          "data": "10/08/2026",
+          "resumo": "Evento reúne representantes dos Três Poderes e da sociedade civil para discutir privacidade e direitos digitais e homenageia o jurista Danilo Doneda"
+        },
+        {
+          "titulo": "Senad e Copolad III iniciam visita técnica sobre prevenção ampliada",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-e-copolad-iii-iniciam-visita-tecnica-sobre-prevencao-ampliada",
+          "data": "10/08/2026",
+          "resumo": "Agenda segue até 14 de agosto, com atividades em Brasília, Recife e Rio de Janeiro para conhecer experiências brasileiras de prevenção, proteção de jovens e atuação territorial"
+        },
+        {
+          "titulo": "Fiscalização de bets é tema de oficina com órgãos de defesa do consumidor",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/fiscalizacao-de-bets-e-tema-de-oficina-com-orgaos-de-defesa-do-consumidor-1",
+          "data": "10/08/2026",
+          "resumo": "Atividade em Brasília reuniu órgãos e entidades para alinhamentos estratégicos de combate a ilegalidades"
+        },
         {
           "titulo": "Operação Redecarga estima R$ 18 milhões em prejuízos ao crime organizado",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-redecarga-estima-r-18-milhoes-em-prejuizos-ao-crime-organizado",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/quinta-edicao-do-curso-de-comportamento-do-fogo-em-compartimentos-e-realizada-em-brasilia",
           "data": "07/08/2026",
           "resumo": "Capacitação reúne profissionais dos Corpos de Bombeiros Militares de 10 unidades da Federação"
-        },
-        {
-          "titulo": "Diagnóstico apresenta panorama das unidades especializadas de atendimento às mulheres",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/10o-diagnostico-nacional-reune-dados-sobre-as-unidades-de-policia-civil-especializadas-no-atendimento-as-mulheres",
-          "data": "07/08/2026",
-          "resumo": "Estudo traz novos indicadores sobre funcionamento, capacidade de atendimento e estrutura da rede especializada"
-        },
-        {
-          "titulo": "Nova lei amplia medidas de combate à violência sexual contra crianças e adolescentes no ambiente digital",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-amplia-medidas-de-combate-a-violencia-sexual-contra-criancas-e-adolescentes-no-ambiente-digital",
-          "data": "07/08/2026",
-          "resumo": "Texto atualiza normas penais e o Estatuto da Criança e do Adolescente, que passa a prever medidas relacionadas ao ambiente digital e ao uso de inteligência artificial"
-        },
-        {
-          "titulo": "Nota de Pesar – MJSP lamenta a morte do secretário-geral da Junta Nacional de Drogas do Uruguai, Gabriel Rossi",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-de-pesar-2013-mjsp-lamenta-a-morte-do-secretario-geral-da-junta-nacional-de-drogas-do-uruguai-gabriel-rossi",
-          "data": "06/08/2026",
-          "resumo": ""
         }
       ],
       "agenda": {
@@ -73,6 +73,18 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Ferramentas auxiliam estudantes na preparação para o Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ferramentas-auxiliam-estudantes-na-preparacao-para-o-enem",
+          "data": "10/08/2026",
+          "resumo": "MEC Enem, MEC Livros e MEC Idiomas disponibilizam instrumentos para complementar a aprendizagem dos candidatos, como simulados completos, cronogramas de estudo, livros, aulas de línguas estrangeiras e correção de redação"
+        },
+        {
+          "titulo": "IFRR oferece oficinas gratuitas na área de música e dança",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ifrr-oferece-oficinas-gratuitas-na-area-de-musica-e-danca",
+          "data": "10/08/2026",
+          "resumo": "Inscrições vão até sexta-feira, 14 de agosto, para 240 vagas distribuídas nos três turnos em cursos de curta duração. Formação ocorre no Campus Boa Vista do Instituto Federal de Roraima"
+        },
         {
           "titulo": "Escolas de fronteira poderão aderir ao Peif em setembro",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/escolas-de-fronteira-poderao-aderir-ao-peif-em-setembro",
@@ -120,18 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ultimo-dia-para-atualizar-o-cadunico-e-ter-direito-ao-pe-de-meia",
           "data": "07/08/2026",
           "resumo": "Data de referência do Cadastro Único é 7 de agosto de 2026. Prazo integra os critérios do programa Pé-de-Meia a estudantes do ensino médio da rede pública"
-        },
-        {
-          "titulo": "Bolsa Permanência Prouni: confira regras e como solicitar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/bolsa-permanencia-prouni-confira-regras-e-como-solicitar",
-          "data": "07/08/2026",
-          "resumo": "Estudantes beneficiários de bolsa integral do Prouni matriculados em cursos presenciais integrais podem solicitar a Bolsa Permanência. Confira os critérios de elegibilidade e como acessar o benefício"
-        },
-        {
-          "titulo": "Saeb 2025: consulte os resultados finais da avaliação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/saeb-2025-consulte-os-resultados-finais-da-avaliacao",
-          "data": "06/08/2026",
-          "resumo": "Dados da avaliação estão disponíveis para consulta no Saeb e abrangem escolas participantes de todo o país. Os resultados subsidiam análises e acompanhamento de indicadores da educação básica"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "7 Sex 8 Sáb 9 Dom 10 Seg 11 Ter 12 Qua 13 Qui Atualmente não existem compromissos agendados.",
+        "resumo": "8 Sáb 9 Dom 10 Seg 11 Ter 12 Qua 13 Qui 14 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
