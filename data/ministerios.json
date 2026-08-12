@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-08-12T11:35:59.616737+00:00",
+  "atualizado_em": "2026-08-12T21:49:49.130749+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Escola Nacional de Segurança Pública lança Curso de enfrentamento aos crimes financeiros cibernéticos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-de-enfrentamento-aos-crimes-financeiros-ciberneticos",
+          "data": "12/08/2026",
+          "resumo": "Capacitação disponível na Rede EaD Senasp aborda fraudes bancárias e golpes digitais e apresenta técnicas para investigação desses crimes"
+        },
+        {
+          "titulo": "Operação Omnes faz 724 prisões relacionadas aos crimes de homicídio e feminicídio; número total de detenções chega a quase 12 mil",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-omnes-faz-724-prisoes-relacionadas-aos-crimes-de-homicidio-e-feminicidio-numero-total-de-detencoes-chega-a-quase-12-mil-1",
+          "data": "12/08/2026",
+          "resumo": "Atuação integrada reúne a Polícia Federal, forças estaduais e outras instituições no combate a crimes contra a vida em todo o País"
+        },
+        {
+          "titulo": "Página do MJSP reúne conteúdos sobre justiça étnico-racial na política sobre drogas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pagina-do-mjsp-reune-conteudos-sobre-justica-etnico-racial-na-politica-sobre-drogas",
+          "data": "12/08/2026",
+          "resumo": "Ambiente do Observatório Brasileiro de Informações sobre Drogas disponibiliza dados, publicações e materiais sobre povos indígenas e população negra e periférica"
+        },
         {
           "titulo": "Cooperação jurídica internacional em matéria civil é tema de Câmara Técnica da Secretaria Nacional de Justiça",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cooperacao-juridica-internacional-em-materia-civil-e-tema-de-camara-tecnica-da-secretaria-nacional-de-justica",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-promove-alinhamento-para-seguranca-das-eleicoes-2026",
           "data": "10/08/2026",
           "resumo": "Evento reúne em Brasília representantes das 27 unidades da Federação e órgãos federais"
-        },
-        {
-          "titulo": "Audiência internacional sobre Acesso à Justiça acontece em meio ao marco de 20 anos da Lei Maria da Penha",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/audiencia-internacional-sobre-acesso-a-justica-acontece-em-meio-ao-marco-de-20-anos-da-lei-maria-da-penha",
-          "data": "07/08/2026",
-          "resumo": "Delegação apresenta diagnóstico ao Conselho Nacional de direitos Humanos sobre a efetividade das políticas de proteção de direitos"
-        },
-        {
-          "titulo": "Território Seguro, Amazônia Soberana alinha ações integradas para Amazônia Legal e faixa de fronteira",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/politica-sobre-drogas",
-          "data": "07/08/2026",
-          "resumo": "Encontro definiu critérios para priorização territorial e apresentou os quatro eixos de atuação previstos para a implementação do programa"
-        },
-        {
-          "titulo": "Dia Internacional dos Povos Indígenas destaca ações de proteção territorial e acesso a direitos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-internacional-dos-povos-indigenas-destaca-acoes-de-protecao-territorial-e-acesso-a-direitos",
-          "data": "07/08/2026",
-          "resumo": "Senad reúne inteligência, prevenção, desenvolvimento sustentável e políticas públicas para reduzir vulnerabilidades em territórios indígenas"
         }
       ],
       "agenda": {
@@ -73,6 +73,30 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Clique Escola oferece dados e serviços educacionais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/clique-escola-oferece-dados-e-servicos-educacionais",
+          "data": "12/08/2026",
+          "resumo": "Aplicativo gratuito do MEC reúne projetos, indicadores educacionais, dados de escolas, cursos e informações financeiras, além de conectar gestores e facilitar o acesso a conteúdos e serviços da educação"
+        },
+        {
+          "titulo": "MEC cria grupos de trabalho para profissionais das Ifes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-cria-grupos-de-trabalho-para-profissionais-das-ifes",
+          "data": "12/08/2026",
+          "resumo": "Objetivo é elaborar subsídios para aprimorar ações de saúde dos trabalhadores das instituições federais de educação superior e discutir sobre a regulamentação de afastamento para formação complementar e pós-graduação"
+        },
+        {
+          "titulo": "MEC apresenta alimentação escolar brasileira à Etiópia",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-apresenta-alimentacao-escolar-brasileira-a-etiopia",
+          "data": "12/08/2026",
+          "resumo": "Ministra da Educação do país africano lidera missão no Brasil. Delegação veio conhecer de perto como a agricultura familiar contribui para a qualidade das refeições nas escolas"
+        },
+        {
+          "titulo": "Dia da Juventude: MEC destaca leitura como parte da formação dos jovens brasileiros",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/dia-da-juventude-mec-celebra-a-forca-dos-jovens-brasileiros",
+          "data": "12/08/2026",
+          "resumo": "No Dia Internacional da Juventude, celebrado em 12 de agosto, estudantes da educação básica têm acesso a livros didáticos, obras literárias e acervos digitais por meio de programas públicos de leitura"
+        },
         {
           "titulo": "Educação em tempo integral proporciona atividades além da sala de aula",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/educacao-em-tempo-integral-proporciona-atividades-alem-da-sala-de-aula",
@@ -108,30 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/universidades-federais-abrem-11-mil-vagas-em-novos-cursos-para-2027",
           "data": "11/08/2026",
           "resumo": "Estimuladas pelo MEC, 65 universidades federais do país passarão a oferecer vagas em 244 novos cursos de graduação a partir do ano que vem"
-        },
-        {
-          "titulo": "Confira como acessar os resultados do Ideb por escola",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/confira-como-acessar-os-resultados-do-ideb-por-escola",
-          "data": "11/08/2026",
-          "resumo": "Plataforma on-line disponibilizada pelo Inep permite verificar os resultados do Ideb 2025 por unidade escolar e acessar indicadores nacionais, estaduais e municipais"
-        },
-        {
-          "titulo": "Prouni: última semana para comprovar informações da inscrição",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prouni-ultima-semana-para-comprovar-informacoes-da-inscricao",
-          "data": "11/08/2026",
-          "resumo": "Estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos devem apresentar a documentação na instituição de ensino superior até sexta-feira, 14 de agosto"
-        },
-        {
-          "titulo": "Ferramentas auxiliam estudantes na preparação para o Enem",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ferramentas-auxiliam-estudantes-na-preparacao-para-o-enem",
-          "data": "10/08/2026",
-          "resumo": "MEC Enem, MEC Livros e MEC Idiomas disponibilizam instrumentos para complementar a aprendizagem dos candidatos, como simulados completos, cronogramas de estudo, livros, aulas de línguas estrangeiras e correção de redação"
-        },
-        {
-          "titulo": "IFRR oferece oficinas gratuitas na área de música e dança",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ifrr-oferece-oficinas-gratuitas-na-area-de-musica-e-danca",
-          "data": "10/08/2026",
-          "resumo": "Inscrições vão até sexta-feira, 14 de agosto, para 240 vagas distribuídas nos três turnos em cursos de curta duração. Formação ocorre no Campus Boa Vista do Instituto Federal de Roraima"
         }
       ],
       "agenda": {
@@ -141,7 +141,68 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Entenda a ciência por trás dos maiores eclipses solares",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/entenda-a-ciencia-por-tras-dos-maiores-eclipses-solares",
+          "data": "12/08/2026",
+          "resumo": "Combinação precisa entre as trajetórias da Terra e da Lua com o Sol garante minutos extras de escuridão"
+        },
+        {
+          "titulo": "Por que o próximo eclipse solar total visível no Brasil será só em 2045? A ciência explica",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/por-que-o-proximo-eclipse-solar-visivel-no-brasil-sera-so-em-2045-a-ciencia-explica",
+          "data": "11/08/2026",
+          "resumo": "O que ocorrerá nesta quarta-feira (12) não poderá ser visto no território brasileiro. O Observatório Nacional, vinculado ao MCTI, nos ajuda a entender esse fenômeno"
+        },
+        {
+          "titulo": "Como acompanhar a chuva na sua cidade pelo Mapa Interativo do Cemaden",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/como-acompanhar-a-chuva-na-sua-cidade-pelo-mapa-interativo-do-cemaden",
+          "data": "11/08/2026",
+          "resumo": "Ferramenta gratuita reúne informações de pluviômetros, estações hidrológicas e radares meteorológicos e permite acompanhar as condições de chuva em diferentes regiões do País"
+        },
+        {
+          "titulo": "Estão abertas as inscrições para o mestrado em Museologia e Patrimônio do Mast",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/estao-abertas-as-inscricoes-para-o-mestrado-em-museologia-e-patrimonio-do-mast",
+          "data": "10/08/2026",
+          "resumo": "Processo seletivo é composto por avaliação do projeto de pesquisa, provas escrita, de idiomas e oral"
+        },
+        {
+          "titulo": "Às margens do Lago Tefé (AM), biblioteca reúne 28 mil obras científicas sobre a Amazônia",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/as-margens-do-lago-tefe-am-biblioteca-reune-28-mil-obras-cientificas-sobre-a-amazonia",
+          "data": "10/08/2026",
+          "resumo": "Acervo conta com publicações sobre conservação da biodiversidade, uso sustentável dos recursos naturais, estudos sobre populações ribeirinhas e diversidade socioambiental"
+        },
+        {
+          "titulo": "Saiba como consultar a previsão de risco de deslizamentos pelo GeoRisk do Cemaden",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sabia-como-consultar-a-previsao-de-risco-de-deslizamentos-pelo-georisk-do-cemaden",
+          "data": "07/08/2026",
+          "resumo": "Plataforma gratuita permite acompanhar previsões automáticas de risco de deslizamentos em diferentes regiões do Brasil e verificar informações detalhadas por município"
+        },
+        {
+          "titulo": "Mestrado em Preservação de Acervos do Mast oferece 15 vagas",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mestrado-em-preservacao-de-acervos-do-mast-oferece-15-vagas",
+          "data": "07/08/2026",
+          "resumo": "Inscrições estão abertas até 4 de setembro. Candidatos devem passar por provas escrita, oral e de idiomas"
+        },
+        {
+          "titulo": "Inpe divulga, nesta sexta-feira (7), dados do Deter que orientam o combate ao desmatamento no Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inpe-divulga-nesta-sexta-feira-7-dados-do-deter-que-orientam-o-combate-ao-desmatamento-no-brasil",
+          "data": "06/08/2026",
+          "resumo": "Levantamento referente a julho de 2026 encerra o ciclo anual de monitoramento e subsidia ações de fiscalização e proteção dos biomas brasileiros"
+        },
+        {
+          "titulo": "Software desenvolvido pelo LNCC aumenta a precisão de simulações dos reservatórios do pré-sal brasileiro",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/software-desenvolvido-pelo-lncc-aumenta-a-precisao-de-simulacoes-dos-reservatorios-do-pre-sal-brasileiro",
+          "data": "06/08/2026",
+          "resumo": "Ferramenta calibra medidas feitas em laboratório para a realidade de alta pressão do subsolo oceânico. Nova tecnologia vai contribuir para elaboração de estratégias da transição energética"
+        },
+        {
+          "titulo": "Nova técnica acelera testes de materiais e apoia o desenvolvimento de implantes dentários",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/nova-tecnica-acelera-testes-de-materiais-e-apoia-o-desenvolvimento-de-implantes-dentarios",
+          "data": "06/08/2026",
+          "resumo": "Método desenvolvido por unidade de pesquisa do MCTI passa agora para a fase de adequação regulatória e estudos para ampliar a escala de produção"
+        }
+      ],
       "agenda": {
         "resumo": "9 Dom 10 Seg 11 Ter 12 Qua 13 Qui 14 Sex 15 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
