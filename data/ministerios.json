@@ -1,9 +1,39 @@
 {
-  "atualizado_em": "2026-08-13T11:36:09.817379+00:00",
+  "atualizado_em": "2026-08-13T21:49:39.002039+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Ministro da Justiça e Segurança Pública se reúne com procurador-geral do ES para fortalecer diálogo entre instituições",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-se-reune-com-procurador-geral-do-es-para-fortalecer-dialogo-entre-instituicoes",
+          "data": "13/08/2026",
+          "resumo": "Agenda também abordou a articulação entre os órgãos do sistema de Justiça e de segurança pública e questões relacionadas ao período eleitoral"
+        },
+        {
+          "titulo": "Ações integradas geram R$ 7,6 bilhões em prejuízo estimado às organizações criminosas e apreendem 336,4 toneladas de drogas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acoes-integradas-geram-r-7-6-bilhoes-em-prejuizo-estimado-as-organizacoes-criminosas-e-apreendem-336-4-toneladas-de-drogas",
+          "data": "13/08/2026",
+          "resumo": "Em 90 dias, ações também resultaram em 25,5 mil prisões e no bloqueio de R$ 103 milhões relacionados a fraudes digitais"
+        },
+        {
+          "titulo": "Operação Mute é realizada no sistema prisional do Espírito Santo",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-mute-e-realizada-no-sistema-prisional-do-espirito-santo",
+          "data": "13/08/2026",
+          "resumo": "Ação realizada em Viana (ES) mobilizou 105 policiais penais e incluiu demonstração de equipamentos destinados ao sistema prisional"
+        },
+        {
+          "titulo": "Operação Juris Fictio desarticula grupo suspeito de aplicar golpe do falso advogado contra idosos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-juris-fictio-desarticula-grupo-suspeito-de-aplicar-golpe-do-falso-advogado-contra-idosos",
+          "data": "13/08/2026",
+          "resumo": "Foram cumpridos 16 mandados de prisão preventiva e 32 de busca e apreensão domiciliar no Ceará; vítima sofreu prejuízo de R$ 150 mil"
+        },
+        {
+          "titulo": "Oficina debate crédito ao consumidor e combate ao endividamento",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/oficina-debate-credito-ao-consumidor-e-combate-ao-endividamento",
+          "data": "13/08/2026",
+          "resumo": "Encontro reúne Procons de todo o País e apresenta estratégia nacional com criação e fortalecimento de Núcleo de Prevenção ao Endividamento"
+        },
         {
           "titulo": "Senajus discute mecanismos para agilizar cooperação jurídica penal em áreas de fronteira",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-discute-mecanismos-para-agilizar-cooperacao-juridica-penal-em-areas-de-fronteira",
@@ -33,36 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pagina-do-mjsp-reune-conteudos-sobre-justica-etnico-racial-na-politica-sobre-drogas",
           "data": "12/08/2026",
           "resumo": "Ambiente do Observatório Brasileiro de Informações sobre Drogas disponibiliza dados, publicações e materiais sobre povos indígenas e população negra e periférica"
-        },
-        {
-          "titulo": "Cooperação jurídica internacional em matéria civil é tema de Câmara Técnica da Secretaria Nacional de Justiça",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cooperacao-juridica-internacional-em-materia-civil-e-tema-de-camara-tecnica-da-secretaria-nacional-de-justica",
-          "data": "11/08/2026",
-          "resumo": "Especialistas discutiram o aperfeiçoamento de mecanismos de cooperação jurídica internacional voltados à proteção de direitos de famílias, cidadãos e empresas em situações transnacionais"
-        },
-        {
-          "titulo": "Sessão especial no Senado celebra o primeiro Dia Nacional da Proteção de Dados",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sessao-especial-no-senado-celebra-o-primeiro-dia-nacional-da-protecao-de-dados-1",
-          "data": "10/08/2026",
-          "resumo": "Evento reúne representantes dos Três Poderes e da sociedade civil para discutir privacidade e direitos digitais e homenageia o jurista Danilo Doneda"
-        },
-        {
-          "titulo": "Senad e Copolad III iniciam visita técnica sobre prevenção ampliada",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-e-copolad-iii-iniciam-visita-tecnica-sobre-prevencao-ampliada",
-          "data": "10/08/2026",
-          "resumo": "Agenda segue até 14 de agosto, com atividades em Brasília, Recife e Rio de Janeiro para conhecer experiências brasileiras de prevenção, proteção de jovens e atuação territorial"
-        },
-        {
-          "titulo": "Fiscalização de bets é tema de oficina com órgãos de defesa do consumidor",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/fiscalizacao-de-bets-e-tema-de-oficina-com-orgaos-de-defesa-do-consumidor-1",
-          "data": "10/08/2026",
-          "resumo": "Atividade em Brasília reuniu órgãos e entidades para alinhamentos estratégicos de combate a ilegalidades"
-        },
-        {
-          "titulo": "Operação Redecarga estima R$ 18 milhões em prejuízos ao crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-redecarga-estima-r-18-milhoes-em-prejuizos-ao-crime-organizado",
-          "data": "10/08/2026",
-          "resumo": "Segunda edição da ação prendeu 154 pessoas, apreendeu 33 armas e 47 veículos e recuperou R$ 830 mil em cargas"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Cursinhos populares ampliam oportunidades para o Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cursinhos-populares-ampliam-oportunidades-para-o-enem",
+          "data": "13/08/2026",
+          "resumo": "Rede Nacional de Cursinhos Populares oferece apoio técnico e financeiro a iniciativas populares e comunitárias que preparam estudantes para o Enem e outros processos seletivos de acesso à educação superior pública"
+        },
+        {
+          "titulo": "Saiba como consultar cursos e instituições de educação superior",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/saiba-como-consultar-cursos-e-instituicoes-de-educacao-superior",
+          "data": "13/08/2026",
+          "resumo": "Sistema e-MEC permite conferir se instituições e cursos de graduação estão credenciados, reconhecidos ou autorizados pelo MEC"
+        },
+        {
+          "titulo": "MEC orienta redes sobre preenchimento do Fundeb VAAR",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-orienta-redes-sobre-preenchimento-do-fundeb-vaar",
+          "data": "13/08/2026",
+          "resumo": "Prazo para registro das informações sobre as condicionalidades do Fundeb-VAAR termina em 31 de agosto. Habilitação é requisito para recebimento da complementação no exercício de 2027"
+        },
         {
           "titulo": "Resolução regulamenta bolsas e atividades de residentes",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/resolucao-regulamenta-bolsas-e-atividades-de-residentes",
@@ -89,7 +107,7 @@
           "titulo": "Cursos técnicos integram formação, esporte e cultura",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cursos-tecnicos-integram-formacao-esporte-e-cultura",
           "data": "12/08/2026",
-          "resumo": "Formação profissional técnica de nível médio alia conhecimentos teóricos e práticos a atividades esportivas e culturais, contribuindo para o desenvolvimento integral e a preparação dos estudantes da rede"
+          "resumo": "Formação profissional técnica de nível médio alia conhecimentos teóricos e práticos a atividades esportivas e culturais, contribuindo para o desenvolvimento integral e a preparação dos estudantes"
         },
         {
           "titulo": "MEC disponibilizará novos cursos do Programa Escola que Protege",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-apresenta-alimentacao-escolar-brasileira-a-etiopia",
           "data": "12/08/2026",
           "resumo": "Ministra da Educação do país africano lidera missão no Brasil. Delegação veio conhecer de perto como a agricultura familiar contribui para a qualidade das refeições nas escolas"
-        },
-        {
-          "titulo": "Dia da Juventude: MEC destaca leitura como parte da formação dos jovens brasileiros",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/dia-da-juventude-mec-celebra-a-forca-dos-jovens-brasileiros",
-          "data": "12/08/2026",
-          "resumo": "No Dia Internacional da Juventude, celebrado em 12 de agosto, estudantes da educação básica têm acesso a livros didáticos, obras literárias e acervos digitais por meio de programas públicos de leitura"
-        },
-        {
-          "titulo": "Educação em tempo integral proporciona atividades além da sala de aula",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/educacao-em-tempo-integral-proporciona-atividades-alem-da-sala-de-aula",
-          "data": "11/08/2026",
-          "resumo": "Jornada igual ou superior a sete horas diárias permite que estudantes tenham acesso a atividades que possibilitam desenvolver habilidades esportivas, tecnológicas, culturais, socioemocionais e cognitivas"
-        },
-        {
-          "titulo": "Seleção do ProLEEI abre inscrições em 17 de agosto",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/selecao-do-proleei-abre-inscricoes-em-17-de-agosto",
-          "data": "11/08/2026",
-          "resumo": "Processo seletivo de instituições federais definirá as responsáveis pela formação continuada de professores da educação infantil em 2027, uma das ações do Programa Leitura e Escrita na Educação Infantil (ProLEEI)"
         }
       ],
       "agenda": {
