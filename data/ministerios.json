@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-08-12T21:49:49.130749+00:00",
+  "atualizado_em": "2026-08-13T11:36:09.817379+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senajus discute mecanismos para agilizar cooperação jurídica penal em áreas de fronteira",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-discute-mecanismos-para-agilizar-cooperacao-juridica-penal-em-areas-de-fronteira",
+          "data": "12/08/2026",
+          "resumo": "Câmara Técnica reuniu especialistas para discutir desafios da atuação transfronteiriça e aprimorar o combate ao crime nas fronteiras"
+        },
+        {
+          "titulo": "Ministro da Justiça e Segurança Pública é homenageado na Ordem do Mérito Judiciário do Trabalho 2026",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-e-homenageado-na-ordem-do-merito-judiciario-do-trabalho-2026",
+          "data": "12/08/2026",
+          "resumo": "Iniciativa reconhece pessoas e instituições que prestaram serviços relevantes à sociedade e à Justiça do Trabalho"
+        },
         {
           "titulo": "Escola Nacional de Segurança Pública lança Curso de enfrentamento aos crimes financeiros cibernéticos",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-de-enfrentamento-aos-crimes-financeiros-ciberneticos",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-redecarga-estima-r-18-milhoes-em-prejuizos-ao-crime-organizado",
           "data": "10/08/2026",
           "resumo": "Segunda edição da ação prendeu 154 pessoas, apreendeu 33 armas e 47 veículos e recuperou R$ 830 mil em cargas"
-        },
-        {
-          "titulo": "Senasp participa de Blitz do Autismo em ação de conscientização no Distrito Federal",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-participa-de-blitz-do-autismo-em-acao-de-conscientizacao-no-distrito-federal",
-          "data": "10/08/2026",
-          "resumo": "Mobilização reuniu órgãos de segurança, trânsito e entidades da sociedade civil e marcou a abertura da programação do Dia Internacional da Superdotação 2026"
-        },
-        {
-          "titulo": "Workshop promove alinhamento para segurança das Eleições 2026",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-promove-alinhamento-para-seguranca-das-eleicoes-2026",
-          "data": "10/08/2026",
-          "resumo": "Evento reúne em Brasília representantes das 27 unidades da Federação e órgãos federais"
         }
       ],
       "agenda": {
@@ -73,6 +73,30 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Resolução regulamenta bolsas e atividades de residentes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/resolucao-regulamenta-bolsas-e-atividades-de-residentes",
+          "data": "12/08/2026",
+          "resumo": "Normativo regulamenta participação de residentes em cursos de pós-graduação e recebimento de bolsas adicionais, desde que haja compatibilidade com a carga horária e os objetivos pedagógicos dos programas"
+        },
+        {
+          "titulo": "Reunião técnica debate matrizes e padrões do Saeb e do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/reuniao-tecnica-debate-matrizes-e-padroes-do-saeb-e-do-enem",
+          "data": "12/08/2026",
+          "resumo": "Encontro reuniu representantes do Inep, das secretarias de educação dos estados do Sudeste e do Sul e de conselhos estaduais de educação para discutir padrões de desempenho e matrizes de referência do Saeb e do Enem"
+        },
+        {
+          "titulo": "Cursos técnicos integram formação, esporte e cultura",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cursos-tecnicos-integram-formacao-esporte-e-cultura",
+          "data": "12/08/2026",
+          "resumo": "Formação profissional técnica de nível médio alia conhecimentos teóricos e práticos a atividades esportivas e culturais, contribuindo para o desenvolvimento integral e a preparação dos estudantes da rede"
+        },
+        {
+          "titulo": "MEC disponibilizará novos cursos do Programa Escola que Protege",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-disponibilizara-novos-cursos-do-programa-escola-que-protege",
+          "data": "12/08/2026",
+          "resumo": "Formações são voltadas aos gestores e professores das instituições de ensino e têm como objetivo fortalecer o enfrentamento das violências nas escolas"
+        },
         {
           "titulo": "Clique Escola oferece dados e serviços educacionais",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/clique-escola-oferece-dados-e-servicos-educacionais",
@@ -108,30 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/selecao-do-proleei-abre-inscricoes-em-17-de-agosto",
           "data": "11/08/2026",
           "resumo": "Processo seletivo de instituições federais definirá as responsáveis pela formação continuada de professores da educação infantil em 2027, uma das ações do Programa Leitura e Escrita na Educação Infantil (ProLEEI)"
-        },
-        {
-          "titulo": "Rede Certifica oferta formação para profissionais da EPT",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/rede-certifica-oferta-formacao-para-profissionais-da-ept",
-          "data": "11/08/2026",
-          "resumo": "Capacitação virtual gratuita começará na quarta-feira, 12 de agosto, para orientar redes ofertantes sobre adesão ao programa de certificação profissional voltado ao reconhecimento de competências profissionais"
-        },
-        {
-          "titulo": "Caderno Equidade: inscrições seguem até 28 de agosto",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/caderno-equidade-inscricoes-seguem-ate-28-de-agosto",
-          "data": "11/08/2026",
-          "resumo": "Artigos para a composição do Caderno Equidade deverão abranger as áreas de educação bilíngue de surdos e educação especial inclusiva"
-        },
-        {
-          "titulo": "Pnae atende cerca de 40 milhões de estudantes de escolas públicas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pnae-atende-cerca-de-40-milhoes-de-estudantes-de-escolas-publicas",
-          "data": "11/08/2026",
-          "resumo": "Legislação do Programa Nacional de Alimentação Escolar define regras para aquisição de alimentos e planejamento dos cardápios destinados aos estudantes da educação básica pública"
-        },
-        {
-          "titulo": "Universidades federais abrem 11 mil vagas em novos cursos para 2027",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/universidades-federais-abrem-11-mil-vagas-em-novos-cursos-para-2027",
-          "data": "11/08/2026",
-          "resumo": "Estimuladas pelo MEC, 65 universidades federais do país passarão a oferecer vagas em 244 novos cursos de graduação a partir do ano que vem"
         }
       ],
       "agenda": {
@@ -141,70 +141,9 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [
-        {
-          "titulo": "Entenda a ciência por trás dos maiores eclipses solares",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/entenda-a-ciencia-por-tras-dos-maiores-eclipses-solares",
-          "data": "12/08/2026",
-          "resumo": "Combinação precisa entre as trajetórias da Terra e da Lua com o Sol garante minutos extras de escuridão"
-        },
-        {
-          "titulo": "Por que o próximo eclipse solar total visível no Brasil será só em 2045? A ciência explica",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/por-que-o-proximo-eclipse-solar-visivel-no-brasil-sera-so-em-2045-a-ciencia-explica",
-          "data": "11/08/2026",
-          "resumo": "O que ocorrerá nesta quarta-feira (12) não poderá ser visto no território brasileiro. O Observatório Nacional, vinculado ao MCTI, nos ajuda a entender esse fenômeno"
-        },
-        {
-          "titulo": "Como acompanhar a chuva na sua cidade pelo Mapa Interativo do Cemaden",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/como-acompanhar-a-chuva-na-sua-cidade-pelo-mapa-interativo-do-cemaden",
-          "data": "11/08/2026",
-          "resumo": "Ferramenta gratuita reúne informações de pluviômetros, estações hidrológicas e radares meteorológicos e permite acompanhar as condições de chuva em diferentes regiões do País"
-        },
-        {
-          "titulo": "Estão abertas as inscrições para o mestrado em Museologia e Patrimônio do Mast",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/estao-abertas-as-inscricoes-para-o-mestrado-em-museologia-e-patrimonio-do-mast",
-          "data": "10/08/2026",
-          "resumo": "Processo seletivo é composto por avaliação do projeto de pesquisa, provas escrita, de idiomas e oral"
-        },
-        {
-          "titulo": "Às margens do Lago Tefé (AM), biblioteca reúne 28 mil obras científicas sobre a Amazônia",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/as-margens-do-lago-tefe-am-biblioteca-reune-28-mil-obras-cientificas-sobre-a-amazonia",
-          "data": "10/08/2026",
-          "resumo": "Acervo conta com publicações sobre conservação da biodiversidade, uso sustentável dos recursos naturais, estudos sobre populações ribeirinhas e diversidade socioambiental"
-        },
-        {
-          "titulo": "Saiba como consultar a previsão de risco de deslizamentos pelo GeoRisk do Cemaden",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sabia-como-consultar-a-previsao-de-risco-de-deslizamentos-pelo-georisk-do-cemaden",
-          "data": "07/08/2026",
-          "resumo": "Plataforma gratuita permite acompanhar previsões automáticas de risco de deslizamentos em diferentes regiões do Brasil e verificar informações detalhadas por município"
-        },
-        {
-          "titulo": "Mestrado em Preservação de Acervos do Mast oferece 15 vagas",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mestrado-em-preservacao-de-acervos-do-mast-oferece-15-vagas",
-          "data": "07/08/2026",
-          "resumo": "Inscrições estão abertas até 4 de setembro. Candidatos devem passar por provas escrita, oral e de idiomas"
-        },
-        {
-          "titulo": "Inpe divulga, nesta sexta-feira (7), dados do Deter que orientam o combate ao desmatamento no Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inpe-divulga-nesta-sexta-feira-7-dados-do-deter-que-orientam-o-combate-ao-desmatamento-no-brasil",
-          "data": "06/08/2026",
-          "resumo": "Levantamento referente a julho de 2026 encerra o ciclo anual de monitoramento e subsidia ações de fiscalização e proteção dos biomas brasileiros"
-        },
-        {
-          "titulo": "Software desenvolvido pelo LNCC aumenta a precisão de simulações dos reservatórios do pré-sal brasileiro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/software-desenvolvido-pelo-lncc-aumenta-a-precisao-de-simulacoes-dos-reservatorios-do-pre-sal-brasileiro",
-          "data": "06/08/2026",
-          "resumo": "Ferramenta calibra medidas feitas em laboratório para a realidade de alta pressão do subsolo oceânico. Nova tecnologia vai contribuir para elaboração de estratégias da transição energética"
-        },
-        {
-          "titulo": "Nova técnica acelera testes de materiais e apoia o desenvolvimento de implantes dentários",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/nova-tecnica-acelera-testes-de-materiais-e-apoia-o-desenvolvimento-de-implantes-dentarios",
-          "data": "06/08/2026",
-          "resumo": "Método desenvolvido por unidade de pesquisa do MCTI passa agora para a fase de adequação regulatória e estudos para ampliar a escala de produção"
-        }
-      ],
+      "noticias": [],
       "agenda": {
-        "resumo": "9 Dom 10 Seg 11 Ter 12 Qua 13 Qui 14 Sex 15 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "10 Seg 11 Ter 12 Qua 13 Qui 14 Sex 15 Sáb 16 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
