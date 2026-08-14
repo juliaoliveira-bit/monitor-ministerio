@@ -1,9 +1,39 @@
 {
-  "atualizado_em": "2026-08-14T11:33:34.590193+00:00",
+  "atualizado_em": "2026-08-14T21:27:32.628305+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação apreende 700 kg de skunk em Fortaleza",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-700-kg-de-skunk-em-fortaleza",
+          "data": "14/08/2026",
+          "resumo": "Investigação busca identificar a participação dos suspeitos na logística de transporte e distribuição da droga"
+        },
+        {
+          "titulo": "Senasp: Força Nacional realiza curso de formação em operações de choque para agentes de segurança",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-forca-nacional-realiza-curso-de-formacao-em-operacoes-de-choque-para-agentes-de-seguranca",
+          "data": "14/08/2026",
+          "resumo": "Capacitação teve 460 horas de atividades presenciais e virtuais e preparou agentes para multiplicar conhecimentos"
+        },
+        {
+          "titulo": "Serviço de atendimento em saúde mental para profissionais da segurança pública é ampliado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/servico-de-atendimento-em-saude-mental-para-profissionais-da-seguranca-publica-e-ampliado",
+          "data": "14/08/2026",
+          "resumo": "Escuta Susp foi estendido a guardas municipais de 30 cidades; projeto oferece atendimentos on-line para prevenção do adoecimento psíquico, acolhimento e promoção à vida"
+        },
+        {
+          "titulo": "Porto de Santos prevê R$ 300 milhões em investimentos em segurança até 2030",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/porto-de-santos-preve-r-300-milhoes-em-investimentos-em-seguranca-ate-2030",
+          "data": "14/08/2026",
+          "resumo": "Ministro da Justiça e Segurança Pública e Secretário Nacional de Segurança Pública acompanharam nesta sexta-feira (14) ações e projetos voltados à segurança portuária e à integração entre instituições"
+        },
+        {
+          "titulo": "Programa Alerta Mulher Segura amplia proteção a mulheres com monitoramento eletrônico",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/programa-alerta-mulher-segura-amplia-protecao-a-mulheres-com-monitoramento-eletronico",
+          "data": "14/08/2026",
+          "resumo": "Medida cria regras nacionais para utilização de dispositivos de rastreamento em casos de violência doméstica e familiar"
+        },
         {
           "titulo": "Ministro da Justiça e Segurança Pública se reúne com procurador-geral do ES para fortalecer diálogo entre instituições",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-se-reune-com-procurador-geral-do-es-para-fortalecer-dialogo-entre-instituicoes",
@@ -33,36 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/oficina-debate-credito-ao-consumidor-e-combate-ao-endividamento",
           "data": "13/08/2026",
           "resumo": "Encontro reúne Procons de todo o País e apresenta estratégia nacional com criação e fortalecimento de Núcleo de Prevenção ao Endividamento"
-        },
-        {
-          "titulo": "Senajus discute mecanismos para agilizar cooperação jurídica penal em áreas de fronteira",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-discute-mecanismos-para-agilizar-cooperacao-juridica-penal-em-areas-de-fronteira",
-          "data": "12/08/2026",
-          "resumo": "Câmara Técnica reuniu especialistas para discutir desafios da atuação transfronteiriça e aprimorar o combate ao crime nas fronteiras"
-        },
-        {
-          "titulo": "Ministro da Justiça e Segurança Pública é homenageado na Ordem do Mérito Judiciário do Trabalho 2026",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-e-homenageado-na-ordem-do-merito-judiciario-do-trabalho-2026",
-          "data": "12/08/2026",
-          "resumo": "Iniciativa reconhece pessoas e instituições que prestaram serviços relevantes à sociedade e à Justiça do Trabalho"
-        },
-        {
-          "titulo": "Escola Nacional de Segurança Pública lança Curso de enfrentamento aos crimes financeiros cibernéticos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-de-enfrentamento-aos-crimes-financeiros-ciberneticos",
-          "data": "12/08/2026",
-          "resumo": "Capacitação disponível na Rede EaD Senasp aborda fraudes bancárias e golpes digitais e apresenta técnicas para investigação desses crimes"
-        },
-        {
-          "titulo": "Operação Omnes faz 724 prisões relacionadas aos crimes de homicídio e feminicídio; número total de detenções chega a quase 12 mil",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-omnes-faz-724-prisoes-relacionadas-aos-crimes-de-homicidio-e-feminicidio-numero-total-de-detencoes-chega-a-quase-12-mil-1",
-          "data": "12/08/2026",
-          "resumo": "Atuação integrada reúne a Polícia Federal, forças estaduais e outras instituições no combate a crimes contra a vida em todo o País"
-        },
-        {
-          "titulo": "Página do MJSP reúne conteúdos sobre justiça étnico-racial na política sobre drogas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pagina-do-mjsp-reune-conteudos-sobre-justica-etnico-racial-na-politica-sobre-drogas",
-          "data": "12/08/2026",
-          "resumo": "Ambiente do Observatório Brasileiro de Informações sobre Drogas disponibiliza dados, publicações e materiais sobre povos indígenas e população negra e periférica"
         }
       ],
       "agenda": {
@@ -73,6 +73,36 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Estudar não tem idade: histórias que inspiram vidas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/estudar-nao-tem-idade-historias-que-inspiram-vidas",
+          "data": "14/08/2026",
+          "resumo": "Conheça a trajetória de brasileiros que venceram barreiras e voltaram às salas de aula por meio da EJA e de cursos preparatórios para o Enem, ampliando oportunidades educacionais e profissionais"
+        },
+        {
+          "titulo": "MEC publica edital do Selo de Alfabetização 2026",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-publica-edital-do-selo-de-alfabetizacao-2026",
+          "data": "14/08/2026",
+          "resumo": "Secretarias de educação dos estados, dos municípios e do Distrito Federal poderão se inscrever entre 1º de setembro e 30 de outubro, por meio do Simec, para concorrer à 3ª edição do reconhecimento do MEC"
+        },
+        {
+          "titulo": "Consulta ao Marco Regulatório da EaD termina hoje (14)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/consulta-ao-marco-regulatorio-da-ead-termina-hoje-14",
+          "data": "14/08/2026",
+          "resumo": "Objetivo da escuta é garantir sugestões e análises fundamentadas para orientar a redação do texto definitivo da regulamentação. Para enviar as respostas, basta acessar a plataforma Brasil Participativo"
+        },
+        {
+          "titulo": "Prouni: último dia para comprovar informações da inscrição",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prouni-ultimo-dia-para-comprovar-informacoes-da-inscricao",
+          "data": "14/08/2026",
+          "resumo": "Estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos devem apresentar a documentação na instituição de ensino superior até esta sexta-feira (14), conforme as regras do programa"
+        },
+        {
+          "titulo": "Mulheres Mil: alunas superaram o desafio de voltar a estudar",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mulheres-mil-alunas-superaram-o-desafio-de-voltar-a-estudar",
+          "data": "14/08/2026",
+          "resumo": "Iniciativa do MEC, em parceria com o MDS, oferece cursos gratuitos de qualificação profissional para mulheres e facilita a rotina de estudos das mães por meio de cuidotecas para os filhos"
+        },
         {
           "titulo": "MEC abre inscrições para instrutores de práticas restaurativas",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-abre-inscricoes-para-instrutores-de-praticas-restaurativas",
@@ -102,36 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/resolucao-regulamenta-bolsas-e-atividades-de-residentes",
           "data": "12/08/2026",
           "resumo": "Normativo regulamenta participação de residentes em cursos de pós-graduação e recebimento de bolsas adicionais, desde que haja compatibilidade com a carga horária e os objetivos pedagógicos dos programas"
-        },
-        {
-          "titulo": "Reunião técnica debate matrizes e padrões do Saeb e do Enem",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/reuniao-tecnica-debate-matrizes-e-padroes-do-saeb-e-do-enem",
-          "data": "12/08/2026",
-          "resumo": "Encontro reuniu representantes do Inep, das secretarias de educação dos estados do Sudeste e do Sul e de conselhos estaduais de educação para discutir padrões de desempenho e matrizes de referência do Saeb e do Enem"
-        },
-        {
-          "titulo": "Cursos técnicos integram formação, esporte e cultura",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cursos-tecnicos-integram-formacao-esporte-e-cultura",
-          "data": "12/08/2026",
-          "resumo": "Formação profissional técnica de nível médio alia conhecimentos teóricos e práticos a atividades esportivas e culturais, contribuindo para o desenvolvimento integral e a preparação dos estudantes"
-        },
-        {
-          "titulo": "MEC disponibilizará novos cursos do Programa Escola que Protege",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-disponibilizara-novos-cursos-do-programa-escola-que-protege",
-          "data": "12/08/2026",
-          "resumo": "Formações são voltadas aos gestores e professores das instituições de ensino e têm como objetivo fortalecer o enfrentamento das violências nas escolas"
-        },
-        {
-          "titulo": "Clique Escola oferece dados e serviços educacionais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/clique-escola-oferece-dados-e-servicos-educacionais",
-          "data": "12/08/2026",
-          "resumo": "Aplicativo gratuito do MEC reúne projetos, indicadores educacionais, dados de escolas, cursos e informações financeiras, além de conectar gestores e facilitar o acesso a conteúdos e serviços da educação"
-        },
-        {
-          "titulo": "MEC cria grupos de trabalho para profissionais das Ifes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-cria-grupos-de-trabalho-para-profissionais-das-ifes",
-          "data": "12/08/2026",
-          "resumo": "Objetivo é elaborar subsídios para aprimorar ações de saúde dos trabalhadores das instituições federais de educação superior e discutir sobre a regulamentação de afastamento para formação complementar e pós-graduação"
         }
       ],
       "agenda": {
