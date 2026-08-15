@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-15T11:07:22.325966+00:00",
+  "atualizado_em": "2026-08-15T21:23:54.064652+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -141,7 +141,68 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "CNPEM abre inscrições para 34ª edição do Programa Bolsas de Verão",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/cnpem-abre-inscricoes-para-34a-edicao-do-programa-bolsas-de-verao",
+          "data": "13/08/2026",
+          "resumo": "Estudantes de graduação da América Latina e do Caribe podem participar da seleção. Prazo vai até 8 de setembro"
+        },
+        {
+          "titulo": "Disponibilidade de água tem maior influência na sobrevivência das plantas",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/disponibilidade-de-agua-tem-maior-influencia-na-sobrevivencia-das-plantas",
+          "data": "13/08/2026",
+          "resumo": "Pesquisa desenvolvida pela Universidade de Oxford e pelo INMA analisa a capacidade de sobrevivência de 78 espécies"
+        },
+        {
+          "titulo": "Mudanças climáticas na Mata Atlântica alteram o trabalho das formigas",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mudancas-climaticas-na-mata-atlantica-alteram-o-trabalho-das-formigas",
+          "data": "13/08/2026",
+          "resumo": "Pesquisa estuda efeitos como a redução da diversidade evolutiva desses insetos e a diminuição da capacidade dos ecossistemas de resistir e se recuperar de mudanças"
+        },
+        {
+          "titulo": "Chuva de Meteoros Perseidas atravessa o céu do País",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chuva-de-meteoros-perseidas-atravessa-o-ceu-do-pais",
+          "data": "12/08/2026",
+          "resumo": "Fenômeno terá seu auge na madrugada de quinta-feira (13) e poderá ser visto a olho nu"
+        },
+        {
+          "titulo": "Entenda a ciência por trás dos maiores eclipses solares",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/entenda-a-ciencia-por-tras-dos-maiores-eclipses-solares",
+          "data": "12/08/2026",
+          "resumo": "Combinação precisa entre as trajetórias da Terra e da Lua com o Sol garante minutos extras de escuridão"
+        },
+        {
+          "titulo": "Por que o próximo eclipse solar total visível no Brasil será só em 2045? A ciência explica",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/por-que-o-proximo-eclipse-solar-visivel-no-brasil-sera-so-em-2045-a-ciencia-explica",
+          "data": "11/08/2026",
+          "resumo": "O que ocorrerá nesta quarta-feira (12) não poderá ser visto no território brasileiro. O Observatório Nacional, vinculado ao MCTI, nos ajuda a entender esse fenômeno"
+        },
+        {
+          "titulo": "Como acompanhar a chuva na sua cidade pelo Mapa Interativo do Cemaden",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/como-acompanhar-a-chuva-na-sua-cidade-pelo-mapa-interativo-do-cemaden",
+          "data": "11/08/2026",
+          "resumo": "Ferramenta gratuita reúne informações de pluviômetros, estações hidrológicas e radares meteorológicos e permite acompanhar as condições de chuva em diferentes regiões do País"
+        },
+        {
+          "titulo": "Estão abertas as inscrições para o mestrado em Museologia e Patrimônio do Mast",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/estao-abertas-as-inscricoes-para-o-mestrado-em-museologia-e-patrimonio-do-mast",
+          "data": "10/08/2026",
+          "resumo": "Processo seletivo é composto por avaliação do projeto de pesquisa, provas escrita, de idiomas e oral"
+        },
+        {
+          "titulo": "Às margens do Lago Tefé (AM), biblioteca reúne 28 mil obras científicas sobre a Amazônia",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/as-margens-do-lago-tefe-am-biblioteca-reune-28-mil-obras-cientificas-sobre-a-amazonia",
+          "data": "10/08/2026",
+          "resumo": "Acervo conta com publicações sobre conservação da biodiversidade, uso sustentável dos recursos naturais, estudos sobre populações ribeirinhas e diversidade socioambiental"
+        },
+        {
+          "titulo": "Saiba como consultar a previsão de risco de deslizamentos pelo GeoRisk do Cemaden",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sabia-como-consultar-a-previsao-de-risco-de-deslizamentos-pelo-georisk-do-cemaden",
+          "data": "07/08/2026",
+          "resumo": "Plataforma gratuita permite acompanhar previsões automáticas de risco de deslizamentos em diferentes regiões do Brasil e verificar informações detalhadas por município"
+        }
+      ],
       "agenda": {
         "resumo": "12 Qua 13 Qui 14 Sex 15 Sáb 16 Dom 17 Seg 18 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
