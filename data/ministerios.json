@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-08-14T21:27:32.628305+00:00",
+  "atualizado_em": "2026-08-15T11:07:22.325966+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação Protetor das Fronteiras e Divisas causa prejuízo de mais de R$ 13 milhões ao crime",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-protetor-das-fronteiras-e-divisas-causa-prejuizo-de-mais-de-r-13-milhoes-ao-crime",
+          "data": "14/08/2026",
+          "resumo": "Polícia Civil do Amazonas apreende 694 kg de skunk, prende um homem e recolhe veículo, celulares, balanças e materiais usados no acondicionamento da droga"
+        },
         {
           "titulo": "Operação apreende 700 kg de skunk em Fortaleza",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-700-kg-de-skunk-em-fortaleza",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-juris-fictio-desarticula-grupo-suspeito-de-aplicar-golpe-do-falso-advogado-contra-idosos",
           "data": "13/08/2026",
           "resumo": "Foram cumpridos 16 mandados de prisão preventiva e 32 de busca e apreensão domiciliar no Ceará; vítima sofreu prejuízo de R$ 150 mil"
-        },
-        {
-          "titulo": "Oficina debate crédito ao consumidor e combate ao endividamento",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/oficina-debate-credito-ao-consumidor-e-combate-ao-endividamento",
-          "data": "13/08/2026",
-          "resumo": "Encontro reúne Procons de todo o País e apresenta estratégia nacional com criação e fortalecimento de Núcleo de Prevenção ao Endividamento"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Grupo discute saúde e condições de trabalho docente",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/grupo-discute-saude-e-condicoes-de-trabalho-docente",
+          "data": "14/08/2026",
+          "resumo": "MEC estudará condições de trabalho, saúde ocupacional e ergonomia de profissionais que atuam na primeira infância, além de elaborar recomendações para políticas públicas voltadas ao setor"
+        },
+        {
+          "titulo": "Adesão à Comunidade da Primeira Infância termina sábado (15)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/adesao-a-comunidade-da-primeira-infancia-termina-sabado-15",
+          "data": "14/08/2026",
+          "resumo": "Para participar, estados e municípios interessados devem assinar o termo de adesão disponível no Simec e indicar os representantes. Objetivo da iniciativa é aperfeiçoar as políticas públicas para a primeira infância"
+        },
+        {
+          "titulo": "UFPA oferece atendimento psicológico gratuito",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ufpa-oferece-atendimento-psicologico-gratuito",
+          "data": "14/08/2026",
+          "resumo": "Vinculada ao MEC, Universidade Federal do Pará faz atendimento psiquiátrico e acompanhamento psicológico gratuitos. Serviço é destinado prioritariamente a pessoas em situação de vulnerabilidade socioeconômica"
+        },
         {
           "titulo": "Estudar não tem idade: histórias que inspiram vidas",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/estudar-nao-tem-idade-historias-que-inspiram-vidas",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cursinhos-populares-ampliam-oportunidades-para-o-enem",
           "data": "13/08/2026",
           "resumo": "Rede Nacional de Cursinhos Populares oferece apoio técnico e financeiro a iniciativas populares e comunitárias que preparam estudantes para o Enem e outros processos seletivos de acesso à educação superior pública"
-        },
-        {
-          "titulo": "Saiba como consultar cursos e instituições de educação superior",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/saiba-como-consultar-cursos-e-instituicoes-de-educacao-superior",
-          "data": "13/08/2026",
-          "resumo": "Sistema e-MEC permite conferir se instituições e cursos de graduação estão credenciados, reconhecidos ou autorizados pelo MEC"
-        },
-        {
-          "titulo": "MEC orienta redes sobre preenchimento do Fundeb VAAR",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-orienta-redes-sobre-preenchimento-do-fundeb-vaar",
-          "data": "13/08/2026",
-          "resumo": "Prazo para registro das informações sobre as condicionalidades do Fundeb-VAAR termina em 31 de agosto. Habilitação é requisito para recebimento da complementação no exercício de 2027"
-        },
-        {
-          "titulo": "Resolução regulamenta bolsas e atividades de residentes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/resolucao-regulamenta-bolsas-e-atividades-de-residentes",
-          "data": "12/08/2026",
-          "resumo": "Normativo regulamenta participação de residentes em cursos de pós-graduação e recebimento de bolsas adicionais, desde que haja compatibilidade com a carga horária e os objetivos pedagógicos dos programas"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "11 Ter 12 Qua 13 Qui 14 Sex 15 Sáb 16 Dom 17 Seg Atualmente não existem compromissos agendados.",
+        "resumo": "12 Qua 13 Qui 14 Sex 15 Sáb 16 Dom 17 Seg 18 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
