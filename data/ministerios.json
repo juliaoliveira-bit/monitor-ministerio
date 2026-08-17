@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-08-17T11:12:54.490385+00:00",
+  "atualizado_em": "2026-08-17T21:27:59.849174+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Instituições discutem proteção do consumidor em encontro do Procon-ES",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/instituicoes-discutem-protecao-do-consumidor-em-encontro-do-procon-es",
+          "data": "17/08/2026",
+          "resumo": "Agenda abordou políticas públicas, relações de consumo e atuação integrada dos órgãos de defesa do consumidor"
+        },
+        {
+          "titulo": "Operação Perímetro Zero localiza integrante de facção criminosa em Salvador",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-perimetro-zero-localiza-integrante-de-faccao-criminosa-em-salvador",
+          "data": "17/08/2026",
+          "resumo": "Ação apreendeu fuzil, pistola, munições, drogas e veículo com restrição de roubo"
+        },
+        {
+          "titulo": "Escola Nacional de Defesa do Consumidor abre inscrições para cursos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-defesa-do-consumidor-abre-inscricoes-para-cursos",
+          "data": "17/08/2026",
+          "resumo": "Capacitações gratuitas começarão em setembro e abordarão temas como direitos do consumidor, educação financeira e prevenção ao superendividamento"
+        },
         {
           "titulo": "Operação Protetor das Fronteiras e Divisas causa prejuízo de mais de R$ 13 milhões ao crime",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-protetor-das-fronteiras-e-divisas-causa-prejuizo-de-mais-de-r-13-milhoes-ao-crime",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-se-reune-com-procurador-geral-do-es-para-fortalecer-dialogo-entre-instituicoes",
           "data": "13/08/2026",
           "resumo": "Agenda também abordou a articulação entre os órgãos do sistema de Justiça e de segurança pública e questões relacionadas ao período eleitoral"
-        },
-        {
-          "titulo": "Ações integradas geram R$ 7,6 bilhões em prejuízo estimado às organizações criminosas e apreendem 336,4 toneladas de drogas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acoes-integradas-geram-r-7-6-bilhoes-em-prejuizo-estimado-as-organizacoes-criminosas-e-apreendem-336-4-toneladas-de-drogas",
-          "data": "13/08/2026",
-          "resumo": "Em 90 dias, ações também resultaram em 25,5 mil prisões e no bloqueio de R$ 103 milhões relacionados a fraudes digitais"
-        },
-        {
-          "titulo": "Operação Mute é realizada no sistema prisional do Espírito Santo",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-mute-e-realizada-no-sistema-prisional-do-espirito-santo",
-          "data": "13/08/2026",
-          "resumo": "Ação realizada em Viana (ES) mobilizou 105 policiais penais e incluiu demonstração de equipamentos destinados ao sistema prisional"
-        },
-        {
-          "titulo": "Operação Juris Fictio desarticula grupo suspeito de aplicar golpe do falso advogado contra idosos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-juris-fictio-desarticula-grupo-suspeito-de-aplicar-golpe-do-falso-advogado-contra-idosos",
-          "data": "13/08/2026",
-          "resumo": "Foram cumpridos 16 mandados de prisão preventiva e 32 de busca e apreensão domiciliar no Ceará; vítima sofreu prejuízo de R$ 150 mil"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Clínica veterinária da Unir oferece atendimentos gratuitos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/clinica-veterinaria-da-unir-oferece-atendimentos-gratuitos",
+          "data": "17/08/2026",
+          "resumo": "Universidade foca seus esforços em três vertentes: formar profissionais capacitados e preparados para o mercado; fazer o controle de zoonoses e população de animais; e promover campanhas de conscientização"
+        },
+        {
+          "titulo": "Inscrições para seleção do ProLEEI começam nesta segunda (17)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/inscricoes-para-selecao-do-proleei-comecam-nesta-segunda-17",
+          "data": "17/08/2026",
+          "resumo": "Instituições federais de ensino superior podem apresentar, até 9/9, projetos para ofertar formação continuada a profissionais da educação infantil em 2027. Iniciativa prevê até 154 mil vagas distribuídas em 4.406 turmas"
+        },
+        {
+          "titulo": "MEC oferece nove cursos gratuitos de IA para professores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-oferece-nove-cursos-gratuitos-de-ia-para-professores",
+          "data": "17/08/2026",
+          "resumo": "Formações gratuitas abordam uso pedagógico, ético e criativo da IA e estão disponíveis no Ambiente Virtual de Aprendizagem do MEC para professores da educação básica, em formato autoinstrucional"
+        },
         {
           "titulo": "Grupo discute saúde e condições de trabalho docente",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/grupo-discute-saude-e-condicoes-de-trabalho-docente",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prouni-ultimo-dia-para-comprovar-informacoes-da-inscricao",
           "data": "14/08/2026",
           "resumo": "Estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos devem apresentar a documentação na instituição de ensino superior até esta sexta-feira (14), conforme as regras do programa"
-        },
-        {
-          "titulo": "Mulheres Mil: alunas superaram o desafio de voltar a estudar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mulheres-mil-alunas-superaram-o-desafio-de-voltar-a-estudar",
-          "data": "14/08/2026",
-          "resumo": "Iniciativa do MEC, em parceria com o MDS, oferece cursos gratuitos de qualificação profissional para mulheres e facilita a rotina de estudos das mães por meio de cuidotecas para os filhos"
-        },
-        {
-          "titulo": "MEC abre inscrições para instrutores de práticas restaurativas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-abre-inscricoes-para-instrutores-de-praticas-restaurativas",
-          "data": "13/08/2026",
-          "resumo": "Curso é destinado a profissionais das redes públicas de ensino com experiência em Círculos de Construção de Paz e será ofertado em parceria com a Universidade Federal de Sergipe a partir de setembro"
-        },
-        {
-          "titulo": "Cursinhos populares ampliam oportunidades para o Enem",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cursinhos-populares-ampliam-oportunidades-para-o-enem",
-          "data": "13/08/2026",
-          "resumo": "Rede Nacional de Cursinhos Populares oferece apoio técnico e financeiro a iniciativas populares e comunitárias que preparam estudantes para o Enem e outros processos seletivos de acesso à educação superior pública"
         }
       ],
       "agenda": {
