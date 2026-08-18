@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-08-17T21:27:59.849174+00:00",
+  "atualizado_em": "2026-08-18T11:12:53.609292+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP seleciona artigos inéditos para a antologia Vozes pelo Acesso à Justiça",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-seleciona-artigos-ineditos-para-a-antologia-vozes-pelo-acesso-a-justica-1",
+          "data": "17/08/2026",
+          "resumo": "Chamada pública selecionará 32 artigos inéditos, com inscrições gratuitas de 28 de agosto a 17 de setembro"
+        },
+        {
+          "titulo": "Desarme prende traficantes internacionais que forneciam armamentos para facções no Rio de Janeiro",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/desarme-prende-traficantes-internacionais-que-forneciam-armamentos-para-faccoes-no-rio-de-janeiro",
+          "data": "17/08/2026",
+          "resumo": "Investigação identificou a compra clandestina de mais de 10 mil munições e apreendeu peças para montagem de 10 fuzis e cinco pistolas"
+        },
+        {
+          "titulo": "Senacon instaura processos contra duas plataformas de revenda de ingressos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-processos-contra-duas-plataformas-de-revenda-de-ingressos",
+          "data": "17/08/2026",
+          "resumo": "Medidas cautelares determinam que empresas ampliem informações sobre a natureza das plataformas e os preços dos ingressos"
+        },
         {
           "titulo": "Instituições discutem proteção do consumidor em encontro do Procon-ES",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/instituicoes-discutem-protecao-do-consumidor-em-encontro-do-procon-es",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/servico-de-atendimento-em-saude-mental-para-profissionais-da-seguranca-publica-e-ampliado",
           "data": "14/08/2026",
           "resumo": "Escuta Susp foi estendido a guardas municipais de 30 cidades; projeto oferece atendimentos on-line para prevenção do adoecimento psíquico, acolhimento e promoção à vida"
-        },
-        {
-          "titulo": "Porto de Santos prevê R$ 300 milhões em investimentos em segurança até 2030",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/porto-de-santos-preve-r-300-milhoes-em-investimentos-em-seguranca-ate-2030",
-          "data": "14/08/2026",
-          "resumo": "Ministro da Justiça e Segurança Pública e Secretário Nacional de Segurança Pública acompanharam nesta sexta-feira (14) ações e projetos voltados à segurança portuária e à integração entre instituições"
-        },
-        {
-          "titulo": "Programa Alerta Mulher Segura amplia proteção a mulheres com monitoramento eletrônico",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/programa-alerta-mulher-segura-amplia-protecao-a-mulheres-com-monitoramento-eletronico",
-          "data": "14/08/2026",
-          "resumo": "Medida cria regras nacionais para utilização de dispositivos de rastreamento em casos de violência doméstica e familiar"
-        },
-        {
-          "titulo": "Ministro da Justiça e Segurança Pública se reúne com procurador-geral do ES para fortalecer diálogo entre instituições",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-se-reune-com-procurador-geral-do-es-para-fortalecer-dialogo-entre-instituicoes",
-          "data": "13/08/2026",
-          "resumo": "Agenda também abordou a articulação entre os órgãos do sistema de Justiça e de segurança pública e questões relacionadas ao período eleitoral"
         }
       ],
       "agenda": {
@@ -73,6 +73,12 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "MEC homologa diretrizes para ensino de arte na educação básica",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-homologa-diretrizes-para-ensino-de-arte-na-educacao-basica",
+          "data": "17/08/2026",
+          "resumo": "Documento do CNE destaca a arte na formação integral dos estudantes brasileiros e seu ensino em teatro, música, dança e artes visuais. Ministro Leonardo Barchini assinou diretrizes junto à ministra Margareth Menezes"
+        },
         {
           "titulo": "Clínica veterinária da Unir oferece atendimentos gratuitos",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/clinica-veterinaria-da-unir-oferece-atendimentos-gratuitos",
@@ -126,12 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/consulta-ao-marco-regulatorio-da-ead-termina-hoje-14",
           "data": "14/08/2026",
           "resumo": "Objetivo da escuta é garantir sugestões e análises fundamentadas para orientar a redação do texto definitivo da regulamentação. Para enviar as respostas, basta acessar a plataforma Brasil Participativo"
-        },
-        {
-          "titulo": "Prouni: último dia para comprovar informações da inscrição",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prouni-ultimo-dia-para-comprovar-informacoes-da-inscricao",
-          "data": "14/08/2026",
-          "resumo": "Estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos devem apresentar a documentação na instituição de ensino superior até esta sexta-feira (14), conforme as regras do programa"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "14 Sex 15 Sáb 16 Dom 17 Seg 18 Ter 19 Qua 20 Qui Atualmente não existem compromissos agendados.",
+        "resumo": "15 Sáb 16 Dom 17 Seg 18 Ter 19 Qua 20 Qui 21 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
