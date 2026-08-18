@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-08-18T11:12:53.609292+00:00",
+  "atualizado_em": "2026-08-18T21:27:02.823811+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Dia C de Capacitação prepara profissionais para atendimento a mulheres vítimas de violência",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-c-de-capacitacao-prepara-profissionais-para-atendimento-a-mulheres-vitimas-de-violencia",
+          "data": "18/08/2026",
+          "resumo": "Formação será realizada nas 27 capitais, com transmissão simultânea para outros 80 municípios; inscrições seguem abertas até 28 de agosto"
+        },
+        {
+          "titulo": "Operação Desarme apreende mais de 1,7 tonelada de drogas em ações integradas no Amazonas e no Ceará",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-apreende-mais-de-1-7-tonelada-de-drogas-em-acoes-integradas-no-amazonas-e-no-ceara",
+          "data": "18/08/2026",
+          "resumo": "Ações foram articuladas pela Rede Nacional de Operações Especializadas (Renoe), com atuação das forças de segurança pública"
+        },
+        {
+          "titulo": "Estratégia Nacional estabelece núcleos regionais de prevenção ao endividamento",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/estrategia-nacional-estabelece-nucleos-regionais-de-prevencao-ao-endividamento",
+          "data": "18/08/2026",
+          "resumo": "Proposta coordenada pela Senacon propõe articulação com órgãos de defesa do consumidor e atuação regionalizada conforme as características de cada território"
+        },
+        {
+          "titulo": "Ministro da Justiça participa de seminário sobre direito e segurança pública nos portos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-participa-de-seminario-sobre-direito-e-seguranca-publica-nos-portos",
+          "data": "18/08/2026",
+          "resumo": "Em evento na sede da Polícia Federal, ministro reforçou integração entre inteligência policial, financeira e cooperação internacional como estratégia para o combate ao crime organizado nos portos brasileiros"
+        },
         {
           "titulo": "MJSP seleciona artigos inéditos para a antologia Vozes pelo Acesso à Justiça",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-seleciona-artigos-ineditos-para-a-antologia-vozes-pelo-acesso-a-justica-1",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-defesa-do-consumidor-abre-inscricoes-para-cursos",
           "data": "17/08/2026",
           "resumo": "Capacitações gratuitas começarão em setembro e abordarão temas como direitos do consumidor, educação financeira e prevenção ao superendividamento"
-        },
-        {
-          "titulo": "Operação Protetor das Fronteiras e Divisas causa prejuízo de mais de R$ 13 milhões ao crime",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-protetor-das-fronteiras-e-divisas-causa-prejuizo-de-mais-de-r-13-milhoes-ao-crime",
-          "data": "14/08/2026",
-          "resumo": "Polícia Civil do Amazonas apreende 694 kg de skunk, prende um homem e recolhe veículo, celulares, balanças e materiais usados no acondicionamento da droga"
-        },
-        {
-          "titulo": "Operação apreende 700 kg de skunk em Fortaleza",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-700-kg-de-skunk-em-fortaleza",
-          "data": "14/08/2026",
-          "resumo": "Investigação busca identificar a participação dos suspeitos na logística de transporte e distribuição da droga"
-        },
-        {
-          "titulo": "Senasp: Força Nacional realiza curso de formação em operações de choque para agentes de segurança",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-forca-nacional-realiza-curso-de-formacao-em-operacoes-de-choque-para-agentes-de-seguranca",
-          "data": "14/08/2026",
-          "resumo": "Capacitação teve 460 horas de atividades presenciais e virtuais e preparou agentes para multiplicar conhecimentos"
-        },
-        {
-          "titulo": "Serviço de atendimento em saúde mental para profissionais da segurança pública é ampliado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/servico-de-atendimento-em-saude-mental-para-profissionais-da-seguranca-publica-e-ampliado",
-          "data": "14/08/2026",
-          "resumo": "Escuta Susp foi estendido a guardas municipais de 30 cidades; projeto oferece atendimentos on-line para prevenção do adoecimento psíquico, acolhimento e promoção à vida"
         }
       ],
       "agenda": {
@@ -73,6 +73,18 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Rede de apoio à aplicação do Enem é instituída",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/rede-de-apoio-a-aplicacao-do-enem-e-instituida",
+          "data": "18/08/2026",
+          "resumo": "A medida visa atender à expansão das atribuições do exame, que passa a integrar o Saeb para avaliação das redes de educação básica. Neste ano, a aplicação do Enem ocorrerá em mais de dez mil escolas públicas"
+        },
+        {
+          "titulo": "IFB oferece oficinas gratuitas na Escola de Negócios",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ifb-oferece-oficinas-gratuitas-na-escola-de-negocios",
+          "data": "18/08/2026",
+          "resumo": "Inscrições estão abertas para oficinas presenciais sobre carreira, inteligência artificial, reforma tributária e empreendedorismo, com vagas limitadas e certificação para os participantes"
+        },
         {
           "titulo": "MEC homologa diretrizes para ensino de arte na educação básica",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-homologa-diretrizes-para-ensino-de-arte-na-educacao-basica",
@@ -120,18 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/estudar-nao-tem-idade-historias-que-inspiram-vidas",
           "data": "14/08/2026",
           "resumo": "Conheça a trajetória de brasileiros que venceram barreiras e voltaram às salas de aula por meio da EJA e de cursos preparatórios para o Enem, ampliando oportunidades educacionais e profissionais"
-        },
-        {
-          "titulo": "MEC publica edital do Selo de Alfabetização 2026",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-publica-edital-do-selo-de-alfabetizacao-2026",
-          "data": "14/08/2026",
-          "resumo": "Secretarias de educação dos estados, dos municípios e do Distrito Federal poderão se inscrever entre 1º de setembro e 30 de outubro, por meio do Simec, para concorrer à 3ª edição do reconhecimento do MEC"
-        },
-        {
-          "titulo": "Consulta ao Marco Regulatório da EaD termina hoje (14)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/consulta-ao-marco-regulatorio-da-ead-termina-hoje-14",
-          "data": "14/08/2026",
-          "resumo": "Objetivo da escuta é garantir sugestões e análises fundamentadas para orientar a redação do texto definitivo da regulamentação. Para enviar as respostas, basta acessar a plataforma Brasil Participativo"
         }
       ],
       "agenda": {
