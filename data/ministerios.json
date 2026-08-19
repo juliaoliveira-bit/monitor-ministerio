@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-08-19T11:12:18.063158+00:00",
+  "atualizado_em": "2026-08-19T21:27:36.897317+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Profissionais de segurança pública participam de curso para atuação em incidentes com explosivos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/profissionais-de-seguranca-publica-participam-de-curso-para-atuacao-em-incidentes-com-explosivos",
+          "data": "19/08/2026",
+          "resumo": "Formação oferecida pela Escola Nacional de Segurança Pública reúne representantes de todas as unidades da Federação"
+        },
+        {
+          "titulo": "Respad Sul reúne Corpos de Bombeiros Militares em exercício de resposta a enchentes e inundações",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/respad-sul-reune-corpos-de-bombeiros-militares-em-exercicio-de-resposta-a-enchentes-e-inundacoes",
+          "data": "19/08/2026",
+          "resumo": "Etapa tem como foco técnicas de busca e resgate em ambientes inundados e reúne equipes em cenários simulados de diferentes níveis de complexidade"
+        },
+        {
+          "titulo": "Senacon e Anvisa se unem no combate a suplementos alimentares adulterados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anvisa-se-unem-no-combate-a-suplementos-alimentares-adulterados",
+          "data": "19/08/2026",
+          "resumo": "Órgãos discutem ações para ampliar a fiscalização de produtos comercializados em plataformas digitais"
+        },
+        {
+          "titulo": "Operação Última Chamada recupera mais de 6 mil celulares em dez dias",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-ultima-chamada-recupera-mais-de-6-mil-celulares-em-10-dias",
+          "data": "19/08/2026",
+          "resumo": "Outros 3 mil aparelhos estão previstos para serem devolvidos ainda hoje, no Dia D da Operação"
+        },
         {
           "titulo": "Senad reúne lideranças indígenas para discutir ações do Território Seguro, Amazônia Soberana",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-reune-liderancas-indigenas-para-discutir-acoes-do-territorio-seguro-amazonia-soberana",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-participa-de-seminario-sobre-direito-e-seguranca-publica-nos-portos",
           "data": "18/08/2026",
           "resumo": "Em evento na sede da Polícia Federal, ministro reforçou integração entre inteligência policial, financeira e cooperação internacional como estratégia para o combate ao crime organizado nos portos brasileiros"
-        },
-        {
-          "titulo": "MJSP seleciona artigos inéditos para a antologia Vozes pelo Acesso à Justiça",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-seleciona-artigos-ineditos-para-a-antologia-vozes-pelo-acesso-a-justica-1",
-          "data": "17/08/2026",
-          "resumo": "Chamada pública selecionará 32 artigos inéditos, com inscrições gratuitas de 28 de agosto a 17 de setembro"
-        },
-        {
-          "titulo": "Desarme prende traficantes internacionais que forneciam armamentos para facções no Rio de Janeiro",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/desarme-prende-traficantes-internacionais-que-forneciam-armamentos-para-faccoes-no-rio-de-janeiro",
-          "data": "17/08/2026",
-          "resumo": "Investigação identificou a compra clandestina de mais de 10 mil munições e apreendeu peças para montagem de 10 fuzis e cinco pistolas"
-        },
-        {
-          "titulo": "Senacon instaura processos contra duas plataformas de revenda de ingressos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-processos-contra-duas-plataformas-de-revenda-de-ingressos",
-          "data": "17/08/2026",
-          "resumo": "Medidas cautelares determinam que empresas ampliem informações sobre a natureza das plataformas e os preços dos ingressos"
-        },
-        {
-          "titulo": "Instituições discutem proteção do consumidor em encontro do Procon-ES",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/instituicoes-discutem-protecao-do-consumidor-em-encontro-do-procon-es",
-          "data": "17/08/2026",
-          "resumo": "Agenda abordou políticas públicas, relações de consumo e atuação integrada dos órgãos de defesa do consumidor"
         }
       ],
       "agenda": {
@@ -73,6 +73,30 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Chamadas abertas para 2ª edição dos Cadernos Brasileiros de Educação Popular",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/chamadas-abertas-para-2a-edicao-dos-cadernos-brasileiros-de-educacao-popular",
+          "data": "19/08/2026",
+          "resumo": "O periódico divulga e valoriza os conhecimentos e as experiências da educação popular. As chamadas acontecem de maneira contínua e recebem diversos formatos, como artigos científicos, resenhas, vídeos e outras"
+        },
+        {
+          "titulo": "Mestrado e doutorado podem chegar a regiões afastadas do país",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mestrado-e-doutorado-podem-chegar-a-regioes-afastadas-do-pais",
+          "data": "19/08/2026",
+          "resumo": "Propostas devem ser enviadas por meio da Plataforma Sucupira de 14 de setembro a 17 de dezembro. Edital prevê turmas temporárias em regiões afastadas de centros consolidados em pós-graduação e pesquisa"
+        },
+        {
+          "titulo": "STJ restabelece medidas cautelares impostas pelo MEC a instituições com baixo desempenho nos cursos de medicina",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/stj-restabelece-medidas-cautelares-impostas-pelo-mec-a-instituicoes-com-baixo-desempenho-nos-cursos-de-medicina",
+          "data": "19/08/2026",
+          "resumo": "Decisão suspende liminar do TRF-1 e restabelece medidas de supervisão determinadas pelo MEC para 107 instituições de ensino superior que tiveram baixo desempenho no Enamed"
+        },
+        {
+          "titulo": "Institutos federais podem enviar projetos ao PET Saúde",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/institutos-federais-podem-enviar-projetos-ao-pet-saude",
+          "data": "19/08/2026",
+          "resumo": "IFs interessados em desenvolver projetos de educação, pesquisa e inovação em informação e saúde digital podem submeter ao PET Saúde propostas alinhadas aos eixos do SUS Digital, entre 20 de agosto e 8 de setembro"
+        },
         {
           "titulo": "CNE orienta redes de ensino sobre organização do calendário escolar durante a Copa do Mundo Feminina de 2027",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cne-orienta-redes-de-ensino-sobre-organizacao-do-calendario-escolar-durante-a-copa-do-mundo-feminina-de-2027",
@@ -108,30 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/inscricoes-para-selecao-do-proleei-comecam-nesta-segunda-17",
           "data": "17/08/2026",
           "resumo": "Instituições federais de ensino superior podem apresentar, até 9/9, projetos para ofertar formação continuada a profissionais da educação infantil em 2027. Iniciativa prevê até 154 mil vagas distribuídas em 4.406 turmas"
-        },
-        {
-          "titulo": "MEC oferece nove cursos gratuitos de IA para professores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-oferece-nove-cursos-gratuitos-de-ia-para-professores",
-          "data": "17/08/2026",
-          "resumo": "Formações gratuitas abordam uso pedagógico, ético e criativo da IA e estão disponíveis no Ambiente Virtual de Aprendizagem do MEC para professores da educação básica, em formato autoinstrucional"
-        },
-        {
-          "titulo": "Grupo discute saúde e condições de trabalho docente",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/grupo-discute-saude-e-condicoes-de-trabalho-docente",
-          "data": "14/08/2026",
-          "resumo": "MEC estudará condições de trabalho, saúde ocupacional e ergonomia de profissionais que atuam na primeira infância, além de elaborar recomendações para políticas públicas voltadas ao setor"
-        },
-        {
-          "titulo": "Adesão à Comunidade da Primeira Infância termina sábado (15)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/adesao-a-comunidade-da-primeira-infancia-termina-sabado-15",
-          "data": "14/08/2026",
-          "resumo": "Para participar, estados e municípios interessados devem assinar o termo de adesão disponível no Simec e indicar os representantes. Objetivo da iniciativa é aperfeiçoar as políticas públicas para a primeira infância"
-        },
-        {
-          "titulo": "UFPA oferece atendimento psicológico gratuito",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ufpa-oferece-atendimento-psicologico-gratuito",
-          "data": "14/08/2026",
-          "resumo": "Vinculada ao MEC, Universidade Federal do Pará faz atendimento psiquiátrico e acompanhamento psicológico gratuitos. Serviço é destinado prioritariamente a pessoas em situação de vulnerabilidade socioeconômica"
         }
       ],
       "agenda": {
