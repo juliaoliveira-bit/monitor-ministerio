@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-08-18T21:27:02.823811+00:00",
+  "atualizado_em": "2026-08-19T11:12:18.063158+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senad reúne lideranças indígenas para discutir ações do Território Seguro, Amazônia Soberana",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-reune-liderancas-indigenas-para-discutir-acoes-do-territorio-seguro-amazonia-soberana",
+          "data": "18/08/2026",
+          "resumo": "Escuta indígena, articulação institucional e produção de evidências orientam o planejamento de ações nos territórios prioritários"
+        },
+        {
+          "titulo": "Regulamentações do ECA Digital e do Marco Civil são debatidas em webinar com MJSP e ANPD",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/regulamentacoes-do-eca-digital-e-do-marco-civil-sao-debatidas-em-webinar-com-mjsp-e-anpd",
+          "data": "18/08/2026",
+          "resumo": "Entre os principais desafios estão a aferição e a verificação de idade, a publicidade digital, o dever de cuidado e o regime de sanções"
+        },
         {
           "titulo": "Dia C de Capacitação prepara profissionais para atendimento a mulheres vítimas de violência",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-c-de-capacitacao-prepara-profissionais-para-atendimento-a-mulheres-vitimas-de-violencia",
@@ -14,7 +26,7 @@
           "titulo": "Operação Desarme apreende mais de 1,7 tonelada de drogas em ações integradas no Amazonas e no Ceará",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-apreende-mais-de-1-7-tonelada-de-drogas-em-acoes-integradas-no-amazonas-e-no-ceara",
           "data": "18/08/2026",
-          "resumo": "Ações foram articuladas pela Rede Nacional de Operações Especializadas (Renoe), com atuação das forças de segurança pública"
+          "resumo": "Ações foram articuladas pela Rede Nacional de Operações Especializadas (Renoe) e Rede Nacional de Enfrentamento ao Narcotráfico (Renarme), com atuação das forças de segurança pública"
         },
         {
           "titulo": "Estratégia Nacional estabelece núcleos regionais de prevenção ao endividamento",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/instituicoes-discutem-protecao-do-consumidor-em-encontro-do-procon-es",
           "data": "17/08/2026",
           "resumo": "Agenda abordou políticas públicas, relações de consumo e atuação integrada dos órgãos de defesa do consumidor"
-        },
-        {
-          "titulo": "Operação Perímetro Zero localiza integrante de facção criminosa em Salvador",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-perimetro-zero-localiza-integrante-de-faccao-criminosa-em-salvador",
-          "data": "17/08/2026",
-          "resumo": "Ação apreendeu fuzil, pistola, munições, drogas e veículo com restrição de roubo"
-        },
-        {
-          "titulo": "Escola Nacional de Defesa do Consumidor abre inscrições para cursos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-defesa-do-consumidor-abre-inscricoes-para-cursos",
-          "data": "17/08/2026",
-          "resumo": "Capacitações gratuitas começarão em setembro e abordarão temas como direitos do consumidor, educação financeira e prevenção ao superendividamento"
         }
       ],
       "agenda": {
@@ -73,6 +73,12 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "CNE orienta redes de ensino sobre organização do calendário escolar durante a Copa do Mundo Feminina de 2027",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cne-orienta-redes-de-ensino-sobre-organizacao-do-calendario-escolar-durante-a-copa-do-mundo-feminina-de-2027",
+          "data": "18/08/2026",
+          "resumo": "Parecer orienta redes de ensino sobre ajustes no calendário escolar durante o torneio e estabelece regras para cidades-sede e regiões metropolitanas, além de garantir autonomia aos demais sistemas de ensino"
+        },
         {
           "titulo": "Rede de apoio à aplicação do Enem é instituída",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/rede-de-apoio-a-aplicacao-do-enem-e-instituida",
@@ -126,12 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ufpa-oferece-atendimento-psicologico-gratuito",
           "data": "14/08/2026",
           "resumo": "Vinculada ao MEC, Universidade Federal do Pará faz atendimento psiquiátrico e acompanhamento psicológico gratuitos. Serviço é destinado prioritariamente a pessoas em situação de vulnerabilidade socioeconômica"
-        },
-        {
-          "titulo": "Estudar não tem idade: histórias que inspiram vidas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/estudar-nao-tem-idade-historias-que-inspiram-vidas",
-          "data": "14/08/2026",
-          "resumo": "Conheça a trajetória de brasileiros que venceram barreiras e voltaram às salas de aula por meio da EJA e de cursos preparatórios para o Enem, ampliando oportunidades educacionais e profissionais"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "15 Sáb 16 Dom 17 Seg 18 Ter 19 Qua 20 Qui 21 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "16 Dom 17 Seg 18 Ter 19 Qua 20 Qui 21 Sex 22 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
