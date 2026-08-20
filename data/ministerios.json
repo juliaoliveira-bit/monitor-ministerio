@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-08-20T11:13:56.085011+00:00",
+  "atualizado_em": "2026-08-20T21:30:39.138471+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação Engodo Digital mira esquema de lavagem de dinheiro ligado a jogos de azar",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-engodo-digital-mira-esquema-de-lavagem-de-dinheiro-ligado-a-jogos-de-azar",
+          "data": "20/08/2026",
+          "resumo": "Mais de R$ 21,4 milhões são bloqueados em contas bancárias; operação cumpre 56 ordens judiciais, incluindo 14 mandados de busca e apreensão"
+        },
+        {
+          "titulo": "Operação prende investigados por fabricação e comércio ilegal de armas produzidas com impressoras 3D",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-prende-investigados-por-fabricacao-e-comercio-ilegal-de-armas-produzidas-com-impressoras-3d",
+          "data": "20/08/2026",
+          "resumo": "Ação cumpre 20 prisões preventivas e 14 mandados de busca e apreensão no Rio Grande do Sul"
+        },
+        {
+          "titulo": "Workshop debate aplicação do IVCO-TI no planejamento de políticas sobre drogas para territórios indígenas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-debate-aplicacao-do-ivco-ti-no-planejamento-de-politicas-sobre-drogas-para-territorios-indigenas",
+          "data": "20/08/2026",
+          "resumo": "Atividade reuniu gestores e organizações indígenas para discutir uso do índice na definição de prioridades e ações nos territórios"
+        },
+        {
+          "titulo": "Grupo de trabalho avança na criação de banco de dados nacional sobre milícias e crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/grupo-de-trabalho-avanca-na-criacao-de-banco-de-dados-nacional-sobre-milicias-e-crime-organizado",
+          "data": "20/08/2026",
+          "resumo": "Reunião no Palácio da Justiça discutiu, artigo por artigo, a proposta de decreto que vai regulamentar o novo banco de dados"
+        },
         {
           "titulo": "MJSP debate proteção de dados e governança em encontro nacional da ANPD",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-debate-protecao-de-dados-e-governanca-em-encontro-nacional-da-anpd",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-ultima-chamada-recupera-mais-de-6-mil-celulares-em-10-dias",
           "data": "19/08/2026",
           "resumo": "Outros 3 mil aparelhos estão previstos para serem devolvidos ainda hoje, no Dia D da Operação"
-        },
-        {
-          "titulo": "Senad reúne lideranças indígenas para discutir ações do Território Seguro, Amazônia Soberana",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-reune-liderancas-indigenas-para-discutir-acoes-do-territorio-seguro-amazonia-soberana",
-          "data": "18/08/2026",
-          "resumo": "Escuta indígena, articulação institucional e produção de evidências orientam o planejamento de ações nos territórios prioritários"
-        },
-        {
-          "titulo": "Regulamentações do ECA Digital e do Marco Civil são debatidas em webinar com MJSP e ANPD",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/regulamentacoes-do-eca-digital-e-do-marco-civil-sao-debatidas-em-webinar-com-mjsp-e-anpd",
-          "data": "18/08/2026",
-          "resumo": "Entre os principais desafios estão a aferição e a verificação de idade, a publicidade digital, o dever de cuidado e o regime de sanções"
-        },
-        {
-          "titulo": "Dia C de Capacitação prepara profissionais para atendimento a mulheres vítimas de violência",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-c-de-capacitacao-prepara-profissionais-para-atendimento-a-mulheres-vitimas-de-violencia",
-          "data": "18/08/2026",
-          "resumo": "Formação será realizada nas 27 capitais, com transmissão simultânea para outros 80 municípios; inscrições seguem abertas até 28 de agosto"
-        },
-        {
-          "titulo": "Operação Desarme apreende mais de 1,7 tonelada de drogas em ações integradas no Amazonas e no Ceará",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-apreende-mais-de-1-7-tonelada-de-drogas-em-acoes-integradas-no-amazonas-e-no-ceara",
-          "data": "18/08/2026",
-          "resumo": "Ações foram articuladas pela Rede Nacional de Operações Especializadas (Renoe) e Rede Nacional de Enfrentamento ao Narcotráfico (Renarme), com atuação das forças de segurança pública"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "MEC divulga fase de recursos da avaliação pedagógica do PNLD",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-divulga-fase-de-recursos-da-avaliacao-pedagogica-do-pnld",
+          "data": "20/08/2026",
+          "resumo": "Obras aprovadas com pendências devem apresentar as correções na Plataforma PNLD Avaliação – Módulo Editoras em até cinco dias corridos, contados a partir desta sexta-feira (21), conforme divulgado pelo ministério"
+        },
+        {
+          "titulo": "MEC oferece curso gratuito de segurança digital a educadores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-oferece-curso-gratuito-de-seguranca-digital-a-educadores",
+          "data": "20/08/2026",
+          "resumo": "Formação gratuita de 40 horas capacita educadores para orientar estudantes sobre uso consciente de telas, redes sociais, combate ao cyberbullying, fake news e inteligência artificial"
+        },
+        {
+          "titulo": "Consulta de formação continuada de professores acaba amanhã (21)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/consulta-de-formacao-continuada-de-professores-acaba-amanha-21",
+          "data": "20/08/2026",
+          "resumo": "Iniciativa visa embasar o estabelecimento das diretrizes nacionais para a formação continuada. Para responder à consulta, é necessário acessar um formulário on-line disponível na plataforma Brasil Participativo"
+        },
+        {
+          "titulo": "Prilei: veja requisitos para concorrer às bolsas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prilei-veja-requisitos-para-concorrer-as-bolsas",
+          "data": "20/08/2026",
+          "resumo": "Bolsas são ofertadas por instituições privadas sem fins lucrativos por meio de edital. Vagas são destinadas a profissionais que não possuem curso superior ou que se graduaram em área diferente da que executa atualmente"
+        },
+        {
+          "titulo": "Ufam oferece atendimento de saúde a distância no Amazonas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ufam-oferece-atendimento-de-saude-a-distancia-no-amazonas",
+          "data": "19/08/2026",
+          "resumo": "Atendimento remoto especializado permite avaliação de casos, assistência, apoio diagnóstico e definição de condutas por profissionais da Universidade Federal do Amazonas para pacientes do estado"
+        },
+        {
+          "titulo": "Chamadas abertas para 2ª edição dos Cadernos Brasileiros de Educação Popular",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/chamadas-abertas-para-2a-edicao-dos-cadernos-brasileiros-de-educacao-popular",
+          "data": "19/08/2026",
+          "resumo": "O periódico divulga e valoriza os conhecimentos e as experiências da educação popular. As chamadas acontecem de maneira contínua e recebem diversos formatos, como artigos científicos, resenhas, vídeos e outras"
+        },
+        {
+          "titulo": "Mestrado e doutorado podem chegar a regiões afastadas do país",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mestrado-e-doutorado-podem-chegar-a-regioes-afastadas-do-pais",
+          "data": "19/08/2026",
+          "resumo": "Propostas devem ser enviadas por meio da Plataforma Sucupira de 14 de setembro a 17 de dezembro. Edital prevê turmas temporárias em regiões afastadas de centros consolidados em pós-graduação e pesquisa"
+        },
+        {
+          "titulo": "STJ restabelece medidas cautelares impostas pelo MEC a instituições com baixo desempenho nos cursos de medicina",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/stj-restabelece-medidas-cautelares-impostas-pelo-mec-a-instituicoes-com-baixo-desempenho-nos-cursos-de-medicina",
+          "data": "19/08/2026",
+          "resumo": "Decisão suspende liminar do TRF-1 e restabelece medidas de supervisão determinadas pelo MEC para 107 instituições de ensino superior que tiveram baixo desempenho no Enamed"
+        },
+        {
+          "titulo": "Institutos federais podem enviar projetos ao PET Saúde",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/institutos-federais-podem-enviar-projetos-ao-pet-saude",
+          "data": "19/08/2026",
+          "resumo": "IFs interessados em desenvolver projetos de educação, pesquisa e inovação em informação e saúde digital podem submeter ao PET Saúde propostas alinhadas aos eixos do SUS Digital, entre 20 de agosto e 8 de setembro"
+        },
+        {
+          "titulo": "CNE orienta redes de ensino sobre organização do calendário escolar durante a Copa do Mundo Feminina de 2027",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cne-orienta-redes-de-ensino-sobre-organizacao-do-calendario-escolar-durante-a-copa-do-mundo-feminina-de-2027",
+          "data": "18/08/2026",
+          "resumo": "Parecer orienta redes de ensino sobre ajustes no calendário escolar durante o torneio e estabelece regras para cidades-sede e regiões metropolitanas, além de garantir autonomia aos demais sistemas de ensino"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "17 Seg 18 Ter 19 Qua 20 Qui 21 Sex 22 Sáb 23 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "",
         "link_agenda_completa": ""
       }
     }
