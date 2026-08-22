@@ -1,17 +1,139 @@
 {
-  "atualizado_em": "2026-08-21T21:27:14.664913+00:00",
+  "atualizado_em": "2026-08-22T11:08:33.434317+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Senajus acompanha Operação Acolhida e atendimento a refugiados em missão em Roraima",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-acompanha-operacao-acolhida-e-atendimento-a-refugiados-em-missao-em-roraima",
+          "data": "21/08/2026",
+          "resumo": "Agenda reuniu visitas a estruturas de recepção e acolhimento e entrega de certidões de reconhecimento da condição de refugiado a indígenas venezuelanos"
+        },
+        {
+          "titulo": "Conferência de Recuperação de Ativos fortalece integração entre Judiciário e forças policiais no Acre",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/conferencia-de-recuperacao-de-ativos-fortalece-integracao-entre-judiciario-e-forcas-policiais-no-acre",
+          "data": "21/08/2026",
+          "resumo": "Iniciativa busca ampliar a cooperação interinstitucional e aprimorar os mecanismos de recuperação de ativos"
+        },
+        {
+          "titulo": "Familiares de pessoas desaparecidas podem doar DNA para auxiliar em buscas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/familiares-de-pessoas-desaparecidas-podem-doar-dna-para-auxiliar-em-buscas",
+          "data": "21/08/2026",
+          "resumo": "Mobilização contará com 342 pontos de coleta distribuídos em todo o País"
+        },
+        {
+          "titulo": "Operação Desarme registra apreensões de armas e prisões no Nordeste",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-registra-apreensoes-de-armas-e-prisoes-no-nordeste",
+          "data": "21/08/2026",
+          "resumo": "Ações contra o crime organizado resultaram na retirada de armas e munições de circulação e no avanço de investigações"
+        },
+        {
+          "titulo": "Forças de segurança apreendem mais de 4,2 toneladas de drogas no Paraná",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forcas-de-seguranca-apreendem-mais-de-4-2-toneladas-de-drogas-no-parana",
+          "data": "21/08/2026",
+          "resumo": "Ação integrada resultou na prisão de um homem e causou prejuízo estimado em R$ 8,8 milhões ao crime"
+        },
+        {
+          "titulo": "Número de feminicídios cai no Brasil nos primeiros sete meses de 2026",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/numero-de-feminicidios-cai-no-brasil-nos-primeiros-sete-meses-de-2026",
+          "data": "21/08/2026",
+          "resumo": "Média móvel também apresenta trajetória de queda desde março; 14 unidades da Federação registraram redução no período"
+        },
+        {
+          "titulo": "MJSP, PF e MPRJ atuam de forma integrada contra organização criminosa na Baixada Fluminense",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-pf-e-mprj-atuam-de-forma-integrada-contra-organizacao-criminosa-na-baixada-fluminense",
+          "data": "20/08/2026",
+          "resumo": "Relatórios de Inteligência Financeira do Coaf identificaram mais de R$ 350 milhões em movimentações suspeitas atribuídas ao grupo"
+        },
+        {
+          "titulo": "Operação Engodo Digital mira esquema de lavagem de dinheiro ligado a jogos de azar",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-engodo-digital-mira-esquema-de-lavagem-de-dinheiro-ligado-a-jogos-de-azar",
+          "data": "20/08/2026",
+          "resumo": "Mais de R$ 21,4 milhões são bloqueados em contas bancárias; operação cumpre 56 ordens judiciais, incluindo 14 mandados de busca e apreensão"
+        },
+        {
+          "titulo": "Operação prende investigados por fabricação e comércio ilegal de armas produzidas com impressoras 3D",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-prende-investigados-por-fabricacao-e-comercio-ilegal-de-armas-produzidas-com-impressoras-3d",
+          "data": "20/08/2026",
+          "resumo": "Ação cumpre 20 prisões preventivas e 14 mandados de busca e apreensão no Rio Grande do Sul"
+        },
+        {
+          "titulo": "Workshop debate aplicação do IVCO-TI no planejamento de políticas sobre drogas para territórios indígenas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-debate-aplicacao-do-ivco-ti-no-planejamento-de-politicas-sobre-drogas-para-territorios-indigenas",
+          "data": "20/08/2026",
+          "resumo": "Atividade reuniu gestores e organizações indígenas para discutir uso do índice na definição de prioridades e ações nos territórios"
+        }
+      ],
       "agenda": {
-        "resumo": "",
-        "link_agenda_completa": ""
+        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
+        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Encceja 2026: provas serão aplicadas neste domingo (23/8)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/encceja-2026-provas-serao-aplicadas-neste-domingo-23-8",
+          "data": "21/08/2026",
+          "resumo": "Provas serão aplicadas nos turnos da manhã e da tarde, em todos os estados e no Distrito Federal. Participantes devem levar documento oficial com foto e caneta esferográfica preta, de material transparente"
+        },
+        {
+          "titulo": "MEC Livros reúne lendas brasileiras em seção especial",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-livros-reune-lendas-brasileiras-em-secao-especial",
+          "data": "21/08/2026",
+          "resumo": "Seção especial do MEC Livros reúne 15 obras sobre personagens e histórias da cultura popular brasileira. No mês do folclore, acervo já registra mais de 2 mil acessos desde sua criação, em 3 de agosto"
+        },
+        {
+          "titulo": "Reaberta adesão para novos programas de residências em saúde",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/reaberta-adesao-para-novos-programas-de-residencias-em-saude",
+          "data": "21/08/2026",
+          "resumo": "Instituições podem solicitar a criação de programas de residência ou a ampliação de vagas nos já existentes até 31 de agosto, por meio dos sistemas das comissões responsáveis pela formação de especialistas"
+        },
+        {
+          "titulo": "MEC prorroga prazo para diagnóstico de Educação Especial Inclusiva",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-prorroga-prazo-para-diagnostico-de-educacao-especial-inclusiva",
+          "data": "21/08/2026",
+          "resumo": "Redes de ensino que aderiram à política devem responder, até 25 de agosto, ao levantamento sobre a necessidade de formação continuada para orientar ações dos centros de formação do MEC"
+        },
+        {
+          "titulo": "Bienal do Livro de Brasília reforça importância da formação de leitores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/bienal-do-livro-de-brasilia-reforca-importancia-da-formacao-de-leitores",
+          "data": "21/08/2026",
+          "resumo": "Evento retorna à capital federal após quatro anos e reúne diferentes públicos em torno da literatura. Para especialistas, aproximação com os livros deve começar ainda na primeira infância"
+        },
+        {
+          "titulo": "Pé-de-Meia: parcelas de agosto começam a ser pagas na segunda (24)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pe-de-meia-parcelas-de-agosto-comecam-a-ser-pagas-na-segunda-24",
+          "data": "21/08/2026",
+          "resumo": "Repasse será feito até 31 de agosto, de acordo com o mês de nascimento dos estudantes, para aqueles que tiveram pelo menos 80% de frequência escolar. Estudantes da EJA beneficiários do programa que concluíram com aprovação o primeiro semestre também podem receber parcela de conclusão"
+        },
+        {
+          "titulo": "Formação oferece mais de 4 mil vagas em mestrado profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/formacao-oferece-mais-de-4-mil-vagas-em-mestrado-profissional",
+          "data": "21/08/2026",
+          "resumo": "Oportunidades são ofertadas pelo ProEB para professores de educação básica da rede pública. Para se inscrever, é necessário acessar os editais de cada curso de interesse, que estão centralizados no Portal de Formação Mais Professores"
+        },
+        {
+          "titulo": "Ideb: Acre inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-acre-inicia-analise-de-resultados-nas-redes",
+          "data": "21/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Acre teve crescimento nas três etapas da avaliação"
+        },
+        {
+          "titulo": "Ideb: Paraná inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-parana-inicia-analise-de-resultados-nas-redes",
+          "data": "21/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Paraná teve crescimento nas três etapas da avaliação"
+        },
+        {
+          "titulo": "Ideb: Rio de Janeiro inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-rio-de-janeiroinicia-analise-de-resultados-nas-redes",
+          "data": "21/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Rio de Janeiro teve crescimento nas três etapas da avaliação"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -21,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "",
+        "resumo": "19 Qua 20 Qui 21 Sex 22 Sáb 23 Dom 24 Seg 25 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
