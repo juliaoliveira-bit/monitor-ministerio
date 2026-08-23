@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-23T11:09:26.540148+00:00",
+  "atualizado_em": "2026-08-23T21:24:02.857739+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Encceja 2026: provas serão aplicadas neste domingo (23/8)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/encceja-2026-provas-serao-aplicadas-neste-domingo-23-8",
-          "data": "21/08/2026",
-          "resumo": "Provas serão aplicadas nos turnos da manhã e da tarde, em todos os estados e no Distrito Federal. Participantes devem levar documento oficial com foto e caneta esferográfica preta, de material transparente"
-        },
-        {
-          "titulo": "MEC Livros reúne lendas brasileiras em seção especial",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-livros-reune-lendas-brasileiras-em-secao-especial",
-          "data": "21/08/2026",
-          "resumo": "Seção especial do MEC Livros reúne 15 obras sobre personagens e histórias da cultura popular brasileira. No mês do folclore, acervo já registra mais de 2 mil acessos desde sua criação, em 3 de agosto"
-        },
-        {
-          "titulo": "Reaberta adesão para novos programas de residências em saúde",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/reaberta-adesao-para-novos-programas-de-residencias-em-saude",
-          "data": "21/08/2026",
-          "resumo": "Instituições podem solicitar a criação de programas de residência ou a ampliação de vagas nos já existentes até 31 de agosto, por meio dos sistemas das comissões responsáveis pela formação de especialistas"
-        },
-        {
-          "titulo": "MEC prorroga prazo para diagnóstico de Educação Especial Inclusiva",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-prorroga-prazo-para-diagnostico-de-educacao-especial-inclusiva",
-          "data": "21/08/2026",
-          "resumo": "Redes de ensino que aderiram à política devem responder, até 25 de agosto, ao levantamento sobre a necessidade de formação continuada para orientar ações dos centros de formação do MEC"
-        },
-        {
-          "titulo": "Bienal do Livro de Brasília reforça importância da formação de leitores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/bienal-do-livro-de-brasilia-reforca-importancia-da-formacao-de-leitores",
-          "data": "21/08/2026",
-          "resumo": "Evento retorna à capital federal após quatro anos e reúne diferentes públicos em torno da literatura. Para especialistas, aproximação com os livros deve começar ainda na primeira infância"
-        },
-        {
-          "titulo": "Pé-de-Meia: parcelas de agosto começam a ser pagas na segunda (24)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pe-de-meia-parcelas-de-agosto-comecam-a-ser-pagas-na-segunda-24",
-          "data": "21/08/2026",
-          "resumo": "Repasse será feito até 31 de agosto, de acordo com o mês de nascimento dos estudantes, para aqueles que tiveram pelo menos 80% de frequência escolar. Estudantes da EJA beneficiários do programa que concluíram com aprovação o primeiro semestre também podem receber parcela de conclusão"
-        },
-        {
-          "titulo": "Formação oferece mais de 4 mil vagas em mestrado profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/formacao-oferece-mais-de-4-mil-vagas-em-mestrado-profissional",
-          "data": "21/08/2026",
-          "resumo": "Oportunidades são ofertadas pelo ProEB para professores de educação básica da rede pública. Para se inscrever, é necessário acessar os editais de cada curso de interesse, que estão centralizados no Portal de Formação Mais Professores"
-        },
-        {
-          "titulo": "Ideb: Acre inicia análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-acre-inicia-analise-de-resultados-nas-redes",
-          "data": "21/08/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Acre teve crescimento nas três etapas da avaliação"
-        },
-        {
-          "titulo": "Ideb: Paraná inicia análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-parana-inicia-analise-de-resultados-nas-redes",
-          "data": "21/08/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Paraná teve crescimento nas três etapas da avaliação"
-        },
-        {
-          "titulo": "Ideb: Rio de Janeiro inicia análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-rio-de-janeiroinicia-analise-de-resultados-nas-redes",
-          "data": "21/08/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Rio de Janeiro teve crescimento nas três etapas da avaliação"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -141,68 +80,7 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [
-        {
-          "titulo": "Tecnologia estuda produção de mudas mais preparadas para restaurar manguezais do Nordeste",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/tecnologia-estuda-producao-de-mudas-mais-preparadas-para-restaurar-manguezais-do-nordeste",
-          "data": "21/08/2026",
-          "resumo": "Pesquisa avalia diferentes substratos para fortalecer mudas, aumentando a sobrevivência das plantas e reduzindo a retirada de solo dos manguezais"
-        },
-        {
-          "titulo": "Cooperação Brasil-Noruega seleciona projetos em energia, petróleo offshore e transporte marítimo verde",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/cooperacao-brasil-noruega-seleciona-projetos-em-energia-petroleo-offshore-e-transporte-maritimo-verde",
-          "data": "21/08/2026",
-          "resumo": "A chamada prevê até R$ 15 milhões do FNDCT para apoiar a parte brasileira dos projetos selecionados"
-        },
-        {
-          "titulo": "Inscrições abertas para mestrado e doutorado em Modelagem Computacional no LNCC",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-abertas-para-mestrado-e-doutorado-em-modelagem-computacional-no-lncc",
-          "data": "20/08/2026",
-          "resumo": "Com nota máxima na avaliação da Capes, programa federal forma pesquisadores para resolver problemas tecnológicos e sociais"
-        },
-        {
-          "titulo": "Primeiro voo teste do foguete Sebit permitiu coleta de dados em condições reais de voo",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/primeiro-voo-teste-do-foguete-sebit-permitiu-coleta-de-dados-em-condicoes-reais-de-voo",
-          "data": "20/08/2026",
-          "resumo": "Com o resultado da operação no Centro de Lançamento de Alcântara, a empresa sul-coreana Innospace poderá avaliar o veículo e planejar o desenvolvimento das próximas etapas"
-        },
-        {
-          "titulo": "Ibict está com inscrições abertas para seleção interna do Programa Capes Global.Edu",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/ibict-esta-com-inscricoes-abertas-para-selecao-interna-do-programa-capes-global.edu",
-          "data": "19/08/2026",
-          "resumo": "Chamada contempla quatro modalidades de mobilidade acadêmica para o primeiro semestre de 2027. Inscrições seguem até 25 de agosto"
-        },
-        {
-          "titulo": "Operações de segurança da RNP protegem rede acadêmica",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/operacoes-de-seguranca-da-rnp-protegem-rede-academica",
-          "data": "18/08/2026",
-          "resumo": "Com monitoramento contínuo e serviços de inteligência, estruturas integradas previnem vazamentos e garantem a continuidade de projetos científicos no País"
-        },
-        {
-          "titulo": "CNPEM abre inscrições para 34ª edição do Programa Bolsas de Verão",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/cnpem-abre-inscricoes-para-34a-edicao-do-programa-bolsas-de-verao",
-          "data": "13/08/2026",
-          "resumo": "Estudantes de graduação da América Latina e do Caribe podem participar da seleção. Prazo vai até 8 de setembro"
-        },
-        {
-          "titulo": "Disponibilidade de água tem maior influência na sobrevivência das plantas",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/disponibilidade-de-agua-tem-maior-influencia-na-sobrevivencia-das-plantas",
-          "data": "13/08/2026",
-          "resumo": "Pesquisa desenvolvida pela Universidade de Oxford e pelo INMA analisa a capacidade de sobrevivência de 78 espécies"
-        },
-        {
-          "titulo": "Mudanças climáticas na Mata Atlântica alteram o trabalho das formigas",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mudancas-climaticas-na-mata-atlantica-alteram-o-trabalho-das-formigas",
-          "data": "13/08/2026",
-          "resumo": "Pesquisa estuda efeitos como a redução da diversidade evolutiva desses insetos e a diminuição da capacidade dos ecossistemas de resistir e se recuperar de mudanças"
-        },
-        {
-          "titulo": "Chuva de Meteoros Perseidas atravessa o céu do País",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chuva-de-meteoros-perseidas-atravessa-o-ceu-do-pais",
-          "data": "12/08/2026",
-          "resumo": "Fenômeno terá seu auge na madrugada de quinta-feira (13) e poderá ser visto a olho nu"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "20 Qui 21 Sex 22 Sáb 23 Dom 24 Seg 25 Ter 26 Qua Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
