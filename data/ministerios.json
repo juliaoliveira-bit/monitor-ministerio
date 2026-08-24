@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-08-24T11:15:32.630886+00:00",
+  "atualizado_em": "2026-08-24T21:31:55.689405+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Inscrições abertas para curso de gestão municipal da ordem pública e segurança cidadã",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-curso-de-gestao-municipal-da-ordem-publica-e-seguranca-cidada",
+          "data": "24/08/2026",
+          "resumo": "Especialização na modalidade de educação a distância disponibiliza 220 vagas para guardas municipais"
+        },
+        {
+          "titulo": "Postos oficiais coletam DNA de familiares para auxiliar em buscas de pessoas desaparecidas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/postos-oficiais-coletam-dna-de-familiares-para-auxiliar-em-buscas-de-pessoas-desaparecidas",
+          "data": "24/08/2026",
+          "resumo": "Mobilização segue em todas as unidades da Federação até sexta-feira (28)"
+        },
+        {
+          "titulo": "Reunião técnica debate avanços e continuidade de estratégias de prevenção ao uso de drogas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/reuniao-tecnica-debate-avancos-e-continuidade-de-estrategias-de-prevencao-ao-uso-de-drogas",
+          "data": "24/08/2026",
+          "resumo": "Encontro reúne profissionais envolvidos na implementação de metodologias baseadas em evidências voltadas a crianças, adolescentes, famílias e comunidades"
+        },
+        {
+          "titulo": "MJSP lança guia para orientar jornalistas diante da violência no período eleitoral",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lanca-guia-para-orientar-jornalistas-diante-da-violencia-no-periodo-eleitoral",
+          "data": "24/08/2026",
+          "resumo": "Material reúne orientações sobre segurança, preservação de provas e encaminhamento aos órgãos competentes"
+        },
+        {
+          "titulo": "Veja como se proteger de golpes na internet e orientar sua família",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/veja-como-se-proteger-de-golpes-na-internet-e-orientar-sua-familia",
+          "data": "24/08/2026",
+          "resumo": "Ciberlab reúne orientações para prevenir fraudes, proteger dados pessoais e reduzir os riscos de golpes no ambiente digital"
+        },
+        {
+          "titulo": "Senacon abre averiguações sobre atuação de Banrisul e Agibank",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-abre-averiguacoes-sobre-atuacao-de-banrisul-e-agibank",
+          "data": "24/08/2026",
+          "resumo": "Procedimentos administrativos analisam relatos encaminhados por órgãos de defesa do consumidor sobre possíveis irregularidades no atendimento e na relação com clientes"
+        },
+        {
+          "titulo": "Pensão alimentícia internacional: saiba como solicitar ou cobrar valores quando uma das partes mora no exterior",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pensao-alimenticia-internacional-saiba-como-solicitar-ou-cobrar-valores-quando-uma-das-partes-mora-no-exterior",
+          "data": "24/08/2026",
+          "resumo": "Cooperação jurídica permite pedidos de fixação, revisão, reconhecimento e execução de pensão entre países abrangidos pela Convenção da Haia"
+        },
         {
           "titulo": "Senajus acompanha Operação Acolhida e atendimento a refugiados em missão em Roraima",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-acompanha-operacao-acolhida-e-atendimento-a-refugiados-em-missao-em-roraima",
@@ -21,48 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/familiares-de-pessoas-desaparecidas-podem-doar-dna-para-auxiliar-em-buscas",
           "data": "21/08/2026",
           "resumo": "Mobilização contará com 342 pontos de coleta distribuídos em todo o País"
-        },
-        {
-          "titulo": "Operação Desarme registra apreensões de armas e prisões no Nordeste",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-registra-apreensoes-de-armas-e-prisoes-no-nordeste",
-          "data": "21/08/2026",
-          "resumo": "Ações contra o crime organizado resultaram na retirada de armas e munições de circulação e no avanço de investigações"
-        },
-        {
-          "titulo": "Forças de segurança apreendem mais de 4,2 toneladas de drogas no Paraná",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forcas-de-seguranca-apreendem-mais-de-4-2-toneladas-de-drogas-no-parana",
-          "data": "21/08/2026",
-          "resumo": "Ação integrada resultou na prisão de um homem e causou prejuízo estimado em R$ 8,8 milhões ao crime"
-        },
-        {
-          "titulo": "Número de feminicídios cai no Brasil nos primeiros sete meses de 2026",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/numero-de-feminicidios-cai-no-brasil-nos-primeiros-sete-meses-de-2026",
-          "data": "21/08/2026",
-          "resumo": "Média móvel também apresenta trajetória de queda desde março; 14 unidades da Federação registraram redução no período"
-        },
-        {
-          "titulo": "MJSP, PF e MPRJ atuam de forma integrada contra organização criminosa na Baixada Fluminense",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-pf-e-mprj-atuam-de-forma-integrada-contra-organizacao-criminosa-na-baixada-fluminense",
-          "data": "20/08/2026",
-          "resumo": "Relatórios de Inteligência Financeira do Coaf identificaram mais de R$ 350 milhões em movimentações suspeitas atribuídas ao grupo"
-        },
-        {
-          "titulo": "Operação Engodo Digital mira esquema de lavagem de dinheiro ligado a jogos de azar",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-engodo-digital-mira-esquema-de-lavagem-de-dinheiro-ligado-a-jogos-de-azar",
-          "data": "20/08/2026",
-          "resumo": "Mais de R$ 21,4 milhões são bloqueados em contas bancárias; operação cumpre 56 ordens judiciais, incluindo 14 mandados de busca e apreensão"
-        },
-        {
-          "titulo": "Operação prende investigados por fabricação e comércio ilegal de armas produzidas com impressoras 3D",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-prende-investigados-por-fabricacao-e-comercio-ilegal-de-armas-produzidas-com-impressoras-3d",
-          "data": "20/08/2026",
-          "resumo": "Ação cumpre 20 prisões preventivas e 14 mandados de busca e apreensão no Rio Grande do Sul"
-        },
-        {
-          "titulo": "Workshop debate aplicação do IVCO-TI no planejamento de políticas sobre drogas para territórios indígenas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-debate-aplicacao-do-ivco-ti-no-planejamento-de-politicas-sobre-drogas-para-territorios-indigenas",
-          "data": "20/08/2026",
-          "resumo": "Atividade reuniu gestores e organizações indígenas para discutir uso do índice na definição de prioridades e ações nos territórios"
         }
       ],
       "agenda": {
