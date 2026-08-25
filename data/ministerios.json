@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-08-25T11:14:25.793420+00:00",
+  "atualizado_em": "2026-08-25T21:30:51.996354+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senacon abre monitoramento de Casas Bahia, Tok&Stok e Marabraz após pedidos de recuperação judicial",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-orienta-consumidores-apos-pedido-de-recuperacao-judicial-do-grupo-casas-bahia",
+          "data": "25/08/2026",
+          "resumo": "Secretaria esclarece efeitos do pedido sobre compras, pagamentos, entregas, garantias e eventuais solicitações de restituição"
+        },
+        {
+          "titulo": "Dia do Soldado é celebrado com solenidade e participação de autoridades em Brasília",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-do-soldado-e-celebrado-com-solenidade-e-participacao-de-autoridades-em-brasilia",
+          "data": "25/08/2026",
+          "resumo": "Cerimônia teve desfile de militares, demonstrações de paraquedismo e condecorações a civis e integrantes do Exército"
+        },
         {
           "titulo": "Inscrições abertas para curso de gestão municipal da ordem pública e segurança cidadã",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-curso-de-gestao-municipal-da-ordem-publica-e-seguranca-cidada",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-acompanha-operacao-acolhida-e-atendimento-a-refugiados-em-missao-em-roraima",
           "data": "21/08/2026",
           "resumo": "Agenda reuniu visitas a estruturas de recepção e acolhimento e entrega de certidões de reconhecimento da condição de refugiado a indígenas venezuelanos"
-        },
-        {
-          "titulo": "Conferência de Recuperação de Ativos fortalece integração entre Judiciário e forças policiais no Acre",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/conferencia-de-recuperacao-de-ativos-fortalece-integracao-entre-judiciario-e-forcas-policiais-no-acre",
-          "data": "21/08/2026",
-          "resumo": "Iniciativa busca ampliar a cooperação interinstitucional e aprimorar os mecanismos de recuperação de ativos"
-        },
-        {
-          "titulo": "Familiares de pessoas desaparecidas podem doar DNA para auxiliar em buscas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/familiares-de-pessoas-desaparecidas-podem-doar-dna-para-auxiliar-em-buscas",
-          "data": "21/08/2026",
-          "resumo": "Mobilização contará com 342 pontos de coleta distribuídos em todo o País"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Redes de ensino têm até 31/8 para preencher dados do Fundeb-VAAR",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/redes-de-ensino-tem-ate-31-8-para-preencher-dados-do-fundeb-vaar",
+          "data": "25/08/2026",
+          "resumo": "Registro de informações e envio de documentos para verificação das condicionalidades do VAAR deve ser realizado pelo Simec. Procedimento é necessário para habilitação das redes ao recebimento da complementação em 2027"
+        },
+        {
+          "titulo": "Dia da Educação Infantil: cuidar, educar e desenvolver",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/dia-da-educacao-infantil-cuidar-educar-e-desenvolver",
+          "data": "25/08/2026",
+          "resumo": "No dia 25 de agosto, é celebrado no Brasil o Dia Nacional da Educação Infantil, a primeira etapa da educação básica. Dados mostram ampliação do acesso e desafios para garantir equidade"
+        },
+        {
+          "titulo": "Mais de 5,4 milhões participam da 1ª fase da OBMEP",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mais-de-5-4-milhoes-participam-da-1a-fase-da-obmep",
+          "data": "25/08/2026",
+          "resumo": "Primeira fase da Olimpíada Mirim – OBMEP reúne, nesta terça-feira (25), estudantes do 2º ao 5º ano de mais de 34,7 mil escolas públicas e privadas de todo o Brasil para resolver questões de matemática"
+        },
+        {
+          "titulo": "Como uma instituição de educação superior se torna universidade",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/como-uma-instituicao-de-educacao-superior-se-torna-universidade",
+          "data": "25/08/2026",
+          "resumo": "Da faculdade à universidade, a mudança de organização acadêmica exige o cumprimento de critérios regulatórios e passa por avaliação do MEC"
+        },
+        {
+          "titulo": "Programa Mulheres Mil abre mais de 4 mil vagas gratuitas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/programa-mulheres-mil-abre-mais-de-4-mil-vagas-gratuitas",
+          "data": "25/08/2026",
+          "resumo": "Cursos para qualificação profissional de mulheres são ofertados por instituições das redes estaduais e da Rede Federal de Educação Profissional e Tecnológica. São 43 cursos presenciais ofertados por 32 instituições em 19 estados"
+        },
+        {
+          "titulo": "Encontro técnico orienta sobre uso dos resultados da PND",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/encontro-tecnico-orienta-sobre-uso-dos-resultados-da-pnd",
+          "data": "24/08/2026",
+          "resumo": "Atividade virtual, nos dias 25 e 27 de agosto, é destinada às equipes técnicas das secretarias de educação e abordará procedimentos para utilização da nota da Prova Nacional Docente em processos seletivos"
+        },
+        {
+          "titulo": "PodMEC: programa aprofunda temáticas estratégicas da educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/podmec-programa-aprofunda-tematicas-estrategicas-da-educacao",
+          "data": "24/08/2026",
+          "resumo": "Primeiro episódio com especialistas foi lançado nesta segunda (24) e está disponível no canal do MEC no YouTube e no Spotify. Iniciativa vai explicar políticas, programas e ações de maneira a facilitar o entendimento sobre seus impactos"
+        },
+        {
+          "titulo": "Cadernos do MEC apoiam docentes da educação especial inclusiva",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cadernos-do-mec-apoiam-docentes-da-educacao-especial-inclusiva",
+          "data": "24/08/2026",
+          "resumo": "Educadores podem acessar coletânea de 14 volumes com orientações práticas sobre AEE, autismo, tecnologia assistiva e combate ao capacitismo nas escolas"
+        },
+        {
+          "titulo": "Encceja 2026: prazo para solicitar reaplicação vai até 28 de agosto",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/encceja-2026-prazo-para-solicitar-reaplicacao-vai-ate-28-de-agosto",
+          "data": "24/08/2026",
+          "resumo": "Participantes afetados por problemas logísticos ou por doenças infectocontagiosas previstas em edital podem solicitar nova aplicação das provas pela Página do Participante até 28 de agosto"
+        },
+        {
+          "titulo": "Observatório da Educação Especial Inclusiva recebe propostas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/observatorio-da-educacao-especial-inclusiva-recebe-propostas",
+          "data": "24/08/2026",
+          "resumo": "O observatório deve avaliar, monitorar e aperfeiçoar a PNEEI. Prazo para instituições de educação superior públicas submeterem propostas começa nesta segunda-feira (24), por meio do sistema de inscrições da Capes"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
