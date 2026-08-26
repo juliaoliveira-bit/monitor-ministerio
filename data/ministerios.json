@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-08-25T21:30:51.996354+00:00",
+  "atualizado_em": "2026-08-26T11:16:59.145795+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Benedito Gonçalves toma posse como corregedor do Conselho Nacional de Justiça",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/benedito-goncalves-toma-posse-como-corregedor-do-conselho-nacional-de-justica",
+          "data": "25/08/2026",
+          "resumo": "Ministro do STJ assume a Corregedoria Nacional de Justiça para o biênio 2026-2028, em cerimônia com a presença do ministro Wellington Lima"
+        },
         {
           "titulo": "Senacon abre monitoramento de Casas Bahia, Tok&Stok e Marabraz após pedidos de recuperação judicial",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-orienta-consumidores-apos-pedido-de-recuperacao-judicial-do-grupo-casas-bahia",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pensao-alimenticia-internacional-saiba-como-solicitar-ou-cobrar-valores-quando-uma-das-partes-mora-no-exterior",
           "data": "24/08/2026",
           "resumo": "Cooperação jurídica permite pedidos de fixação, revisão, reconhecimento e execução de pensão entre países abrangidos pela Convenção da Haia"
-        },
-        {
-          "titulo": "Senajus acompanha Operação Acolhida e atendimento a refugiados em missão em Roraima",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-acompanha-operacao-acolhida-e-atendimento-a-refugiados-em-missao-em-roraima",
-          "data": "21/08/2026",
-          "resumo": "Agenda reuniu visitas a estruturas de recepção e acolhimento e entrega de certidões de reconhecimento da condição de refugiado a indígenas venezuelanos"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Ideb: Alagoas inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-alagoas-inicia-analise-de-resultados-nas-redes",
+          "data": "25/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Alagoas teve crescimento nas três etapas da avaliação"
+        },
+        {
+          "titulo": "Ideb: Rio Grande do Sul inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-rio-grande-do-sul-inicia-analise-de-resultados-nas-redes",
+          "data": "25/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Rio Grande do Sul teve crescimento nas três etapas da avaliação"
+        },
+        {
+          "titulo": "Ideb: Rondônia inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-rondonia-inicia-analise-de-resultados-nas-redes",
+          "data": "25/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb."
+        },
         {
           "titulo": "Redes de ensino têm até 31/8 para preencher dados do Fundeb-VAAR",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/redes-de-ensino-tem-ate-31-8-para-preencher-dados-do-fundeb-vaar",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/podmec-programa-aprofunda-tematicas-estrategicas-da-educacao",
           "data": "24/08/2026",
           "resumo": "Primeiro episódio com especialistas foi lançado nesta segunda (24) e está disponível no canal do MEC no YouTube e no Spotify. Iniciativa vai explicar políticas, programas e ações de maneira a facilitar o entendimento sobre seus impactos"
-        },
-        {
-          "titulo": "Cadernos do MEC apoiam docentes da educação especial inclusiva",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/cadernos-do-mec-apoiam-docentes-da-educacao-especial-inclusiva",
-          "data": "24/08/2026",
-          "resumo": "Educadores podem acessar coletânea de 14 volumes com orientações práticas sobre AEE, autismo, tecnologia assistiva e combate ao capacitismo nas escolas"
-        },
-        {
-          "titulo": "Encceja 2026: prazo para solicitar reaplicação vai até 28 de agosto",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/encceja-2026-prazo-para-solicitar-reaplicacao-vai-ate-28-de-agosto",
-          "data": "24/08/2026",
-          "resumo": "Participantes afetados por problemas logísticos ou por doenças infectocontagiosas previstas em edital podem solicitar nova aplicação das provas pela Página do Participante até 28 de agosto"
-        },
-        {
-          "titulo": "Observatório da Educação Especial Inclusiva recebe propostas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/observatorio-da-educacao-especial-inclusiva-recebe-propostas",
-          "data": "24/08/2026",
-          "resumo": "O observatório deve avaliar, monitorar e aperfeiçoar a PNEEI. Prazo para instituições de educação superior públicas submeterem propostas começa nesta segunda-feira (24), por meio do sistema de inscrições da Capes"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "22 Sáb 23 Dom 24 Seg 25 Ter 26 Qua 27 Qui 28 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "23 Dom 24 Seg 25 Ter 26 Qua 27 Qui 28 Sex 29 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
