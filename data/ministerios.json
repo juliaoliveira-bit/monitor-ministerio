@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-08-26T11:16:59.145795+00:00",
+  "atualizado_em": "2026-08-27T00:32:41.612136+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Draco2, PRF e PM apreendem cerca de 180 kg de skunk",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/draco2-prf-e-pm-apreendem-cerca-de-180-kg-de-skunk",
+          "data": "26/08/2026",
+          "resumo": "Ação integrada ocorreu no âmbito da Operação Renorcrim, em Rondônia"
+        },
+        {
+          "titulo": "Inscrições abertas para pós-graduação em gestão e liderança para mulheres na segurança pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-pos-graduacao-em-gestao-e-lideranca-para-mulheres-na-seguranca-publica",
+          "data": "26/08/2026",
+          "resumo": "Especialização na modalidade de ensino a distância é destinada a mulheres de diferentes corporações"
+        },
+        {
+          "titulo": "Segurança Pública e Educação elaboram protocolo para prevenção e resposta à violência extrema nas escolas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/seguranca-publica-e-educacao-elaboram-protocolo-para-prevencao-e-resposta-a-violencia-extrema-nas-escolas",
+          "data": "26/08/2026",
+          "resumo": "Documento reunirá orientações para atuação integrada dos profissionais de segurança pública no ambiente escolar"
+        },
+        {
+          "titulo": "Especialistas apontam vantagens competitivas na corrida pela autonomia digital no Brasil",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/especialistas-apontam-vantagens-competitivas-na-corrida-pela-autonomia-digital-no-brasil",
+          "data": "26/08/2026",
+          "resumo": "Evento reuniu representante do Governo, da iniciativa privada e da academia para debater avanços da IA à luz do desenvolvimento econômico e da soberania nacional"
+        },
+        {
+          "titulo": "Polícia Civil de Mato Grosso prende integrantes de facção e apreende veículos de luxo",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policia-civil-de-mato-grosso-prende-integrantes-de-faccao-e-apreende-veiculos-de-luxo",
+          "data": "26/08/2026",
+          "resumo": "Operação mira núcleo responsável por proteger foragidos e dar suporte à atuação criminosa entre Mato Grosso e Rio de Janeiro"
+        },
+        {
+          "titulo": "Polícia Civil do Ceará deflagra Operação Sentinela e prende cinco homens",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policia-civil-do-ceara-deflagra-operacao-sentinela-e-prende-cinco-homens",
+          "data": "26/08/2026",
+          "resumo": "Operação cumpre 12 mandados de busca e apreensão em ação da Renorcrim, coordenada pelo MJSP por meio da Senasp"
+        },
         {
           "titulo": "Benedito Gonçalves toma posse como corregedor do Conselho Nacional de Justiça",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/benedito-goncalves-toma-posse-como-corregedor-do-conselho-nacional-de-justica",
@@ -12,7 +48,7 @@
         },
         {
           "titulo": "Senacon abre monitoramento de Casas Bahia, Tok&Stok e Marabraz após pedidos de recuperação judicial",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-orienta-consumidores-apos-pedido-de-recuperacao-judicial-do-grupo-casas-bahia",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-abre-monitoramento-de-casas-bahia-tok-stok-e-marabraz-apos-pedidos-de-recuperacao-judicial",
           "data": "25/08/2026",
           "resumo": "Secretaria esclarece efeitos do pedido sobre compras, pagamentos, entregas, garantias e eventuais solicitações de restituição"
         },
@@ -27,42 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-curso-de-gestao-municipal-da-ordem-publica-e-seguranca-cidada",
           "data": "24/08/2026",
           "resumo": "Especialização na modalidade de educação a distância disponibiliza 220 vagas para guardas municipais"
-        },
-        {
-          "titulo": "Postos oficiais coletam DNA de familiares para auxiliar em buscas de pessoas desaparecidas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/postos-oficiais-coletam-dna-de-familiares-para-auxiliar-em-buscas-de-pessoas-desaparecidas",
-          "data": "24/08/2026",
-          "resumo": "Mobilização segue em todas as unidades da Federação até sexta-feira (28)"
-        },
-        {
-          "titulo": "Reunião técnica debate avanços e continuidade de estratégias de prevenção ao uso de drogas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/reuniao-tecnica-debate-avancos-e-continuidade-de-estrategias-de-prevencao-ao-uso-de-drogas",
-          "data": "24/08/2026",
-          "resumo": "Encontro reúne profissionais envolvidos na implementação de metodologias baseadas em evidências voltadas a crianças, adolescentes, famílias e comunidades"
-        },
-        {
-          "titulo": "MJSP lança guia para orientar jornalistas diante da violência no período eleitoral",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lanca-guia-para-orientar-jornalistas-diante-da-violencia-no-periodo-eleitoral",
-          "data": "24/08/2026",
-          "resumo": "Material reúne orientações sobre segurança, preservação de provas e encaminhamento aos órgãos competentes"
-        },
-        {
-          "titulo": "Veja como se proteger de golpes na internet e orientar sua família",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/veja-como-se-proteger-de-golpes-na-internet-e-orientar-sua-familia",
-          "data": "24/08/2026",
-          "resumo": "Ciberlab reúne orientações para prevenir fraudes, proteger dados pessoais e reduzir os riscos de golpes no ambiente digital"
-        },
-        {
-          "titulo": "Senacon abre averiguações sobre atuação de Banrisul e Agibank",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-abre-averiguacoes-sobre-atuacao-de-banrisul-e-agibank",
-          "data": "24/08/2026",
-          "resumo": "Procedimentos administrativos analisam relatos encaminhados por órgãos de defesa do consumidor sobre possíveis irregularidades no atendimento e na relação com clientes"
-        },
-        {
-          "titulo": "Pensão alimentícia internacional: saiba como solicitar ou cobrar valores quando uma das partes mora no exterior",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pensao-alimenticia-internacional-saiba-como-solicitar-ou-cobrar-valores-quando-uma-das-partes-mora-no-exterior",
-          "data": "24/08/2026",
-          "resumo": "Cooperação jurídica permite pedidos de fixação, revisão, reconhecimento e execução de pensão entre países abrangidos pela Convenção da Haia"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Ideb: Alagoas inicia análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-alagoas-inicia-analise-de-resultados-nas-redes",
-          "data": "25/08/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Alagoas teve crescimento nas três etapas da avaliação"
-        },
-        {
-          "titulo": "Ideb: Rio Grande do Sul inicia análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-rio-grande-do-sul-inicia-analise-de-resultados-nas-redes",
-          "data": "25/08/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Rio Grande do Sul teve crescimento nas três etapas da avaliação"
-        },
-        {
-          "titulo": "Ideb: Rondônia inicia análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-rondonia-inicia-analise-de-resultados-nas-redes",
-          "data": "25/08/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb."
-        },
-        {
-          "titulo": "Redes de ensino têm até 31/8 para preencher dados do Fundeb-VAAR",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/redes-de-ensino-tem-ate-31-8-para-preencher-dados-do-fundeb-vaar",
-          "data": "25/08/2026",
-          "resumo": "Registro de informações e envio de documentos para verificação das condicionalidades do VAAR deve ser realizado pelo Simec. Procedimento é necessário para habilitação das redes ao recebimento da complementação em 2027"
-        },
-        {
-          "titulo": "Dia da Educação Infantil: cuidar, educar e desenvolver",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/dia-da-educacao-infantil-cuidar-educar-e-desenvolver",
-          "data": "25/08/2026",
-          "resumo": "No dia 25 de agosto, é celebrado no Brasil o Dia Nacional da Educação Infantil, a primeira etapa da educação básica. Dados mostram ampliação do acesso e desafios para garantir equidade"
-        },
-        {
-          "titulo": "Mais de 5,4 milhões participam da 1ª fase da OBMEP",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mais-de-5-4-milhoes-participam-da-1a-fase-da-obmep",
-          "data": "25/08/2026",
-          "resumo": "Primeira fase da Olimpíada Mirim – OBMEP reúne, nesta terça-feira (25), estudantes do 2º ao 5º ano de mais de 34,7 mil escolas públicas e privadas de todo o Brasil para resolver questões de matemática"
-        },
-        {
-          "titulo": "Como uma instituição de educação superior se torna universidade",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/como-uma-instituicao-de-educacao-superior-se-torna-universidade",
-          "data": "25/08/2026",
-          "resumo": "Da faculdade à universidade, a mudança de organização acadêmica exige o cumprimento de critérios regulatórios e passa por avaliação do MEC"
-        },
-        {
-          "titulo": "Programa Mulheres Mil abre mais de 4 mil vagas gratuitas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/programa-mulheres-mil-abre-mais-de-4-mil-vagas-gratuitas",
-          "data": "25/08/2026",
-          "resumo": "Cursos para qualificação profissional de mulheres são ofertados por instituições das redes estaduais e da Rede Federal de Educação Profissional e Tecnológica. São 43 cursos presenciais ofertados por 32 instituições em 19 estados"
-        },
-        {
-          "titulo": "Encontro técnico orienta sobre uso dos resultados da PND",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/encontro-tecnico-orienta-sobre-uso-dos-resultados-da-pnd",
-          "data": "24/08/2026",
-          "resumo": "Atividade virtual, nos dias 25 e 27 de agosto, é destinada às equipes técnicas das secretarias de educação e abordará procedimentos para utilização da nota da Prova Nacional Docente em processos seletivos"
-        },
-        {
-          "titulo": "PodMEC: programa aprofunda temáticas estratégicas da educação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/podmec-programa-aprofunda-tematicas-estrategicas-da-educacao",
-          "data": "24/08/2026",
-          "resumo": "Primeiro episódio com especialistas foi lançado nesta segunda (24) e está disponível no canal do MEC no YouTube e no Spotify. Iniciativa vai explicar políticas, programas e ações de maneira a facilitar o entendimento sobre seus impactos"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
