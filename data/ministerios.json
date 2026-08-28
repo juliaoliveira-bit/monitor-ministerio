@@ -1,139 +1,17 @@
 {
-  "atualizado_em": "2026-08-28T05:08:49.444487+00:00",
+  "atualizado_em": "2026-08-28T21:16:32.948759+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [
-        {
-          "titulo": "Governo Federal busca na Justiça medidas para ampliar proteção de crianças e adolescentes no Discord",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-busca-na-justica-medidas-para-ampliar-protecao-de-criancas-e-adolescentes-no-discord-1",
-          "data": "26/08/2026",
-          "resumo": "Ação civil pública tem suporte técnico do MJSP e da PF e pede que plataforma incorpore medidas de segurança por padrão para garantir a proteção no ambiente digital"
-        },
-        {
-          "titulo": "Draco2, PRF e PM apreendem cerca de 180 kg de skunk",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/draco2-prf-e-pm-apreendem-cerca-de-180-kg-de-skunk",
-          "data": "26/08/2026",
-          "resumo": "Ação integrada ocorreu no âmbito da Operação Renorcrim, em Rondônia"
-        },
-        {
-          "titulo": "Inscrições abertas para pós-graduação em gestão e liderança para mulheres na segurança pública",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-pos-graduacao-em-gestao-e-lideranca-para-mulheres-na-seguranca-publica",
-          "data": "26/08/2026",
-          "resumo": "Especialização na modalidade de ensino a distância é destinada a mulheres de diferentes corporações"
-        },
-        {
-          "titulo": "Segurança Pública e Educação elaboram protocolo para prevenção e resposta à violência extrema nas escolas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/seguranca-publica-e-educacao-elaboram-protocolo-para-prevencao-e-resposta-a-violencia-extrema-nas-escolas",
-          "data": "26/08/2026",
-          "resumo": "Documento reunirá orientações para atuação integrada dos profissionais de segurança pública no ambiente escolar"
-        },
-        {
-          "titulo": "Especialistas apontam vantagens competitivas na corrida pela autonomia digital no Brasil",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/especialistas-apontam-vantagens-competitivas-na-corrida-pela-autonomia-digital-no-brasil",
-          "data": "26/08/2026",
-          "resumo": "Evento reuniu representante do Governo, da iniciativa privada e da academia para debater avanços da IA à luz do desenvolvimento econômico e da soberania nacional"
-        },
-        {
-          "titulo": "Polícia Civil de Mato Grosso prende integrantes de facção e apreende veículos de luxo",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policia-civil-de-mato-grosso-prende-integrantes-de-faccao-e-apreende-veiculos-de-luxo",
-          "data": "26/08/2026",
-          "resumo": "Operação mira núcleo responsável por proteger foragidos e dar suporte à atuação criminosa entre Mato Grosso e Rio de Janeiro"
-        },
-        {
-          "titulo": "Polícia Civil do Ceará deflagra Operação Sentinela e prende cinco homens",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policia-civil-do-ceara-deflagra-operacao-sentinela-e-prende-cinco-homens",
-          "data": "26/08/2026",
-          "resumo": "Operação cumpre 12 mandados de busca e apreensão em ação da Renorcrim, coordenada pelo MJSP por meio da Senasp"
-        },
-        {
-          "titulo": "Benedito Gonçalves toma posse como corregedor do Conselho Nacional de Justiça",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/benedito-goncalves-toma-posse-como-corregedor-do-conselho-nacional-de-justica",
-          "data": "25/08/2026",
-          "resumo": "Ministro do STJ assume a Corregedoria Nacional de Justiça para o biênio 2026-2028, em cerimônia com a presença do ministro Wellington Lima"
-        },
-        {
-          "titulo": "Senacon abre monitoramento de Casas Bahia, Tok&Stok e Marabraz após pedidos de recuperação judicial",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-abre-monitoramento-de-casas-bahia-tok-stok-e-marabraz-apos-pedidos-de-recuperacao-judicial",
-          "data": "25/08/2026",
-          "resumo": "Secretaria esclarece efeitos do pedido sobre compras, pagamentos, entregas, garantias e eventuais solicitações de restituição"
-        },
-        {
-          "titulo": "Dia do Soldado é celebrado com solenidade e participação de autoridades em Brasília",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-do-soldado-e-celebrado-com-solenidade-e-participacao-de-autoridades-em-brasilia",
-          "data": "25/08/2026",
-          "resumo": "Cerimônia teve desfile de militares, demonstrações de paraquedismo e condecorações a civis e integrantes do Exército"
-        }
-      ],
+      "noticias": [],
       "agenda": {
-        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
-        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
+        "resumo": "",
+        "link_agenda_completa": ""
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Ideb: Piauí inicia análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-piaui-inicia-analise-de-resultados-nas-redes",
-          "data": "27/08/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Piauí teve crescimento nas três etapas da avaliação"
-        },
-        {
-          "titulo": "Formações orientam a integração da IA na educação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/formacoes-orientam-a-integracao-da-ia-na-educacao",
-          "data": "27/08/2026",
-          "resumo": "Cursos gratuitos orientam o ensino sobre IA e o uso de ferramentas de IA no cotidiano escolar, com conteúdo de práticas pedagógicas, ética, segurança e mediação humana no processo de ensino e aprendizagem"
-        },
-        {
-          "titulo": "MEC Livros é apresentado durante o Fliparacatu",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-livros-e-apresentado-durante-o-fliparacatu",
-          "data": "27/08/2026",
-          "resumo": "A biblioteca digital integra a programação da quarta edição do Fliparacatu, que acontece em Minas Gerais até 30 de agosto"
-        },
-        {
-          "titulo": "Desenrola Fies: prazo para adesão termina em 31 de agosto",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/desenrola-fies-prazo-para-adesao-termina-em-31-de-agosto",
-          "data": "27/08/2026",
-          "resumo": "Prazo considera a vigência da Medida Provisória que institui o Novo Desenrola Brasil e o calendário legislativo do Congresso Nacional. Renegociações são feitas exclusivamente junto aos agentes financeiros: Banco do Brasil e Caixa Econômica Federal"
-        },
-        {
-          "titulo": "Pronatec tem mais de 2 mil vagas verdes para qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pronatec-tem-mais-de-2-mil-vagas-verdes-para-qualificacao-profissional",
-          "data": "27/08/2026",
-          "resumo": "Cursos do Pronatec conectados ao tema sustentabilidade são gratuitos e serão disponibilizados em 23 estados brasileiros em setembro. Vagas e cursos podem ser acessados no Painel de Oportunidades do programa"
-        },
-        {
-          "titulo": "UFCSPA leva informações de saúde a painéis digitais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ufcspa-leva-informacoes-de-saude-a-paineis-digitais",
-          "data": "26/08/2026",
-          "resumo": "Universidade Federal de Ciências da Saúde de Porto Alegre passou a veicular gratuitamente vídeos sobre ciência e saúde em mídia OOH (Out of Home). Estratégia de comunicação pública inclui exibições em Porto Alegre, Canoas e região metropolitana"
-        },
-        {
-          "titulo": "MEC recebe comitiva da África do Sul",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-recebe-comitiva-da-africa-do-sul",
-          "data": "26/08/2026",
-          "resumo": "Objetivo do encontro foi conhecer as práticas educacionais brasileiras na agricultura e na alimentação escolar. Além de visitar as instalações do Campus Planaltina do IFB, grupo participou de um almoço no restaurante estudantil"
-        },
-        {
-          "titulo": "Ideb: São Paulo inicia análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-sao-paulo-inicia-analise-de-resultados-nas-redes",
-          "data": "26/08/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. São Paulo teve crescimento nas três etapas da avaliação"
-        },
-        {
-          "titulo": "Prazo para lista de espera do Prouni termina nesta quinta (27)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prazo-para-lista-de-espera-do-prouni-comeca-nesta-quarta-26",
-          "data": "26/08/2026",
-          "resumo": "Candidatos que não foram pré-selecionados nas chamadas do segundo semestre de 2026 podem manifestar interesse em participar da lista de espera até as 23h59 desta quinta (27/8) pelo Portal Acesso Único. Resultado será divulgado em 1º/9"
-        },
-        {
-          "titulo": "MEC autoriza novos cursos de graduação fora das capitais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-autoriza-novos-cursos-de-graduacao-fora-das-capitais",
-          "data": "26/08/2026",
-          "resumo": "Portaria nº 409/2026 contempla vagas para direito, engenharia e gestão em universidades federais situadas no interior do Brasil. Oportunidades abrangem municípios de Minas Gerais, Paraná, Piauí e Rondônia"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +21,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "25 Ter 26 Qua 27 Qui 28 Sex 29 Sáb 30 Dom 31 Seg Atualmente não existem compromissos agendados.",
+        "resumo": "",
         "link_agenda_completa": ""
       }
     }
