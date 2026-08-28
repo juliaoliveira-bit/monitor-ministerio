@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-27T20:49:09.523761+00:00",
+  "atualizado_em": "2026-08-28T05:08:49.444487+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Ideb: Piauí inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-piaui-inicia-analise-de-resultados-nas-redes",
+          "data": "27/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Piauí teve crescimento nas três etapas da avaliação"
+        },
+        {
+          "titulo": "Formações orientam a integração da IA na educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/formacoes-orientam-a-integracao-da-ia-na-educacao",
+          "data": "27/08/2026",
+          "resumo": "Cursos gratuitos orientam o ensino sobre IA e o uso de ferramentas de IA no cotidiano escolar, com conteúdo de práticas pedagógicas, ética, segurança e mediação humana no processo de ensino e aprendizagem"
+        },
+        {
+          "titulo": "MEC Livros é apresentado durante o Fliparacatu",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-livros-e-apresentado-durante-o-fliparacatu",
+          "data": "27/08/2026",
+          "resumo": "A biblioteca digital integra a programação da quarta edição do Fliparacatu, que acontece em Minas Gerais até 30 de agosto"
+        },
+        {
+          "titulo": "Desenrola Fies: prazo para adesão termina em 31 de agosto",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/desenrola-fies-prazo-para-adesao-termina-em-31-de-agosto",
+          "data": "27/08/2026",
+          "resumo": "Prazo considera a vigência da Medida Provisória que institui o Novo Desenrola Brasil e o calendário legislativo do Congresso Nacional. Renegociações são feitas exclusivamente junto aos agentes financeiros: Banco do Brasil e Caixa Econômica Federal"
+        },
+        {
+          "titulo": "Pronatec tem mais de 2 mil vagas verdes para qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pronatec-tem-mais-de-2-mil-vagas-verdes-para-qualificacao-profissional",
+          "data": "27/08/2026",
+          "resumo": "Cursos do Pronatec conectados ao tema sustentabilidade são gratuitos e serão disponibilizados em 23 estados brasileiros em setembro. Vagas e cursos podem ser acessados no Painel de Oportunidades do programa"
+        },
+        {
+          "titulo": "UFCSPA leva informações de saúde a painéis digitais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ufcspa-leva-informacoes-de-saude-a-paineis-digitais",
+          "data": "26/08/2026",
+          "resumo": "Universidade Federal de Ciências da Saúde de Porto Alegre passou a veicular gratuitamente vídeos sobre ciência e saúde em mídia OOH (Out of Home). Estratégia de comunicação pública inclui exibições em Porto Alegre, Canoas e região metropolitana"
+        },
+        {
+          "titulo": "MEC recebe comitiva da África do Sul",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-recebe-comitiva-da-africa-do-sul",
+          "data": "26/08/2026",
+          "resumo": "Objetivo do encontro foi conhecer as práticas educacionais brasileiras na agricultura e na alimentação escolar. Além de visitar as instalações do Campus Planaltina do IFB, grupo participou de um almoço no restaurante estudantil"
+        },
+        {
+          "titulo": "Ideb: São Paulo inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-sao-paulo-inicia-analise-de-resultados-nas-redes",
+          "data": "26/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. São Paulo teve crescimento nas três etapas da avaliação"
+        },
+        {
+          "titulo": "Prazo para lista de espera do Prouni termina nesta quinta (27)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/prazo-para-lista-de-espera-do-prouni-comeca-nesta-quarta-26",
+          "data": "26/08/2026",
+          "resumo": "Candidatos que não foram pré-selecionados nas chamadas do segundo semestre de 2026 podem manifestar interesse em participar da lista de espera até as 23h59 desta quinta (27/8) pelo Portal Acesso Único. Resultado será divulgado em 1º/9"
+        },
+        {
+          "titulo": "MEC autoriza novos cursos de graduação fora das capitais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-autoriza-novos-cursos-de-graduacao-fora-das-capitais",
+          "data": "26/08/2026",
+          "resumo": "Portaria nº 409/2026 contempla vagas para direito, engenharia e gestão em universidades federais situadas no interior do Brasil. Oportunidades abrangem municípios de Minas Gerais, Paraná, Piauí e Rondônia"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "24 Seg 25 Ter 26 Qua 27 Qui 28 Sex 29 Sáb 30 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "25 Ter 26 Qua 27 Qui 28 Sex 29 Sáb 30 Dom 31 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
