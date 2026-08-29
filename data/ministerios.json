@@ -1,17 +1,139 @@
 {
-  "atualizado_em": "2026-08-28T21:16:32.948759+00:00",
+  "atualizado_em": "2026-08-29T03:06:03.225018+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Pós-graduação em direitos digitais e segurança cibernética prorroga inscrições",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pos-graduacao-em-direitos-digitais-e-seguranca-cibernetica-prorroga-inscricoes",
+          "data": "28/08/2026",
+          "resumo": "Curso na modalidade EaD é destinado a profissionais da segurança pública de todas as unidades da Federação"
+        },
+        {
+          "titulo": "CNCP cria comissão especial para analisar regulamentação do comércio eletrônico e combater mercado ilegal",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cncp-cria-comissao-especial-para-analisar-regulamentacao-do-comercio-eletronico-e-combater-mercado-ilegal",
+          "data": "28/08/2026",
+          "resumo": "Grupo fará estudos, diagnóstico e propostas normativas sobre rastreabilidade de produtos, prevenção de fraudes e combate à pirataria e ao contrabando"
+        },
+        {
+          "titulo": "Operação apreende quase 2,7 toneladas de maconha e causa impacto de R$ 5,35 milhões no Paraná",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-quase-2-7-toneladas-de-maconha-e-causa-impacto-de-r-5-35-milhoes-no-parana",
+          "data": "28/08/2026",
+          "resumo": "Droga foi localizada em dois veículos e em uma residência durante patrulhamento em Foz do Iguaçu"
+        },
+        {
+          "titulo": "Ação integrada apreende cerca de 1,7 tonelada de maconha e recupera veículo roubado em Mato Grosso do Sul",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-integrada-apreende-cerca-de-1-7-tonelada-de-maconha-e-recupera-veiculo-roubado-em-mato-grosso-do-sul",
+          "data": "28/08/2026",
+          "resumo": "Impacto estimado às atividades criminosas é de R$ 3,58 milhões"
+        },
+        {
+          "titulo": "Polícia Federal forma 683 novos integrantes",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policia-federal-forma-683-novos-integrantes",
+          "data": "28/08/2026",
+          "resumo": "Turma é composta por 195 delegados de Polícia Federal, 113 peritos criminais federais, 333 escrivães e 42 papiloscopistas; formatura contou com participação do ministro do MJSP"
+        },
+        {
+          "titulo": "Operação Desarme apreende cerca de 1,3 mil armas e causa impacto superior a R$ 339 milhões às atividades criminosas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-apreende-cerca-de-1-3-mil-armas-e-causa-impacto-superior-a-r-339-milhoes-as-atividades-criminosas",
+          "data": "28/08/2026",
+          "resumo": "Ação integrada nas 27 unidades da Federação também resultou na apreensão de cerca de 92 mil munições e na prisão de 742 pessoas"
+        },
+        {
+          "titulo": "Governo Federal busca na Justiça medidas para ampliar proteção de crianças e adolescentes no Discord",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-busca-na-justica-medidas-para-ampliar-protecao-de-criancas-e-adolescentes-no-discord-1",
+          "data": "26/08/2026",
+          "resumo": "Ação civil pública tem suporte técnico do MJSP e da PF e pede que plataforma incorpore medidas de segurança por padrão para garantir a proteção no ambiente digital"
+        },
+        {
+          "titulo": "Draco2, PRF e PM apreendem cerca de 180 kg de skunk",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/draco2-prf-e-pm-apreendem-cerca-de-180-kg-de-skunk",
+          "data": "26/08/2026",
+          "resumo": "Ação integrada ocorreu no âmbito da Operação Renorcrim, em Rondônia"
+        },
+        {
+          "titulo": "Inscrições abertas para pós-graduação em gestão e liderança para mulheres na segurança pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-pos-graduacao-em-gestao-e-lideranca-para-mulheres-na-seguranca-publica",
+          "data": "26/08/2026",
+          "resumo": "Especialização na modalidade de ensino a distância é destinada a mulheres de diferentes corporações"
+        },
+        {
+          "titulo": "Segurança Pública e Educação elaboram protocolo para prevenção e resposta à violência extrema nas escolas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/seguranca-publica-e-educacao-elaboram-protocolo-para-prevencao-e-resposta-a-violencia-extrema-nas-escolas",
+          "data": "26/08/2026",
+          "resumo": "Documento reunirá orientações para atuação integrada dos profissionais de segurança pública no ambiente escolar"
+        }
+      ],
       "agenda": {
-        "resumo": "",
-        "link_agenda_completa": ""
+        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
+        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Diagnóstico Equidade 2026 mostra avanço das políticas de educação étnico-racial",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/diagnostico-equidade-2026-mostra-avanco-das-politicas-de-educacao-etnico-racial",
+          "data": "28/08/2026",
+          "resumo": "Levantamento aponta melhoria da implementação de políticas de equidade racial nas redes de ensino em áreas como gestão, formação, planejamento e acompanhamento"
+        },
+        {
+          "titulo": "Termina hoje (28) o prazo para inscrições nos Cadernos Equidade",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/termina-hoje-28-o-prazo-para-inscricoes-nos-cadernos-equidade",
+          "data": "28/08/2026",
+          "resumo": "Material é desenvolvido em parceria com a Unesco e visa promover o compartilhamento de boas práticas e de conhecimentos sobre iniciativas na educação especial inclusiva"
+        },
+        {
+          "titulo": "Pé-de-Meia: saiba o que fazer se parcela não for depositada",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pe-de-meia-saiba-o-que-fazer-se-parcela-nao-for-depositada",
+          "data": "28/08/2026",
+          "resumo": "Estudantes podem consultar situação do benefício, verificar registros de frequência escolar e identificar eventuais pendências que podem impedir ou adiar pagamento da parcela"
+        },
+        {
+          "titulo": "Aplicativo auxilia na comunicação de crianças neurodivergentes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/aplicativo-auxilia-na-comunicacao-de-criancas-neurodivergentes",
+          "data": "28/08/2026",
+          "resumo": "Já está disponível para download ferramenta gratuita desenvolvida pelo IFSP para atender profissionais da área e famílias, auxiliando nas conexões entre pais, cuidadores e crianças"
+        },
+        {
+          "titulo": "Ideb: Piauí inicia análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ideb-piaui-inicia-analise-de-resultados-nas-redes",
+          "data": "27/08/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Piauí teve crescimento nas três etapas da avaliação"
+        },
+        {
+          "titulo": "Formações orientam a integração da IA na educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/formacoes-orientam-a-integracao-da-ia-na-educacao",
+          "data": "27/08/2026",
+          "resumo": "Cursos gratuitos orientam o ensino sobre IA e o uso de ferramentas de IA no cotidiano escolar, com conteúdo de práticas pedagógicas, ética, segurança e mediação humana no processo de ensino e aprendizagem"
+        },
+        {
+          "titulo": "MEC Livros é apresentado durante o Fliparacatu",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/mec-livros-e-apresentado-durante-o-fliparacatu",
+          "data": "27/08/2026",
+          "resumo": "A biblioteca digital integra a programação da quarta edição do Fliparacatu, que acontece em Minas Gerais até 30 de agosto"
+        },
+        {
+          "titulo": "Desenrola Fies: prazo para adesão termina em 31 de agosto",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/desenrola-fies-prazo-para-adesao-termina-em-31-de-agosto",
+          "data": "27/08/2026",
+          "resumo": "Prazo considera a vigência da Medida Provisória que institui o Novo Desenrola Brasil e o calendário legislativo do Congresso Nacional. Renegociações são feitas exclusivamente junto aos agentes financeiros: Banco do Brasil e Caixa Econômica Federal"
+        },
+        {
+          "titulo": "Pronatec tem mais de 2 mil vagas verdes para qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pronatec-tem-mais-de-2-mil-vagas-verdes-para-qualificacao-profissional",
+          "data": "27/08/2026",
+          "resumo": "Cursos do Pronatec conectados ao tema sustentabilidade são gratuitos e serão disponibilizados em 23 estados brasileiros em setembro. Vagas e cursos podem ser acessados no Painel de Oportunidades do programa"
+        },
+        {
+          "titulo": "UFCSPA leva informações de saúde a painéis digitais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/ufcspa-leva-informacoes-de-saude-a-paineis-digitais",
+          "data": "26/08/2026",
+          "resumo": "Universidade Federal de Ciências da Saúde de Porto Alegre passou a veicular gratuitamente vídeos sobre ciência e saúde em mídia OOH (Out of Home). Estratégia de comunicação pública inclui exibições em Porto Alegre, Canoas e região metropolitana"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -21,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "",
+        "resumo": "26 Qua 27 Qui 28 Sex 29 Sáb 30 Dom 31 Seg 1 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
