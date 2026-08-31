@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-08-30T23:17:29.953558+00:00",
+  "atualizado_em": "2026-08-31T17:43:27.409321+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Nova linha para segurança pública mobiliza R$ 9,33 bilhões em propostas de 14 unidades da Federação",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-linha-para-seguranca-publica-mobiliza-r-9-33-bilhoes-em-propostas-de-14-unidades-da-federacao",
+          "data": "31/08/2026",
+          "resumo": "126 projetos de 13 estados e do Distrito Federal podem receber recursos do FIIS para obras, tecnologia, inteligência e modernização do setor"
+        },
         {
           "titulo": "Pós-graduação em direitos digitais e segurança cibernética prorroga inscrições",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pos-graduacao-em-direitos-digitais-e-seguranca-cibernetica-prorroga-inscricoes",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-pos-graduacao-em-gestao-e-lideranca-para-mulheres-na-seguranca-publica",
           "data": "26/08/2026",
           "resumo": "Especialização na modalidade de ensino a distância é destinada a mulheres de diferentes corporações"
-        },
-        {
-          "titulo": "Segurança Pública e Educação elaboram protocolo para prevenção e resposta à violência extrema nas escolas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/seguranca-publica-e-educacao-elaboram-protocolo-para-prevencao-e-resposta-a-violencia-extrema-nas-escolas",
-          "data": "26/08/2026",
-          "resumo": "Documento reunirá orientações para atuação integrada dos profissionais de segurança pública no ambiente escolar"
         }
       ],
       "agenda": {
@@ -82,7 +82,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "27 Qui 28 Sex 29 Sáb 30 Dom 31 Seg 1 Ter 2 Qua Atualmente não existem compromissos agendados.",
+        "resumo": "28 Sex 29 Sáb 30 Dom 31 Seg 1 Ter 2 Qua 3 Qui Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
