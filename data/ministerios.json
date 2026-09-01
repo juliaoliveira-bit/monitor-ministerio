@@ -1,73 +1,12 @@
 {
-  "atualizado_em": "2026-09-01T15:14:27.504941+00:00",
+  "atualizado_em": "2026-09-01T23:07:39.810337+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [
-        {
-          "titulo": "Brasil e Tailândia trocam experiências sobre políticas migratórias e proteção a refugiados",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-e-tailandia-trocam-experiencias-sobre-politicas-migratorias-e-protecao-a-refugiados",
-          "data": "01/09/2026",
-          "resumo": "Intercâmbio promovido pelo Demig abordou integração local, sistema de refúgio e acolhida humanitária"
-        },
-        {
-          "titulo": "Eventos com mais de mil pessoas deverão oferecer água potável gratuitamente",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eventos-com-mais-de-mil-pessoas-deverao-oferecer-agua-potavel-gratuitamente",
-          "data": "31/08/2026",
-          "resumo": "Nova regra também garante entrada de consumidores com garrafas de uso pessoal e determina que pontos de água estejam em locais de fácil acesso"
-        },
-        {
-          "titulo": "Decreto estabelece novas regras para compra e revenda de ingressos para eventos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/decreto-estabelece-novas-regras-para-compra-e-revenda-de-ingressos-para-eventos",
-          "data": "31/08/2026",
-          "resumo": "Medidas tratam de preços e taxas, compras em massa, revenda, filas, meia-entrada e direitos dos consumidores"
-        },
-        {
-          "titulo": "MJSP e Ministério das Mulheres anunciam medidas para enfrentamento à violência contra a mulher",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-ministerio-das-mulheres-anunciam-medidas-para-enfrentamento-a-violencia-contra-a-mulher",
-          "data": "31/08/2026",
-          "resumo": "Iniciativas englobam planos estaduais e distrital para combate às agressões, além de protocolo nacional de atendimento a vítimas"
-        },
-        {
-          "titulo": "Proteção das mulheres no ambiente digital ganha espaço em debate sobre dever de cuidado das plataformas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/protecao-das-mulheres-no-ambiente-digital-ganha-espaco-em-debate-sobre-dever-de-cuidado-das-plataformas",
-          "data": "31/08/2026",
-          "resumo": "Representantes do MJSP discutem efeitos da decisão do STF e a implementação dos decretos que ampliam a responsabilidade das plataformas"
-        },
-        {
-          "titulo": "Nova linha para segurança pública mobiliza R$ 9,33 bilhões em propostas de 14 unidades da Federação",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-linha-para-seguranca-publica-mobiliza-r-9-33-bilhoes-em-propostas-de-14-unidades-da-federacao",
-          "data": "31/08/2026",
-          "resumo": "126 projetos de 13 estados e do Distrito Federal podem receber recursos do FIIS para obras, tecnologia, inteligência e modernização do setor"
-        },
-        {
-          "titulo": "Pós-graduação em direitos digitais e segurança cibernética prorroga inscrições",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pos-graduacao-em-direitos-digitais-e-seguranca-cibernetica-prorroga-inscricoes",
-          "data": "28/08/2026",
-          "resumo": "Curso na modalidade EaD é destinado a profissionais da segurança pública de todas as unidades da Federação"
-        },
-        {
-          "titulo": "CNCP cria comissão especial para analisar regulamentação do comércio eletrônico e combater mercado ilegal",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cncp-cria-comissao-especial-para-analisar-regulamentacao-do-comercio-eletronico-e-combater-mercado-ilegal",
-          "data": "28/08/2026",
-          "resumo": "Grupo fará estudos, diagnóstico e propostas normativas sobre rastreabilidade de produtos, prevenção de fraudes e combate à pirataria e ao contrabando"
-        },
-        {
-          "titulo": "Operação apreende quase 2,7 toneladas de maconha e causa impacto de R$ 5,35 milhões no Paraná",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-quase-2-7-toneladas-de-maconha-e-causa-impacto-de-r-5-35-milhoes-no-parana",
-          "data": "28/08/2026",
-          "resumo": "Droga foi localizada em dois veículos e em uma residência durante patrulhamento em Foz do Iguaçu"
-        },
-        {
-          "titulo": "Ação integrada apreende cerca de 1,7 tonelada de maconha e recupera veículo roubado em Mato Grosso do Sul",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-integrada-apreende-cerca-de-1-7-tonelada-de-maconha-e-recupera-veiculo-roubado-em-mato-grosso-do-sul",
-          "data": "28/08/2026",
-          "resumo": "Impacto estimado às atividades criminosas é de R$ 3,58 milhões"
-        }
-      ],
+      "noticias": [],
       "agenda": {
-        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
-        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
+        "resumo": "",
+        "link_agenda_completa": ""
       }
     },
     "mec": {
@@ -82,7 +21,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "29 Sáb 30 Dom 31 Seg 1 Ter 2 Qua 3 Qui 4 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "",
         "link_agenda_completa": ""
       }
     }
