@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-08-31T17:43:27.409321+00:00",
+  "atualizado_em": "2026-09-01T00:27:03.060687+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP e Ministério das Mulheres anunciam medidas para enfrentamento à violência contra a mulher",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-ministerio-das-mulheres-anunciam-medidas-para-enfrentamento-a-violencia-contra-a-mulher",
+          "data": "31/08/2026",
+          "resumo": "Iniciativas englobam planos estaduais e distrital para combate às agressões, além de protocolo nacional de atendimento a vítimas"
+        },
+        {
+          "titulo": "Proteção das mulheres no ambiente digital ganha espaço em debate sobre dever de cuidado das plataformas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/protecao-das-mulheres-no-ambiente-digital-ganha-espaco-em-debate-sobre-dever-de-cuidado-das-plataformas",
+          "data": "31/08/2026",
+          "resumo": "Representantes do MJSP discutem efeitos da decisão do STF e a implementação dos decretos que ampliam a responsabilidade das plataformas"
+        },
         {
           "titulo": "Nova linha para segurança pública mobiliza R$ 9,33 bilhões em propostas de 14 unidades da Federação",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-linha-para-seguranca-publica-mobiliza-r-9-33-bilhoes-em-propostas-de-14-unidades-da-federacao",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-busca-na-justica-medidas-para-ampliar-protecao-de-criancas-e-adolescentes-no-discord-1",
           "data": "26/08/2026",
           "resumo": "Ação civil pública tem suporte técnico do MJSP e da PF e pede que plataforma incorpore medidas de segurança por padrão para garantir a proteção no ambiente digital"
-        },
-        {
-          "titulo": "Draco2, PRF e PM apreendem cerca de 180 kg de skunk",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/draco2-prf-e-pm-apreendem-cerca-de-180-kg-de-skunk",
-          "data": "26/08/2026",
-          "resumo": "Ação integrada ocorreu no âmbito da Operação Renorcrim, em Rondônia"
-        },
-        {
-          "titulo": "Inscrições abertas para pós-graduação em gestão e liderança para mulheres na segurança pública",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-pos-graduacao-em-gestao-e-lideranca-para-mulheres-na-seguranca-publica",
-          "data": "26/08/2026",
-          "resumo": "Especialização na modalidade de ensino a distância é destinada a mulheres de diferentes corporações"
         }
       ],
       "agenda": {
