@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-09-01T00:27:03.060687+00:00",
+  "atualizado_em": "2026-09-01T15:14:27.504941+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Brasil e Tailândia trocam experiências sobre políticas migratórias e proteção a refugiados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-e-tailandia-trocam-experiencias-sobre-politicas-migratorias-e-protecao-a-refugiados",
+          "data": "01/09/2026",
+          "resumo": "Intercâmbio promovido pelo Demig abordou integração local, sistema de refúgio e acolhida humanitária"
+        },
+        {
+          "titulo": "Eventos com mais de mil pessoas deverão oferecer água potável gratuitamente",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eventos-com-mais-de-mil-pessoas-deverao-oferecer-agua-potavel-gratuitamente",
+          "data": "31/08/2026",
+          "resumo": "Nova regra também garante entrada de consumidores com garrafas de uso pessoal e determina que pontos de água estejam em locais de fácil acesso"
+        },
+        {
+          "titulo": "Decreto estabelece novas regras para compra e revenda de ingressos para eventos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/decreto-estabelece-novas-regras-para-compra-e-revenda-de-ingressos-para-eventos",
+          "data": "31/08/2026",
+          "resumo": "Medidas tratam de preços e taxas, compras em massa, revenda, filas, meia-entrada e direitos dos consumidores"
+        },
         {
           "titulo": "MJSP e Ministério das Mulheres anunciam medidas para enfrentamento à violência contra a mulher",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-ministerio-das-mulheres-anunciam-medidas-para-enfrentamento-a-violencia-contra-a-mulher",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-integrada-apreende-cerca-de-1-7-tonelada-de-maconha-e-recupera-veiculo-roubado-em-mato-grosso-do-sul",
           "data": "28/08/2026",
           "resumo": "Impacto estimado às atividades criminosas é de R$ 3,58 milhões"
-        },
-        {
-          "titulo": "Polícia Federal forma 683 novos integrantes",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policia-federal-forma-683-novos-integrantes",
-          "data": "28/08/2026",
-          "resumo": "Turma é composta por 195 delegados de Polícia Federal, 113 peritos criminais federais, 333 escrivães e 42 papiloscopistas; formatura contou com participação do ministro do MJSP"
-        },
-        {
-          "titulo": "Operação Desarme apreende cerca de 1,3 mil armas e causa impacto superior a R$ 339 milhões às atividades criminosas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-apreende-cerca-de-1-3-mil-armas-e-causa-impacto-superior-a-r-339-milhoes-as-atividades-criminosas",
-          "data": "28/08/2026",
-          "resumo": "Ação integrada nas 27 unidades da Federação também resultou na apreensão de cerca de 92 mil munições e na prisão de 742 pessoas"
-        },
-        {
-          "titulo": "Governo Federal busca na Justiça medidas para ampliar proteção de crianças e adolescentes no Discord",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-busca-na-justica-medidas-para-ampliar-protecao-de-criancas-e-adolescentes-no-discord-1",
-          "data": "26/08/2026",
-          "resumo": "Ação civil pública tem suporte técnico do MJSP e da PF e pede que plataforma incorpore medidas de segurança por padrão para garantir a proteção no ambiente digital"
         }
       ],
       "agenda": {
@@ -82,7 +82,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "28 Sex 29 Sáb 30 Dom 31 Seg 1 Ter 2 Qua 3 Qui Atualmente não existem compromissos agendados.",
+        "resumo": "29 Sáb 30 Dom 31 Seg 1 Ter 2 Qua 3 Qui 4 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
