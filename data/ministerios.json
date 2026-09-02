@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-09-02T14:45:06.707774+00:00",
+  "atualizado_em": "2026-09-02T23:06:10.960686+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação A Tropa cumpre mandados contra organização criminosa em quatro unidades da Federação",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-a-tropa-cumpre-mandados-contra-organizacao-criminosa-em-quatro-unidades-da-federacao",
+          "data": "02/09/2026",
+          "resumo": "Ação integrada com apoio da Senasp mira grupo com atuação interestadual e apura tráfico de armas e drogas e lavagem de dinheiro"
+        },
+        {
+          "titulo": "Rede EaD Senasp oferece curso para elaboração de materiais didáticos do ensino a distância",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-oferece-curso-para-elaboracao-de-materiais-didaticos-do-ensino-a-distancia",
+          "data": "02/09/2026",
+          "resumo": "Formação gratuita tem 60 horas-aula e é voltada a profissionais do Susp"
+        },
+        {
+          "titulo": "MJSP e Ministério Público capacitam mais de 7 mil profissionais para atendimento a vítimas de violência",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-7-mil-profissionais-participam-de-capacitacao-sobre-atendimento-a-vitimas-de-violencia",
+          "data": "02/09/2026",
+          "resumo": "Dia C de capacitação para agentes da segurança pública ocorre nas 27 capitais e em outros 83 municípios"
+        },
+        {
+          "titulo": "Brasil registra 63,4 mil pessoas localizadas em 2025 e amplia diagnóstico sobre desaparecimentos no País",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-registra-63-4-mil-pessoas-localizadas-em-2025-e-amplia-diagnostico-sobre-desaparecimentos-no-pais",
+          "data": "02/09/2026",
+          "resumo": "Levantamento da Senasp reúne dados nacionais de 2024 e 2025 e apresenta informações sobre perfil das pessoas desaparecidas, localizações, causas e casos ainda em aberto"
+        },
         {
           "titulo": "Operação Fraude Zero resulta na prisão de 302 pessoas",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-fraude-zero-resulta-na-prisao-de-302-pessoas",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/protecao-das-mulheres-no-ambiente-digital-ganha-espaco-em-debate-sobre-dever-de-cuidado-das-plataformas",
           "data": "31/08/2026",
           "resumo": "Representantes do MJSP discutem efeitos da decisão do STF e a implementação dos decretos que ampliam a responsabilidade das plataformas"
-        },
-        {
-          "titulo": "Nova linha para segurança pública mobiliza R$ 9,33 bilhões em propostas de 14 unidades da Federação",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-linha-para-seguranca-publica-mobiliza-r-9-33-bilhoes-em-propostas-de-14-unidades-da-federacao",
-          "data": "31/08/2026",
-          "resumo": "126 projetos de 13 estados e do Distrito Federal podem receber recursos do FIIS para obras, tecnologia, inteligência e modernização do setor"
-        },
-        {
-          "titulo": "Pós-graduação em direitos digitais e segurança cibernética prorroga inscrições",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pos-graduacao-em-direitos-digitais-e-seguranca-cibernetica-prorroga-inscricoes",
-          "data": "28/08/2026",
-          "resumo": "Curso na modalidade EaD é destinado a profissionais da segurança pública de todas as unidades da Federação"
-        },
-        {
-          "titulo": "CNCP cria comissão especial para analisar regulamentação do comércio eletrônico e combater mercado ilegal",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cncp-cria-comissao-especial-para-analisar-regulamentacao-do-comercio-eletronico-e-combater-mercado-ilegal",
-          "data": "28/08/2026",
-          "resumo": "Grupo fará estudos, diagnóstico e propostas normativas sobre rastreabilidade de produtos, prevenção de fraudes e combate à pirataria e ao contrabando"
-        },
-        {
-          "titulo": "Operação apreende quase 2,7 toneladas de maconha e causa impacto de R$ 5,35 milhões no Paraná",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-apreende-quase-2-7-toneladas-de-maconha-e-causa-impacto-de-r-5-35-milhoes-no-parana",
-          "data": "28/08/2026",
-          "resumo": "Droga foi localizada em dois veículos e em uma residência durante patrulhamento em Foz do Iguaçu"
         }
       ],
       "agenda": {
