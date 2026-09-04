@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-03T23:03:51.939344+00:00",
+  "atualizado_em": "2026-09-04T14:35:34.233004+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -74,6 +74,18 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "Mulheres Mil: Minas Gerais mais de 1.600 vagas de qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-minas-gerais-mais-de-1-600-vagas-de-qualificacao-profissional",
+          "data": "04/09/2026",
+          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados por diversas instituições de ensino de Minas Gerais a partir de setembro"
+        },
+        {
+          "titulo": "MEC participa da 28ª Bienal Internacional do Livro de São Paulo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-participa-da-28a-bienal-internacional-do-livro-de-sao-paulo",
+          "data": "04/09/2026",
+          "resumo": "Evento ocorre de 4 a 13 de setembro, no Distrito Anhembi, com estande do FNDE dedicado ao PNLD, sessões de contação de histórias, exposição de livros e espaços para acesso gratuito ao MEC Livros"
+        },
+        {
           "titulo": "Inscrições para a Escola Sirius a professores de ensino médio vão até 20/9",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/inscricoes-para-a-escola-sirius-a-professores-de-ensino-medio-vao-ate-20-9",
           "data": "03/09/2026",
@@ -120,18 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-tem-230-vagas-verdes-para-qualificacao-profissional-no-rn",
           "data": "03/09/2026",
           "resumo": "Cursos do Pronatec conectados ao tema da sustentabilidade são gratuitos e estão sendo disponibilizados em setembro. Vagas e cursos podem ser acessados no Painel de Oportunidades do programa"
-        },
-        {
-          "titulo": "MEC e Capes divulgam mais de 8 mil vagas de pós-graduação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-capesdivulgam-mais-de-8-mil-vagas-de-pos-graduacao",
-          "data": "03/09/2026",
-          "resumo": "Instituições concentram divulgação nacional dos processos seletivos em um único ambiente para que docentes da educação básica possam acessar as informações de mestrado e doutorado"
-        },
-        {
-          "titulo": "Saiba como participar do #TôComProf",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/saiba-como-participar-do-tocomprof",
-          "data": "03/09/2026",
-          "resumo": "Iniciativa faz parte do programa Mais Professores para o Brasil e permite acesso a ações integradas específicas para professores das redes pública e privada do país"
         }
       ],
       "agenda": {
@@ -141,9 +141,70 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "1,8oC na temperatura global é limite entre aquecimento reversível de permanente",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/1-8oc-na-temperatura-global-e-limite-entre-aquecimento-reversivel-de-permanente",
+          "data": "03/09/2026",
+          "resumo": "Corte drástico, acelerado e sustentado nas emissões de gases de efeito estufa é caminho para reverter processos"
+        },
+        {
+          "titulo": "Documentos sobre mudança climática e efeito estufa entram em fase de validação governamental",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/documentos-sobre-mudanca-climatica-e-efeito-estufa-entram-em-fase-de-validacao-governamental",
+          "data": "03/09/2026",
+          "resumo": "Revisão efetuada por ministérios integrantes do Comitê Interministerial sobre Mudança do Clima encerra ciclo antes da submissão dos relatórios à Convenção do Clima, prevista para 2026"
+        },
+        {
+          "titulo": "Campanha científica registra pela primeira vez medidas de metano em diversas regiões do Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/campanha-cientifica-registra-pela-primeira-vez-medidas-de-metano-em-diversas-regioes-do-brasil",
+          "data": "03/09/2026",
+          "resumo": "Dados coletados na atmosfera a bordo do avião em pontos do Pantanal, da Amazônia e do Cerrado aprimorarão os modelos computacionais empregados para projetar o clima futuro"
+        },
+        {
+          "titulo": "Além dos mapas: conheça os boletins e produtos de monitoramento do Cemaden",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/alem-dos-mapas-conheca-os-boletins-e-produtos-de-monitoramento-do-cemaden",
+          "data": "02/09/2026",
+          "resumo": "Centro disponibiliza gratuitamente análises, previsões e informações sobre eventos extremos, recursos hídricos, seca, clima e risco de propagação de incêndios"
+        },
+        {
+          "titulo": "Inscrições da segunda edição da Chamada Atlânticas seguem até 30 de setembro",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-da-segunda-edicao-da-chamada-atlanticas-seguem-ate-30-de-setembro",
+          "data": "02/09/2026",
+          "resumo": "Iniciativa seleciona pesquisadoras negras, indígenas, quilombolas e ciganas para doutorado sanduíche e pós-doutorado no exterior"
+        },
+        {
+          "titulo": "Começa a funcionar o Centro de Operações de Segurança da RNP no Amapá",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/comeca-a-funcionar-o-centro-de-operacoes-de-seguranca-da-rnp-no-amapa",
+          "data": "01/09/2026",
+          "resumo": "Estrutura no Macapá monitora ameaças digitais e conecta a Região Norte ao sistema nacional de detecção e resposta a incidentes"
+        },
+        {
+          "titulo": "Marie Curie: a cientista que ajudou a revelar uma nova propriedade da matéria",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/marie-curie-a-cientista-que-ajudou-a-revelar-uma-nova-propriedade-da-materia",
+          "data": "01/09/2026",
+          "resumo": "Com este texto, o MCTI inicia uma série de reportagens com nomes femininos importantes que fizeram história na ciência"
+        },
+        {
+          "titulo": "MCTI prorroga FormP&D da Lei do Bem até 30 de setembro",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mcti-prorroga-formp-d-da-lei-do-bem-ate-30-de-setembro",
+          "data": "01/09/2026",
+          "resumo": "Empresas têm mais um mês para declarar os investimentos realizados no ano-base de 2025"
+        },
+        {
+          "titulo": "Tecnologias de reúso de água garantem qualidade de vida de moradores do semiárido da Amazônia",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/tecnologias-de-reuso-de-agua-garantem-qualidade-de-vida-de-moradores-do-semiarido-da-amazonia",
+          "data": "31/08/2026",
+          "resumo": "Iniciativas nasceram da necessidade de diferentes populações. Projetos amenizam o sofrimento de quem vive em locais com escassez de água"
+        },
+        {
+          "titulo": "Estudo avalia viabilidade técnica de aumentar teor de biocombustíveis no diesel e na gasolina",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/estudo-avalia-viabilidade-tecnica-de-aumentar-teor-de-biocombustiveis-no-diesel-e-na-gasolina",
+          "data": "28/08/2026",
+          "resumo": "Pesquisa testará novas misturas de biocombustíveis em ônibus urbanos e seus efeitos no desempenho e na compatibilidade em componentes automotivos"
+        }
+      ],
       "agenda": {
-        "resumo": "31 Seg 1 Ter 2 Qua 3 Qui 4 Sex 5 Sáb 6 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "1 Ter 2 Qua 3 Qui 4 Sex 5 Sáb 6 Dom 7 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
