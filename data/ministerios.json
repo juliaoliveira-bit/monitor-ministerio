@@ -1,17 +1,139 @@
 {
-  "atualizado_em": "2026-09-04T22:51:40.842723+00:00",
+  "atualizado_em": "2026-09-05T13:35:00.563309+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Senajus debate aprimoramento da transferência internacional de processos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-debate-aprimoramento-da-transferencia-internacional-de-processos",
+          "data": "04/09/2026",
+          "resumo": "Senajus debate aprimoramento da transferência internacional de processos"
+        },
+        {
+          "titulo": "Senad fortalece capacidade de identificação de novas substâncias psicoativas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-fortalece-capacidade-de-identificacao-de-novas-substancias-psicoativas",
+          "data": "04/09/2026",
+          "resumo": "Curso internacional reuniu especialistas de cinco países e contribuiu para aprimorar técnicas de análise de NSP e drogas sintéticas"
+        },
+        {
+          "titulo": "Sedigi defende integração entre setores para prevenir fraudes digitais",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-defende-integracao-entre-setores-para-prevenir-fraudes-digitais",
+          "data": "04/09/2026",
+          "resumo": "Fórum no STJ reuniu representantes do poder público, setor financeiro, plataformas digitais e sociedade civil para discutir prevenção, responsabilização e cooperação"
+        },
+        {
+          "titulo": "Governo Federal sanciona leis que criam fundos para modernizar instituições do sistema de Justiça",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-sanciona-leis-que-criam-fundos-para-modernizar-instituicoes-do-sistema-de-justica",
+          "data": "04/09/2026",
+          "resumo": "Medidas destinam recursos à Justiça Federal, STJ, DPU e MPU e ampliam a capacidade de atendimento à população"
+        },
+        {
+          "titulo": "Senacon oferece cursos gratuitos sobre direitos do consumidor",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-oferece-cursos-gratuitos-sobre-direitos-do-consumidor",
+          "data": "04/09/2026",
+          "resumo": "Capacitações on-line são destinadas a profissionais do SNDC e cidadãos interessados em direitos do consumidor, com certificação da UnB"
+        },
+        {
+          "titulo": "Operação Foco apreende mais de meia tonelada de maconha em Itatiaia (RJ)",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-foco-apreende-mais-de-meia-tonelada-de-maconha-em-itatiaia-rj",
+          "data": "04/09/2026",
+          "resumo": "Um homem foi preso; Governo do RJ e MJSP assinaram acordos para atuação integrada contra crime organizado nos corredores logísticos"
+        },
+        {
+          "titulo": "Capacitação para docência na Segurança Pública está disponível na Rede EaD Senasp",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-para-docencia-na-seguranca-publica-esta-disponivel-na-rede-ead-senasp",
+          "data": "03/09/2026",
+          "resumo": "Curso gratuito é voltado ao desenvolvimento de competências para a prática pedagógica"
+        },
+        {
+          "titulo": "Ministério da Justiça e Governo do Rio assinam acordos para retomada de territórios",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-e-governo-do-rio-assinam-acordos-para-retomada-de-territorios",
+          "data": "03/09/2026",
+          "resumo": "Acordos criam condições para integrar forças federais e estaduais, retomar áreas sob influência de organizações criminosas e proteger os principais corredores logísticos do Rio de Janeiro"
+        },
+        {
+          "titulo": "Prevenção ampliada integra cuidado, acesso a direitos e alternativas lícitas de vida",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/prevencao-ampliada-integra-cuidado-acesso-a-direitos-e-alternativas-licitas-de-vida",
+          "data": "03/09/2026",
+          "resumo": "Abordagem articula prevenção ao uso problemático de drogas, proteção contra violências, inclusão social e desenvolvimento dos territórios"
+        },
+        {
+          "titulo": "Confiança é ativo econômico no uso de IA no sistema financeiro, defende Sedigi",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/confianca-e-ativo-economico-no-uso-de-ia-no-sistema-financeiro-defende-sedigi",
+          "data": "03/09/2026",
+          "resumo": "Governo Federal, Banco Central, ANPD e empresas se reúnem em painel sobre inovação, competição e novas perspectivas regulatórias"
+        }
+      ],
       "agenda": {
-        "resumo": "",
-        "link_agenda_completa": ""
+        "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
+        "link_agenda_completa": "https://eagendas.cgu.gov.br/"
       }
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Mulher Indígena: educação, protagonismo e enfrentamento à violência",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulher-indigena-educacao-protagonismo-e-enfrentamento-a-violencia",
+          "data": "04/09/2026",
+          "resumo": "Este 5 de setembro marca o Dia Internacional da Mulher Indígena e, pela primeira vez, também é dedicado nacionalmente à proteção e ao combate à violência contra mulheres e meninas indígenas"
+        },
+        {
+          "titulo": "Guias orientam escolas para análise dos resultados do Ideb",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/guias-orientam-escolas-para-analise-dos-resultados-do-ideb",
+          "data": "04/09/2026",
+          "resumo": "Mobilização nacional ocorre entre 8 e 11 de setembro, cabendo às redes escolherem a data mais adequada para suas ações. Materiais são direcionados para redes, escolas, gestores, coordenadores pedagógicos e professores"
+        },
+        {
+          "titulo": "Comissão amplia prazo para preenchimento dos dados do Fundeb-VAAR",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/comissao-amplia-prazo-para-preenchimento-dos-dados-do-fundeb-vaar",
+          "data": "04/09/2026",
+          "resumo": "Resolução estabelece 15 de setembro como nova data limite para envio da comprovação de cumprimento das condicionalidades do programa. Redes de ensino devem compartilhar os dados por meio do Simec"
+        },
+        {
+          "titulo": "Estudantes indígenas podem ingressar na pós-graduação com apoio da Capes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/estudantes-indigenas-podem-ingressar-na-pos-graduacao-com-apoio-da-capes",
+          "data": "04/09/2026",
+          "resumo": "Relação de programas de mestrado e doutorado que aderiram ao Programa de Desenvolvimento Acadêmico Indígena está disponível no portal da Capes. Ao todo, são ofertadas 325 bolsas"
+        },
+        {
+          "titulo": "Alfabetização é um direito fundamental em todas as idades",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/alfabetizacao-e-um-direito-fundamental-em-todas-as-idades",
+          "data": "04/09/2026",
+          "resumo": "Dia Mundial da Alfabetização é celebrado nesta terça (8) e ressalta o papel da etapa como ferramenta de dignidade e cidadania. Em 2025, Brasil superou a meta de alfabetização e diminuiu a taxa de analfabetismo"
+        },
+        {
+          "titulo": "Regulação e supervisão do MEC não se aplicam a cursos livres",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/regulacao-e-supervisao-do-mec-nao-se-aplicam-a-cursos-livres",
+          "data": "04/09/2026",
+          "resumo": "Publicidades divulgadas principalmente na internet ofertam cursos livres como se fossem autorizados ou reconhecidos pelo MEC. Porém, por integrarem a educação não formal, não dependem do aval do órgão"
+        },
+        {
+          "titulo": "Mulheres Mil: Alagoas terá cerca de 417 vagas de qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-alagoas-tera-cerca-de-417-vagas-de-qualificacao-profissional",
+          "data": "04/09/2026",
+          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados pelo Instituto Federal de Alagoas a partir de setembro"
+        },
+        {
+          "titulo": "Mulheres Mil: Acre terá mais de 330 vagas de qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-acre-tera-mais-de-330-vagas-de-qualificacao-profissional",
+          "data": "04/09/2026",
+          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados pelo Instituto Federal do Acre e pelo Instituto de Educação Profissional e Tecnológica a partir de setembro"
+        },
+        {
+          "titulo": "Mulheres Mil: Mato Grosso do Sul tem cerca de 210 vagas de qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-mato-grosso-do-sul-tem-cerca-de-210-vagas-de-qualificacao-profissional",
+          "data": "04/09/2026",
+          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados pelo Instituto IFMS e pela SEDUC a partir de setembro"
+        },
+        {
+          "titulo": "Mulheres Mil: Pernambuco terá cerca de 270 vagas de qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-pernambuco-tera-cerca-de-270-vagas-de-qualificacao-profissional",
+          "data": "04/09/2026",
+          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados pelo IF SERTÃO-PE e pelo IFPE a partir de setembro"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -21,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "",
+        "resumo": "2 Qua 3 Qui 4 Sex 5 Sáb 6 Dom 7 Seg 8 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
