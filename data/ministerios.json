@@ -1,9 +1,39 @@
 {
-  "atualizado_em": "2026-09-08T14:47:54.296056+00:00",
+  "atualizado_em": "2026-09-08T23:14:42.572117+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Força Nacional forma 121 profissionais de 20 unidades da Federação",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-forma-121-profissionais-de-20-unidades-da-federacao",
+          "data": "08/09/2026",
+          "resumo": "Formandos passam a integrar contingente capacitado para atuar em missões da Força em diferentes regiões do País"
+        },
+        {
+          "titulo": "Forças de segurança apreendem 4,5 toneladas de skunk, cinco armas de uso restrito e lancha blindada no Amazonas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forcas-de-seguranca-apreendem-4-5-toneladas-de-skunk-cinco-armas-de-uso-restrito-e-lancha-blindada-no-amazonas",
+          "data": "08/09/2026",
+          "resumo": "Operação em Codajás reuniu forças estaduais e federais brasileiras e a Polícia Nacional do Peru; apreensões são avaliadas em aproximadamente R$ 93 milhões"
+        },
+        {
+          "titulo": "Operação coordenada pelo MJSP cumpre 850 mandados de prisão e solicita bloqueio de R$ 409 milhões em bens e valores",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-coordenada-pelo-mjsp-cumpre-850-mandados-de-prisao-e-solicita-bloqueio-de-r-409-milhoes-em-bens-e-valores",
+          "data": "08/09/2026",
+          "resumo": "Segunda edição da Renorcrim Recupera mobilizou polícias civis das 27 unidades da Federação"
+        },
+        {
+          "titulo": "Senasp reúne órgãos de segurança para discutir combate à violência contra a pessoa idosa",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-reune-orgaos-de-seguranca-para-discutir-combate-a-violencia-contra-a-pessoa-idosa",
+          "data": "08/09/2026",
+          "resumo": "Encontro conta com representantes das cinco regiões do País e busca fortalecer a articulação entre os órgãos de segurança pública"
+        },
+        {
+          "titulo": "Senacon se reúne com Procons para esclarecer dúvidas sobre decretos de cambismo digital e água gratuita",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-se-reune-com-procons-para-esclarecer-duvidas-sobre-decretos-de-cambismo-digital-e-agua-gratuita",
+          "data": "08/09/2026",
+          "resumo": "Encontro contou com representantes de quatro regiões para alinhar entendimentos e orientar a aplicação das novas regras de proteção aos consumidores"
+        },
         {
           "titulo": "Soberania nacional dá o tom do desfile de 7 de Setembro em Brasília",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/soberania-nacional-da-o-tom-do-desfile-de-7-de-setembro-em-brasilia-1",
@@ -33,36 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-sanciona-leis-que-criam-fundos-para-modernizar-instituicoes-do-sistema-de-justica",
           "data": "04/09/2026",
           "resumo": "Medidas destinam recursos à Justiça Federal, STJ, DPU e MPU e ampliam a capacidade de atendimento à população"
-        },
-        {
-          "titulo": "Senacon oferece cursos gratuitos sobre direitos do consumidor",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-oferece-cursos-gratuitos-sobre-direitos-do-consumidor",
-          "data": "04/09/2026",
-          "resumo": "Capacitações on-line são destinadas a profissionais do SNDC e cidadãos interessados em direitos do consumidor, com certificação da UnB"
-        },
-        {
-          "titulo": "Operação Foco apreende mais de meia tonelada de maconha em Itatiaia (RJ)",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-foco-apreende-mais-de-meia-tonelada-de-maconha-em-itatiaia-rj",
-          "data": "04/09/2026",
-          "resumo": "Um homem foi preso; Governo do RJ e MJSP assinaram acordos para atuação integrada contra crime organizado nos corredores logísticos"
-        },
-        {
-          "titulo": "Capacitação para docência na Segurança Pública está disponível na Rede EaD Senasp",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-para-docencia-na-seguranca-publica-esta-disponivel-na-rede-ead-senasp",
-          "data": "03/09/2026",
-          "resumo": "Curso gratuito é voltado ao desenvolvimento de competências para a prática pedagógica"
-        },
-        {
-          "titulo": "Ministério da Justiça e Governo do Rio assinam acordos para retomada de territórios",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-e-governo-do-rio-assinam-acordos-para-retomada-de-territorios",
-          "data": "03/09/2026",
-          "resumo": "Acordos criam condições para integrar forças federais e estaduais, retomar áreas sob influência de organizações criminosas e proteger os principais corredores logísticos do Rio de Janeiro"
-        },
-        {
-          "titulo": "Prevenção ampliada integra cuidado, acesso a direitos e alternativas lícitas de vida",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/prevencao-ampliada-integra-cuidado-acesso-a-direitos-e-alternativas-licitas-de-vida",
-          "data": "03/09/2026",
-          "resumo": "Abordagem articula prevenção ao uso problemático de drogas, proteção contra violências, inclusão social e desenvolvimento dos territórios"
         }
       ],
       "agenda": {
@@ -73,6 +73,48 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Dia D mobiliza escolas de todo o país para transformar resultados do Ideb",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/dia-d-mobiliza-escolas-de-todo-o-pais-para-transformar-resultados-do-ideb",
+          "data": "08/09/2026",
+          "resumo": "Mobilização do Ministério da Educação será realizada entre 8 e 11 de setembro para apoiar escolas na análise dos resultados e no planejamento de ações para fortalecer a aprendizagem dos estudantes"
+        },
+        {
+          "titulo": "PodMEC debate Enare, Enamed e novo cenário da saúde no país",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/podmec-debate-enare-enamed-e-novo-cenario-da-saude-no-pais",
+          "data": "08/09/2026",
+          "resumo": "Terceiro episódio reuniu especialistas do MEC e do Ministério da Saúde. Edição abordou a qualidade do ensino médico, democratização das residências e histórias de superação na formação profissional"
+        },
+        {
+          "titulo": "UFMT abre seleção para licenciatura intercultural indígena",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ufmt-abre-selecao-para-licenciatura-intercultural-indigena",
+          "data": "08/09/2026",
+          "resumo": "Curso lançando pelo MEC em parceria com a UFMT oferece 60 vagas para formação de professores indígenas dos povos Mẽbêngôkre, Tapayuna, Trumai e Yudjá, na Terra Indígena Capoto-Jarina. Inscrições vão até 20 de setembro"
+        },
+        {
+          "titulo": "CadEJA integra estratégia de superação do analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/cadeja-integra-estrategia-de-superacao-do-analfabetismo",
+          "data": "08/09/2026",
+          "resumo": "O Brasil reduziu para 4,9% a taxa de analfabetismo de pessoas com 15 anos ou mais em 2025. Entre as ações do MEC para elevar a escolaridade, o país pode contar com a plataforma CadEJA"
+        },
+        {
+          "titulo": "Pisa: Brasil está entre os países que mais avançaram em educação nos últimos 20 anos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pisa-brasil-esta-entre-os-paises-que-mais-avancaram-em-educacao-nos-ultimos-20-anos",
+          "data": "08/09/2026",
+          "resumo": "Dados do Programa Internacional de Avaliação de Estudantes de 2025 revelam que o Brasil está entre as dez nações que mais avançaram em proficiência desde 2006: país ocupa a 7ª posição em leitura e matemática e a 8ª em ciências"
+        },
+        {
+          "titulo": "Último dia para IFs enviarem projetos ao PET Saúde é 28/9",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimo-dia-para-ifs-enviarem-projetos-ao-pet-saude",
+          "data": "08/09/2026",
+          "resumo": "Institutos Federais interessados têm até 28 de setembro para envio de propostas, que devem ser voltadas para educação, pesquisa, desenvolvimento e inovação em informação e saúde digital aplicadas ao SUS"
+        },
+        {
+          "titulo": "Divulgados locais de prova do Enamed e da 1ª etapa do Revalida 2026",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/divulgados-locais-de-prova-do-enamed-e-da-1a-etapa-do-revalida-2026",
+          "data": "08/09/2026",
+          "resumo": "Cartão de Confirmação de Inscrição informa local de prova e outros dados de aplicação. Documento pode ser consultado nos sistemas dos exames. Provas serão aplicadas em 13 de setembro"
+        },
         {
           "titulo": "Mulher Indígena: educação, protagonismo e enfrentamento à violência",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulher-indigena-educacao-protagonismo-e-enfrentamento-a-violencia",
@@ -90,48 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/comissao-amplia-prazo-para-preenchimento-dos-dados-do-fundeb-vaar",
           "data": "04/09/2026",
           "resumo": "Resolução estabelece 15 de setembro como nova data limite para envio da comprovação de cumprimento das condicionalidades do programa. Redes de ensino devem compartilhar os dados por meio do Simec"
-        },
-        {
-          "titulo": "Estudantes indígenas podem ingressar na pós-graduação com apoio da Capes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/estudantes-indigenas-podem-ingressar-na-pos-graduacao-com-apoio-da-capes",
-          "data": "04/09/2026",
-          "resumo": "Relação de programas de mestrado e doutorado que aderiram ao Programa de Desenvolvimento Acadêmico Indígena está disponível no portal da Capes. Ao todo, são ofertadas 325 bolsas"
-        },
-        {
-          "titulo": "Alfabetização é um direito fundamental em todas as idades",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/alfabetizacao-e-um-direito-fundamental-em-todas-as-idades",
-          "data": "04/09/2026",
-          "resumo": "Dia Mundial da Alfabetização é celebrado nesta terça (8) e ressalta o papel da etapa como ferramenta de dignidade e cidadania. Em 2025, Brasil superou a meta de alfabetização e diminuiu a taxa de analfabetismo"
-        },
-        {
-          "titulo": "Regulação e supervisão do MEC não se aplicam a cursos livres",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/regulacao-e-supervisao-do-mec-nao-se-aplicam-a-cursos-livres",
-          "data": "04/09/2026",
-          "resumo": "Publicidades divulgadas principalmente na internet ofertam cursos livres como se fossem autorizados ou reconhecidos pelo MEC. Porém, por integrarem a educação não formal, não dependem do aval do órgão"
-        },
-        {
-          "titulo": "Mulheres Mil: Alagoas terá cerca de 417 vagas de qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-alagoas-tera-cerca-de-417-vagas-de-qualificacao-profissional",
-          "data": "04/09/2026",
-          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados pelo Instituto Federal de Alagoas a partir de setembro"
-        },
-        {
-          "titulo": "Mulheres Mil: Acre terá mais de 330 vagas de qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-acre-tera-mais-de-330-vagas-de-qualificacao-profissional",
-          "data": "04/09/2026",
-          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados pelo Instituto Federal do Acre e pelo Instituto de Educação Profissional e Tecnológica a partir de setembro"
-        },
-        {
-          "titulo": "Mulheres Mil: Mato Grosso do Sul tem cerca de 210 vagas de qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-mato-grosso-do-sul-tem-cerca-de-210-vagas-de-qualificacao-profissional",
-          "data": "04/09/2026",
-          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados pelo Instituto IFMS e pela SEDUC a partir de setembro"
-        },
-        {
-          "titulo": "Mulheres Mil: Pernambuco terá cerca de 270 vagas de qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-pernambuco-tera-cerca-de-270-vagas-de-qualificacao-profissional",
-          "data": "04/09/2026",
-          "resumo": "Cursos gratuitos de formação inicial e continuada serão ministrados pelo IF SERTÃO-PE e pelo IFPE a partir de setembro"
         }
       ],
       "agenda": {
