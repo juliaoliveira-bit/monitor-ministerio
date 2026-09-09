@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-09-08T23:14:42.572117+00:00",
+  "atualizado_em": "2026-09-09T14:49:48.204130+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP lança edital para fortalecer gestão de pesquisas e dados sobre políticas de drogas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lanca-edital-para-fortalecer-gestao-de-pesquisas-e-dados-sobre-politicas-de-drogas",
+          "data": "09/09/2026",
+          "resumo": "Seleção é destinada a órgãos e entidades federais e prevê até R$ 8 milhões para ações voltadas ao Observatório Brasileiro de Informações sobre Drogas"
+        },
         {
           "titulo": "Força Nacional forma 121 profissionais de 20 unidades da Federação",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-forma-121-profissionais-de-20-unidades-da-federacao",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-defende-integracao-entre-setores-para-prevenir-fraudes-digitais",
           "data": "04/09/2026",
           "resumo": "Fórum no STJ reuniu representantes do poder público, setor financeiro, plataformas digitais e sociedade civil para discutir prevenção, responsabilização e cooperação"
-        },
-        {
-          "titulo": "Governo Federal sanciona leis que criam fundos para modernizar instituições do sistema de Justiça",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-sanciona-leis-que-criam-fundos-para-modernizar-instituicoes-do-sistema-de-justica",
-          "data": "04/09/2026",
-          "resumo": "Medidas destinam recursos à Justiça Federal, STJ, DPU e MPU e ampliam a capacidade de atendimento à população"
         }
       ],
       "agenda": {
@@ -73,6 +73,18 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Consulta para novo Catálogo de Cursos Técnicos recebe mais de 2 mil contribuições",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/consulta-para-novo-catalogo-de-cursos-tecnicos-recebe-mais-de-2-mil-contribuicoes",
+          "data": "09/09/2026",
+          "resumo": "Próxima etapa será a análise técnica das 2.312 contribuições recebidas pelo MEC, seguida de consolidação e validação da proposta antes do envio ao Conselho Nacional de Educação"
+        },
+        {
+          "titulo": "Ideb: Amazonas análise de resultados nas redes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ideb-amazonas-analise-de-resultados-nas-redes",
+          "data": "08/09/2026",
+          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Amazonas avança no ensino fundamental"
+        },
         {
           "titulo": "Dia D mobiliza escolas de todo o país para transformar resultados do Ideb",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/dia-d-mobiliza-escolas-de-todo-o-pais-para-transformar-resultados-do-ideb",
@@ -120,18 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulher-indigena-educacao-protagonismo-e-enfrentamento-a-violencia",
           "data": "04/09/2026",
           "resumo": "Este 5 de setembro marca o Dia Internacional da Mulher Indígena e, pela primeira vez, também é dedicado nacionalmente à proteção e ao combate à violência contra mulheres e meninas indígenas"
-        },
-        {
-          "titulo": "Guias orientam escolas para análise dos resultados do Ideb",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/guias-orientam-escolas-para-analise-dos-resultados-do-ideb",
-          "data": "04/09/2026",
-          "resumo": "Mobilização nacional ocorre entre 8 e 11 de setembro, cabendo às redes escolherem a data mais adequada para suas ações. Materiais são direcionados para redes, escolas, gestores, coordenadores pedagógicos e professores"
-        },
-        {
-          "titulo": "Comissão amplia prazo para preenchimento dos dados do Fundeb-VAAR",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/comissao-amplia-prazo-para-preenchimento-dos-dados-do-fundeb-vaar",
-          "data": "04/09/2026",
-          "resumo": "Resolução estabelece 15 de setembro como nova data limite para envio da comprovação de cumprimento das condicionalidades do programa. Redes de ensino devem compartilhar os dados por meio do Simec"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "5 Sáb 6 Dom 7 Seg 8 Ter 9 Qua 10 Qui 11 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "6 Dom 7 Seg 8 Ter 9 Qua 10 Qui 11 Sex 12 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
