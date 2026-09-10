@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-09-10T14:40:21.883527+00:00",
+  "atualizado_em": "2026-09-10T22:59:49.929906+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Protocolo define parâmetros para investigações com perspectiva racial e de gênero",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/protocolo-define-parametros-para-investigacoes-com-perspectiva-racial-e-de-genero",
+          "data": "10/09/2026",
+          "resumo": "Documento estabelecerá referências para a atuação dos órgãos do Susp na prevenção de práticas discriminatórias nos processos investigatórios"
+        },
+        {
+          "titulo": "Curso sobre crimes cibernéticos está disponível na Rede EaD Senasp",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-sobre-crimes-ciberneticos-esta-disponivel-na-rede-ead-senasp",
+          "data": "10/09/2026",
+          "resumo": "Formação gratuita aborda fundamentos essenciais para a investigação e é destinada a profissionais da segurança pública"
+        },
+        {
+          "titulo": "Senad realiza primeira formação em prevenção adaptada a contextos indígenas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-do-programa-cria-no-amazonas-aborda-diretrizes-internacionais-de-prevencao-a-partir-das-especificidades-socioculturais-dos-povos-indigenas",
+          "data": "10/09/2026",
+          "resumo": "Capacitação do Programa Cria no Amazonas aborda diretrizes internacionais de prevenção a partir das especificidades socioculturais dos povos indígenas"
+        },
+        {
+          "titulo": "MJSP extradita ao Brasil homem apontado como maior traficante de armas da América do Sul",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-extradita-ao-brasil-homem-apontado-como-maior-traficante-de-armas-da-america-do-sul",
+          "data": "10/09/2026",
+          "resumo": "Procedimento foi conduzido pela Senajus, por meio do DRCI, Autoridade Central brasileira responsável pelo trâmite de extradições"
+        },
         {
           "titulo": "Nota à imprensa",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-a-imprensa",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-reune-orgaos-de-seguranca-para-discutir-combate-a-violencia-contra-a-pessoa-idosa",
           "data": "08/09/2026",
           "resumo": "Encontro conta com representantes das cinco regiões do País e busca fortalecer a articulação entre os órgãos de segurança pública"
-        },
-        {
-          "titulo": "Senacon se reúne com Procons para esclarecer dúvidas sobre decretos de cambismo digital e água gratuita",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-se-reune-com-procons-para-esclarecer-duvidas-sobre-decretos-de-cambismo-digital-e-agua-gratuita",
-          "data": "08/09/2026",
-          "resumo": "Encontro contou com representantes de quatro regiões para alinhar entendimentos e orientar a aplicação das novas regras de proteção aos consumidores"
-        },
-        {
-          "titulo": "Soberania nacional dá o tom do desfile de 7 de Setembro em Brasília",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/soberania-nacional-da-o-tom-do-desfile-de-7-de-setembro-em-brasilia-1",
-          "data": "07/09/2026",
-          "resumo": "Celebração da Independência reúne autoridades na Esplanada dos Ministérios"
-        },
-        {
-          "titulo": "Senajus debate aprimoramento da transferência internacional de processos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-debate-aprimoramento-da-transferencia-internacional-de-processos",
-          "data": "04/09/2026",
-          "resumo": "Senajus debate aprimoramento da transferência internacional de processos"
-        },
-        {
-          "titulo": "Senad fortalece capacidade de identificação de novas substâncias psicoativas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-fortalece-capacidade-de-identificacao-de-novas-substancias-psicoativas",
-          "data": "04/09/2026",
-          "resumo": "Curso internacional reuniu especialistas de cinco países e contribuiu para aprimorar técnicas de análise de NSP e drogas sintéticas"
         }
       ],
       "agenda": {
@@ -74,64 +74,64 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
-          "titulo": "Espírito Santo registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/espirito-santo-registra-queda-na-taxa-de-analfabetismo",
+          "titulo": "Envio de artigos ao Cadernos Equidade termina nesta sexta (11)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/envio-de-artigos-ao-cadernos-equidade-termina-nesta-sexta-11",
           "data": "10/09/2026",
-          "resumo": "Estado reduziu para 3,8% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
+          "resumo": "Chamada pública recebe artigos científicos sobre Educação Bilíngue de Surdos. Interessados têm até esta sexta-feira (11) para enviar os textos, conforme as regras previstas no edital"
         },
         {
-          "titulo": "Ceará registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ceara-registra-queda-na-taxa-de-analfabetismo",
+          "titulo": "Aulão do Enem reúne estudantes na Paraíba nesta sexta (11)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/aulao-do-enem-reune-estudantes-na-paraiba-nesta-sexta-11",
           "data": "10/09/2026",
-          "resumo": "Estado reduziu para 11,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
+          "resumo": "Evento gratuito será realizado em João Pessoa e deve reunir mais de 2 mil estudantes em atividades de preparação para as provas, marcadas para os dias 8 e 15 de novembro"
         },
         {
-          "titulo": "Bahia registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/bahia-registra-queda-na-taxa-de-analfabetismo",
+          "titulo": "MEC prorroga prazo para envio do Plano de Ação da Recomposição das Aprendizagens",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-prorroga-prazo-para-envio-do-plano-de-acao-da-recomposicao-das-aprendizagens",
           "data": "10/09/2026",
-          "resumo": "Estado reduziu para 9,5% a taxa de analfabetismo. MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
+          "resumo": "Municípios que ainda não concluíram o Plano de Ação da Recomposição das Aprendizagens têm até 15 de setembro para preencher, validar e enviar o documento pelo Simec"
         },
         {
-          "titulo": "Amazonas registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/amazonas-registra-queda-na-taxa-de-analfabetismo",
+          "titulo": "Inscrições para produção de livros em Braille-Tinta terminam sexta (11)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/inscricoes-para-producao-de-livros-em-braille-tinta-terminam-sexta-11",
           "data": "10/09/2026",
-          "resumo": ""
+          "resumo": "Processo conduzido pelo FNDE seleciona pessoas jurídicas para produzir obras didáticas, literárias e pedagógicas em formato acessível Braille-Tinta, destinadas a estudantes e professores da educação básica"
         },
         {
-          "titulo": "Amapá registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/amapa-registra-queda-na-taxa-de-analfabetismo",
+          "titulo": "MEC divulga instituições selecionadas para apoio técnico em sustentabilidade",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-divulga-instituicoes-selecionadas-para-apoio-tecnico-em-sustentabilidade",
           "data": "10/09/2026",
-          "resumo": "Estado reduziu para 4,5% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
+          "resumo": "Chamada pública integra a Cooperação Brasil-Alemanha para o Desenvolvimento Sustentável e ofertará consultoria especializada na implementação de programas de aprendizagem profissional articulados aos cursos técnicos ou à qualificação profissional"
         },
         {
-          "titulo": "Alagoas registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/alagoas-registra-queda-na-taxa-de-analfabetismo",
+          "titulo": "Santa Catarina registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/santa-catarina-registra-queda-na-taxa-de-analfabetismo",
           "data": "10/09/2026",
-          "resumo": "Estado reduziu para 13,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
+          "resumo": "Estado reduziu para 1,5% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Estudantes podem se inscrever no Pé-de-Meia Licenciaturas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/estudantes-podem-se-inscrever-no-pe-de-meia-licenciaturas",
+          "titulo": "Roraima registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/roraima-registra-queda-na-taxa-de-analfabetismo",
           "data": "10/09/2026",
-          "resumo": "Podem participar estudantes que obtiveram nota igual ou superior a 650 no Enem e estão matriculados em cursos presenciais de licenciatura pelo Sisu, pelo Prouni ou pelo Fies"
+          "resumo": "Estado reduziu em para 3,4% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Acre registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/acre-registra-queda-na-taxa-de-analfabetismo",
+          "titulo": "São Paulo registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/sao-paulo-registra-queda-na-taxa-de-analfabetismo",
           "data": "10/09/2026",
-          "resumo": "Estado reduziu para 8,9% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
+          "resumo": "Estado reduziu para 1,9% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Pernambuco mantém taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pernambuco-mantem-taxa-de-analfabetismo",
+          "titulo": "Rondônia registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/rondonia-registra-queda-na-taxa-de-analfabetismo",
           "data": "10/09/2026",
-          "resumo": "Estado manteve em 10,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
+          "resumo": "Estado reduziu para 5,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Paraná registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/parana-registra-queda-na-taxa-de-analfabetismo",
+          "titulo": "Rio Grande do Sul registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/rio-grande-do-sul-registra-queda-na-taxa-de-analfabetismo",
           "data": "10/09/2026",
-          "resumo": "Estado reduziu para 3,3% de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
+          "resumo": "Estado reduziu para 2,2% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem deseja voltar a estudar"
         }
       ],
       "agenda": {
