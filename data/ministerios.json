@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-09T23:02:31.079104+00:00",
+  "atualizado_em": "2026-09-10T14:40:21.883527+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -74,64 +74,64 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
-          "titulo": "MEC homologa parecer sobre ano letivo na Copa Feminina",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-homologa-parecer-sobre-ano-letivo-na-copa-feminina",
-          "data": "09/09/2026",
-          "resumo": "Ato orienta a adequação do calendário escolar de 2027 nas cidades-sede do torneio, além de assegurar a autonomia de gestão pedagógica para os demais sistemas de ensino públicos e privados do país"
+          "titulo": "Espírito Santo registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/espirito-santo-registra-queda-na-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": "Estado reduziu para 3,8% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Prêmio Brasil de Ensino de Matemática abre inscrições",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/premio-brasil-de-ensino-de-matematica-abre-inscricoes",
-          "data": "09/09/2026",
-          "resumo": "Docentes, escolas, redes de ensino e órgãos de gestão educacional podem participar da primeira edição do prêmio. Inscrições estão abertas até 12 de outubro, conforme regras previstas no edital"
+          "titulo": "Ceará registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ceara-registra-queda-na-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": "Estado reduziu para 11,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Enem: Faltam 60 dias para a aplicação da prova",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/enem-faltam-60-dias-para-a-aplicacao-da-prova",
-          "data": "09/09/2026",
-          "resumo": "Provas serão aplicadas nos dias 8 e 15 de novembro em todo o Brasil. Além de estudar para o exame, participantes devem adotar medidas para garantir que o processo seja seguro antes, durante e depois da participação"
+          "titulo": "Bahia registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/bahia-registra-queda-na-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": "Estado reduziu para 9,5% a taxa de analfabetismo. MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Guia orienta participação na 3ª edição do Selo de Alfabetização",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/guia-orienta-participacao-na-3a-edicao-do-selo-de-alfabetizacao",
-          "data": "09/09/2026",
-          "resumo": "Para auxiliar secretarias estaduais e municipais na submissão de ações e boas práticas no Simec, MEC disponibiliza o Guia do Participante com linguagem acessível, critérios detalhados e orientações de acesso"
+          "titulo": "Amazonas registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/amazonas-registra-queda-na-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": ""
         },
         {
-          "titulo": "PND 2026: locais de prova disponíveis",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pnd-2026-locais-de-prova-disponiveis",
-          "data": "09/09/2026",
-          "resumo": "Participantes da Prova Nacional Docente podem consultar as informações no Cartão de Confirmação da Inscrição, disponível no Sistema PND"
+          "titulo": "Amapá registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/amapa-registra-queda-na-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": "Estado reduziu para 4,5% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Consulta para novo Catálogo de Cursos Técnicos recebe mais de 2 mil contribuições",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/consulta-para-novo-catalogo-de-cursos-tecnicos-recebe-mais-de-2-mil-contribuicoes",
-          "data": "09/09/2026",
-          "resumo": "Próxima etapa será a análise técnica das 2.312 contribuições recebidas pelo MEC, seguida de consolidação e validação da proposta antes do envio ao Conselho Nacional de Educação"
+          "titulo": "Alagoas registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/alagoas-registra-queda-na-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": "Estado reduziu para 13,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "Ideb: Amazonas análise de resultados nas redes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ideb-amazonas-analise-de-resultados-nas-redes",
-          "data": "08/09/2026",
-          "resumo": "Estratégia do MEC mobiliza redes de ensino para analisar dados, definir prioridades e elaborar ações de melhoria da aprendizagem a partir dos resultados do Ideb. Amazonas avança no ensino fundamental"
+          "titulo": "Estudantes podem se inscrever no Pé-de-Meia Licenciaturas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/estudantes-podem-se-inscrever-no-pe-de-meia-licenciaturas",
+          "data": "10/09/2026",
+          "resumo": "Podem participar estudantes que obtiveram nota igual ou superior a 650 no Enem e estão matriculados em cursos presenciais de licenciatura pelo Sisu, pelo Prouni ou pelo Fies"
         },
         {
-          "titulo": "Dia D mobiliza escolas de todo o país para transformar resultados do Ideb",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/dia-d-mobiliza-escolas-de-todo-o-pais-para-transformar-resultados-do-ideb",
-          "data": "08/09/2026",
-          "resumo": "Mobilização do Ministério da Educação será realizada entre 8 e 11 de setembro para apoiar escolas na análise dos resultados e no planejamento de ações para fortalecer a aprendizagem dos estudantes"
+          "titulo": "Acre registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/acre-registra-queda-na-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": "Estado reduziu para 8,9% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "PodMEC debate Enare, Enamed e novo cenário da saúde no país",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/podmec-debate-enare-enamed-e-novo-cenario-da-saude-no-pais",
-          "data": "08/09/2026",
-          "resumo": "Terceiro episódio reuniu especialistas do MEC e do Ministério da Saúde. Edição abordou a qualidade do ensino médico, democratização das residências e histórias de superação na formação profissional"
+          "titulo": "Pernambuco mantém taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pernambuco-mantem-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": "Estado manteve em 10,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         },
         {
-          "titulo": "UFMT abre seleção para licenciatura intercultural indígena",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ufmt-abre-selecao-para-licenciatura-intercultural-indigena",
-          "data": "08/09/2026",
-          "resumo": "Curso lançando pelo MEC em parceria com a UFMT oferece 60 vagas para formação de professores indígenas dos povos Mẽbêngôkre, Tapayuna, Trumai e Yudjá, na Terra Indígena Capoto-Jarina. Inscrições vão até 20 de setembro"
+          "titulo": "Paraná registra queda na taxa de analfabetismo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/parana-registra-queda-na-taxa-de-analfabetismo",
+          "data": "10/09/2026",
+          "resumo": "Estado reduziu para 3,3% de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "6 Dom 7 Seg 8 Ter 9 Qua 10 Qui 11 Sex 12 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "7 Seg 8 Ter 9 Qua 10 Qui 11 Sex 12 Sáb 13 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
