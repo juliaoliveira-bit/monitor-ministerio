@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-09-11T14:39:11.200056+00:00",
+  "atualizado_em": "2026-09-11T23:03:39.546623+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação ClickFix desarticula grupo cibercriminoso e apreende mais de R$ 8,7 milhões em criptoativos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-clickfix-desarticula-grupo-cibercriminoso-e-apreende-mais-de-r-8-7-milhoes-em-criptoativos",
+          "data": "11/09/2026",
+          "resumo": "Foram cumpridos 17 mandados de busca e apreensão e dois mandados de prisão; bloqueio de contas bancárias pode chegar a R$ 93 milhões"
+        },
+        {
+          "titulo": "Inscrições abertas para o Programa Integridade, Governança e Controle do Fundo Nacional de Segurança Pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-o-programa-integridade-governanca-e-controle-do-fundo-nacional-de-seguranca-publica",
+          "data": "11/09/2026",
+          "resumo": "Curso em parceria com a USP é gratuito, on-line e recebe inscrições até 10 de outubro"
+        },
+        {
+          "titulo": "Código de Defesa do Consumidor completa 36 anos e acompanha mudanças nas relações de consumo",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/codigo-de-defesa-do-consumidor-completa-36-anos-e-acompanha-mudancas-nas-relacoes-de-consumo",
+          "data": "11/09/2026",
+          "resumo": "Lei estabeleceu direitos dos consumidores e passou a incorporar novas regras diante das transformações econômicas, sociais e tecnológicas"
+        },
         {
           "titulo": "Senacon discute endividamento com o Sistema Nacional de Defesa do Consumidor",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-discute-endividamento-com-o-sistema-nacional-de-defesa-do-consumidor",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-a-imprensa",
           "data": "09/09/2026",
           "resumo": ""
-        },
-        {
-          "titulo": "MJSP lança edital para fortalecer gestão de pesquisas e dados sobre políticas de drogas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lanca-edital-para-fortalecer-gestao-de-pesquisas-e-dados-sobre-politicas-de-drogas",
-          "data": "09/09/2026",
-          "resumo": "Seleção é destinada a órgãos e entidades federais e prevê até R$ 8 milhões para ações voltadas ao Observatório Brasileiro de Informações sobre Drogas"
-        },
-        {
-          "titulo": "Força Nacional forma 121 profissionais de 20 unidades da Federação",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-forma-121-profissionais-de-20-unidades-da-federacao",
-          "data": "08/09/2026",
-          "resumo": "Formandos passam a integrar contingente capacitado para atuar em missões da Força em diferentes regiões do País"
-        },
-        {
-          "titulo": "Forças de segurança apreendem 4,5 toneladas de skunk, cinco armas de uso restrito e lancha blindada no Amazonas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forcas-de-seguranca-apreendem-4-5-toneladas-de-skunk-cinco-armas-de-uso-restrito-e-lancha-blindada-no-amazonas",
-          "data": "08/09/2026",
-          "resumo": "Operação em Codajás reuniu forças estaduais e federais brasileiras e a Polícia Nacional do Peru; apreensões são avaliadas em aproximadamente R$ 93 milhões"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Prazo para escolha dos livros didáticos do PNLD termina nesta sexta (11)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/prazo-para-escolha-dos-livros-didaticos-do-pnld-termina-nesta-sexta-11",
-          "data": "11/09/2026",
-          "resumo": "Professores e gestores dos anos iniciais do ensino fundamental têm até 11 de setembro para registrar a seleção dos materiais que serão utilizados no triênio 2027-2030, por meio do sistema do PNLD Gestão"
-        },
-        {
-          "titulo": "Envio de artigos ao Cadernos Equidade termina nesta sexta (11)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/envio-de-artigos-ao-cadernos-equidade-termina-nesta-sexta-11",
-          "data": "10/09/2026",
-          "resumo": "Chamada pública recebe artigos científicos sobre Educação Bilíngue de Surdos. Interessados têm até esta sexta-feira (11) para enviar os textos, conforme as regras previstas no edital"
-        },
-        {
-          "titulo": "Aulão do Enem reúne estudantes na Paraíba nesta sexta (11)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/aulao-do-enem-reune-estudantes-na-paraiba-nesta-sexta-11",
-          "data": "10/09/2026",
-          "resumo": "Evento gratuito será realizado em João Pessoa e deve reunir mais de 2 mil estudantes em atividades de preparação para as provas, marcadas para os dias 8 e 15 de novembro"
-        },
-        {
-          "titulo": "MEC prorroga prazo para envio do Plano de Ação da Recomposição das Aprendizagens",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-prorroga-prazo-para-envio-do-plano-de-acao-da-recomposicao-das-aprendizagens",
-          "data": "10/09/2026",
-          "resumo": "Municípios que ainda não concluíram o Plano de Ação da Recomposição das Aprendizagens têm até 15 de setembro para preencher, validar e enviar o documento pelo Simec"
-        },
-        {
-          "titulo": "Inscrições para produção de livros em Braille-Tinta terminam sexta (11)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/inscricoes-para-producao-de-livros-em-braille-tinta-terminam-sexta-11",
-          "data": "10/09/2026",
-          "resumo": "Processo conduzido pelo FNDE seleciona pessoas jurídicas para produzir obras didáticas, literárias e pedagógicas em formato acessível Braille-Tinta, destinadas a estudantes e professores da educação básica"
-        },
-        {
-          "titulo": "MEC divulga instituições selecionadas para apoio técnico em sustentabilidade",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-divulga-instituicoes-selecionadas-para-apoio-tecnico-em-sustentabilidade",
-          "data": "10/09/2026",
-          "resumo": "Chamada pública integra a Cooperação Brasil-Alemanha para o Desenvolvimento Sustentável e ofertará consultoria especializada na implementação de programas de aprendizagem profissional articulados aos cursos técnicos ou à qualificação profissional"
-        },
-        {
-          "titulo": "Santa Catarina registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/santa-catarina-registra-queda-na-taxa-de-analfabetismo",
-          "data": "10/09/2026",
-          "resumo": "Estado reduziu para 1,5% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
-        },
-        {
-          "titulo": "Roraima registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/roraima-registra-queda-na-taxa-de-analfabetismo",
-          "data": "10/09/2026",
-          "resumo": "Estado reduziu em para 3,4% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
-        },
-        {
-          "titulo": "São Paulo registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/sao-paulo-registra-queda-na-taxa-de-analfabetismo",
-          "data": "10/09/2026",
-          "resumo": "Estado reduziu para 1,9% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
-        },
-        {
-          "titulo": "Rondônia registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/rondonia-registra-queda-na-taxa-de-analfabetismo",
-          "data": "10/09/2026",
-          "resumo": "Estado reduziu para 5,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
