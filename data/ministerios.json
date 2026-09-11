@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-09-10T22:59:49.929906+00:00",
+  "atualizado_em": "2026-09-11T14:39:11.200056+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senacon discute endividamento com o Sistema Nacional de Defesa do Consumidor",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-discute-endividamento-com-o-sistema-nacional-de-defesa-do-consumidor",
+          "data": "10/09/2026",
+          "resumo": "Iniciativa prevê atuação integrada para prevenir e combater o endividamento e o superendividamento de consumidores"
+        },
+        {
+          "titulo": "Senacon inicia averiguação sobre mudanças no Amazon Prime Video",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-inicia-averiguacao-sobre-mudancas-no-amazon-prime-video",
+          "data": "10/09/2026",
+          "resumo": "Investigação preliminar analisa inserção de publicidade em contratos em curso, cobrança adicional para retirada de anúncios e eventual alteração das condições contratadas"
+        },
         {
           "titulo": "Protocolo define parâmetros para investigações com perspectiva racial e de gênero",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/protocolo-define-parametros-para-investigacoes-com-perspectiva-racial-e-de-genero",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forcas-de-seguranca-apreendem-4-5-toneladas-de-skunk-cinco-armas-de-uso-restrito-e-lancha-blindada-no-amazonas",
           "data": "08/09/2026",
           "resumo": "Operação em Codajás reuniu forças estaduais e federais brasileiras e a Polícia Nacional do Peru; apreensões são avaliadas em aproximadamente R$ 93 milhões"
-        },
-        {
-          "titulo": "Operação coordenada pelo MJSP cumpre 850 mandados de prisão e solicita bloqueio de R$ 409 milhões em bens e valores",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-coordenada-pelo-mjsp-cumpre-850-mandados-de-prisao-e-solicita-bloqueio-de-r-409-milhoes-em-bens-e-valores",
-          "data": "08/09/2026",
-          "resumo": "Segunda edição da Renorcrim Recupera mobilizou polícias civis das 27 unidades da Federação"
-        },
-        {
-          "titulo": "Senasp reúne órgãos de segurança para discutir combate à violência contra a pessoa idosa",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-reune-orgaos-de-seguranca-para-discutir-combate-a-violencia-contra-a-pessoa-idosa",
-          "data": "08/09/2026",
-          "resumo": "Encontro conta com representantes das cinco regiões do País e busca fortalecer a articulação entre os órgãos de segurança pública"
         }
       ],
       "agenda": {
@@ -73,6 +73,12 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Prazo para escolha dos livros didáticos do PNLD termina nesta sexta (11)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/prazo-para-escolha-dos-livros-didaticos-do-pnld-termina-nesta-sexta-11",
+          "data": "11/09/2026",
+          "resumo": "Professores e gestores dos anos iniciais do ensino fundamental têm até 11 de setembro para registrar a seleção dos materiais que serão utilizados no triênio 2027-2030, por meio do sistema do PNLD Gestão"
+        },
         {
           "titulo": "Envio de artigos ao Cadernos Equidade termina nesta sexta (11)",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/envio-de-artigos-ao-cadernos-equidade-termina-nesta-sexta-11",
@@ -126,12 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/rondonia-registra-queda-na-taxa-de-analfabetismo",
           "data": "10/09/2026",
           "resumo": "Estado reduziu para 5,1% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem quer voltar a estudar"
-        },
-        {
-          "titulo": "Rio Grande do Sul registra queda na taxa de analfabetismo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/rio-grande-do-sul-registra-queda-na-taxa-de-analfabetismo",
-          "data": "10/09/2026",
-          "resumo": "Estado reduziu para 2,2% a taxa de analfabetismo; MEC oferece o CadEJA como plataforma para quem deseja voltar a estudar"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "7 Seg 8 Ter 9 Qua 10 Qui 11 Sex 12 Sáb 13 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "8 Ter 9 Qua 10 Qui 11 Sex 12 Sáb 13 Dom 14 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
