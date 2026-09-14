@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-09-14T16:39:08.678504+00:00",
+  "atualizado_em": "2026-09-14T23:43:18.680128+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operações no Rio apreendem mais de 510 kg de maconha e 11 fuzis em 10 dias",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacoes-no-rio-apreendem-mais-de-510-kg-de-maconha-e-11-fuzis-em-10-dias",
+          "data": "14/09/2026",
+          "resumo": "Ações coordenadas pelo Escritório Nacional Antifacção também resultaram na apreensão de outros entorpecentes e armas, além da prisão de seis pessoas"
+        },
+        {
+          "titulo": "Rede EaD Senasp disponibiliza curso sobre gestão de projeto aplicada à segurança pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-disponibiliza-curso-sobre-gestao-de-projeto-aplicada-a-seguranca-publica",
+          "data": "14/09/2026",
+          "resumo": "Formação gratuita é destinada a profissionais do Susp, aborda conceitos e ferramentas de gerenciamento"
+        },
+        {
+          "titulo": "Seminário na Bahia debate desafios atuais das relações de consumo nos 36 anos do CDC",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/seminario-na-bahia-debate-desafios-atuais-das-relacoes-de-consumo-nos-36-anos-do-cdc",
+          "data": "14/09/2026",
+          "resumo": "Senacon participa de evento que discute crédito, superendividamento, fraudes e novas tecnologias"
+        },
+        {
+          "titulo": "CNCP realiza audiência pública sobre venda de produtos contrafeitos e irregulares em plataformas digitais",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cncp-realiza-audiencia-publica-sobre-venda-de-produtos-contrafeitos-e-irregulares-em-plataformas-digitais",
+          "data": "14/09/2026",
+          "resumo": "Debate no MJSP reúne representantes do poder público, empresas, entidades e especialistas para discutir desafios do comércio eletrônico"
+        },
         {
           "titulo": "Operação ClickFix desarticula grupo cibercriminoso e apreende mais de R$ 8,7 milhões em criptoativos",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-clickfix-desarticula-grupo-cibercriminoso-e-apreende-mais-de-r-8-7-milhoes-em-criptoativos",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/protocolo-define-parametros-para-investigacoes-com-perspectiva-racial-e-de-genero",
           "data": "10/09/2026",
           "resumo": "Documento estabelecerá referências para a atuação dos órgãos do Susp na prevenção de práticas discriminatórias nos processos investigatórios"
-        },
-        {
-          "titulo": "Curso sobre crimes cibernéticos está disponível na Rede EaD Senasp",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-sobre-crimes-ciberneticos-esta-disponivel-na-rede-ead-senasp",
-          "data": "10/09/2026",
-          "resumo": "Formação gratuita aborda fundamentos essenciais para a investigação e é destinada a profissionais da segurança pública"
-        },
-        {
-          "titulo": "Senad realiza primeira formação em prevenção adaptada a contextos indígenas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-do-programa-cria-no-amazonas-aborda-diretrizes-internacionais-de-prevencao-a-partir-das-especificidades-socioculturais-dos-povos-indigenas",
-          "data": "10/09/2026",
-          "resumo": "Capacitação do Programa Cria no Amazonas aborda diretrizes internacionais de prevenção a partir das especificidades socioculturais dos povos indígenas"
-        },
-        {
-          "titulo": "MJSP extradita ao Brasil homem apontado como maior traficante de armas da América do Sul",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-extradita-ao-brasil-homem-apontado-como-maior-traficante-de-armas-da-america-do-sul",
-          "data": "10/09/2026",
-          "resumo": "Procedimento foi conduzido pela Senajus, por meio do DRCI, Autoridade Central brasileira responsável pelo trâmite de extradições"
-        },
-        {
-          "titulo": "Nota à imprensa",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-a-imprensa",
-          "data": "09/09/2026",
-          "resumo": ""
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "PND 2026: participantes devem consultar local de prova com antecedência",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pnd-2026-participantes-devem-consultar-local-de-prova-com-antecedencia",
+          "data": "14/09/2026",
+          "resumo": "Informações estão disponíveis no Cartão de Confirmação da Inscrição, no Sistema PND. Prova será aplicada pelo Inep, autarquia vinculada ao MEC, no próximo domingo, 20 de setembro"
+        },
+        {
+          "titulo": "Educação de jovens e adultos é tema de episódio do PodMEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/educacao-de-jovens-e-adultos-e-tema-de-episodio-do-podmec",
+          "data": "14/09/2026",
+          "resumo": "Programa focou na transformação da vida dos estudantes que passam pela EJA e nas especificidades da modalidade de ensino. Debate está disponível no Canal do MEC no YouTube e no perfil do Spotify da pasta"
+        },
+        {
+          "titulo": "MEC participa de abertura virtual de formação de moçambicanos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-participa-de-abertura-virtual-de-formacao-de-mocambicanos",
+          "data": "14/09/2026",
+          "resumo": "Cooperação técnica renovada capacitará 80 professores moçambicanos em nove institutos federais na área agrícola. Formação acontece nos formatos virtual e presencial a partir deste mês"
+        },
+        {
+          "titulo": "Campus Maricá do IFF oferece formação sobre Direitos de Meninas e Mulheres",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/campus-marica-do-iff-oferece-formacao-sobre-direitos-de-meninas-e-mulheres",
+          "data": "14/09/2026",
+          "resumo": "Curso oferecido pelo Campus Maricá é voltado a profissionais de educação e estudantes e visa contribuir para a capacitação em políticas e práticas de inclusão e equidade"
+        },
+        {
+          "titulo": "Fórum prevê criação de Rede de Correição da Educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/forum-preve-criacao-de-rede-de-correicao-da-educacao",
+          "data": "14/09/2026",
+          "resumo": "Evento ocorre de 14 a 18 de setembro, em Fortaleza (CE), para instituir a Rede de Correição da Educação e fortalecer integração e cooperação entre as corregedorias das instituições federais de ensino"
+        },
+        {
+          "titulo": "MEC disponibiliza painel com dados do Ideb para análise da aprendizagem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-disponibiliza-painel-com-dados-do-ideb-para-analise-da-aprendizagem",
+          "data": "14/09/2026",
+          "resumo": "Ferramenta do Brasil Aprende+ reúne informações sobre notas, trajetória, níveis de proficiência de municípios e escolas de todo o país e grau de prioridade de cada unidade no território, para apoiar a análise de desempenho"
+        },
+        {
+          "titulo": "Prouni: hoje (14) é o último dia para comprovar informações da lista de espera",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/prouni-hoje-14-e-o-ultimo-dia-para-comprovar-informacoes-da-lista-de-espera",
+          "data": "14/09/2026",
+          "resumo": "Estudantes classificados na lista de espera do processo seletivo do segundo semestre ainda podem apresentar a documentação diretamente às instituições de ensino indicadas para garantir a participação"
+        },
+        {
+          "titulo": "Mais de 152 mil inscritos farão o Enamed 2026 neste domingo (13)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mais-de-152-mil-inscritos-farao-o-enamed-2026-neste-domingo-13",
+          "data": "12/09/2026",
+          "resumo": "Prova será realizada no mesmo dia da aplicação do Enare e da 1ª etapa do Revalida 2026/2. Participantes devem conferir local de aplicação, documentação e horários. Portões fecham às 13h (horário de Brasília)"
+        },
+        {
+          "titulo": "MEC Livros organiza acervo com best-sellers e 26 categorias",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-livros-organiza-acervo-com-best-sellers-e-26-categorias",
+          "data": "11/09/2026",
+          "resumo": "Biblioteca digital gratuita reúne desde clássicos da literatura a sucessos contemporâneos. Plataforma já soma 450 mil horas de leitura e cerca de 1,2 milhão de usuários cadastrados em todo o país"
+        },
+        {
+          "titulo": "Inscrições para curso em Direitos Humanos no IFCE termina nesta sexta (11)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/inscricoes-para-curso-em-direitos-humanos-no-ifce-termina-nesta-sexta-11",
+          "data": "11/09/2026",
+          "resumo": "Formação voltada para qualificação de profissionais da educação será realizada na modalidade semipresencial, com atividades à distância e encontros presenciais"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
