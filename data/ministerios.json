@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-09-15T15:17:59.648082+00:00",
+  "atualizado_em": "2026-09-15T23:27:19.461407+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Ministério da Justiça, TSE e PRF alinham apoio logístico e operacional para as eleições de 2026",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-tse-e-prf-alinham-apoio-logistico-e-operacional-para-as-eleicoes-de-2026",
+          "data": "15/09/2026",
+          "resumo": "Medidas previstas visam à cooperação para garantir a segurança do pleito nos dias 4 e 25 de outubro"
+        },
+        {
+          "titulo": "Senacon participa de aula inaugural de escola de educação para o consumo em Montes Claros",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-participa-de-aula-inaugural-de-escola-de-educacao-para-o-consumo-em-montes-claros",
+          "data": "15/09/2026",
+          "resumo": "Iniciativa permanente deve atender mais de 4 mil estudantes por ano e aborda direitos do consumidor, educação financeira e prevenção ao superendividamento"
+        },
+        {
+          "titulo": "Espírito Santo sedia quarta Jornada Respad com mais de 120 bombeiros militares",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/espirito-santo-sedia-quarta-jornada-respad-com-mais-de-120-bombeiros-militares",
+          "data": "15/09/2026",
+          "resumo": "Etapa Sudeste reúne profissionais de quatro estados para cinco dias de atividades técnicas e exercício integrado de resposta a desastres"
+        },
+        {
+          "titulo": "Senasp qualifica profissionais de segurança pública com cursos realizados em quatro estados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-qualifica-profissionais-de-seguranca-publica-com-cursos-realizados-em-quatro-estados",
+          "data": "15/09/2026",
+          "resumo": "Formações reúnem 138 agentes de diferentes instituições e unidades da Federação, voltados ao aprimoramento técnico e à atuação integrada"
+        },
         {
           "titulo": "Operação Lívia cumpre 12 medidas judiciais em cinco estados contra rede investigada por crimes praticados no ambiente digital",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-livia-cumpre-12-medidas-judiciais-em-cinco-estados-contra-rede-investigada-por-crimes-praticados-no-ambiente-digital",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-clickfix-desarticula-grupo-cibercriminoso-e-apreende-mais-de-r-8-7-milhoes-em-criptoativos",
           "data": "11/09/2026",
           "resumo": "Foram cumpridos 17 mandados de busca e apreensão e dois mandados de prisão; bloqueio de contas bancárias pode chegar a R$ 93 milhões"
-        },
-        {
-          "titulo": "Inscrições abertas para o Programa Integridade, Governança e Controle do Fundo Nacional de Segurança Pública",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-o-programa-integridade-governanca-e-controle-do-fundo-nacional-de-seguranca-publica",
-          "data": "11/09/2026",
-          "resumo": "Curso em parceria com a USP é gratuito, on-line e recebe inscrições até 10 de outubro"
-        },
-        {
-          "titulo": "Código de Defesa do Consumidor completa 36 anos e acompanha mudanças nas relações de consumo",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/codigo-de-defesa-do-consumidor-completa-36-anos-e-acompanha-mudancas-nas-relacoes-de-consumo",
-          "data": "11/09/2026",
-          "resumo": "Lei estabeleceu direitos dos consumidores e passou a incorporar novas regras diante das transformações econômicas, sociais e tecnológicas"
-        },
-        {
-          "titulo": "Senacon discute endividamento com o Sistema Nacional de Defesa do Consumidor",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-discute-endividamento-com-o-sistema-nacional-de-defesa-do-consumidor",
-          "data": "10/09/2026",
-          "resumo": "Iniciativa prevê atuação integrada para prevenir e combater o endividamento e o superendividamento de consumidores"
-        },
-        {
-          "titulo": "Senacon inicia averiguação sobre mudanças no Amazon Prime Video",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-inicia-averiguacao-sobre-mudancas-no-amazon-prime-video",
-          "data": "10/09/2026",
-          "resumo": "Investigação preliminar analisa inserção de publicidade em contratos em curso, cobrança adicional para retirada de anúncios e eventual alteração das condições contratadas"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Mais de 2,8 mil estudantes participam de Aulão do Enem em Recife",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mais-de-2-8-mil-estudantes-participam-de-aulao-do-enem-em-recife",
+          "data": "15/09/2026",
+          "resumo": "Após edição na Paraíba, o estado de Pernambuco sediou o 2º aulão preparatório do Ministério da Educação, com revisão de conteúdos, atrações culturais e ferramentas digitais de apoio"
+        },
+        {
+          "titulo": "Pesquisa da UFC usa tecnologia para prevenir quedas de idosos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pesquisa-da-ufc-usa-tecnologia-para-prevenir-quedas-de-idosos",
+          "data": "15/09/2026",
+          "resumo": "Estudo da Universidade Federal do Ceará integra realidade virtual e saúde pública para auxiliar a população na terceira idade"
+        },
+        {
+          "titulo": "Universidades e residência: MEC regulamenta habilitação para sanitaristas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/universidades-e-residencia-mec-regulamenta-habilitacao-para-sanitaristas",
+          "data": "15/09/2026",
+          "resumo": "Normativa define programas de residências válidos para o exercício profissional de sanitarista e estabelece trâmite de análise pedagógica entre ministérios"
+        },
+        {
+          "titulo": "Curso do MEC fortalece formação de coordenadores pedagógicos da rede pública",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/curso-do-mec-fortalece-formacao-de-coordenadores-pedagogicos-da-rede-publica",
+          "data": "15/09/2026",
+          "resumo": "Com 210 horas, aperfeiçoamento integra as ações do Proditec e valoriza a colaboração entre profissionais da educação"
+        },
+        {
+          "titulo": "Saiba como revalidar diploma estrangeiro no Brasil",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/saiba-como-revalidar-diploma-estrangeiro-no-brasil",
+          "data": "15/09/2026",
+          "resumo": "Processos de revalidação são realizados pela Plataforma Carolina Bori, sistema disponibilizado pelo MEC. Para diplomas de medicina, é exigida aprovação em exame específico"
+        },
+        {
+          "titulo": "PND 2026: participantes devem consultar local de prova com antecedência",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pnd-2026-participantes-devem-consultar-local-de-prova-com-antecedencia",
+          "data": "14/09/2026",
+          "resumo": "Informações estão disponíveis no Cartão de Confirmação da Inscrição, no Sistema PND. Prova será aplicada pelo Inep, autarquia vinculada ao MEC, no próximo domingo, 20 de setembro"
+        },
+        {
+          "titulo": "Educação de jovens e adultos é tema de episódio do PodMEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/educacao-de-jovens-e-adultos-e-tema-de-episodio-do-podmec",
+          "data": "14/09/2026",
+          "resumo": "Programa focou na transformação da vida dos estudantes que passam pela EJA e nas especificidades da modalidade de ensino. Debate está disponível no Canal do MEC no YouTube e no perfil do Spotify da pasta"
+        },
+        {
+          "titulo": "MEC participa de abertura virtual de formação de moçambicanos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-participa-de-abertura-virtual-de-formacao-de-mocambicanos",
+          "data": "14/09/2026",
+          "resumo": "Cooperação técnica renovada capacitará 80 professores moçambicanos em nove institutos federais na área agrícola. Formação acontece nos formatos virtual e presencial a partir deste mês"
+        },
+        {
+          "titulo": "Campus Maricá do IFF oferece formação sobre Direitos de Meninas e Mulheres",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/campus-marica-do-iff-oferece-formacao-sobre-direitos-de-meninas-e-mulheres",
+          "data": "14/09/2026",
+          "resumo": "Curso oferecido pelo Campus Maricá é voltado a profissionais de educação e estudantes e visa contribuir para a capacitação em políticas e práticas de inclusão e equidade"
+        },
+        {
+          "titulo": "Fórum prevê criação de Rede de Correição da Educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/forum-preve-criacao-de-rede-de-correicao-da-educacao",
+          "data": "14/09/2026",
+          "resumo": "Evento ocorre de 14 a 18 de setembro, em Fortaleza (CE), para instituir a Rede de Correição da Educação e fortalecer integração e cooperação entre as corregedorias das instituições federais de ensino"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -80,9 +141,70 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Mary Anning: a jovem que ajudou a transformar a paleontologia",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mary-anning-a-jovem-que-ajudou-a-transformar-a-paleontologia",
+          "data": "15/09/2026",
+          "resumo": "Ainda adolescente, ajudou a ciência a compreender animais extintos e a reconstruir como era a vida na Terra há milhões de anos. Esta é a terceira reportagem da série sobre grandes mulheres cientistas"
+        },
+        {
+          "titulo": "INMA abre inscrições para 20 bolsas de pesquisa sobre a Mata Atlântica",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inma-abre-inscricoes-para-20-bolsas-de-pesquisa-sobre-a-mata-atlantica",
+          "data": "14/09/2026",
+          "resumo": "As modalidades previstas na chamada têm bolsas mensais de R$ 1.170 a R$ 6.760. Inscrições podem ser feitas até 18 de setembro"
+        },
+        {
+          "titulo": "El Niño ganha intensidade e reforça necessidade de preparação das redes de ensino para eventos extremos",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/el-nino-ganha-intensidade-e-reforca-necessidade-de-preparacao-das-redes-de-ensino-para-eventos-extremos",
+          "data": "11/09/2026",
+          "resumo": "Novo boletim do Painel El Niño aponta mais de 90% de probabilidade de ocorrência de evento muito forte entre setembro e novembro. Nota técnica do Cemaden orienta gestores da Educação sobre prevenção e adaptação das escolas"
+        },
+        {
+          "titulo": "AEB abre inscrições para 37 cursos gratuitos sobre ciência e tecnologia espacial",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/aeb-abre-inscricoes-para-37-cursos-gratuitos-sobre-ciencia-e-tecnologia-espacial",
+          "data": "11/09/2026",
+          "resumo": "Nova edição da AEB Escola Virtual reúne formações em áreas como astronomia, programação, meteorologia, satélites, direito espacial e geopolítica. Seis novos cursos passam a integrar a plataforma"
+        },
+        {
+          "titulo": "Pesquisa desenvolve equipamento para recuperação muscular e reabilitação de pacientes",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/pesquisa-desenvolve-equipamento-para-recuperacao-muscular-e-reabilitacao-de-pacientes",
+          "data": "09/09/2026",
+          "resumo": "Tecnologia combina compressão pneumática e laser terapêutico. Tem potencial de aplicação no esporte e em diferentes áreas da saúde"
+        },
+        {
+          "titulo": "Monan entra em operação e amplia a capacidade de previsão de tempo",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/monan-entra-em-operacao-e-amplia-a-capacidade-de-previsao-de-tempo",
+          "data": "09/09/2026",
+          "resumo": "Versão em operação produz previsões globais para até 11 dias. Nas próximas etapas, o Monan será executado em maior resolução espacial e passará a oferecer produtos para diferentes escalas de previsão"
+        },
+        {
+          "titulo": "Amazônia Azul: um patrimônio presente no cotidiano",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/amazonia-azul-um-patrimonio-presente-no-cotidiano",
+          "data": "09/09/2026",
+          "resumo": "Segunda matéria da série sobre o oceano aborda a influência do oceano na vida da população que vive perto ou longe do litoral"
+        },
+        {
+          "titulo": "Ada Lovelace: como a mãe da programação teceu o primeiro algoritmo",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/ada-lovelace-como-a-mae-da-programacao-teceu-o-primeiro-algoritmo",
+          "data": "08/09/2026",
+          "resumo": "A história da responsável por publicar o primeiro algoritmo de computador da humanidade dá continuidade à série de reportagens com nomes femininos importantes que fizeram história na ciência"
+        },
+        {
+          "titulo": "Prêmio Brasil de Ensino de Matemática vai reconhecer projetos de ensino na educação básica",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/premio-brasil-de-ensino-de-matematica-vai-reconhecer-projetos-de-ensino-na-educacao-basica",
+          "data": "08/09/2026",
+          "resumo": "Iniciativa está aberta a inscrições de docentes e instituições. Prazo vai até 12 de outubro"
+        },
+        {
+          "titulo": "Pesquisas buscam transformar resíduos agroindustriais em combustíveis e novos produtos",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/pesquisas-buscam-transformar-residuos-agroindustriais-em-combustiveis-e-novos-produtos",
+          "data": "04/09/2026",
+          "resumo": "Estudos do INT investigam como aproveitar materiais que sobram da produção agrícola para produzir energia, combustíveis e produtos de origem renovável"
+        }
+      ],
       "agenda": {
-        "resumo": "12 Sáb 13 Dom 14 Seg 15 Ter 16 Qua 17 Qui 18 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "",
         "link_agenda_completa": ""
       }
     }
