@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-09-17T15:20:16.170530+00:00",
+  "atualizado_em": "2026-09-17T23:26:21.691854+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP e governo do RJ avançam para nova fase de ações integradas nos corredores logísticos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-governo-do-rj-avancam-para-nova-fase-de-acoes-integradas-nos-corredores-logisticos",
+          "data": "17/09/2026",
+          "resumo": "Encontro no Escritório Nacional Antifacção definiu elaboração dos primeiros planos operacionais, além da atuação imediata e coordenada das forças de segurança nos corredores estratégicos"
+        },
+        {
+          "titulo": "Operação Segunda Chamada fiscaliza 241 estabelecimentos em 15 estados para combater comércio irregular de celulares",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-segunda-chamada-fiscaliza-241-estabelecimentos-em-15-estados-para-combater-comercio-irregular-de-celulares-1",
+          "data": "17/09/2026",
+          "resumo": "Ação integrada do MJSP, Receita Federal e Procon dá continuidade ao enfrentamento da cadeia de receptação e comercialização de aparelhos roubados ou furtados"
+        },
+        {
+          "titulo": "Escola Nacional de Segurança Pública capacita 90 profissionais para combate ao crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-capacita-90-profissionais-para-combate-ao-crime-organizado",
+          "data": "17/09/2026",
+          "resumo": "Formação visou o fortalecimento das ações de controle e fiscalização de produtos controlados por meio da Rede Nacional de Enfrentamento ao Tráfico de Armas, Munições, Acessórios e Explosivos"
+        },
+        {
+          "titulo": "Senad divulga alerta sobre identificação de substâncias análogas à cetamina em amostras de saliva",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-divulga-alerta-sobre-identificacao-de-substancias-analogas-a-cetamina-em-amostras-de-saliva",
+          "data": "17/09/2026",
+          "resumo": "DCK e 2-FDCK foram identificadas em amostras coletadas em eventos festivos em São Paulo; informações integram monitoramento realizado pelo SAR"
+        },
+        {
+          "titulo": "Ação das Ficcos mobiliza 20 unidades da Federação para apreensão de R$ 510 milhões e 137 presos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-das-ficcos-mobiliza-20-unidades-da-federacao-para-apreensao-de-r-510-milhoes-e-137-presos",
+          "data": "17/09/2026",
+          "resumo": "Ministro do MJSP ressalta que os resultados são fruto da cooperação entre as forças de segurança pública"
+        },
+        {
+          "titulo": "Senacon notifica plataformas de transporte para esclarecimentos sobre atendimento a pessoas idosas e com deficiência",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-notifica-plataformas-de-transporte-para-esclarecimentos-sobre-atendimento-a-pessoas-idosas-e-com-deficiencia",
+          "data": "17/09/2026",
+          "resumo": "Empresas deverão informar sobre serviços, demanda, cancelamento de corridas e medidas voltadas a consumidores em situação de vulnerabilidade"
+        },
         {
           "titulo": "2ª fase da Operação Última Chamada amplia fiscalização sobre comércio de celulares irregulares",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/2a-fase-da-operacao-ultima-chamada-amplia-fiscalizacao-sobre-comercio-de-celulares-irregulares",
@@ -27,42 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-realiza-capacitacao-para-atendimento-aos-povos-indigenas",
           "data": "16/09/2026",
           "resumo": "Formação reúne profissionais de todos os estados da Amazônia Legal"
-        },
-        {
-          "titulo": "MJSP e Funai promovem escuta sobre enfrentamento à violência contra mulheres e meninas indígenas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-funai-promovem-escuta-sobre-enfrentamento-a-violencia-contra-mulheres-e-meninas-indigenas",
-          "data": "16/09/2026",
-          "resumo": "MJSP e Funai promovem escuta sobre enfrentamento à violência contra mulheres e meninas indígenas"
-        },
-        {
-          "titulo": "MJSP realiza abertura da 6ª edição do curso sobre o papel dos profissionais do SUSP na defesa da democracia",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-realiza-abertura-da-6a-edicao-do-curso-sobre-o-papel-dos-profissionais-do-susp-na-defesa-da-democracia",
-          "data": "15/09/2026",
-          "resumo": "Ação formativa aborda democracia, direitos fundamentais e atuação profissional na segurança pública"
-        },
-        {
-          "titulo": "Ministério da Justiça, TSE e PRF alinham apoio logístico e operacional para as eleições de 2026",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-tse-e-prf-alinham-apoio-logistico-e-operacional-para-as-eleicoes-de-2026",
-          "data": "15/09/2026",
-          "resumo": "Medidas previstas visam à cooperação para garantir a segurança do pleito nos dias 4 e 25 de outubro"
-        },
-        {
-          "titulo": "Senacon participa de aula inaugural de escola de educação para o consumo em Montes Claros",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-participa-de-aula-inaugural-de-escola-de-educacao-para-o-consumo-em-montes-claros",
-          "data": "15/09/2026",
-          "resumo": "Iniciativa permanente deve atender mais de 4 mil estudantes por ano e aborda direitos do consumidor, educação financeira e prevenção ao superendividamento"
-        },
-        {
-          "titulo": "Espírito Santo sedia quarta Jornada Respad com mais de 120 bombeiros militares",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/espirito-santo-sedia-quarta-jornada-respad-com-mais-de-120-bombeiros-militares",
-          "data": "15/09/2026",
-          "resumo": "Etapa Sudeste reúne profissionais de quatro estados para cinco dias de atividades técnicas e exercício integrado de resposta a desastres"
-        },
-        {
-          "titulo": "Senasp qualifica profissionais de segurança pública com cursos realizados em quatro estados",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-qualifica-profissionais-de-seguranca-publica-com-cursos-realizados-em-quatro-estados",
-          "data": "15/09/2026",
-          "resumo": "Formações reúnem 138 agentes de diferentes instituições e unidades da Federação, voltados ao aprimoramento técnico e à atuação integrada"
         }
       ],
       "agenda": {
