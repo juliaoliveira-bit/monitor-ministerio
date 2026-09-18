@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-17T23:26:21.691854+00:00",
+  "atualizado_em": "2026-09-18T14:40:21.589007+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Último dia para enviar projetos de extensão da Rede de EPT",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimo-dia-para-enviar-projetos-de-extensao-da-rede-de-ept",
+          "data": "18/09/2026",
+          "resumo": "Inscrições devem ser feitas por meio de formulário eletrônico e estão abertas para institutos federais, Cefets, escolas técnicas e o Colégio Pedro II. Edital destina R$ 30 milhões para realização dos projetos"
+        },
+        {
+          "titulo": "Exposição do MAB reúne móveis históricos restaurados pelo IFB",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/exposicao-do-mab-reune-moveis-historicos-restaurados-pelo-ifb",
+          "data": "18/09/2026",
+          "resumo": "Mostra no Museu de Arte de Brasília, que marca os dez anos do Núcleo de Pesquisa em Mobiliário Moderno Brasileiro do Instituto Federal de Brasília, está aberta para visitação até 26 de setembro, com entrada gratuita"
+        },
+        {
+          "titulo": "Enem 2026: cartilha da redação está disponível",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/enem-2026-cartilha-da-redacao-esta-disponivel",
+          "data": "18/09/2026",
+          "resumo": "Material traz orientações sobre a prova, detalha as competências avaliadas e apresenta redações produzidas pelos participantes do Enem 2025, com comentários pedagógicos"
+        },
+        {
+          "titulo": "O que você precisa saber para fazer a PND",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/o-que-voce-precisa-saber-para-fazer-a-pnd",
+          "data": "17/09/2026",
+          "resumo": "Prova Nacional Docente será realizada em todo o país neste domingo (20). Exame pode subsidiar os processos seletivos e concursos públicos da educação básica pública"
+        },
+        {
+          "titulo": "Últimos dias para inscrição no curso de licenciatura intercultural indígena",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimos-dias-para-inscricao-no-curso-de-licenciatura-intercultural-indigena",
+          "data": "17/09/2026",
+          "resumo": "Terminam no domingo (20), as inscrições para formação de professores indígenas (Mẽbêngôkre, Tapayuna, Trumai e Yudjá) na TI Capoto-Jarina. O curso, fruto de parceria entre MEC e UFMT, oferece 60 vagas"
+        },
+        {
+          "titulo": "Do clássico à literatura contemporânea: MEC Livros reúne autores negros de diferentes gerações",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/do-classico-a-literatura-contemporanea-mec-livros-reune-autores-negros-de-diferentes-geracoes",
+          "data": "17/09/2026",
+          "resumo": "Biblioteca digital do Ministério da Educação reúne obras de escritores negros brasileiros e estrangeiros, com títulos que atravessam diferentes períodos e gêneros literários"
+        },
+        {
+          "titulo": "Fundeb-VAAR: análise das condicionalidades começa após envio das informações",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/fundeb-vaar-analise-das-condicionalidades-comeca-apos-envio-das-informacoes",
+          "data": "16/09/2026",
+          "resumo": "Todas as redes de ensino concluíram o envio de documentos do ciclo 2026/2027. Agora, informações serão analisadas e redes devem acompanhar o Simec"
+        },
+        {
+          "titulo": "PND 2026: entenda como funciona a prova",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pnd-2026-entenda-como-funciona-a-prova",
+          "data": "16/09/2026",
+          "resumo": "Aplicação acontece neste domingo (20), em todo o país. Resultados podem ser utilizados por entes federativos em processos seletivos para ingresso na carreira docente"
+        },
+        {
+          "titulo": "Educação escolar quilombola avança na Região Sudeste",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/educacao-escolar-quilombola-avanca-na-regiao-sudeste",
+          "data": "16/09/2026",
+          "resumo": "A institucionalização contribui para que as normas de educação escolar quilombola sejam criadas, mantidas e aplicadas, apesar do fluxo nas gestões"
+        },
+        {
+          "titulo": "Educação escolar quilombola avança no Centro-Oeste",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/educacao-escolar-quilombola-avanca-no-centro-oeste",
+          "data": "16/09/2026",
+          "resumo": "A institucionalização contribui para que as normas de educação escolar quilombola sejam criadas, mantidas e aplicadas, apesar do fluxo nas gestões"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "14 Seg 15 Ter 16 Qua 17 Qui 18 Sex 19 Sáb 20 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "15 Ter 16 Qua 17 Qui 18 Sex 19 Sáb 20 Dom 21 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
