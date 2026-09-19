@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-09-18T23:07:12.624757+00:00",
+  "atualizado_em": "2026-09-19T14:00:54.455962+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP participa de debates sobre crime organizado, garantia de direitos e segurança pública em fórum nacional",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-participa-de-debates-sobre-crime-organizado-garantia-de-direitos-e-seguranca-publica-em-forum-nacional-1",
+          "data": "18/09/2026",
+          "resumo": "Senajus, Senad e Senasp integram o 20º Encontro do Fórum Brasileiro de Segurança Pública, em São Paulo"
+        },
         {
           "titulo": "Escola de defesa do consumidor no Acre terá ações educativas preventivas voltadas às relações de consumo e à prevenção de conflitos",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-de-defesa-do-consumidor-no-acre-tera-acoes-educativas-preventivas-voltados-as-relacoes-de-consumo-e-a-prevencao-de-conflitos",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-divulga-alerta-sobre-identificacao-de-substancias-analogas-a-cetamina-em-amostras-de-saliva",
           "data": "17/09/2026",
           "resumo": "DCK e 2-FDCK foram identificadas em amostras coletadas em eventos festivos em São Paulo; informações integram monitoramento realizado pelo SAR"
-        },
-        {
-          "titulo": "Ação das Ficcos mobiliza 20 unidades da Federação para apreensão de R$ 510 milhões e 137 presos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-das-ficcos-mobiliza-20-unidades-da-federacao-para-apreensao-de-r-510-milhoes-e-137-presos",
-          "data": "17/09/2026",
-          "resumo": "Ministro do MJSP ressalta que os resultados são fruto da cooperação entre as forças de segurança pública"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Edital cria rede nacional de pesquisa em Educação Especial Inclusiva",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/edital-cria-rede-nacional-de-pesquisa-em-educacao-especial-inclusiva",
+          "data": "18/09/2026",
+          "resumo": "No Dia Nacional de Luta da Pessoa com Deficiência, celebrado em 21 de setembro, iniciativa do MEC e da Capes recebe propostas de universidades públicas para integrar rede nacional voltada à Educação Especial Inclusiva"
+        },
+        {
+          "titulo": "UFPR oferece 3 mil vagas para formação em Direitos Humanos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ufpr-oferece-3-mil-vagas-para-formacao-em-direitos-humanos",
+          "data": "18/09/2026",
+          "resumo": "O curso será ministrado de forma online, para todo Brasil, e as inscrições seguem até o dia 26 de setembro de 2026"
+        },
+        {
+          "titulo": "IFSC oferece capacitações, mentorias e estruturação de modelos de negócio",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ifsc-oferece-capacitacoes-mentorias-e-estruturacao-de-modelos-de-negocio",
+          "data": "18/09/2026",
+          "resumo": "A pré-incubadora de negócios Fermenta IFSC selecionará até cinco ideias em estágio inicial e auxiliará no desenvolvimento de um modelo de negócio pronto para o mercado. Inscrições seguem até 27 de setembro"
+        },
+        {
+          "titulo": "Último dia para enviar projetos de extensão da Rede de EPT",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimo-dia-para-enviar-projetos-de-extensao-da-rede-de-ept",
+          "data": "18/09/2026",
+          "resumo": "Inscrições devem ser feitas por meio de formulário eletrônico e estão abertas para institutos federais, Cefets, escolas técnicas e o Colégio Pedro II. Edital destina R$ 30 milhões para realização dos projetos"
+        },
+        {
+          "titulo": "Exposição do MAB reúne móveis históricos restaurados pelo IFB",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/exposicao-do-mab-reune-moveis-historicos-restaurados-pelo-ifb",
+          "data": "18/09/2026",
+          "resumo": "Mostra no Museu de Arte de Brasília, que marca os dez anos do Núcleo de Pesquisa em Mobiliário Moderno Brasileiro do Instituto Federal de Brasília, está aberta para visitação até 26 de setembro, com entrada gratuita"
+        },
+        {
+          "titulo": "Enem 2026: cartilha da redação está disponível",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/enem-2026-cartilha-da-redacao-esta-disponivel",
+          "data": "18/09/2026",
+          "resumo": "Material traz orientações sobre a prova, detalha as competências avaliadas e apresenta redações produzidas pelos participantes do Enem 2025, com comentários pedagógicos"
+        },
+        {
+          "titulo": "O que você precisa saber para fazer a PND",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/o-que-voce-precisa-saber-para-fazer-a-pnd",
+          "data": "17/09/2026",
+          "resumo": "Prova Nacional Docente será realizada em todo o país neste domingo (20). Exame pode subsidiar os processos seletivos e concursos públicos da educação básica pública"
+        },
+        {
+          "titulo": "Últimos dias para inscrição no curso de licenciatura intercultural indígena",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimos-dias-para-inscricao-no-curso-de-licenciatura-intercultural-indigena",
+          "data": "17/09/2026",
+          "resumo": "Terminam no domingo (20), as inscrições para formação de professores indígenas (Mẽbêngôkre, Tapayuna, Trumai e Yudjá) na TI Capoto-Jarina. O curso, fruto de parceria entre MEC e UFMT, oferece 60 vagas"
+        },
+        {
+          "titulo": "Do clássico à literatura contemporânea: MEC Livros reúne autores negros de diferentes gerações",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/do-classico-a-literatura-contemporanea-mec-livros-reune-autores-negros-de-diferentes-geracoes",
+          "data": "17/09/2026",
+          "resumo": "Biblioteca digital do Ministério da Educação reúne obras de escritores negros brasileiros e estrangeiros, com títulos que atravessam diferentes períodos e gêneros literários"
+        },
+        {
+          "titulo": "Fundeb-VAAR: análise das condicionalidades começa após envio das informações",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/fundeb-vaar-analise-das-condicionalidades-comeca-apos-envio-das-informacoes",
+          "data": "16/09/2026",
+          "resumo": "Todas as redes de ensino concluíram o envio de documentos do ciclo 2026/2027. Agora, informações serão analisadas e redes devem acompanhar o Simec"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "15 Ter 16 Qua 17 Qui 18 Sex 19 Sáb 20 Dom 21 Seg Atualmente não existem compromissos agendados.",
+        "resumo": "16 Qua 17 Qui 18 Sex 19 Sáb 20 Dom 21 Seg 22 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
