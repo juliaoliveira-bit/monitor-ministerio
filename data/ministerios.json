@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-09-21T16:39:08.701512+00:00",
+  "atualizado_em": "2026-09-21T23:54:44.608527+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senacon instaura 70 processos contra postos por suspeita de aumento abusivo de combustíveis",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-70-processos-contra-postos-por-suspeita-de-aumento-abusivo-de-combustiveis-1",
+          "data": "21/09/2026",
+          "resumo": "Estabelecimentos fiscalizadas no Rio de Janeiro, Espírito Santo, São Paulo e Paraná poderão ser multados em até R$ 14 milhões; identificadas margens de lucro acima de 70%"
+        },
+        {
+          "titulo": "Ministro da Justiça e Segurança Pública reforça a importância da integração entre União, estados e municípios no enfrentamento ao crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-reforca-a-importancia-da-integracao-entre-uniao-estados-e-municipios-no-enfrentamento-ao-crime-organizado",
+          "data": "21/09/2026",
+          "resumo": "Na última semana, o ministro participou do evento em que foram apresentadas as Ações Integradas para Enfrentamento ao Crime Organizado no Rio de Janeiro"
+        },
         {
           "titulo": "Ação integrada do Projeto Captura resulta na prisão de foragido apontado como fundador de organização criminosa",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-integrada-do-projeto-captura-resulta-na-prisao-de-foragido-apontado-como-fundador-de-organizacao-criminosa",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eca-digital-completa-um-ano-e-mjsp-consolida-acoes-de-enfrentamento-a-violencia-contra-criancas-e-adolescentes-na-internet",
           "data": "18/09/2026",
           "resumo": "Seis meses de vigência marcam novas regras para plataformas, atuação da ANPD e criação do CNCA"
-        },
-        {
-          "titulo": "MJSP e governo do RJ avançam para nova fase de ações integradas nos corredores logísticos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-governo-do-rj-avancam-para-nova-fase-de-acoes-integradas-nos-corredores-logisticos",
-          "data": "17/09/2026",
-          "resumo": "Encontro no Escritório Nacional Antifacção definiu elaboração dos primeiros planos operacionais, além da atuação imediata e coordenada das forças de segurança nos corredores estratégicos"
-        },
-        {
-          "titulo": "Operação Última Chamada fiscaliza 241 estabelecimentos em 15 estados para combater comércio irregular de celulares",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-segunda-chamada-fiscaliza-241-estabelecimentos-em-15-estados-para-combater-comercio-irregular-de-celulares-1",
-          "data": "17/09/2026",
-          "resumo": "Ação integrada do MJSP, Receita Federal e Procon dá continuidade ao enfrentamento da cadeia de receptação e comercialização de aparelhos roubados ou furtados"
         }
       ],
       "agenda": {
@@ -73,6 +73,36 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "PodMEC debate desigualdades educacionais e evasão escolar",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/podmec-debate-desigualdades-educacionais-e-evasao-escolar",
+          "data": "21/09/2026",
+          "resumo": "Quinto episódio da série aborda o Pé-de-Meia e seu papel como mecanismo de incentivo à permanência escolar, em conversa com o ministro Leonardo Barchini"
+        },
+        {
+          "titulo": "Educação especial inclusiva reúne ações de formação e atendimento às redes de ensino",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/educacao-especial-inclusiva-reune-acoes-de-formacao-e-atendimento-as-redes-de-ensino",
+          "data": "21/09/2026",
+          "resumo": "No Dia Nacional de Luta da Pessoa com Deficiência, celebrado nesta segunda-feira (21), ações em curso incluem formação de profissionais, núcleos intersetoriais, materiais pedagógicos e pesquisa"
+        },
+        {
+          "titulo": "TV do MEC estreia programação especial de preparação para o Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/tv-do-mec-estreia-programacao-especial-de-preparacao-para-o-enem",
+          "data": "21/09/2026",
+          "resumo": "Canal disponibiliza faixa exclusiva com programas que trazem conteúdos, dicas e estratégias de estudo para ajudar os candidatos a conquistar uma vaga na universidade"
+        },
+        {
+          "titulo": "Conheça recursos do MEC Idiomas para aprender nova língua",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/conheca-recursos-do-mec-idiomas-para-aprender-nova-lingua",
+          "data": "21/09/2026",
+          "resumo": "Ferramenta possibilita acesso a teste de nivelamento, cursos por níveis, atividades de pronúncia, testes e auxílio de inteligência artificial. Acesso gratuito via login Gov.Br"
+        },
+        {
+          "titulo": "Como o Prouni mudou a vida de Sara",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/como-o-prouni-mudou-a-vida-de-sara",
+          "data": "21/09/2026",
+          "resumo": "Aos 19 anos, estudante deixou Divinópolis do Tocantins (TO) e foi para Palmas (TO) cursar fisioterapia com bolsa integral. Sua escolha profissional nasceu do desejo de cuidar do avô."
+        },
         {
           "titulo": "MEC e PMA discutem cooperação técnica em alimentação escolar",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-pma-discutem-cooperacao-tecnica-em-alimentacao-escolar",
@@ -102,36 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ifsc-oferece-capacitacoes-mentorias-e-estruturacao-de-modelos-de-negocio",
           "data": "18/09/2026",
           "resumo": "A pré-incubadora de negócios Fermenta IFSC selecionará até cinco ideias em estágio inicial e auxiliará no desenvolvimento de um modelo de negócio pronto para o mercado. Inscrições seguem até 27 de setembro"
-        },
-        {
-          "titulo": "Último dia para enviar projetos de extensão da Rede de EPT",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimo-dia-para-enviar-projetos-de-extensao-da-rede-de-ept",
-          "data": "18/09/2026",
-          "resumo": "Inscrições devem ser feitas por meio de formulário eletrônico e estão abertas para institutos federais, Cefets, escolas técnicas e o Colégio Pedro II. Edital destina R$ 30 milhões para realização dos projetos"
-        },
-        {
-          "titulo": "Exposição do MAB reúne móveis históricos restaurados pelo IFB",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/exposicao-do-mab-reune-moveis-historicos-restaurados-pelo-ifb",
-          "data": "18/09/2026",
-          "resumo": "Mostra no Museu de Arte de Brasília, que marca os dez anos do Núcleo de Pesquisa em Mobiliário Moderno Brasileiro do Instituto Federal de Brasília, está aberta para visitação até 26 de setembro, com entrada gratuita"
-        },
-        {
-          "titulo": "Enem 2026: cartilha da redação está disponível",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/enem-2026-cartilha-da-redacao-esta-disponivel",
-          "data": "18/09/2026",
-          "resumo": "Material traz orientações sobre a prova, detalha as competências avaliadas e apresenta redações produzidas pelos participantes do Enem 2025, com comentários pedagógicos"
-        },
-        {
-          "titulo": "O que você precisa saber para fazer a PND",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/o-que-voce-precisa-saber-para-fazer-a-pnd",
-          "data": "17/09/2026",
-          "resumo": "Prova Nacional Docente será realizada em todo o país neste domingo (20). Exame pode subsidiar os processos seletivos e concursos públicos da educação básica pública"
-        },
-        {
-          "titulo": "Últimos dias para inscrição no curso de licenciatura intercultural indígena",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimos-dias-para-inscricao-no-curso-de-licenciatura-intercultural-indigena",
-          "data": "17/09/2026",
-          "resumo": "Terminam no domingo (20), as inscrições para formação de professores indígenas (Mẽbêngôkre, Tapayuna, Trumai e Yudjá) na TI Capoto-Jarina. O curso, fruto de parceria entre MEC e UFMT, oferece 60 vagas"
         }
       ],
       "agenda": {
