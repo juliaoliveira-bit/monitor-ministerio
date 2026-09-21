@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-09-20T23:04:01.325937+00:00",
+  "atualizado_em": "2026-09-21T16:39:08.701512+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Ação integrada do Projeto Captura resulta na prisão de foragido apontado como fundador de organização criminosa",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-integrada-do-projeto-captura-resulta-na-prisao-de-foragido-apontado-como-fundador-de-organizacao-criminosa",
+          "data": "21/09/2026",
+          "resumo": "Procurado desde 2022, Gilson Borges de Souza foi localizado no Rio Grande do Norte após trabalho de inteligência e compartilhamento de informações entre forças de segurança de diferentes estados"
+        },
+        {
+          "titulo": "MJSP reúne operação nacional, tecnologia e capacitação no combate ao crime organizado no sistema prisional",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reune-operacao-nacional-tecnologia-e-capacitacao-no-combate-ao-crime-organizado-no-sistema-prisional",
+          "data": "21/09/2026",
+          "resumo": "Estratégia leva aos estados práticas operacionais e recursos tecnológicos adotados no Sistema Penitenciário Federal para prevenir comunicações ilícitas e reforçar a segurança das unidades"
+        },
         {
           "titulo": "MJSP participa de debates sobre crime organizado, garantia de direitos e segurança pública em fórum nacional",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-participa-de-debates-sobre-crime-organizado-garantia-de-direitos-e-seguranca-publica-em-forum-nacional-1",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-segunda-chamada-fiscaliza-241-estabelecimentos-em-15-estados-para-combater-comercio-irregular-de-celulares-1",
           "data": "17/09/2026",
           "resumo": "Ação integrada do MJSP, Receita Federal e Procon dá continuidade ao enfrentamento da cadeia de receptação e comercialização de aparelhos roubados ou furtados"
-        },
-        {
-          "titulo": "Escola Nacional de Segurança Pública capacita 90 profissionais para combate ao crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-capacita-90-profissionais-para-combate-ao-crime-organizado",
-          "data": "17/09/2026",
-          "resumo": "Formação visou o fortalecimento das ações de controle e fiscalização de produtos controlados por meio da Rede Nacional de Enfrentamento ao Tráfico de Armas, Munições, Acessórios e Explosivos"
-        },
-        {
-          "titulo": "Senad divulga alerta sobre identificação de substâncias análogas à cetamina em amostras de saliva",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-divulga-alerta-sobre-identificacao-de-substancias-analogas-a-cetamina-em-amostras-de-saliva",
-          "data": "17/09/2026",
-          "resumo": "DCK e 2-FDCK foram identificadas em amostras coletadas em eventos festivos em São Paulo; informações integram monitoramento realizado pelo SAR"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "MEC e PMA discutem cooperação técnica em alimentação escolar",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-pma-discutem-cooperacao-tecnica-em-alimentacao-escolar",
+          "data": "21/09/2026",
+          "resumo": "Com a participação do FNDE, evento tratou de iniciativas de cooperação com países africanos de língua portuguesa e de ações no contexto da Cooperação Sul-Sul"
+        },
+        {
+          "titulo": "Pé-de-Meia: pagamento da 6ª parcela começa nesta segunda (21)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pe-de-meia-pagamento-da-6a-parcela-comeca-nesta-segunda-21",
+          "data": "21/09/2026",
+          "resumo": "Repasses vão até 28 de setembro e serão feitos para estudantes que tiveram ao menos 80% de frequência nas aulas em julho. No mesmo período, também será realizado o pagamento da 1ª parcela aos estudantes da EJA"
+        },
+        {
+          "titulo": "Edital cria rede nacional de pesquisa em Educação Especial Inclusiva",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/edital-cria-rede-nacional-de-pesquisa-em-educacao-especial-inclusiva",
+          "data": "18/09/2026",
+          "resumo": "No Dia Nacional de Luta da Pessoa com Deficiência, celebrado em 21 de setembro, iniciativa do MEC e da Capes recebe propostas de universidades públicas para integrar rede nacional voltada à Educação Especial Inclusiva"
+        },
+        {
+          "titulo": "UFPR oferece 3 mil vagas para formação em Direitos Humanos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ufpr-oferece-3-mil-vagas-para-formacao-em-direitos-humanos",
+          "data": "18/09/2026",
+          "resumo": "O curso será ministrado de forma online, para todo Brasil, e as inscrições seguem até o dia 26 de setembro de 2026"
+        },
+        {
+          "titulo": "IFSC oferece capacitações, mentorias e estruturação de modelos de negócio",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ifsc-oferece-capacitacoes-mentorias-e-estruturacao-de-modelos-de-negocio",
+          "data": "18/09/2026",
+          "resumo": "A pré-incubadora de negócios Fermenta IFSC selecionará até cinco ideias em estágio inicial e auxiliará no desenvolvimento de um modelo de negócio pronto para o mercado. Inscrições seguem até 27 de setembro"
+        },
+        {
+          "titulo": "Último dia para enviar projetos de extensão da Rede de EPT",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimo-dia-para-enviar-projetos-de-extensao-da-rede-de-ept",
+          "data": "18/09/2026",
+          "resumo": "Inscrições devem ser feitas por meio de formulário eletrônico e estão abertas para institutos federais, Cefets, escolas técnicas e o Colégio Pedro II. Edital destina R$ 30 milhões para realização dos projetos"
+        },
+        {
+          "titulo": "Exposição do MAB reúne móveis históricos restaurados pelo IFB",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/exposicao-do-mab-reune-moveis-historicos-restaurados-pelo-ifb",
+          "data": "18/09/2026",
+          "resumo": "Mostra no Museu de Arte de Brasília, que marca os dez anos do Núcleo de Pesquisa em Mobiliário Moderno Brasileiro do Instituto Federal de Brasília, está aberta para visitação até 26 de setembro, com entrada gratuita"
+        },
+        {
+          "titulo": "Enem 2026: cartilha da redação está disponível",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/enem-2026-cartilha-da-redacao-esta-disponivel",
+          "data": "18/09/2026",
+          "resumo": "Material traz orientações sobre a prova, detalha as competências avaliadas e apresenta redações produzidas pelos participantes do Enem 2025, com comentários pedagógicos"
+        },
+        {
+          "titulo": "O que você precisa saber para fazer a PND",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/o-que-voce-precisa-saber-para-fazer-a-pnd",
+          "data": "17/09/2026",
+          "resumo": "Prova Nacional Docente será realizada em todo o país neste domingo (20). Exame pode subsidiar os processos seletivos e concursos públicos da educação básica pública"
+        },
+        {
+          "titulo": "Últimos dias para inscrição no curso de licenciatura intercultural indígena",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ultimos-dias-para-inscricao-no-curso-de-licenciatura-intercultural-indigena",
+          "data": "17/09/2026",
+          "resumo": "Terminam no domingo (20), as inscrições para formação de professores indígenas (Mẽbêngôkre, Tapayuna, Trumai e Yudjá) na TI Capoto-Jarina. O curso, fruto de parceria entre MEC e UFMT, oferece 60 vagas"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "17 Qui 18 Sex 19 Sáb 20 Dom 21 Seg 22 Ter 23 Qua Atualmente não existem compromissos agendados.",
+        "resumo": "18 Sex 19 Sáb 20 Dom 21 Seg 22 Ter 23 Qua 24 Qui Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
