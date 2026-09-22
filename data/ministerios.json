@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-09-22T15:11:51.668919+00:00",
+  "atualizado_em": "2026-09-22T23:31:49.545465+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Soberania digital é tema de debate sobre legados do Marco Civil e do ECA Digital",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/soberania-digital-e-tema-de-debate-sobre-legados-do-marco-civil-e-do-eca-digital",
+          "data": "22/09/2026",
+          "resumo": "Sedigi participa de painel promovido pela Escola de Governança da Internet, com foco em regulação e proteção de direitos no ambiente digital"
+        },
+        {
+          "titulo": "Sedigi identifica riscos de “companheiros de IA\" para crianças e adolescentes",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-identifica-riscos-de-201ccompanheiros-de-ia-para-criancas-e-adolescentes",
+          "data": "22/09/2026",
+          "resumo": "Nota técnica mapeia apego excessivo, exposição a conteúdo sexualizado e uso indevido de dados entre os principais riscos"
+        },
+        {
+          "titulo": "Senasp reúne forças de segurança no ENA/RJ para avaliar Operação Divisas RJ e Sudeste",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-reune-forcas-de-seguranca-no-ena-rj-para-avaliar-operacao-divisas-rj-e-sudeste",
+          "data": "22/09/2026",
+          "resumo": "Ao longo de 15 dias, a mobilização resultou em 12.246 pessoas abordadas e 486 bloqueios, barreiras e blitz"
+        },
+        {
+          "titulo": "Operação da Polícia Federal combate tráfico transnacional de cocaína e apreende uma tonelada da droga",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-da-policia-federal-combate-trafico-transnacional-de-cocaina-e-apreende-uma-tonelada-da-droga",
+          "data": "22/09/2026",
+          "resumo": "Investigação cumpre 15 mandados de busca e apreensão e prevê bloqueio de até R$ 50 milhões em bens e ativos de investigados em três estados"
+        },
+        {
+          "titulo": "Operação Última Chamada apreende R$ 536 mil e retira mais de 1,7 mil celulares do comércio irregular",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-ultima-chamada-apreende-r-536-mil-e-retira-mais-de-1-7-mil-celulares-do-comercio-irregular",
+          "data": "22/09/2026",
+          "resumo": "Segunda fase da ação integrada mobilizou 1.716 policiais em 15 estados; foram realizadas 882 fiscalizações e efetuadas 30 prisões em flagrante"
+        },
+        {
+          "titulo": "MJSP amplia mapeamento sobre qualidade de vida e saúde mental na segurança pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-amplia-mapeamento-sobre-qualidade-de-vida-e-saude-mental-na-seguranca-publica",
+          "data": "22/09/2026",
+          "resumo": "Painel reúne dados inéditos sobre o tema; Escuta Susp ampliará em 50% a capacidade de atendimento"
+        },
+        {
+          "titulo": "Mutirão de negociação de dívidas mobiliza capital e municípios do Rio de Janeiro",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mutirao-de-negociacao-de-dividas-mobiliza-capital-e-municipios-do-rio-de-janeiro",
+          "data": "22/09/2026",
+          "resumo": "Senacon participa da ação, que reúne mais de 40 empresas e instituições e oferece renegociação de débitos e orientação financeira"
+        },
         {
           "titulo": "MJSP anuncia três atos para reforçar proteção de brasileiros no ambiente digital",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-anuncia-tres-portarias-para-reforcar-protecao-de-brasileiros-no-ambiente-digital",
@@ -21,48 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-reforca-a-importancia-da-integracao-entre-uniao-estados-e-municipios-no-enfrentamento-ao-crime-organizado",
           "data": "21/09/2026",
           "resumo": "Na última semana, o ministro participou do evento em que foram apresentadas as Ações Integradas para Enfrentamento ao Crime Organizado no Rio de Janeiro"
-        },
-        {
-          "titulo": "Ação integrada do Projeto Captura resulta na prisão de foragido apontado como fundador de organização criminosa",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-integrada-do-projeto-captura-resulta-na-prisao-de-foragido-apontado-como-fundador-de-organizacao-criminosa",
-          "data": "21/09/2026",
-          "resumo": "Procurado desde 2022, Gilson Borges de Souza foi localizado no Rio Grande do Norte após trabalho de inteligência e compartilhamento de informações entre forças de segurança de diferentes estados"
-        },
-        {
-          "titulo": "MJSP reúne operação nacional, tecnologia e capacitação no combate ao crime organizado no sistema prisional",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reune-operacao-nacional-tecnologia-e-capacitacao-no-combate-ao-crime-organizado-no-sistema-prisional",
-          "data": "21/09/2026",
-          "resumo": "Estratégia leva aos estados práticas operacionais e recursos tecnológicos adotados no Sistema Penitenciário Federal para prevenir comunicações ilícitas e reforçar a segurança das unidades"
-        },
-        {
-          "titulo": "MJSP participa de debates sobre crime organizado, garantia de direitos e segurança pública em fórum nacional",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-participa-de-debates-sobre-crime-organizado-garantia-de-direitos-e-seguranca-publica-em-forum-nacional-1",
-          "data": "18/09/2026",
-          "resumo": "Senajus, Senad e Senasp integram o 20º Encontro do Fórum Brasileiro de Segurança Pública, em São Paulo"
-        },
-        {
-          "titulo": "Escola de defesa do consumidor no Acre terá ações educativas preventivas voltadas às relações de consumo e à prevenção de conflitos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-de-defesa-do-consumidor-no-acre-tera-acoes-educativas-preventivas-voltados-as-relacoes-de-consumo-e-a-prevencao-de-conflitos",
-          "data": "18/09/2026",
-          "resumo": "MJSP assina protocolo de intenções para cooperação técnica junto ao Procon estadual"
-        },
-        {
-          "titulo": "MJSP reforça importância do trabalho integrado das forças de segurança pública no Rio de Janeiro",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reforca-importancia-do-trabalho-integrado-das-forcas-de-seguranca-publica-no-rio-de-janeiro",
-          "data": "18/09/2026",
-          "resumo": "Encontro reúne autoridades federais, estaduais e municipais, para detalhar ações conjuntas de enfrentamento ao crime organizado no estado"
-        },
-        {
-          "titulo": "MJSP apresenta contribuição para o segundo Plano Nacional de Promoção da Igualdade Racial",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-apresenta-contribuicao-para-o-segundo-plano-nacional-de-promocao-da-igualdade-racial",
-          "data": "18/09/2026",
-          "resumo": "Secretaria Nacional de Acesso à Justiça participa de políticas voltadas à juventude negra, mulheres e povos da Amazônia; consulta pública segue aberta"
-        },
-        {
-          "titulo": "Copa do Mundo Feminina 2027: MJSP regulamenta residência para trabalhadores imigrantes",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/copa-do-mundo-feminina-2027-mjsp-regulamenta-residencia-para-trabalhadores-imigrantes",
-          "data": "18/09/2026",
-          "resumo": "Norma cria procedimento específico para profissionais que atuarão na preparação e execução de megaeventos no Brasil"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Alunos nota mil inspiram preparação para a redação do Enem 2026",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/alunos-nota-mil-inspiram-preparacao-para-a-redacao-do-enem-2026",
+          "data": "22/09/2026",
+          "resumo": "Experiências de participantes que alcançaram a pontuação máxima destacam dedicação, prática e apoio na trajetória de estudos. Nova cartilha reúne orientações e textos comentados para apoiar a preparação"
+        },
+        {
+          "titulo": "Equidade racial cresce e fortalece inclusão nas escolas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-cresce-e-fortalece-inclusao-nas-escolas",
+          "data": "22/09/2026",
+          "resumo": "O Diagnóstico Equidade 2026 aponta que o percentual de redes municipais de ensino que ofereceram formações sobre relações étnico-raciais passou de 48%, em 2024, para 69%"
+        },
+        {
+          "titulo": "Mulheres Mil abre mais de 1,3 mil vagas gratuitas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-abre-mais-de-1-3-mil-vagas-gratuitas",
+          "data": "22/09/2026",
+          "resumo": "São 18 cursos presenciais de qualificação profissional ofertados por dez instituições da Rede Federal e de redes estaduais em sete estados"
+        },
         {
           "titulo": "MEC lança Guia do Enem com vídeos e orientações para estudantes",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-lanca-guia-do-enem-com-videos-e-orientacoes-para-estudantes",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-pma-discutem-cooperacao-tecnica-em-alimentacao-escolar",
           "data": "21/09/2026",
           "resumo": "Com a participação do FNDE, evento tratou de iniciativas de cooperação com países africanos de língua portuguesa e de ações no contexto da Cooperação Sul-Sul"
-        },
-        {
-          "titulo": "Pé-de-Meia: pagamento da 6ª parcela começa nesta segunda (21)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pe-de-meia-pagamento-da-6a-parcela-comeca-nesta-segunda-21",
-          "data": "21/09/2026",
-          "resumo": "Repasses vão até 28 de setembro e serão feitos para estudantes que tiveram ao menos 80% de frequência nas aulas em julho. No mesmo período, também será realizado o pagamento da 1ª parcela aos estudantes da EJA"
-        },
-        {
-          "titulo": "Edital cria rede nacional de pesquisa em Educação Especial Inclusiva",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/edital-cria-rede-nacional-de-pesquisa-em-educacao-especial-inclusiva",
-          "data": "18/09/2026",
-          "resumo": "No Dia Nacional de Luta da Pessoa com Deficiência, celebrado em 21 de setembro, iniciativa do MEC e da Capes recebe propostas de universidades públicas para integrar rede nacional voltada à Educação Especial Inclusiva"
-        },
-        {
-          "titulo": "UFPR oferece 3 mil vagas para formação em Direitos Humanos",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ufpr-oferece-3-mil-vagas-para-formacao-em-direitos-humanos",
-          "data": "18/09/2026",
-          "resumo": "O curso será ministrado de forma online, para todo Brasil, e as inscrições seguem até o dia 26 de setembro de 2026"
         }
       ],
       "agenda": {
