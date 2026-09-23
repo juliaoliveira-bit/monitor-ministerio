@@ -1,68 +1,68 @@
 {
-  "atualizado_em": "2026-09-23T15:12:14.427577+00:00",
+  "atualizado_em": "2026-09-23T23:27:28.937802+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
         {
-          "titulo": "Senacon reúne Procons de todo o País para fiscalizar margens de combustíveis",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-reune-procons-de-todo-o-pais-para-fiscalizar-margens-de-combustiveis",
+          "titulo": "Rio de Janeiro receberá R$ 27,7 milhões em equipamentos para segurança prisional",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rio-de-janeiro-recebera-r-27-7-milhoes-em-equipamentos-para-seguranca-prisional",
           "data": "23/09/2026",
-          "resumo": "Mais de 100 representantes participam de reunião emergencial; Operação Carga Pesada apura possíveis aumentos abusivos nas margens de lucro"
+          "resumo": "Equipamentos serão utilizados em ações de inspeção, fiscalização e inteligência no sistema prisional fluminense"
         },
         {
-          "titulo": "Soberania digital é tema de debate sobre legados do Marco Civil e do ECA Digital",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/soberania-digital-e-tema-de-debate-sobre-legados-do-marco-civil-e-do-eca-digital",
-          "data": "22/09/2026",
-          "resumo": "Sedigi participa de painel promovido pela Escola de Governança da Internet, com foco em regulação e proteção de direitos no ambiente digital"
+          "titulo": "Senacon participa de seminário na Paraíba sobre os 36 anos do Código de Defesa do Consumidor",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-participa-de-seminario-na-paraiba-sobre-os-36-anos-do-codigo-de-defesa-do-consumidor",
+          "data": "23/09/2026",
+          "resumo": "Evento em Campina Grande reúne especialistas para discutir apostas, novas tecnologias e os desafios das relações de consumo"
         },
         {
-          "titulo": "Sedigi identifica riscos de “companheiros de IA\" para crianças e adolescentes",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-identifica-riscos-de-201ccompanheiros-de-ia-para-criancas-e-adolescentes",
-          "data": "22/09/2026",
-          "resumo": "Nota técnica mapeia apego excessivo, exposição a conteúdo sexualizado e uso indevido de dados entre os principais riscos"
+          "titulo": "Nova lei aumenta penas para furto de combustíveis e estabelece regras para roubo, receptação e comércio ilícito",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-aumenta-penas-para-furto-de-combustiveis-e-estabelece-regras-para-roubo-receptacao-e-comercio-ilicito",
+          "data": "23/09/2026",
+          "resumo": "Norma alcança crimes cometidos desde os locais de produção e armazenamento até o transporte, incluindo dutos, terminais e veículos de qualquer modal"
         },
         {
-          "titulo": "Senasp reúne forças de segurança no ENA/RJ para avaliar Operação Divisas RJ e Sudeste",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-reune-forcas-de-seguranca-no-ena-rj-para-avaliar-operacao-divisas-rj-e-sudeste",
-          "data": "22/09/2026",
-          "resumo": "Ao longo de 15 dias, a mobilização resultou em 12.246 pessoas abordadas e 486 bloqueios, barreiras e blitz"
+          "titulo": "Operação Fake Card investiga fraude em cartões de benefícios e movimentação de R$ 437,8 milhões",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-fake-card-investiga-fraude-em-cartoes-de-beneficios-e-movimentacao-de-r-437-8-milhoes",
+          "data": "23/09/2026",
+          "resumo": "Apuração identifica 52 municípios afetados por fraude em cartões de vale-alimentação e vale-refeição de servidores públicos municipais em dez Unidades da Federação"
         },
         {
-          "titulo": "Operação da Polícia Federal combate tráfico transnacional de cocaína e apreende uma tonelada da droga",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-da-policia-federal-combate-trafico-transnacional-de-cocaina-e-apreende-uma-tonelada-da-droga",
-          "data": "22/09/2026",
-          "resumo": "Investigação cumpre 15 mandados de busca e apreensão e prevê bloqueio de até R$ 50 milhões em bens e ativos de investigados em três estados"
+          "titulo": "Dia Internacional reforça combate à exploração sexual e ao tráfico de mulheres e crianças",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-internacional-reforca-combate-a-exploracao-sexual-e-ao-trafico-de-mulheres-e-criancas",
+          "data": "23/09/2026",
+          "resumo": "Data de 23 de setembro alerta para formas de aliciamento, sinais de risco e medidas de prevenção e proteção"
         },
         {
-          "titulo": "Operação Última Chamada apreende R$ 536 mil e retira mais de 1,7 mil celulares do comércio irregular",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-ultima-chamada-apreende-r-536-mil-e-retira-mais-de-1-7-mil-celulares-do-comercio-irregular",
-          "data": "22/09/2026",
-          "resumo": "Segunda fase da ação integrada mobilizou 1.716 policiais em 15 estados; foram realizadas 882 fiscalizações e efetuadas 30 prisões em flagrante"
+          "titulo": "Encontro da Rede-Lab debate asfixia financeira do crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-da-rede-lab-debate-asfixia-financeira-do-crime-organizado",
+          "data": "23/09/2026",
+          "resumo": "Evento congrega representantes de 68 laboratórios e instituições parceiras para discutir investigação patrimonial, recuperação de ativos, tecnologia e cooperação entre instituições"
         },
         {
-          "titulo": "MJSP amplia mapeamento sobre qualidade de vida e saúde mental na segurança pública",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-amplia-mapeamento-sobre-qualidade-de-vida-e-saude-mental-na-seguranca-publica",
-          "data": "22/09/2026",
-          "resumo": "Painel reúne dados inéditos sobre o tema; Escuta Susp ampliará em 50% a capacidade de atendimento"
+          "titulo": "Escola Nacional de Segurança Pública lança curso sobre prevenção ao suicídio para profissionais da segurança pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-sobre-prevencao-ao-suicidio-para-profissionais-da-seguranca-publica",
+          "data": "23/09/2026",
+          "resumo": "Formação é destinada a profissionais do Susp e aborda saúde mental, qualidade de vida e estratégias de prevenção no ambiente de trabalho"
         },
         {
-          "titulo": "Mutirão de negociação de dívidas mobiliza capital e municípios do Rio de Janeiro",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mutirao-de-negociacao-de-dividas-mobiliza-capital-e-municipios-do-rio-de-janeiro",
-          "data": "22/09/2026",
-          "resumo": "Senacon participa da ação, que reúne mais de 40 empresas e instituições e oferece renegociação de débitos e orientação financeira"
+          "titulo": "Mais de 41 mil agressores são presos em 113 dias de Operação Mulher Segura",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-41-mil-agressores-sao-presos-em-113-dias-de-operacao-mulher-segura",
+          "data": "23/09/2026",
+          "resumo": "Região Sul foi a que mais deteve agressores de mulheres, com 13.823 presos, o equivalente a 33% do total"
         },
         {
-          "titulo": "MJSP anuncia três atos para reforçar proteção de brasileiros no ambiente digital",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-anuncia-tres-portarias-para-reforcar-protecao-de-brasileiros-no-ambiente-digital",
-          "data": "21/09/2026",
-          "resumo": "Medidas da Sedigi miram fraudes online, IA companions e crimes contra crianças e adolescentes"
+          "titulo": "Novas regras para publicidade digital visam conter fraudes e golpes",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/novas-regras-para-publicidade-digital-visam-conter-fraudes-e-golpes",
+          "data": "23/09/2026",
+          "resumo": "Plataformas deverão adotar medidas de identificação e transparência sobre anúncios, especialmente em conteúdos relacionados a serviços financeiros"
         },
         {
-          "titulo": "Senacon instaura 70 processos contra postos por suspeita de aumento abusivo de combustíveis",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-70-processos-contra-postos-por-suspeita-de-aumento-abusivo-de-combustiveis-1",
-          "data": "21/09/2026",
-          "resumo": "Estabelecimentos fiscalizadas no Rio de Janeiro, Espírito Santo, São Paulo e Paraná poderão ser multados em até R$ 14 milhões; identificadas margens de lucro acima de 70%"
+          "titulo": "Painel de qualidade de vida traz dados inéditos sobre a saúde mental de profissionais da segurança pública",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/painel-de-qualidade-de-vida-traz-dados-ineditos-sobre-a-saude-mental-de-profissionais-da-seguranca-publica",
+          "data": "23/09/2026",
+          "resumo": "Plataforma do MJSP reúne, pela primeira vez, informações relativas a transtornos mentais e de comportamento nas forças de segurança das 27 Unidades da Federação"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "MEC participa da 16ª Festa Literária das Periferias no Rio",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-participa-da-16a-festa-literaria-das-periferias-no-rio",
+          "data": "23/09/2026",
+          "resumo": "Evento ocorre de 23 a 27 de setembro e reúne autores e pesquisadores da literatura negra e periférica. Ministério estará presente com totens para acesso ao MEC Livros, biblioteca digital gratuita"
+        },
+        {
+          "titulo": "Programa de iniciação à docência vira política de Estado",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/programa-de-iniciacao-a-docencia-vira-politica-de-estado",
+          "data": "23/09/2026",
+          "resumo": "Lei estabelece objetivos, modalidades de bolsas e regras para o Pibid, programa que possibilita a vivência de estudantes de licenciatura nas escolas públicas e articula teoria e prática na formação docente durante a graduação"
+        },
+        {
+          "titulo": "MEC divulga resultado para a capacitação técnica em pesquisa e inovação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-divulga-resultado-para-a-capacitacao-tecnica-em-pesquisa-e-inovacao",
+          "data": "23/09/2026",
+          "resumo": "Sete institutos federais tiveram grupos de pesquisa aprovados em chamada pública voltada ao aperfeiçoamento da submissão de propostas a futuros editais de unidades Embrapii"
+        },
+        {
+          "titulo": "PND: educação brasileira teve mais de 10 mil professores selecionados após a última edição",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pnd-educacao-brasileira-teve-mais-de-10-mil-professores-selecionados-apos-a-ultima-edicao",
+          "data": "23/09/2026",
+          "resumo": "Prova Nacional Docente é uma iniciativa criada para subsidiar processos seletivos de estados e municípios em todo o país. Exame pode ser feito por professores e estudantes concluintes de cursos de licenciatura"
+        },
+        {
+          "titulo": "Aulão do Enem em Aracaju tem cerca de mil participantes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/aulao-do-enem-em-aracaju-tem-cerca-de-mil-participantes",
+          "data": "23/09/2026",
+          "resumo": "Em sua terceira edição, evento visa apoiar a preparação final dos candidatos que participarão do exame nos dias 8 e 15 de novembro. Encontro focou na revisão de conteúdos importantes, divididos em blocos temáticos"
+        },
+        {
+          "titulo": "MEC e MinC abrem edital para difundir saberes tradicionais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-minc-abrem-edital-para-difundir-saberes-tradicionais",
+          "data": "23/09/2026",
+          "resumo": "Iniciativa seleciona projetos de educação superior voltados à valorização de mestres das culturas populares. Chamada pública também prevê a criação de observatório de gestão cultural nas universidades públicas"
+        },
+        {
+          "titulo": "EPT: 117 anos transformando futuros",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ept-117-anos-transformando-futuros",
+          "data": "23/09/2026",
+          "resumo": "Dia Nacional da Educação Profissional e Tecnológica, celebrado nesta quarta (23), também marca os 117 anos da Rede Federal, composta por instituições que conectam educação, ciência e tecnologia"
+        },
+        {
+          "titulo": "Alunos nota mil inspiram preparação para a redação do Enem 2026",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/alunos-nota-mil-inspiram-preparacao-para-a-redacao-do-enem-2026",
+          "data": "22/09/2026",
+          "resumo": "Experiências de participantes que alcançaram a pontuação máxima destacam dedicação, prática e apoio na trajetória de estudos. Nova cartilha reúne orientações e textos comentados para apoiar a preparação"
+        },
+        {
+          "titulo": "Equidade racial cresce e fortalece inclusão nas escolas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-cresce-e-fortalece-inclusao-nas-escolas",
+          "data": "22/09/2026",
+          "resumo": "O Diagnóstico Equidade 2026 aponta que o percentual de redes municipais de ensino que ofereceram formações sobre relações étnico-raciais passou de 48%, em 2024, para 69%"
+        },
+        {
+          "titulo": "Mulheres Mil abre mais de 1,3 mil vagas gratuitas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-abre-mais-de-1-3-mil-vagas-gratuitas",
+          "data": "22/09/2026",
+          "resumo": "São 18 cursos presenciais de qualificação profissional ofertados por dez instituições da Rede Federal e de redes estaduais em sete estados"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
