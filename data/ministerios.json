@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-09-22T23:31:49.545465+00:00",
+  "atualizado_em": "2026-09-23T15:12:14.427577+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senacon reúne Procons de todo o País para fiscalizar margens de combustíveis",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-reune-procons-de-todo-o-pais-para-fiscalizar-margens-de-combustiveis",
+          "data": "23/09/2026",
+          "resumo": "Mais de 100 representantes participam de reunião emergencial; Operação Carga Pesada apura possíveis aumentos abusivos nas margens de lucro"
+        },
         {
           "titulo": "Soberania digital é tema de debate sobre legados do Marco Civil e do ECA Digital",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/soberania-digital-e-tema-de-debate-sobre-legados-do-marco-civil-e-do-eca-digital",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-70-processos-contra-postos-por-suspeita-de-aumento-abusivo-de-combustiveis-1",
           "data": "21/09/2026",
           "resumo": "Estabelecimentos fiscalizadas no Rio de Janeiro, Espírito Santo, São Paulo e Paraná poderão ser multados em até R$ 14 milhões; identificadas margens de lucro acima de 70%"
-        },
-        {
-          "titulo": "Ministro da Justiça e Segurança Pública reforça a importância da integração entre União, estados e municípios no enfrentamento ao crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-reforca-a-importancia-da-integracao-entre-uniao-estados-e-municipios-no-enfrentamento-ao-crime-organizado",
-          "data": "21/09/2026",
-          "resumo": "Na última semana, o ministro participou do evento em que foram apresentadas as Ações Integradas para Enfrentamento ao Crime Organizado no Rio de Janeiro"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Alunos nota mil inspiram preparação para a redação do Enem 2026",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/alunos-nota-mil-inspiram-preparacao-para-a-redacao-do-enem-2026",
-          "data": "22/09/2026",
-          "resumo": "Experiências de participantes que alcançaram a pontuação máxima destacam dedicação, prática e apoio na trajetória de estudos. Nova cartilha reúne orientações e textos comentados para apoiar a preparação"
-        },
-        {
-          "titulo": "Equidade racial cresce e fortalece inclusão nas escolas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-cresce-e-fortalece-inclusao-nas-escolas",
-          "data": "22/09/2026",
-          "resumo": "O Diagnóstico Equidade 2026 aponta que o percentual de redes municipais de ensino que ofereceram formações sobre relações étnico-raciais passou de 48%, em 2024, para 69%"
-        },
-        {
-          "titulo": "Mulheres Mil abre mais de 1,3 mil vagas gratuitas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-abre-mais-de-1-3-mil-vagas-gratuitas",
-          "data": "22/09/2026",
-          "resumo": "São 18 cursos presenciais de qualificação profissional ofertados por dez instituições da Rede Federal e de redes estaduais em sete estados"
-        },
-        {
-          "titulo": "MEC lança Guia do Enem com vídeos e orientações para estudantes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-lanca-guia-do-enem-com-videos-e-orientacoes-para-estudantes",
-          "data": "22/09/2026",
-          "resumo": "Nova página reúne conteúdos como tutoriais, vídeos e notícias sobre as etapas do Exame Nacional do Ensino Médio. Objetivo é facilitar o acesso dos participantes a informações oficiais em um só lugar"
-        },
-        {
-          "titulo": "PodMEC debate desigualdades educacionais e evasão escolar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/podmec-debate-desigualdades-educacionais-e-evasao-escolar",
-          "data": "21/09/2026",
-          "resumo": "Quinto episódio da série aborda o Pé-de-Meia e seu papel como mecanismo de incentivo à permanência escolar, em conversa com o ministro Leonardo Barchini"
-        },
-        {
-          "titulo": "Educação especial inclusiva reúne ações de formação e atendimento às redes de ensino",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/educacao-especial-inclusiva-reune-acoes-de-formacao-e-atendimento-as-redes-de-ensino",
-          "data": "21/09/2026",
-          "resumo": "No Dia Nacional de Luta da Pessoa com Deficiência, celebrado nesta segunda-feira (21), ações em curso incluem formação de profissionais, núcleos intersetoriais, materiais pedagógicos e pesquisa"
-        },
-        {
-          "titulo": "TV do MEC estreia programação especial de preparação para o Enem",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/tv-do-mec-estreia-programacao-especial-de-preparacao-para-o-enem",
-          "data": "21/09/2026",
-          "resumo": "Canal disponibiliza faixa exclusiva com programas que trazem conteúdos, dicas e estratégias de estudo para ajudar os candidatos a conquistar uma vaga na universidade"
-        },
-        {
-          "titulo": "Conheça recursos do MEC Idiomas para aprender nova língua",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/conheca-recursos-do-mec-idiomas-para-aprender-nova-lingua",
-          "data": "21/09/2026",
-          "resumo": "Ferramenta possibilita acesso a teste de nivelamento, cursos por níveis, atividades de pronúncia, testes e auxílio de inteligência artificial. Acesso gratuito via login Gov.Br"
-        },
-        {
-          "titulo": "Como o Prouni mudou a vida de Sara",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/como-o-prouni-mudou-a-vida-de-sara",
-          "data": "21/09/2026",
-          "resumo": "Aos 19 anos, estudante deixou Divinópolis do Tocantins (TO) e foi para Palmas (TO) cursar fisioterapia com bolsa integral. Sua escolha profissional nasceu do desejo de cuidar do avô."
-        },
-        {
-          "titulo": "MEC e PMA discutem cooperação técnica em alimentação escolar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-pma-discutem-cooperacao-tecnica-em-alimentacao-escolar",
-          "data": "21/09/2026",
-          "resumo": "Com a participação do FNDE, evento tratou de iniciativas de cooperação com países africanos de língua portuguesa e de ações no contexto da Cooperação Sul-Sul"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +82,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "19 Sáb 20 Dom 21 Seg 22 Ter 23 Qua 24 Qui 25 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "20 Dom 21 Seg 22 Ter 23 Qua 24 Qui 25 Sex 26 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
