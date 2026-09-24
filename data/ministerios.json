@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-09-24T15:31:16.708486+00:00",
+  "atualizado_em": "2026-09-24T23:47:29.302955+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Policiais de São Paulo participam de curso sobre investigação do crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policiais-de-sao-paulo-participam-de-curso-sobre-investigacao-do-crime-organizado",
+          "data": "24/09/2026",
+          "resumo": "Iniciativa é do Ministério da Justiça e Segurança Pública no âmbito do Escritório Nacional Antifacção"
+        },
+        {
+          "titulo": "Ciberlab apoia polícias civis em operações contra fraudes eletrônicas em três estados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ciberlab-apoia-policias-civis-em-operacoes-contra-fraudes-eletronicas-em-tres-estados",
+          "data": "24/09/2026",
+          "resumo": "Ações deflagradas nesta quinta-feira (24) combatem golpes de falsa audiência judicial, falso leilão de veículos e fraudes contra empresa de telecomunicações"
+        },
+        {
+          "titulo": "MJSP remove mais de mil páginas e perfis que divulgavam bets irregulares",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-remove-mais-de-mil-paginas-e-perfis-que-divulgavam-bets-irregulares",
+          "data": "24/09/2026",
+          "resumo": "Ação do Ciberlab identificou 1.274 páginas no Facebook e 93 perfis no Instagram utilizados para divulgar plataformas irregulares de apostas"
+        },
+        {
+          "titulo": "Força Nacional realiza formatura do décimo curso de Segurança e Proteção de Autoridades",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-realiza-formatura-do-decimo-curso-de-seguranca-e-protecao-de-autoridades",
+          "data": "24/09/2026",
+          "resumo": "Capacitação reuniu 22 profissionais de 14 estados e contou com 325 horas-aula, 26 disciplinas e a participação de 42 instrutores"
+        },
+        {
+          "titulo": "Encontro debate proteção de crianças e adolescentes no ambiente digital",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-debate-protecao-de-criancas-e-adolescentes-no-ambiente-digital",
+          "data": "24/09/2026",
+          "resumo": "Evento reúne representantes de órgãos de segurança pública, do sistema de justiça e de empresas de tecnologia"
+        },
+        {
+          "titulo": "Senad promove capacitação nacional sobre Sistema de Alerta Rápido sobre Drogas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-promove-capacitacao-nacional-sobre-sistema-de-alerta-rapido-sobre-drogas",
+          "data": "24/09/2026",
+          "resumo": "Encontro reúne peritos de 12 Unidades da Federação em João Pessoa e fortalece a integração e o compartilhamento de dados periciais sobre drogas no País"
+        },
+        {
+          "titulo": "Senajus e Secretaria-Executiva recebem representantes da Procuradoria-Geral da Rússia",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-e-secretaria-executiva-recebem-representantes-da-procuradoria-geral-da-russia",
+          "data": "24/09/2026",
+          "resumo": "Encontro no Palácio da Justiça tratou da cooperação jurídica internacional e do enfrentamento ao crime organizado transnacional e à lavagem de dinheiro"
+        },
         {
           "titulo": "Ciberlab participa de investigação da Operação Arremate contra grupo especializado em falsos leilões de veículos",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ciberlab-participa-de-investigacao-da-operacao-arremate-contra-grupo-especializado-em-falsos-leiloes-de-veiculos",
@@ -21,48 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rio-de-janeiro-recebera-r-27-7-milhoes-em-equipamentos-para-seguranca-prisional",
           "data": "23/09/2026",
           "resumo": "Equipamentos serão utilizados em ações de inspeção, fiscalização e inteligência no sistema prisional fluminense"
-        },
-        {
-          "titulo": "Senacon participa de seminário na Paraíba sobre os 36 anos do Código de Defesa do Consumidor",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-participa-de-seminario-na-paraiba-sobre-os-36-anos-do-codigo-de-defesa-do-consumidor",
-          "data": "23/09/2026",
-          "resumo": "Evento em Campina Grande reúne especialistas para discutir apostas, novas tecnologias e os desafios das relações de consumo"
-        },
-        {
-          "titulo": "Nova lei aumenta penas para furto de combustíveis e estabelece regras para roubo, receptação e comércio ilícito",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-aumenta-penas-para-furto-de-combustiveis-e-estabelece-regras-para-roubo-receptacao-e-comercio-ilicito",
-          "data": "23/09/2026",
-          "resumo": "Norma alcança crimes cometidos desde os locais de produção e armazenamento até o transporte, incluindo dutos, terminais e veículos de qualquer modal"
-        },
-        {
-          "titulo": "Operação Fake Card investiga fraude em cartões de benefícios e movimentação de R$ 437,8 milhões",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-fake-card-investiga-fraude-em-cartoes-de-beneficios-e-movimentacao-de-r-437-8-milhoes",
-          "data": "23/09/2026",
-          "resumo": "Apuração identifica 52 municípios afetados por fraude em cartões de vale-alimentação e vale-refeição de servidores públicos municipais em dez Unidades da Federação"
-        },
-        {
-          "titulo": "Dia Internacional reforça combate à exploração sexual e ao tráfico de mulheres e crianças",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-internacional-reforca-combate-a-exploracao-sexual-e-ao-trafico-de-mulheres-e-criancas",
-          "data": "23/09/2026",
-          "resumo": "Data de 23 de setembro alerta para formas de aliciamento, sinais de risco e medidas de prevenção e proteção"
-        },
-        {
-          "titulo": "Encontro da Rede-Lab debate asfixia financeira do crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-da-rede-lab-debate-asfixia-financeira-do-crime-organizado",
-          "data": "23/09/2026",
-          "resumo": "Evento congrega representantes de 68 laboratórios e instituições parceiras para discutir investigação patrimonial, recuperação de ativos, tecnologia e cooperação entre instituições"
-        },
-        {
-          "titulo": "Escola Nacional de Segurança Pública lança curso sobre prevenção ao suicídio para profissionais da segurança pública",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-sobre-prevencao-ao-suicidio-para-profissionais-da-seguranca-publica",
-          "data": "23/09/2026",
-          "resumo": "Formação é destinada a profissionais do Susp e aborda saúde mental, qualidade de vida e estratégias de prevenção no ambiente de trabalho"
-        },
-        {
-          "titulo": "Mais de 41 mil agressores são presos em 113 dias de Operação Mulher Segura",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-41-mil-agressores-sao-presos-em-113-dias-de-operacao-mulher-segura",
-          "data": "23/09/2026",
-          "resumo": "Região Sul foi a que mais deteve agressores de mulheres, com 13.823 presos, o equivalente a 33% do total"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Plataforma Enem Libras já está disponível para consulta",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/plataforma-enem-libras-ja-esta-disponivel-para-consulta",
+          "data": "24/09/2026",
+          "resumo": "Ambiente disponibiliza videoprovas de edições anteriores, cadernos de questões, gabaritos e Cartilha de Redação em Libras para apoiar estudantes na preparação e na familiarização com a videoprova"
+        },
+        {
+          "titulo": "Pronatec oferece mais de 1,5 mil vagas verdes de qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferece-mais-de-1-5-mil-vagas-verdes-de-qualificacao-profissional",
+          "data": "24/09/2026",
+          "resumo": "Formações gratuitas serão ofertadas em outubro, em 11 estados. Vagas e cursos podem ser consultados no Painel de Oportunidades no portal do MEC"
+        },
+        {
+          "titulo": "Medicina: relatório aponta que judicialização foi o principal fator da expansão de vagas e cursos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/medicina-relatorio-aponta-que-judicializacao-foi-o-principal-fator-da-expansao-de-vagas-e-cursos",
+          "data": "24/09/2026",
+          "resumo": "Documento apresentado pelo Ministério da Educação (MEC) mostra que, em 14 anos, oferta de cursos cresceu 158%. Maior aumento ocorreu pela judicialização na rede privada, responsável por mais de 50% da expansão"
+        },
+        {
+          "titulo": "Termina hoje (24) a convocação da lista de espera do Fies",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/termina-hoje-24-a-convocacao-da-lista-de-espera-do-fies",
+          "data": "24/09/2026",
+          "resumo": "Candidatos devem acompanhar o chamamento por meio da página do Fies Seleção, exclusivamente pela internet. Pré-selecionados devem complementar a inscrição em até três dias úteis e seguir com as demais etapas"
+        },
+        {
+          "titulo": "MEC participa da 16ª Festa Literária das Periferias no Rio",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-participa-da-16a-festa-literaria-das-periferias-no-rio",
+          "data": "23/09/2026",
+          "resumo": "Evento ocorre de 23 a 27 de setembro e reúne autores e pesquisadores da literatura negra e periférica. Ministério estará presente com totens para acesso ao MEC Livros, biblioteca digital gratuita"
+        },
+        {
+          "titulo": "Programa de iniciação à docência vira política de Estado",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/programa-de-iniciacao-a-docencia-vira-politica-de-estado",
+          "data": "23/09/2026",
+          "resumo": "Lei estabelece objetivos, modalidades de bolsas e regras para o Pibid, programa que possibilita a vivência de estudantes de licenciatura nas escolas públicas e articula teoria e prática na formação docente durante a graduação"
+        },
+        {
+          "titulo": "MEC divulga resultado para a capacitação técnica em pesquisa e inovação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-divulga-resultado-para-a-capacitacao-tecnica-em-pesquisa-e-inovacao",
+          "data": "23/09/2026",
+          "resumo": "Sete institutos federais tiveram grupos de pesquisa aprovados em chamada pública voltada ao aperfeiçoamento da submissão de propostas a futuros editais de unidades Embrapii"
+        },
+        {
+          "titulo": "PND: educação brasileira teve mais de 10 mil professores selecionados após a última edição",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pnd-educacao-brasileira-teve-mais-de-10-mil-professores-selecionados-apos-a-ultima-edicao",
+          "data": "23/09/2026",
+          "resumo": "Prova Nacional Docente é uma iniciativa criada para subsidiar processos seletivos de estados e municípios em todo o país. Exame pode ser feito por professores e estudantes concluintes de cursos de licenciatura"
+        },
+        {
+          "titulo": "Aulão do Enem em Aracaju tem cerca de mil participantes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/aulao-do-enem-em-aracaju-tem-cerca-de-mil-participantes",
+          "data": "23/09/2026",
+          "resumo": "Em sua terceira edição, evento visa apoiar a preparação final dos candidatos que participarão do exame nos dias 8 e 15 de novembro. Encontro focou na revisão de conteúdos importantes, divididos em blocos temáticos"
+        },
+        {
+          "titulo": "MEC e MinC abrem edital para difundir saberes tradicionais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-minc-abrem-edital-para-difundir-saberes-tradicionais",
+          "data": "23/09/2026",
+          "resumo": "Iniciativa seleciona projetos de educação superior voltados à valorização de mestres das culturas populares. Chamada pública também prevê a criação de observatório de gestão cultural nas universidades públicas"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
