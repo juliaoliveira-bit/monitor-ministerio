@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-09-23T23:27:28.937802+00:00",
+  "atualizado_em": "2026-09-24T15:31:16.708486+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Ciberlab participa de investigação da Operação Arremate contra grupo especializado em falsos leilões de veículos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ciberlab-participa-de-investigacao-da-operacao-arremate-contra-grupo-especializado-em-falsos-leiloes-de-veiculos",
+          "data": "23/09/2026",
+          "resumo": "Ação da Polícia Civil do Ceará identificou 13 sites fraudulentos e resultou em cinco prisões, 24 mandados de busca e apreensão e bloqueio de cerca de R$ 2,6 milhões"
+        },
+        {
+          "titulo": "MJSP discute infraestrutura de IA na segurança pública em encontro do Fórum Econômico Mundial em Nova York",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-discute-infraestrutura-de-ia-na-seguranca-publica-em-encontro-do-forum-economico-mundial-em-nova-york",
+          "data": "23/09/2026",
+          "resumo": "Diretora do Fundo Nacional de Segurança Pública, Camila Pintarelli, participou do evento como membra da Global Regulatory Innovation Platform e do Global Future Council"
+        },
         {
           "titulo": "Rio de Janeiro receberá R$ 27,7 milhões em equipamentos para segurança prisional",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rio-de-janeiro-recebera-r-27-7-milhoes-em-equipamentos-para-seguranca-prisional",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-41-mil-agressores-sao-presos-em-113-dias-de-operacao-mulher-segura",
           "data": "23/09/2026",
           "resumo": "Região Sul foi a que mais deteve agressores de mulheres, com 13.823 presos, o equivalente a 33% do total"
-        },
-        {
-          "titulo": "Novas regras para publicidade digital visam conter fraudes e golpes",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/novas-regras-para-publicidade-digital-visam-conter-fraudes-e-golpes",
-          "data": "23/09/2026",
-          "resumo": "Plataformas deverão adotar medidas de identificação e transparência sobre anúncios, especialmente em conteúdos relacionados a serviços financeiros"
-        },
-        {
-          "titulo": "Painel de qualidade de vida traz dados inéditos sobre a saúde mental de profissionais da segurança pública",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/painel-de-qualidade-de-vida-traz-dados-ineditos-sobre-a-saude-mental-de-profissionais-da-seguranca-publica",
-          "data": "23/09/2026",
-          "resumo": "Plataforma do MJSP reúne, pela primeira vez, informações relativas a transtornos mentais e de comportamento nas forças de segurança das 27 Unidades da Federação"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "MEC participa da 16ª Festa Literária das Periferias no Rio",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-participa-da-16a-festa-literaria-das-periferias-no-rio",
-          "data": "23/09/2026",
-          "resumo": "Evento ocorre de 23 a 27 de setembro e reúne autores e pesquisadores da literatura negra e periférica. Ministério estará presente com totens para acesso ao MEC Livros, biblioteca digital gratuita"
-        },
-        {
-          "titulo": "Programa de iniciação à docência vira política de Estado",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/programa-de-iniciacao-a-docencia-vira-politica-de-estado",
-          "data": "23/09/2026",
-          "resumo": "Lei estabelece objetivos, modalidades de bolsas e regras para o Pibid, programa que possibilita a vivência de estudantes de licenciatura nas escolas públicas e articula teoria e prática na formação docente durante a graduação"
-        },
-        {
-          "titulo": "MEC divulga resultado para a capacitação técnica em pesquisa e inovação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-divulga-resultado-para-a-capacitacao-tecnica-em-pesquisa-e-inovacao",
-          "data": "23/09/2026",
-          "resumo": "Sete institutos federais tiveram grupos de pesquisa aprovados em chamada pública voltada ao aperfeiçoamento da submissão de propostas a futuros editais de unidades Embrapii"
-        },
-        {
-          "titulo": "PND: educação brasileira teve mais de 10 mil professores selecionados após a última edição",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pnd-educacao-brasileira-teve-mais-de-10-mil-professores-selecionados-apos-a-ultima-edicao",
-          "data": "23/09/2026",
-          "resumo": "Prova Nacional Docente é uma iniciativa criada para subsidiar processos seletivos de estados e municípios em todo o país. Exame pode ser feito por professores e estudantes concluintes de cursos de licenciatura"
-        },
-        {
-          "titulo": "Aulão do Enem em Aracaju tem cerca de mil participantes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/aulao-do-enem-em-aracaju-tem-cerca-de-mil-participantes",
-          "data": "23/09/2026",
-          "resumo": "Em sua terceira edição, evento visa apoiar a preparação final dos candidatos que participarão do exame nos dias 8 e 15 de novembro. Encontro focou na revisão de conteúdos importantes, divididos em blocos temáticos"
-        },
-        {
-          "titulo": "MEC e MinC abrem edital para difundir saberes tradicionais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-minc-abrem-edital-para-difundir-saberes-tradicionais",
-          "data": "23/09/2026",
-          "resumo": "Iniciativa seleciona projetos de educação superior voltados à valorização de mestres das culturas populares. Chamada pública também prevê a criação de observatório de gestão cultural nas universidades públicas"
-        },
-        {
-          "titulo": "EPT: 117 anos transformando futuros",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ept-117-anos-transformando-futuros",
-          "data": "23/09/2026",
-          "resumo": "Dia Nacional da Educação Profissional e Tecnológica, celebrado nesta quarta (23), também marca os 117 anos da Rede Federal, composta por instituições que conectam educação, ciência e tecnologia"
-        },
-        {
-          "titulo": "Alunos nota mil inspiram preparação para a redação do Enem 2026",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/alunos-nota-mil-inspiram-preparacao-para-a-redacao-do-enem-2026",
-          "data": "22/09/2026",
-          "resumo": "Experiências de participantes que alcançaram a pontuação máxima destacam dedicação, prática e apoio na trajetória de estudos. Nova cartilha reúne orientações e textos comentados para apoiar a preparação"
-        },
-        {
-          "titulo": "Equidade racial cresce e fortalece inclusão nas escolas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-cresce-e-fortalece-inclusao-nas-escolas",
-          "data": "22/09/2026",
-          "resumo": "O Diagnóstico Equidade 2026 aponta que o percentual de redes municipais de ensino que ofereceram formações sobre relações étnico-raciais passou de 48%, em 2024, para 69%"
-        },
-        {
-          "titulo": "Mulheres Mil abre mais de 1,3 mil vagas gratuitas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-abre-mais-de-1-3-mil-vagas-gratuitas",
-          "data": "22/09/2026",
-          "resumo": "São 18 cursos presenciais de qualificação profissional ofertados por dez instituições da Rede Federal e de redes estaduais em sete estados"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +82,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "20 Dom 21 Seg 22 Ter 23 Qua 24 Qui 25 Sex 26 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "21 Seg 22 Ter 23 Qua 24 Qui 25 Sex 26 Sáb 27 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
