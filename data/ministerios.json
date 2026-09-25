@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-09-25T15:35:20.066950+00:00",
+  "atualizado_em": "2026-09-25T23:52:55.743168+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Governo Federal proíbe bets em todo o País e lança pacote de proteção às famílias endividadas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-proibe-bets-em-todo-o-pais-e-lanca-pacote-de-protecao-as-familias-endividadas-1",
+          "data": "25/09/2026",
+          "resumo": "Presidente assina MP proibindo oferta, intermediação e publicidade de apostas de quota fixa; PL que tipifica crimes do setor e MP que renegocia até R$ 150 bilhões em dívidas de brasileiros"
+        },
+        {
+          "titulo": "Sinab alcança marca de 10 mil ligações confirmadas e amplia integração da perícia criminal",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sinab-alcanca-marca-de-10-mil-ligacoes-confirmadas-e-amplia-integracao-da-pericia-criminal",
+          "data": "25/09/2026",
+          "resumo": "Sistema permite relacionar vestígios balísticos de diferentes ocorrências e identificar conexões entre crimes em todo o País"
+        },
+        {
+          "titulo": "Escola Nacional de Segurança Pública conclui capacitação voltada ao resgate de bombeiros",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-conclui-capacitacao-voltada-ao-resgate-de-bombeiros",
+          "data": "25/09/2026",
+          "resumo": "Vinte e dois bombeiros de nove Unidades da Federação concluíram formação para atuar no planejamento, na organização e na execução de operações de resgate em incêndios urbanos estruturais"
+        },
+        {
+          "titulo": "Projeto Captura: integrante da lista dos mais procurados pelo MJSP é preso na Bolívia",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/projeto-captura-integrante-da-lista-dos-mais-procurados-pelo-mjsp-e-preso-na-bolivia",
+          "data": "25/09/2026",
+          "resumo": "Ação contou com compartilhamento de informações entre as FICCOs do Ceará e de Rondônia e a Polícia Federal, que repassaram dados às autoridades bolivianas"
+        },
+        {
+          "titulo": "ENA apoia operação de polícias civis da Bahia e de São Paulo que resulta em prisão de liderança criminosa",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ena-apoia-operacao-de-policias-civis-da-bahia-e-de-sao-paulo-que-resulta-em-prisao-de-lideranca-criminosa",
+          "data": "25/09/2026",
+          "resumo": "Iniciativa é realizada no âmbito da Operação Repatriação e cumpre cinco mandados de busca e apreensão"
+        },
+        {
+          "titulo": "MJSP e Sejusp/AP realizam visita técnica à região de fronteira em Oiapoque",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-sejusp-ap-realizam-visita-tecnica-a-regiao-de-fronteira-em-oiapoque",
+          "data": "25/09/2026",
+          "resumo": "Agenda incluiu passagem pelo Centro de Cooperação Internacional, na Guiana Francesa, e tratou da atuação conjunta de instituições de segurança brasileiras e francesas"
+        },
         {
           "titulo": "Senad lança novos cursos gratuitos sobre ativos virtuais e desenvolvimento alternativo",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-lanca-novos-cursos-gratuitos-sobre-ativos-virtuais-e-desenvolvimento-alternativo",
@@ -27,42 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-remove-mais-de-mil-paginas-e-perfis-que-divulgavam-bets-irregulares",
           "data": "24/09/2026",
           "resumo": "Ação do Ciberlab identificou 1.274 páginas no Facebook e 93 perfis no Instagram utilizados para divulgar plataformas irregulares de apostas"
-        },
-        {
-          "titulo": "Força Nacional realiza formatura do décimo curso de Segurança e Proteção de Autoridades",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-realiza-formatura-do-decimo-curso-de-seguranca-e-protecao-de-autoridades",
-          "data": "24/09/2026",
-          "resumo": "Capacitação reuniu 22 profissionais de 14 estados e contou com 325 horas-aula, 26 disciplinas e a participação de 42 instrutores"
-        },
-        {
-          "titulo": "Encontro debate proteção de crianças e adolescentes no ambiente digital",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-debate-protecao-de-criancas-e-adolescentes-no-ambiente-digital",
-          "data": "24/09/2026",
-          "resumo": "Evento reúne representantes de órgãos de segurança pública, do sistema de justiça e de empresas de tecnologia"
-        },
-        {
-          "titulo": "Senad promove capacitação nacional sobre Sistema de Alerta Rápido sobre Drogas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-promove-capacitacao-nacional-sobre-sistema-de-alerta-rapido-sobre-drogas",
-          "data": "24/09/2026",
-          "resumo": "Encontro reúne peritos de 12 Unidades da Federação em João Pessoa e fortalece a integração e o compartilhamento de dados periciais sobre drogas no País"
-        },
-        {
-          "titulo": "Senajus e Secretaria-Executiva recebem representantes da Procuradoria-Geral da Rússia",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-e-secretaria-executiva-recebem-representantes-da-procuradoria-geral-da-russia",
-          "data": "24/09/2026",
-          "resumo": "Encontro no Palácio da Justiça tratou da cooperação jurídica internacional e do enfrentamento ao crime organizado transnacional e à lavagem de dinheiro"
-        },
-        {
-          "titulo": "Ciberlab participa de investigação da Operação Arremate contra grupo especializado em falsos leilões de veículos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ciberlab-participa-de-investigacao-da-operacao-arremate-contra-grupo-especializado-em-falsos-leiloes-de-veiculos",
-          "data": "23/09/2026",
-          "resumo": "Ação da Polícia Civil do Ceará identificou 13 sites fraudulentos e resultou em cinco prisões, 24 mandados de busca e apreensão e bloqueio de cerca de R$ 2,6 milhões"
-        },
-        {
-          "titulo": "MJSP discute infraestrutura de IA na segurança pública em encontro do Fórum Econômico Mundial em Nova York",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-discute-infraestrutura-de-ia-na-seguranca-publica-em-encontro-do-forum-economico-mundial-em-nova-york",
-          "data": "23/09/2026",
-          "resumo": "Diretora do Fundo Nacional de Segurança Pública, Camila Pintarelli, participou do evento como membra da Global Regulatory Innovation Platform e do Global Future Council"
         }
       ],
       "agenda": {
@@ -73,6 +73,36 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Indicadores de equidade racial avançam nas redes municipais de ensino",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/indicadores-de-equidade-racial-avancam-nas-redes-municipais-de-ensino",
+          "data": "25/09/2026",
+          "resumo": "A média geral dos indicadores de relações étnico-raciais aumentou 8,1 pontos entre 2024 e 2026. O resultado mostra a execução da Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola"
+        },
+        {
+          "titulo": "Mulheres Mil: Espírito Santo ofertará 175 vagas em outubro",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-espirito-santo-ofertara-175-vagas-em-outubro",
+          "data": "25/09/2026",
+          "resumo": "Cursos gratuitos serão ministrados a partir de outubro pela Secretaria de Estado da Ciência, Tecnologia, Inovação e Educação Profissional do Espírito Santo"
+        },
+        {
+          "titulo": "Sancionadas leis que criam três novas universidades federais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/sancionadas-leis-que-criam-tres-novas-universidades-federais",
+          "data": "25/09/2026",
+          "resumo": "Leis transformam os Cefets de Minas Gerais e do Rio de Janeiro em universidades federais e criam instituição a partir do desmembramento de campus da Unifap, no Amapá"
+        },
+        {
+          "titulo": "Mulheres Mil: Goiás oferta 210 vagas de qualificação profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-goias-oferta-210-vagas-de-qualificacao-profissional",
+          "data": "25/09/2026",
+          "resumo": "Cursos gratuitos de formação continuada serão ministrados pelo IF Goiano a partir de outubro"
+        },
+        {
+          "titulo": "Semana do Surdo destaca novas diretrizes para a Educação Bilíngue de Surdos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/semana-do-surdo-destaca-novas-diretrizes-para-a-educacao-bilingue-de-surdos",
+          "data": "25/09/2026",
+          "resumo": "Pnebs estabelece diretrizes para a modalidade de educação escolar, com ações voltadas à estrutura das escolas, formação de profissionais e expansão de vagas em cursos de graduação para as comunidades surdas"
+        },
         {
           "titulo": "Comissão de Implantação da UFEsporte realiza primeira reunião",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/comissao-de-implantacao-da-ufesporte-realiza-primeira-reuniao",
@@ -102,36 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferece-mais-de-1-5-mil-vagas-verdes-de-qualificacao-profissional",
           "data": "24/09/2026",
           "resumo": "Formações gratuitas serão ofertadas em outubro, em 11 estados. Vagas e cursos podem ser consultados no Painel de Oportunidades no portal do MEC"
-        },
-        {
-          "titulo": "Medicina: relatório aponta que judicialização foi o principal fator da expansão de vagas e cursos",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/medicina-relatorio-aponta-que-judicializacao-foi-o-principal-fator-da-expansao-de-vagas-e-cursos",
-          "data": "24/09/2026",
-          "resumo": "Documento apresentado pelo Ministério da Educação (MEC) mostra que, em 14 anos, oferta de cursos cresceu 158%. Maior aumento ocorreu pela judicialização na rede privada, responsável por mais de 50% da expansão"
-        },
-        {
-          "titulo": "Termina hoje (24) a convocação da lista de espera do Fies",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/termina-hoje-24-a-convocacao-da-lista-de-espera-do-fies",
-          "data": "24/09/2026",
-          "resumo": "Candidatos devem acompanhar o chamamento por meio da página do Fies Seleção, exclusivamente pela internet. Pré-selecionados devem complementar a inscrição em até três dias úteis e seguir com as demais etapas"
-        },
-        {
-          "titulo": "MEC participa da 16ª Festa Literária das Periferias no Rio",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-participa-da-16a-festa-literaria-das-periferias-no-rio",
-          "data": "23/09/2026",
-          "resumo": "Evento ocorre de 23 a 27 de setembro e reúne autores e pesquisadores da literatura negra e periférica. Ministério estará presente com totens para acesso ao MEC Livros, biblioteca digital gratuita"
-        },
-        {
-          "titulo": "Programa de iniciação à docência vira política de Estado",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/programa-de-iniciacao-a-docencia-vira-politica-de-estado",
-          "data": "23/09/2026",
-          "resumo": "Lei estabelece objetivos, modalidades de bolsas e regras para o Pibid, programa que possibilita a vivência de estudantes de licenciatura nas escolas públicas e articula teoria e prática na formação docente durante a graduação"
-        },
-        {
-          "titulo": "MEC divulga resultado para a capacitação técnica em pesquisa e inovação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-divulga-resultado-para-a-capacitacao-tecnica-em-pesquisa-e-inovacao",
-          "data": "23/09/2026",
-          "resumo": "Sete institutos federais tiveram grupos de pesquisa aprovados em chamada pública voltada ao aperfeiçoamento da submissão de propostas a futuros editais de unidades Embrapii"
         }
       ],
       "agenda": {
