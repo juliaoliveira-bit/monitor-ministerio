@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-09-24T23:47:29.302955+00:00",
+  "atualizado_em": "2026-09-25T15:35:20.066950+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senad lança novos cursos gratuitos sobre ativos virtuais e desenvolvimento alternativo",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-lanca-novos-cursos-gratuitos-sobre-ativos-virtuais-e-desenvolvimento-alternativo",
+          "data": "24/09/2026",
+          "resumo": "Formações são on-line, abertas ao público e abordam o uso de ativos virtuais em investigações criminais e estratégias de desenvolvimento sustentável em territórios vulnerabilizados"
+        },
         {
           "titulo": "Policiais de São Paulo participam de curso sobre investigação do crime organizado",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policiais-de-sao-paulo-participam-de-curso-sobre-investigacao-do-crime-organizado",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-discute-infraestrutura-de-ia-na-seguranca-publica-em-encontro-do-forum-economico-mundial-em-nova-york",
           "data": "23/09/2026",
           "resumo": "Diretora do Fundo Nacional de Segurança Pública, Camila Pintarelli, participou do evento como membra da Global Regulatory Innovation Platform e do Global Future Council"
-        },
-        {
-          "titulo": "Rio de Janeiro receberá R$ 27,7 milhões em equipamentos para segurança prisional",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rio-de-janeiro-recebera-r-27-7-milhoes-em-equipamentos-para-seguranca-prisional",
-          "data": "23/09/2026",
-          "resumo": "Equipamentos serão utilizados em ações de inspeção, fiscalização e inteligência no sistema prisional fluminense"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Comissão de Implantação da UFEsporte realiza primeira reunião",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/comissao-de-implantacao-da-ufesporte-realiza-primeira-reuniao",
+          "data": "25/09/2026",
+          "resumo": "Colegiado reúne representantes de órgãos públicos, instituições de ensino superior e entidades esportivas para discutir documentos e estrutura acadêmica da universidade federal dedicada à Ciência do Esporte"
+        },
+        {
+          "titulo": "Hotel-Escola do IFCE reúne hospedagem e laboratório de práticas profissionais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/hotel-escola-do-ifce-reune-hospedagem-e-laboratorio-de-praticas-profissionais",
+          "data": "25/09/2026",
+          "resumo": "Espaço localizado no campus Guaramiranga, do Instituto Federal do Ceará, oferta hospedagem aberta ao público e estudantes têm contato direto com situações concretas de trabalho nas áreas de turismo, hospitalidade, gastronomia e eventos"
+        },
+        {
+          "titulo": "Estudo sugere que Bets prejudicam 2 milhões de estudantes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/estudo-sugere-que-bets-prejudicam-2-milhoes-de-estudantes",
+          "data": "24/09/2026",
+          "resumo": "Levantamentos do setor privado estimam impacto sobre o ingresso e a permanência na graduação. Cenário pode afetar estudantes atendidos por políticas públicas como Prouni e Fies"
+        },
         {
           "titulo": "Plataforma Enem Libras já está disponível para consulta",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/plataforma-enem-libras-ja-esta-disponivel-para-consulta",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-divulga-resultado-para-a-capacitacao-tecnica-em-pesquisa-e-inovacao",
           "data": "23/09/2026",
           "resumo": "Sete institutos federais tiveram grupos de pesquisa aprovados em chamada pública voltada ao aperfeiçoamento da submissão de propostas a futuros editais de unidades Embrapii"
-        },
-        {
-          "titulo": "PND: educação brasileira teve mais de 10 mil professores selecionados após a última edição",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pnd-educacao-brasileira-teve-mais-de-10-mil-professores-selecionados-apos-a-ultima-edicao",
-          "data": "23/09/2026",
-          "resumo": "Prova Nacional Docente é uma iniciativa criada para subsidiar processos seletivos de estados e municípios em todo o país. Exame pode ser feito por professores e estudantes concluintes de cursos de licenciatura"
-        },
-        {
-          "titulo": "Aulão do Enem em Aracaju tem cerca de mil participantes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/aulao-do-enem-em-aracaju-tem-cerca-de-mil-participantes",
-          "data": "23/09/2026",
-          "resumo": "Em sua terceira edição, evento visa apoiar a preparação final dos candidatos que participarão do exame nos dias 8 e 15 de novembro. Encontro focou na revisão de conteúdos importantes, divididos em blocos temáticos"
-        },
-        {
-          "titulo": "MEC e MinC abrem edital para difundir saberes tradicionais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-e-minc-abrem-edital-para-difundir-saberes-tradicionais",
-          "data": "23/09/2026",
-          "resumo": "Iniciativa seleciona projetos de educação superior voltados à valorização de mestres das culturas populares. Chamada pública também prevê a criação de observatório de gestão cultural nas universidades públicas"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "21 Seg 22 Ter 23 Qua 24 Qui 25 Sex 26 Sáb 27 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "22 Ter 23 Qua 24 Qui 25 Sex 26 Sáb 27 Dom 28 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
