@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-25T23:52:55.743168+00:00",
+  "atualizado_em": "2026-09-26T14:45:57.146430+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Indicadores de equidade racial avançam nas redes municipais de ensino",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/indicadores-de-equidade-racial-avancam-nas-redes-municipais-de-ensino",
-          "data": "25/09/2026",
-          "resumo": "A média geral dos indicadores de relações étnico-raciais aumentou 8,1 pontos entre 2024 e 2026. O resultado mostra a execução da Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola"
-        },
-        {
-          "titulo": "Mulheres Mil: Espírito Santo ofertará 175 vagas em outubro",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-espirito-santo-ofertara-175-vagas-em-outubro",
-          "data": "25/09/2026",
-          "resumo": "Cursos gratuitos serão ministrados a partir de outubro pela Secretaria de Estado da Ciência, Tecnologia, Inovação e Educação Profissional do Espírito Santo"
-        },
-        {
-          "titulo": "Sancionadas leis que criam três novas universidades federais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/sancionadas-leis-que-criam-tres-novas-universidades-federais",
-          "data": "25/09/2026",
-          "resumo": "Leis transformam os Cefets de Minas Gerais e do Rio de Janeiro em universidades federais e criam instituição a partir do desmembramento de campus da Unifap, no Amapá"
-        },
-        {
-          "titulo": "Mulheres Mil: Goiás oferta 210 vagas de qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-goias-oferta-210-vagas-de-qualificacao-profissional",
-          "data": "25/09/2026",
-          "resumo": "Cursos gratuitos de formação continuada serão ministrados pelo IF Goiano a partir de outubro"
-        },
-        {
-          "titulo": "Semana do Surdo destaca novas diretrizes para a Educação Bilíngue de Surdos",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/semana-do-surdo-destaca-novas-diretrizes-para-a-educacao-bilingue-de-surdos",
-          "data": "25/09/2026",
-          "resumo": "Pnebs estabelece diretrizes para a modalidade de educação escolar, com ações voltadas à estrutura das escolas, formação de profissionais e expansão de vagas em cursos de graduação para as comunidades surdas"
-        },
-        {
-          "titulo": "Comissão de Implantação da UFEsporte realiza primeira reunião",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/comissao-de-implantacao-da-ufesporte-realiza-primeira-reuniao",
-          "data": "25/09/2026",
-          "resumo": "Colegiado reúne representantes de órgãos públicos, instituições de ensino superior e entidades esportivas para discutir documentos e estrutura acadêmica da universidade federal dedicada à Ciência do Esporte"
-        },
-        {
-          "titulo": "Hotel-Escola do IFCE reúne hospedagem e laboratório de práticas profissionais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/hotel-escola-do-ifce-reune-hospedagem-e-laboratorio-de-praticas-profissionais",
-          "data": "25/09/2026",
-          "resumo": "Espaço localizado no campus Guaramiranga, do Instituto Federal do Ceará, oferta hospedagem aberta ao público e estudantes têm contato direto com situações concretas de trabalho nas áreas de turismo, hospitalidade, gastronomia e eventos"
-        },
-        {
-          "titulo": "Estudo sugere que Bets prejudicam 2 milhões de estudantes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/estudo-sugere-que-bets-prejudicam-2-milhoes-de-estudantes",
-          "data": "24/09/2026",
-          "resumo": "Levantamentos do setor privado estimam impacto sobre o ingresso e a permanência na graduação. Cenário pode afetar estudantes atendidos por políticas públicas como Prouni e Fies"
-        },
-        {
-          "titulo": "Plataforma Enem Libras já está disponível para consulta",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/plataforma-enem-libras-ja-esta-disponivel-para-consulta",
-          "data": "24/09/2026",
-          "resumo": "Ambiente disponibiliza videoprovas de edições anteriores, cadernos de questões, gabaritos e Cartilha de Redação em Libras para apoiar estudantes na preparação e na familiarização com a videoprova"
-        },
-        {
-          "titulo": "Pronatec oferece mais de 1,5 mil vagas verdes de qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferece-mais-de-1-5-mil-vagas-verdes-de-qualificacao-profissional",
-          "data": "24/09/2026",
-          "resumo": "Formações gratuitas serão ofertadas em outubro, em 11 estados. Vagas e cursos podem ser consultados no Painel de Oportunidades no portal do MEC"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +82,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "22 Ter 23 Qua 24 Qui 25 Sex 26 Sáb 27 Dom 28 Seg Atualmente não existem compromissos agendados.",
+        "resumo": "23 Qua 24 Qui 25 Sex 26 Sáb 27 Dom 28 Seg 29 Ter Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
