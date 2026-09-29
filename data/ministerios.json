@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-29T00:51:59.373381+00:00",
+  "atualizado_em": "2026-09-29T16:39:24.667257+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Educação digital e midiática é tema de episódio do PodMEC",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/educacao-digital-e-midiatica-e-tema-de-episodio-do-podmec",
-          "data": "28/09/2026",
-          "resumo": "Edição debateu uso da IA na educação e conectividade das escolas, com atenção especial para o emprego das tecnologias com fins pedagógicos. Interessados podem acessar pelo YouTube ou pelo Spotify do MEC"
-        },
-        {
-          "titulo": "Prestação de contas do primeiro ciclo do Escola em Tempo Integral deve ser concluída até 31 de dezembro",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/prestacao-de-contas-do-primeiro-ciclo-do-escola-em-tempo-integral-deve-ser-concluida-ate-31-de-dezembro",
-          "data": "28/09/2026",
-          "resumo": "Prazo de execução dos recursos termina em 31 de outubro de 2026. Gestores precisam manter os registros das despesas atualizados"
-        },
-        {
-          "titulo": "Equidade racial avança nas redes municipais do Nordeste",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-avanca-nas-redes-municipais-do-nordeste",
-          "data": "28/09/2026",
-          "resumo": "O resultado do Diagnóstico Equidade na região revela um movimento gradual de fortalecimento da gestão da equidade racial"
-        },
-        {
-          "titulo": "Equidade racial avança nas redes municipais da Região Norte",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-avanca-nas-redes-municipais-da-regiao-norte",
-          "data": "28/09/2026",
-          "resumo": "O resultado do Diagnóstico Equidade na região revela um movimento gradual de fortalecimento da gestão da equidade racial"
-        },
-        {
-          "titulo": "Equidade racial avança nas redes municipais do Centro-Oeste",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-avanca-nas-redes-municipais-do-centro-oeste",
-          "data": "28/09/2026",
-          "resumo": "O resultado do Diagnóstico Equidade na região revela um movimento gradual de fortalecimento da gestão da equidade racial"
-        },
-        {
-          "titulo": "Equidade racial avança nas redes municipais da Região Sul",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-avanca-nas-redes-municipais-da-regiao-sul",
-          "data": "28/09/2026",
-          "resumo": "O resultado do Diagnóstico Equidade na região revela um movimento gradual de fortalecimento da gestão da equidade racial"
-        },
-        {
-          "titulo": "Equidade racial avança nas redes municipais da Região Sudeste",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-avanca-nas-redes-municipais-da-regiao-sudeste",
-          "data": "28/09/2026",
-          "resumo": "O resultado do Diagnóstico Equidade na região revela um movimento gradual de fortalecimento da gestão da equidade racial"
-        },
-        {
-          "titulo": "Aulão do Enem reúne 2 mil estudantes na Bahia",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/aulao-do-enem-reune-2-mil-estudantes-na-bahia",
-          "data": "28/09/2026",
-          "resumo": "Na reta final para as provas, MEC em parceria com estado e universidade pública, levou apoio pedagógico e orientação socioemocional a jovens do Oeste Baiano"
-        },
-        {
-          "titulo": "Mulheres Mil: Amapá oferta 85 vagas de qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-amapa-oferta-85-vagas-de-qualificacao-profissional",
-          "data": "28/09/2026",
-          "resumo": "Cursos gratuitos serão ministrados pela secretaria de educação do estado a partir de outubro"
-        },
-        {
-          "titulo": "Mulheres Mil: Minas Gerais oferta mais de 600 vagas de qualificação profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mulheres-mil-minas-gerais-oferta-mais-de-600-vagas-de-qualificacao-profissional",
-          "data": "28/09/2026",
-          "resumo": "Cursos gratuitos serão ministrados pela rede federal e pelas redes estaduais a partir de outubro"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +82,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "25 Sex 26 Sáb 27 Dom 28 Seg 29 Ter 30 Qua 1 Qui Atualmente não existem compromissos agendados.",
+        "resumo": "26 Sáb 27 Dom 28 Seg 29 Ter 30 Qua 1 Qui 2 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
