@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-09-30T16:31:37.601108+00:00",
+  "atualizado_em": "2026-10-01T00:24:59.292109+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senad acompanha projetos desenvolvidos em parceria com a Polícia Federal",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-acompanha-projetos-desenvolvidos-em-parceria-com-a-policia-federal",
+          "data": "30/09/2026",
+          "resumo": "Visita ao Instituto Nacional de Criminalística destacou investimentos em perícia, produção de evidências e monitoramento territorial"
+        },
+        {
+          "titulo": "Senasp instala Comitê Gestor Nacional do Centro Integrado Mulher Segura",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-instala-comite-gestor-nacional-do-centro-integrado-mulher-segura",
+          "data": "30/09/2026",
+          "resumo": "Colegiado reúne representantes das diretorias da Secretaria para planejar ações de combate à violência contra a mulher"
+        },
+        {
+          "titulo": "Fórum debate atualizações para procedimento do Termo Circunstanciado pela Polícia Militar",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forum-debate-atualizacoes-para-procedimento-do-termo-circunstanciado-pela-policia-militar",
+          "data": "30/09/2026",
+          "resumo": "Encontro reúne, em Brasília, representantes de 23 unidades Federativas para debater encaminhamento das ocorrências de menor potencial ofensivo"
+        },
+        {
+          "titulo": "Representantes do ENA-RJ participam de reunião do Eixo Tecnológico no Civitas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/representantes-do-ena-rj-participam-de-reuniao-do-eixo-tecnologico-no-civitas",
+          "data": "30/09/2026",
+          "resumo": "Encontro tratou do uso de recursos tecnológicos no enfrentamento ao roubo de cargas e a outros crimes praticados nos corredores logísticos prioritários"
+        },
         {
           "titulo": "MJSP reúne setor de transporte de cargas para discutir enfrentamento ao crime no RJ",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reune-setor-de-transporte-de-cargas-para-discutir-enfrentamento-ao-crime-no-rj",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-toma-novas-medidas-para-conter-alta-dos-combustiveis",
           "data": "28/09/2026",
           "resumo": "Iniciativas incluem manutenção da subvenção ao óleo diesel, novas rodadas de fiscalização e endurecimento de punições a revendedores e distribuidores"
-        },
-        {
-          "titulo": "Força-tarefa dos Ministérios da Justiça e Segurança Pública e da Fazenda derruba 506 sites suspeitos de apostas após a edição da MP das Bets",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-tarefa-dos-ministerios-da-justica-e-seguranca-publica-e-da-fazenda-derruba-506-sites-suspeitos-de-apostas-apos-a-edicao-da-mp-das-bets",
-          "data": "27/09/2026",
-          "resumo": "Monitoramento também encontrou publicidade de bets na Meta e no Google após a entrada em vigor da proibição"
-        },
-        {
-          "titulo": "MJSP bloqueia rede de divulgação de bets com 212 mil membros no Telegram",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-bloqueia-rede-de-divulgacao-de-bets-com-212-mil-membros-no-telegram",
-          "data": "27/09/2026",
-          "resumo": "Grupos divulgam “sinais”, prometem lucros de até 260% ao mês e direcionam usuários para plataformas; Ciberlab também encaminhou sites suspeitos à Secretaria de Prêmios e Apostas."
-        },
-        {
-          "titulo": "Governo Federal proíbe bets em todo o País e lança pacote de proteção às famílias endividadas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-proibe-bets-em-todo-o-pais-e-lanca-pacote-de-protecao-as-familias-endividadas-1",
-          "data": "25/09/2026",
-          "resumo": "Presidente assina MP proibindo oferta, intermediação e publicidade de apostas de quota fixa; PL que tipifica crimes do setor e MP que renegocia até R$ 150 bilhões em dívidas de brasileiros"
-        },
-        {
-          "titulo": "Sinab alcança marca de 10 mil ligações confirmadas e amplia integração da perícia criminal",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sinab-alcanca-marca-de-10-mil-ligacoes-confirmadas-e-amplia-integracao-da-pericia-criminal",
-          "data": "25/09/2026",
-          "resumo": "Sistema permite relacionar vestígios balísticos de diferentes ocorrências e identificar conexões entre crimes em todo o País"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Instituída Política Nacional de Educação Ambiental Escolar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/instituida-politica-nacional-de-educacao-ambiental-escolar",
-          "data": "29/09/2026",
-          "resumo": "Portaria estabelece diretrizes para a educação ambiental na educação básica, com ações de prevenção, mitigação e adaptação às mudanças climáticas"
-        },
-        {
-          "titulo": "Pronatec oferta 299 vagas verdes para qualificação profissional em MG",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferta-299-vagas-verdes-para-qualificacao-profissional-em-mg",
-          "data": "29/09/2026",
-          "resumo": "Cinco cursos gratuitos serão disponibilizados em outubro pelo Instituto Federal do Norte de Minas Gerais e pela Universidade Federal de Viçosa. Detalhes disponíveis no Painel de Oportunidades do portal do MEC"
-        },
-        {
-          "titulo": "Formadores de Moçambique participam de formação na Rede Federal",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/formadores-de-mocambique-participam-de-formacao-na-rede-federal",
-          "data": "29/09/2026",
-          "resumo": "Participantes do Bramotec terão aulas presenciais em novo institutos federais até 29 de outubro com conteúdos voltados ao ensino técnico em ciências agrárias e formação de docentes e gestores"
-        },
-        {
-          "titulo": "Iniciativa promove checagem de notícias em escola de Sergipe",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/iniciativa-promove-checagem-de-noticias-em-escola-de-sergipe",
-          "data": "29/09/2026",
-          "resumo": "Projeto surgiu a partir de uma aula de preparação para o Enem, quando foram debatidas as fake news e o seu impacto na sociedade. Objetivo é ajudar estudantes a lidar com a quantidade de informações do cotidiano"
-        },
-        {
-          "titulo": "2 mil estudantes participam de aulão preparatório para o Enem no Ceará",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/2-mil-estudantes-participam-de-aulao-preparatorio-para-o-enem-no-ceara",
-          "data": "29/09/2026",
-          "resumo": "Nesta terça (29), em clima de reta final para as provas, MEC levou apoio pedagógico e orientação socioemocional a jovens de Fortaleza, em parceria com a Secretaria da Educação do Estado do Ceará"
-        },
-        {
-          "titulo": "Education at a Glance 2026 reúne dados sobre escolaridade e investimento em educação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/education-at-a-glance-2026-reune-dados-sobre-escolaridade-e-investimento-em-educacao",
-          "data": "29/09/2026",
-          "resumo": "Relatório divulgado pela OCDE nesta terça-feira (29) apresenta indicadores sobre escolaridade da população, conclusão do ensino médio, educação superior e recursos destinados à educação"
-        },
-        {
-          "titulo": "Educação digital e midiática é tema de episódio do PodMEC",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/educacao-digital-e-midiatica-e-tema-de-episodio-do-podmec",
-          "data": "28/09/2026",
-          "resumo": "Edição debateu uso da IA na educação e conectividade das escolas, com atenção especial para o emprego das tecnologias com fins pedagógicos. Interessados podem acessar pelo YouTube ou pelo Spotify do MEC"
-        },
-        {
-          "titulo": "Prestação de contas do primeiro ciclo do Escola em Tempo Integral deve ser concluída até 31 de dezembro",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/prestacao-de-contas-do-primeiro-ciclo-do-escola-em-tempo-integral-deve-ser-concluida-ate-31-de-dezembro",
-          "data": "28/09/2026",
-          "resumo": "Prazo de execução dos recursos termina em 31 de outubro de 2026. Gestores precisam manter os registros das despesas atualizados"
-        },
-        {
-          "titulo": "Equidade racial avança nas redes municipais do Nordeste",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-avanca-nas-redes-municipais-do-nordeste",
-          "data": "28/09/2026",
-          "resumo": "O resultado do Diagnóstico Equidade na região revela um movimento gradual de fortalecimento da gestão da equidade racial"
-        },
-        {
-          "titulo": "Equidade racial avança nas redes municipais da Região Norte",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/equidade-racial-avanca-nas-redes-municipais-da-regiao-norte",
-          "data": "28/09/2026",
-          "resumo": "O resultado do Diagnóstico Equidade na região revela um movimento gradual de fortalecimento da gestão da equidade racial"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
