@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-10-01T17:09:33.854871+00:00",
+  "atualizado_em": "2026-10-02T00:35:30.098306+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senasp leva debate sobre financiamento da segurança pública a curso da Enap",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-leva-debate-sobre-financiamento-da-seguranca-publica-a-curso-da-enap",
+          "data": "01/10/2026",
+          "resumo": "Disciplina abordará financiamento, pacto federativo, transferências de recursos e gestão do Fundo Nacional de Segurança Pública"
+        },
         {
           "titulo": "Senad acompanha projetos desenvolvidos em parceria com a Polícia Federal",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-acompanha-projetos-desenvolvidos-em-parceria-com-a-policia-federal",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-lanca-edital-publico-para-ampliar-rede-cais-em-todo-o-pais",
           "data": "28/09/2026",
           "resumo": "Chamamento prevê até R$ 39,5 milhões para projetos de acesso a direitos e inclusão social e produtiva em diferentes regiões"
-        },
-        {
-          "titulo": "Governo Federal toma novas medidas para conter alta dos combustíveis",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-toma-novas-medidas-para-conter-alta-dos-combustiveis",
-          "data": "28/09/2026",
-          "resumo": "Iniciativas incluem manutenção da subvenção ao óleo diesel, novas rodadas de fiscalização e endurecimento de punições a revendedores e distribuidores"
         }
       ],
       "agenda": {
@@ -73,6 +73,18 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "MEC divulga resultado de obras aprovadas do PNLD",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-divulga-resultado-de-obras-aprovadas-do-pnld",
+          "data": "01/10/2026",
+          "resumo": "Materiais são voltados à formação continuada e ao trabalho pedagógico dos professores dos anos iniciais do ensino fundamental"
+        },
+        {
+          "titulo": "MEC promove aulão do Enem para 2 mil estudantes em MG",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-do-enem-para-2-mil-estudantes-em-mg",
+          "data": "01/10/2026",
+          "resumo": "Nesta quinta (1º), ministro Leonardo Barchini participou de aulão preparatório para o Enem em Belo Horizonte. Atividade ocorreu no Campus Pampulha, da UFMG, e contou com revisão e orientações para a prova"
+        },
         {
           "titulo": "Divulgada lista de aprovados em edital de economia solidária",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/divulgada-lista-de-aprovados-em-edital-de-economia-solidaria",
@@ -120,18 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferta-200-vagas-verdes-para-qualificacao-profissional-no-pa",
           "data": "30/09/2026",
           "resumo": "Três cursos gratuitos estão sendo disponibilizados pelo IFPA. Detalhes podem ser acessados no Painel de Oportunidades do programa no portal do MEC"
-        },
-        {
-          "titulo": "Pronatec oferta 200 vagas verdes para qualificação profissional no PI",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferta-200-vagas-verdes-para-qualificacao-profissional-no-pi",
-          "data": "30/09/2026",
-          "resumo": "Um curso gratuito está sendo disponibilizado pelo IFPI. Detalhes podem ser acessados no Painel de Oportunidades do programa no portal do MEC"
-        },
-        {
-          "titulo": "Pronatec oferta 197 vagas verdes para qualificação profissional no RN",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferta-197-vagas-verdes-para-qualificacao-profissional-no-rn",
-          "data": "30/09/2026",
-          "resumo": "Três cursos gratuitos estão sendo disponibilizados pelo IFRN. Detalhes podem ser acessados no Painel de Oportunidades do programa no portal do MEC"
         }
       ],
       "agenda": {
