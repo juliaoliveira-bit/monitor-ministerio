@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-02T00:35:30.098306+00:00",
+  "atualizado_em": "2026-10-02T16:23:07.510211+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "MEC divulga resultado de obras aprovadas do PNLD",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-divulga-resultado-de-obras-aprovadas-do-pnld",
-          "data": "01/10/2026",
-          "resumo": "Materiais são voltados à formação continuada e ao trabalho pedagógico dos professores dos anos iniciais do ensino fundamental"
-        },
-        {
-          "titulo": "MEC promove aulão do Enem para 2 mil estudantes em MG",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-do-enem-para-2-mil-estudantes-em-mg",
-          "data": "01/10/2026",
-          "resumo": "Nesta quinta (1º), ministro Leonardo Barchini participou de aulão preparatório para o Enem em Belo Horizonte. Atividade ocorreu no Campus Pampulha, da UFMG, e contou com revisão e orientações para a prova"
-        },
-        {
-          "titulo": "Divulgada lista de aprovados em edital de economia solidária",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/divulgada-lista-de-aprovados-em-edital-de-economia-solidaria",
-          "data": "01/10/2026",
-          "resumo": "As dez instituições selecionadas receberão capacitação nas áreas de gestão, pré-incubação e incubação de empreendimentos coletivos de base comunitária, contando com suporte financeiro para bolsas e aquisição de equipamentos"
-        },
-        {
-          "titulo": "UFPA oferece terapia ocupacional a pessoas com esclerose múltipla",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ufpa-oferece-terapia-ocupacional-a-pessoas-com-esclerose-multipla",
-          "data": "01/10/2026",
-          "resumo": "Iniciativa da Universidade Federal do Pará oferece terapia ocupacional e tecnologias assistivas. Ações buscam ampliar a autonomia e a participação social dos pacientes"
-        },
-        {
-          "titulo": "MEC disponibiliza relatórios para apoiar municípios na análise do Ideb",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-disponibiliza-relatorios-para-apoiar-municipios-na-analise-do-ideb",
-          "data": "01/10/2026",
-          "resumo": "Materiais permitem acompanhar a trajetória do Ideb da rede municipal e analisar o desempenho das escolas nos anos iniciais do ensino fundamental"
-        },
-        {
-          "titulo": "Cerca de 2 mil estudantes participam de aulão do Enem no RJ",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/cerca-de-2-mil-estudantes-participam-de-aulao-do-enem-no-rj",
-          "data": "30/09/2026",
-          "resumo": "Os alunos participaram de revisão para o Enem 2026, com conteúdos de Matemática, Linguagens e Redação, Ciências da Natureza e Ciências Humanas"
-        },
-        {
-          "titulo": "Edital seleciona professores da EPT para mestrado profissional em rede",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/edital-seleciona-professores-da-ept-para-mestrado-profissional-em-rede",
-          "data": "30/09/2026",
-          "resumo": "Inscrições para mestrado profissional em Docência para Educação Profissional e Tecnológica vão até dia 2/11. Aulas acontecerão a partir de 2027 de forma presencial em institutos federais das cinco regiões do país"
-        },
-        {
-          "titulo": "Fies: publicado edital para a edição de vagas remanescentes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/fies-publicado-edital-para-a-edicao-de-vagas-remanescentes",
-          "data": "30/09/2026",
-          "resumo": "Mantenedoras de instituições superiores têm de 1º a 7 de outubro para formalizar a adesão às vagas remanescentes do Fies 2026/2. Para os estudantes, as inscrições abrem em 26 de outubro"
-        },
-        {
-          "titulo": "Pronatec oferta 290 vagas verdes para qualificação profissional no MA",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferta-290-vagas-verdes-para-qualificacao-profissional-no-ma",
-          "data": "30/09/2026",
-          "resumo": "Seis cursos gratuitos estão sendo disponibilizados pelo IFMA. Detalhes podem ser acessados no Painel de Oportunidades do programa no portal do MEC"
-        },
-        {
-          "titulo": "Pronatec oferta 200 vagas verdes para qualificação profissional no PA",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/pronatec-oferta-200-vagas-verdes-para-qualificacao-profissional-no-pa",
-          "data": "30/09/2026",
-          "resumo": "Três cursos gratuitos estão sendo disponibilizados pelo IFPA. Detalhes podem ser acessados no Painel de Oportunidades do programa no portal do MEC"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +82,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "28 Seg 29 Ter 30 Qua 1 Qui 2 Sex 3 Sáb 4 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "29 Ter 30 Qua 1 Qui 2 Sex 3 Sáb 4 Dom 5 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
