@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-10-02T16:23:07.510211+00:00",
+  "atualizado_em": "2026-10-03T00:15:07.921106+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Governo Federal amplia fiscalização contra bets ilegais",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-amplia-fiscalizacao-contra-bets-ilegais",
+          "data": "02/10/2026",
+          "resumo": "Novo departamento na Senacon reforça atuação do MJSP; saldo nas plataformas cai 31%"
+        },
+        {
+          "titulo": "Sistema Integrado de Segurança Pública do Rio de Janeiro reúne dados e amplia acesso a serviços digitais",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sistema-integrado-de-seguranca-publica-do-rio-de-janeiro-reune-dados-e-amplia-acesso-a-servicos-digitais",
+          "data": "02/10/2026",
+          "resumo": "Plataforma criada com 100% de recursos do Fundo Nacional de Segurança Pública integra informações e apoia a gestão do setor no estado"
+        },
         {
           "titulo": "Senasp leva debate sobre financiamento da segurança pública a curso da Enap",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-leva-debate-sobre-financiamento-da-seguranca-publica-a-curso-da-enap",
@@ -51,18 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-ministerio-da-fazenda-solicitam-derrubada-de-5-209-sites-de-apostas-ilegais-1",
           "data": "29/09/2026",
           "resumo": "Operação também solicitou remoção de 300 páginas do Facebook e 90 perfis do Instagram"
-        },
-        {
-          "titulo": "Museu Nacional de Belas Artes reabre duas salas revitalizadas com recursos do FDD",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/museu-nacional-de-belas-artes-reabre-duas-salas-revitalizadas-com-recursos-do-fdd",
-          "data": "28/09/2026",
-          "resumo": "Espaços voltam a receber exposições e visitantes no Rio de Janeiro"
-        },
-        {
-          "titulo": "Senad lança edital público para ampliar Rede Cais em todo o País",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-lanca-edital-publico-para-ampliar-rede-cais-em-todo-o-pais",
-          "data": "28/09/2026",
-          "resumo": "Chamamento prevê até R$ 39,5 milhões para projetos de acesso a direitos e inclusão social e produtiva em diferentes regiões"
         }
       ],
       "agenda": {
