@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-10-03T14:57:55.381900+00:00",
+  "atualizado_em": "2026-10-03T23:35:40.656741+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP coordenará operações integradas de segurança pública durante as eleições",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-coordenara-operacoes-integradas-de-seguranca-publica-durante-as-eleicoes",
+          "data": "03/10/2026",
+          "resumo": "Ministério comandará as ações voltadas à garantia da ordem pública. Operações serão realizadas em parceria com a Justiça Eleitoral e com outros órgãos"
+        },
         {
           "titulo": "Eleições serão monitoradas em tempo real nas 27 Unidades da Federação",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eleicoes-serao-monitoradas-em-tempo-real-nas-27-unidades-da-federacao",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reune-setor-de-transporte-de-cargas-para-discutir-enfrentamento-ao-crime-no-rj",
           "data": "30/09/2026",
           "resumo": "Encontro no Escritório Nacional Antifacção também tratou da proteção dos corredores logísticos do estado"
-        },
-        {
-          "titulo": "MJSP regulamenta notificação de crimes contra crianças em plataformas digitais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-regulamenta-notificacao-de-crimes-contra-criancas-em-plataformas-digitais",
-          "data": "29/09/2026",
-          "resumo": "Portaria cria fluxo nacional para relatórios de notificação e prevê força integrada contra crimes organizados em ambiente cibernético"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Cadernos de Gestão reúnem orientações para as redes de ensino",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cadernos-de-gestao-reunem-orientacoes-para-as-redes-de-ensino",
-          "data": "02/10/2026",
-          "resumo": "Publicações abordam seis modalidades da educação básica e apresentam conteúdos sobre planejamento, financiamento, formação e avaliação"
-        },
-        {
-          "titulo": "Rede acolhe educadores vítimas de censura e perseguição",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/rede-acolhe-educadores-vitimas-de-censura-e-perseguicao",
-          "data": "02/10/2026",
-          "resumo": "A iniciativa reúne universidades públicas federais para oferecer suporte multidimensional a educadores em situações de violência profissional"
-        },
-        {
-          "titulo": "MEC promove aulão do Enem para 2 mil alunos em SP",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-do-enem-para-2-mil-alunos-em-sp",
-          "data": "02/10/2026",
-          "resumo": "Durante o encontro, os alunos acompanharam revisão de linguagens, ciências humanas e da natureza e matemática. Durante o evento, estudantes também receberam orientações voltadas para o dia da prova"
-        },
-        {
-          "titulo": "Guia do PNLD Educação Infantil 2026-2029 está disponível para consulta",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/guia-do-pnld-educacao-infantil-2026-2029-esta-disponivel-para-consulta",
-          "data": "02/10/2026",
-          "resumo": "Escolha das obras do Programa Nacional do Livro e do Material Didático será realizada de 13 a 30 de outubro, exclusivamente no sistema PNLD Gestão"
-        },
-        {
-          "titulo": "Ex-aluno do IFRS transforma formação em trajetória empreendedora",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/ex-aluno-do-ifrs-transforma-formacao-em-trajetoria-empreendedora",
-          "data": "02/10/2026",
-          "resumo": "Dener Finotti conta como curso realizado no Campus Rolante do Instituto Federal do Rio Grande do Sul abriu oportunidades de estudo no exterior e o ajudou a construir uma nova trajetória profissional"
-        },
-        {
-          "titulo": "MEC divulga resultado de obras aprovadas do PNLD",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-divulga-resultado-de-obras-aprovadas-do-pnld",
-          "data": "01/10/2026",
-          "resumo": "Materiais são voltados à formação continuada e ao trabalho pedagógico dos professores dos anos iniciais do ensino fundamental"
-        },
-        {
-          "titulo": "MEC promove aulão do Enem para 2 mil estudantes em MG",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-do-enem-para-2-mil-estudantes-em-mg",
-          "data": "01/10/2026",
-          "resumo": "Nesta quinta (1º), ministro Leonardo Barchini participou de aulão preparatório para o Enem em Belo Horizonte. Atividade ocorreu no Campus Pampulha, da UFMG, e contou com revisão e orientações para a prova"
-        },
-        {
-          "titulo": "Divulgada lista de aprovados em edital de economia solidária",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/divulgada-lista-de-aprovados-em-edital-de-economia-solidaria",
-          "data": "01/10/2026",
-          "resumo": "As dez instituições selecionadas receberão capacitação nas áreas de gestão, pré-incubação e incubação de empreendimentos coletivos de base comunitária, contando com suporte financeiro para bolsas e aquisição de equipamentos"
-        },
-        {
-          "titulo": "UFPA oferece terapia ocupacional a pessoas com esclerose múltipla",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/ufpa-oferece-terapia-ocupacional-a-pessoas-com-esclerose-multipla",
-          "data": "01/10/2026",
-          "resumo": "Iniciativa da Universidade Federal do Pará oferece terapia ocupacional e tecnologias assistivas. Ações buscam ampliar a autonomia e a participação social dos pacientes"
-        },
-        {
-          "titulo": "MEC disponibiliza relatórios para apoiar municípios na análise do Ideb",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/mec-disponibiliza-relatorios-para-apoiar-municipios-na-analise-do-ideb",
-          "data": "01/10/2026",
-          "resumo": "Materiais permitem acompanhar a trajetória do Ideb da rede municipal e analisar o desempenho das escolas nos anos iniciais do ensino fundamental"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
