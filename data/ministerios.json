@@ -1,14 +1,20 @@
 {
-  "atualizado_em": "2026-10-04T15:31:04.604772+00:00",
+  "atualizado_em": "2026-10-04T23:52:17.982430+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
         {
-          "titulo": "MJSP coordenará operações integradas de segurança pública durante as eleições",
+          "titulo": "Ministro da Justiça visita centro de comando nacional que monitora a segurança das eleições",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-visita-centro-de-comando-nacional-que-monitora-a-seguranca-das-eleicoes",
+          "data": "04/10/2026",
+          "resumo": "Estrutura, em Brasília, recebe informações sobre as ocorrências em todo o Brasil. Wellington César conversou com integrantes da Polícia Federal e 27 superintendentes da PRF em todo o Brasil"
+        },
+        {
+          "titulo": "MJSP coordena operações integradas de segurança pública durante as eleições",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-coordenara-operacoes-integradas-de-seguranca-publica-durante-as-eleicoes",
           "data": "03/10/2026",
-          "resumo": "Ministério comandará as ações voltadas à garantia da ordem pública. Operações serão realizadas em parceria com a Justiça Eleitoral e com outros órgãos"
+          "resumo": "Ministério comanda as ações voltadas à garantia da ordem pública. Operações são realizadas em parceria com a Justiça Eleitoral e com outros órgãos"
         },
         {
           "titulo": "Eleições serão monitoradas em tempo real nas 27 Unidades da Federação",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/representantes-do-ena-rj-participam-de-reuniao-do-eixo-tecnologico-no-civitas",
           "data": "30/09/2026",
           "resumo": "Encontro tratou do uso de recursos tecnológicos no enfrentamento ao roubo de cargas e a outros crimes praticados nos corredores logísticos prioritários"
-        },
-        {
-          "titulo": "MJSP reúne setor de transporte de cargas para discutir enfrentamento ao crime no RJ",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reune-setor-de-transporte-de-cargas-para-discutir-enfrentamento-ao-crime-no-rj",
-          "data": "30/09/2026",
-          "resumo": "Encontro no Escritório Nacional Antifacção também tratou da proteção dos corredores logísticos do estado"
         }
       ],
       "agenda": {
