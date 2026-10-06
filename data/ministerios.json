@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-10-06T01:41:21.355444+00:00",
+  "atualizado_em": "2026-10-06T16:57:40.702151+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senad reúne instituições para fortalecer proteção de crianças e adolescentes contra o crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-reune-instituicoes-para-fortalecer-protecao-de-criancas-e-adolescentes-contra-o-crime-organizado",
+          "data": "06/10/2026",
+          "resumo": "Projeto Crescer em Segurança inicia construção de metodologia para atuação integrada em territórios prioritários"
+        },
         {
           "titulo": "Ministério da Justiça e Segurança Pública divulga relatório final das operações no primeiro turno das eleições",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-e-seguranca-publica-divulga-relatorio-final-sobre-as-operacao-no-fim-de-semana-de-eleicoes",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-acompanha-projetos-desenvolvidos-em-parceria-com-a-policia-federal",
           "data": "30/09/2026",
           "resumo": "Visita ao Instituto Nacional de Criminalística destacou investimentos em perícia, produção de evidências e monitoramento territorial"
-        },
-        {
-          "titulo": "Senasp instala Comitê Gestor Nacional do Centro Integrado Mulher Segura",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-instala-comite-gestor-nacional-do-centro-integrado-mulher-segura",
-          "data": "30/09/2026",
-          "resumo": "Colegiado reúne representantes das diretorias da Secretaria para planejar ações de combate à violência contra a mulher"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Cursinhos populares apoiam preparação de estudantes para o Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cursinhos-populares-apoiam-preparacao-de-estudantes-para-o-enem",
+          "data": "06/10/2026",
+          "resumo": "Faltando 34 dias para o Enem, estudantes intensificam a preparação com apoio de 1.535 cursinhos populares da Rede Nacional de Cursinhos Populares (CPOP), que atende mais de 58 mil alunos pelo país"
+        },
+        {
+          "titulo": "Educação amplia articulação com outras políticas públicas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/educacao-amplia-articulacao-com-outras-politicas-publicas",
+          "data": "06/10/2026",
+          "resumo": "Série de fascículos aborda como diferentes áreas do poder público podem atuar de forma conjunta para enfrentar desafios educacionais e garantir direitos"
+        },
+        {
+          "titulo": "Rede Federal inspira estudantes em palestras no Rio Grande do Sul",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/rede-federal-inspira-estudantes-em-palestras-no-rio-grande-do-sul",
+          "data": "05/10/2026",
+          "resumo": "Nos 117 anos da Rede Federal, MEC reúne comunidade acadêmica de cinco campi do estado para atividades, incluindo palestra “Contexto da Educação Profissional no Brasil”, ministrada pelo secretário da Sase"
+        },
+        {
+          "titulo": "PodMEC debate neurociência e educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/podmec-debate-neurociencia-e-educacao",
+          "data": "05/10/2026",
+          "resumo": "Encontro buscou conversar sobre como o cérebro humano aprende e o papel das pesquisas científicas na formulação de políticas públicas. Episódio está disponível nos canais do MEC no Youtube e no Spotify"
+        },
+        {
+          "titulo": "Projeto gratuito atende pessoas com feridas de difícil cicatrização em GO",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/projeto-gratuito-atende-pessoas-com-feridas-de-dificil-cicatrizacao-em-go",
+          "data": "05/10/2026",
+          "resumo": "Para acompanhamento no Campus Águas Lindas do IFG, é necessário ter ferida sem cicatrização há mais de quatro semanas e ao menos duas comorbidades médicas. Agendamento é realizado via formulário online"
+        },
+        {
+          "titulo": "Conheça a história de Gustavo e sua preparação para o Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/conheca-a-historia-de-gustavo-e-sua-preparacao-para-o-enem",
+          "data": "05/10/2026",
+          "resumo": "Aluno do ensino médio integrado no Campus Manaus do Ifam, Gustavo Santos participará pela primeira vez do Exame Nacional do Ensino Médio (Enem), que ocorrerá nos dias 8 e 15 de novembro em todo o Brasil"
+        },
+        {
+          "titulo": "Estudantes indígenas têm prazo ampliado para inscrição em pós-graduação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/estudantes-indigenas-tem-prazo-ampliado-para-inscricao-em-pos-graduacao",
+          "data": "05/10/2026",
+          "resumo": "Inscrições para o Programa de Desenvolvimento Acadêmico Indígena (PDAI) podem ser feitas até 26 de outubro. Retificação também atualiza as datas das etapas de seleção e prevê resultado final até março de 2027"
+        },
+        {
+          "titulo": "Abertas inscrições para curso gratuito sobre financiamento educacional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/abertas-inscricoes-para-curso-gratuito-sobre-financiamento-educacional",
+          "data": "05/10/2026",
+          "resumo": "Com 80 horas, formação online aborda orçamento público, gestão financeira nas escolas e uso de recursos da educação básica. Inscrições iniciam nesta segunda (5/10) para educadores de todo o país"
+        },
+        {
+          "titulo": "Cadernos de Gestão reúnem orientações para as redes de ensino",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cadernos-de-gestao-reunem-orientacoes-para-as-redes-de-ensino",
+          "data": "02/10/2026",
+          "resumo": "Publicações abordam seis modalidades da educação básica e apresentam conteúdos sobre planejamento, financiamento, formação e avaliação"
+        },
+        {
+          "titulo": "Rede acolhe educadores vítimas de censura e perseguição",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/rede-acolhe-educadores-vitimas-de-censura-e-perseguicao",
+          "data": "02/10/2026",
+          "resumo": "A iniciativa reúne universidades públicas federais para oferecer suporte multidimensional a educadores em situações de violência profissional"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "2 Sex 3 Sáb 4 Dom 5 Seg 6 Ter 7 Qua 8 Qui Atualmente não existem compromissos agendados.",
+        "resumo": "3 Sáb 4 Dom 5 Seg 6 Ter 7 Qua 8 Qui 9 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
