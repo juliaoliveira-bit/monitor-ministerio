@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-10-05T19:29:27.941045+00:00",
+  "atualizado_em": "2026-10-06T01:41:21.355444+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Ministério da Justiça e Segurança Pública divulga relatório final das operações no primeiro turno das eleições",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-e-seguranca-publica-divulga-relatorio-final-sobre-as-operacao-no-fim-de-semana-de-eleicoes",
+          "data": "05/10/2026",
+          "resumo": "Segurança do processo eleitoral foi monitorada em tempo real nas 27 Unidades da Federação; região Nordeste concentrou a maior parte das ocorrências, com 28,7%"
+        },
         {
           "titulo": "Força Nacional forma 43 profissionais no 86º curso de atendimento pré-hospitalar e resgate tático",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-forma-43-profissionais-no-86o-curso-de-aph-e-resgate-tatico",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-instala-comite-gestor-nacional-do-centro-integrado-mulher-segura",
           "data": "30/09/2026",
           "resumo": "Colegiado reúne representantes das diretorias da Secretaria para planejar ações de combate à violência contra a mulher"
-        },
-        {
-          "titulo": "Fórum debate atualizações para procedimento do Termo Circunstanciado pela Polícia Militar",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forum-debate-atualizacoes-para-procedimento-do-termo-circunstanciado-pela-policia-militar",
-          "data": "30/09/2026",
-          "resumo": "Encontro reúne, em Brasília, representantes de 23 unidades Federativas para debater encaminhamento das ocorrências de menor potencial ofensivo"
         }
       ],
       "agenda": {
