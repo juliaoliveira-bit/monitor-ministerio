@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-10-06T16:57:40.702151+00:00",
+  "atualizado_em": "2026-10-07T00:28:00.457800+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP e Rio colocam nas ruas operação contra o roubo de cargas nos principais corredores logísticos do estado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-rio-de-janeiro-iniciam-operacao-para-proteger-corredores-logisticos-e-combater-o-roubo-de-cargas",
+          "data": "06/10/2026",
+          "resumo": "Para enfrentar organizações criminosas, ação integrada com PRF, PMERJ e Força Nacional vai atuar de forma contínua, com inteligência e foco em Avenida Brasil e BR-040"
+        },
+        {
+          "titulo": "Bets fora do ar: plataformas cumprem determinação e encerram apostas no Brasil",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/bets-fora-do-ar-plataformas-cumprem-determinacao-e-encerram-apostas-no-brasil",
+          "data": "06/10/2026",
+          "resumo": "R$ 1,325 bilhão ainda aguarda devolução a cerca de 26,5 milhões de apostadores; bancos deverão restituir os valores entre 9 e 14 de outubro"
+        },
+        {
+          "titulo": "Escola Nacional de Segurança Pública disponibiliza curso sobre prevenção da violência",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-disponibiliza-curso-sobre-prevencao-da-violencia",
+          "data": "06/10/2026",
+          "resumo": "Formação destinada a profissionais do Susp aborda conceitos e ferramentas relacionadas à prevenção da violência e ao controle da criminalidade"
+        },
+        {
+          "titulo": "MJSP defende prevenção de riscos e capacidade institucional na regulação do ambiente digital",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-defende-prevencao-de-riscos-e-capacidade-institucional-na-regulacao-do-ambiente-digital-1",
+          "data": "06/10/2026",
+          "resumo": "Semana de Proteção de Dados Pessoais 2026 no Senado contou com participação de representantes da Sedigi"
+        },
         {
           "titulo": "Senad reúne instituições para fortalecer proteção de crianças e adolescentes contra o crime organizado",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-reune-instituicoes-para-fortalecer-protecao-de-criancas-e-adolescentes-contra-o-crime-organizado",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eleicoes-serao-monitoradas-em-tempo-real-nas-27-unidades-da-federacao",
           "data": "03/10/2026",
           "resumo": "MJSP coordena as operações no Centro de Comando e Controle Nacional em Brasília; estrutura conta com representantes das forças de segurança de todos os estados e do DF"
-        },
-        {
-          "titulo": "Governo Federal amplia fiscalização contra bets ilegais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-amplia-fiscalizacao-contra-bets-ilegais",
-          "data": "02/10/2026",
-          "resumo": "Novo departamento na Senacon reforça atuação do MJSP; saldo nas plataformas cai 31%"
-        },
-        {
-          "titulo": "Sistema Integrado de Segurança Pública do Rio de Janeiro reúne dados e amplia acesso a serviços digitais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sistema-integrado-de-seguranca-publica-do-rio-de-janeiro-reune-dados-e-amplia-acesso-a-servicos-digitais",
-          "data": "02/10/2026",
-          "resumo": "Plataforma criada com 100% de recursos do Fundo Nacional de Segurança Pública integra informações e apoia a gestão do setor no estado"
-        },
-        {
-          "titulo": "Senasp leva debate sobre financiamento da segurança pública a curso da Enap",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-leva-debate-sobre-financiamento-da-seguranca-publica-a-curso-da-enap",
-          "data": "01/10/2026",
-          "resumo": "Disciplina abordará financiamento, pacto federativo, transferências de recursos e gestão do Fundo Nacional de Segurança Pública"
-        },
-        {
-          "titulo": "Senad acompanha projetos desenvolvidos em parceria com a Polícia Federal",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-acompanha-projetos-desenvolvidos-em-parceria-com-a-policia-federal",
-          "data": "30/09/2026",
-          "resumo": "Visita ao Instituto Nacional de Criminalística destacou investimentos em perícia, produção de evidências e monitoramento territorial"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Cursinhos populares apoiam preparação de estudantes para o Enem",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cursinhos-populares-apoiam-preparacao-de-estudantes-para-o-enem",
-          "data": "06/10/2026",
-          "resumo": "Faltando 34 dias para o Enem, estudantes intensificam a preparação com apoio de 1.535 cursinhos populares da Rede Nacional de Cursinhos Populares (CPOP), que atende mais de 58 mil alunos pelo país"
-        },
-        {
-          "titulo": "Educação amplia articulação com outras políticas públicas",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/educacao-amplia-articulacao-com-outras-politicas-publicas",
-          "data": "06/10/2026",
-          "resumo": "Série de fascículos aborda como diferentes áreas do poder público podem atuar de forma conjunta para enfrentar desafios educacionais e garantir direitos"
-        },
-        {
-          "titulo": "Rede Federal inspira estudantes em palestras no Rio Grande do Sul",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/rede-federal-inspira-estudantes-em-palestras-no-rio-grande-do-sul",
-          "data": "05/10/2026",
-          "resumo": "Nos 117 anos da Rede Federal, MEC reúne comunidade acadêmica de cinco campi do estado para atividades, incluindo palestra “Contexto da Educação Profissional no Brasil”, ministrada pelo secretário da Sase"
-        },
-        {
-          "titulo": "PodMEC debate neurociência e educação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/podmec-debate-neurociencia-e-educacao",
-          "data": "05/10/2026",
-          "resumo": "Encontro buscou conversar sobre como o cérebro humano aprende e o papel das pesquisas científicas na formulação de políticas públicas. Episódio está disponível nos canais do MEC no Youtube e no Spotify"
-        },
-        {
-          "titulo": "Projeto gratuito atende pessoas com feridas de difícil cicatrização em GO",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/projeto-gratuito-atende-pessoas-com-feridas-de-dificil-cicatrizacao-em-go",
-          "data": "05/10/2026",
-          "resumo": "Para acompanhamento no Campus Águas Lindas do IFG, é necessário ter ferida sem cicatrização há mais de quatro semanas e ao menos duas comorbidades médicas. Agendamento é realizado via formulário online"
-        },
-        {
-          "titulo": "Conheça a história de Gustavo e sua preparação para o Enem",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/conheca-a-historia-de-gustavo-e-sua-preparacao-para-o-enem",
-          "data": "05/10/2026",
-          "resumo": "Aluno do ensino médio integrado no Campus Manaus do Ifam, Gustavo Santos participará pela primeira vez do Exame Nacional do Ensino Médio (Enem), que ocorrerá nos dias 8 e 15 de novembro em todo o Brasil"
-        },
-        {
-          "titulo": "Estudantes indígenas têm prazo ampliado para inscrição em pós-graduação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/estudantes-indigenas-tem-prazo-ampliado-para-inscricao-em-pos-graduacao",
-          "data": "05/10/2026",
-          "resumo": "Inscrições para o Programa de Desenvolvimento Acadêmico Indígena (PDAI) podem ser feitas até 26 de outubro. Retificação também atualiza as datas das etapas de seleção e prevê resultado final até março de 2027"
-        },
-        {
-          "titulo": "Abertas inscrições para curso gratuito sobre financiamento educacional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/abertas-inscricoes-para-curso-gratuito-sobre-financiamento-educacional",
-          "data": "05/10/2026",
-          "resumo": "Com 80 horas, formação online aborda orçamento público, gestão financeira nas escolas e uso de recursos da educação básica. Inscrições iniciam nesta segunda (5/10) para educadores de todo o país"
-        },
-        {
-          "titulo": "Cadernos de Gestão reúnem orientações para as redes de ensino",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cadernos-de-gestao-reunem-orientacoes-para-as-redes-de-ensino",
-          "data": "02/10/2026",
-          "resumo": "Publicações abordam seis modalidades da educação básica e apresentam conteúdos sobre planejamento, financiamento, formação e avaliação"
-        },
-        {
-          "titulo": "Rede acolhe educadores vítimas de censura e perseguição",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/rede-acolhe-educadores-vitimas-de-censura-e-perseguicao",
-          "data": "02/10/2026",
-          "resumo": "A iniciativa reúne universidades públicas federais para oferecer suporte multidimensional a educadores em situações de violência profissional"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
