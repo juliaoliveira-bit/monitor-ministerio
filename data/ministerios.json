@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-08T00:48:23.135035+00:00",
+  "atualizado_em": "2026-10-08T17:37:13.300434+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -80,70 +80,9 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [
-        {
-          "titulo": "Escola Supercomputador Santos Dumont recebe trabalhos até 19 de outubro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/escola-supercomputador-santos-dumont-recebe-trabalhos-ate-19-de-outubro",
-          "data": "07/10/2026",
-          "resumo": "Evento integra o Programa de Verão do Laboratório Nacional de Computação Científica (LNCC) e acontece de 25 de janeiro a 5 de fevereiro, em Petrópolis (RJ)"
-        },
-        {
-          "titulo": "Inscrições para o 9º Prêmio Brics Jovem Inovador estão abertas até 17 de outubro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-para-o-9o-premio-brics-jovem-inovador-estao-abertas-ate-17-de-outubro",
-          "data": "07/10/2026",
-          "resumo": "Premiação acontece durante o 11º Fórum de Jovens Cientistas do Brics em Bangalore, na Índia"
-        },
-        {
-          "titulo": "Nise da Silveira: a médica que revolucionou os tratamentos da saúde mental no Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/nise-da-silveira-a-medica-que-revolucionou-os-tratamentos-da-saude-mental-no-brasil",
-          "data": "06/10/2026",
-          "resumo": "Psiquiatra brasileira confrontou tratamentos agressivos e encontrou na arte novas formas de compreender pessoas com transtornos mentais"
-        },
-        {
-          "titulo": "Novo painel do El Niño aponta avanço da seca no Norte e Nordeste e mantém alerta para cheias no Sul",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/novo-painel-do-el-nino-aponta-avanco-da-seca-no-norte-e-nordeste-e-mantem-alerta-para-cheias-no-sul",
-          "data": "05/10/2026",
-          "resumo": "Fenômeno tem mais de 95% de probabilidade de atingir intensidade muito forte entre outubro e dezembro. Boletim mostra como cenário evoluiu no último mês"
-        },
-        {
-          "titulo": "Inscrições para o Fórum de Jovens Cientistas dos Brics 2026 seguem até 18 de outubro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-para-o-forum-de-jovens-cientistas-dos-brics-2026-seguem-ate-18-de-outubro",
-          "data": "05/10/2026",
-          "resumo": "Encontro reúne jovens pesquisadores de 2 a 6 de novembro, em Bangalore, na Índia"
-        },
-        {
-          "titulo": "Chamada Recursos Humanos em Áreas Estratégicas recebe inscrições até 9 de outubro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chamada-recursos-humanos-em-areas-estrategicas-rhae-recebe-inscricoes-ate-9-de-outubro",
-          "data": "02/10/2026",
-          "resumo": "Edital apoia contratação de mestres e doutores em empresas e projetos de Inteligência Artificial"
-        },
-        {
-          "titulo": "MCTI divulga resultado final do Prêmio Pop Ciência 2026",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mcti-divulga-resultado-final-do-premio-pop-ciencia-2026",
-          "data": "02/10/2026",
-          "resumo": "Premiação reconhece iniciativas de popularização da ciência em nove categorias"
-        },
-        {
-          "titulo": "Manejo sustentável de jacarés contribui para conservação e de geração de renda na Amazônia",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/manejo-sustentavel-de-jacares-contribui-para-conservacao-e-de-geracao-de-renda-na-amazonia",
-          "data": "02/10/2026",
-          "resumo": "Iniciativa do Instituto Mamirauá une conhecimento das comunidades tradicionais e pesquisas científicas"
-        },
-        {
-          "titulo": "Satélites construídos por estudantes de escolas públicas vão ao espaço",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/satelites-construidos-por-estudantes-de-escolas-publicas-vao-ao-espaco",
-          "data": "30/09/2026",
-          "resumo": "Projeto apoiado pela Agência Espacial Brasileira levou cem alunos de São Paulo e do Ceará da sala de aula à construção de dois nanossatélites"
-        },
-        {
-          "titulo": "Quais as implicações para o Brasil se a temperatura global ultrapassar 1,5°C?",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/quais-as-implicacoes-para-o-brasil-se-a-temperatura-global-ultrapassar-1-5oc",
-          "data": "29/09/2026",
-          "resumo": "Especialistas afirmam que impactos do processo de aquecimento gradativo do planeta aparecem na intensidade e frequência de eventos extremos"
-        }
-      ],
+      "noticias": [],
       "agenda": {
-        "resumo": "4 Dom 5 Seg 6 Ter 7 Qua 8 Qui 9 Sex 10 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "5 Seg 6 Ter 7 Qua 8 Qui 9 Sex 10 Sáb 11 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
