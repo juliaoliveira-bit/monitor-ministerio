@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-09T01:02:23.131099+00:00",
+  "atualizado_em": "2026-10-09T17:13:06.676919+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Educação para as relações étnico-raciais é tema do PodMEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/educacao-para-as-relacoes-etnico-raciais-e-tema-do-podmec",
+          "data": "09/10/2026",
+          "resumo": "Discussões do programa foram baseadas na Pneerq e abordaram temas como equidade racial, disparidade racial nas redes e educação escolar quilombola. Episódio já está disponível no canal do MEC no Youtube e no Spotify"
+        },
+        {
+          "titulo": "Santa Catarina tem 133,2 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/santa-catarina-tem-133-2-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 81,5 mil tiveram inscrições gratuitas e 51,7 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        },
+        {
+          "titulo": "Rio Grande do Sul tem 206,5 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/rio-grande-do-sul-tem-206-5-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 122,7 mil tiveram inscrições gratuitas e 83,8 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        },
+        {
+          "titulo": "Paraná tem 221,7 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/parana-tem-221-7-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 139,6 mil tiveram inscrições gratuitas e 82,1 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        },
+        {
+          "titulo": "São Paulo tem 851,8 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/sao-paulo-tem-851-8-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 506,8 mil tiveram inscrições gratuitas e 345 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        },
+        {
+          "titulo": "Rio de Janeiro tem 363,6 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/rio-de-janeiro-tem-363-6-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 217,9 mil tiveram inscrições gratuitas e 145,7 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        },
+        {
+          "titulo": "Minas Gerais tem 472 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/minas-gerais-tem-472-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 293,8 mil tiveram inscrições gratuitas e 178,2 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        },
+        {
+          "titulo": "Espírito Santo tem 85,9 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/espirito-santo-tem-85-9-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 54,1 mil tiveram inscrições gratuitas e 31,8 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        },
+        {
+          "titulo": "Tocantins tem 43,5 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/tocantins-tem-43-5-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 31,2 mil tiveram inscrições gratuitas e 12,3 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        },
+        {
+          "titulo": "Roraima tem 15,3 mil inscritos na edição de 2026 do Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/roraima-tem-15-3-mil-inscritos-na-edicao-de-2026-do-enem",
+          "data": "09/10/2026",
+          "resumo": "Do total de candidatos participantes, 11,1 mil tiveram inscrições gratuitas e 4,2 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [],
       "agenda": {
-        "resumo": "5 Seg 6 Ter 7 Qua 8 Qui 9 Sex 10 Sáb 11 Dom Atualmente não existem compromissos agendados.",
+        "resumo": "6 Ter 7 Qua 8 Qui 9 Sex 10 Sáb 11 Dom 12 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
