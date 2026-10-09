@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-10-08T17:37:13.300434+00:00",
+  "atualizado_em": "2026-10-09T01:02:23.131099+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senajus apresenta avanços da política migratória brasileira em reunião do Mercosul",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-apresenta-avancos-da-politica-migratoria-brasileira-em-reuniao-do-mercosul",
+          "data": "08/10/2026",
+          "resumo": "Encontro no Uruguai reúne países do bloco para intercâmbio sobre políticas públicas, fluxos regionais e cooperação em matéria migratória"
+        },
         {
           "titulo": "Senacon realiza oficina de fiscalização de bets durante Encontro Técnico de Defesa do Consumidor em Minas Gerais",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-realiza-oficina-de-fiscalizacao-de-bets-durante-encontro-tecnico-de-defesa-do-consumidor-em-minas-gerais",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-forma-43-profissionais-no-86o-curso-de-aph-e-resgate-tatico",
           "data": "05/10/2026",
           "resumo": "Capacitação prepara profissionais para atuação emergencial em ambientes operacionais e situações de elevado risco"
-        },
-        {
-          "titulo": "Ministro da Justiça visita centro de comando nacional que monitora a segurança das eleições",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-visita-centro-de-comando-nacional-que-monitora-a-seguranca-das-eleicoes",
-          "data": "04/10/2026",
-          "resumo": "Estrutura, em Brasília, recebe informações sobre as ocorrências em todo o Brasil. Wellington César conversou com integrantes da Polícia Federal e 27 superintendentes da PRF em todo o Brasil"
         }
       ],
       "agenda": {
