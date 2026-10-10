@@ -1,68 +1,68 @@
 {
-  "atualizado_em": "2026-10-09T17:13:06.676919+00:00",
+  "atualizado_em": "2026-10-10T00:34:13.473736+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
         {
+          "titulo": "Senacon articula criação de núcleo regional de combate ao endividamento e ao superendividamento na Região Sul",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-articula-criacao-de-nucleo-regional-de-combate-ao-endividamento-e-ao-superendividamento-na-regiao-sul-1",
+          "data": "09/10/2026",
+          "resumo": "Iniciativa reúne órgãos de defesa do consumidor de Santa Catarina, Paraná e Rio Grande do Sul para compartilhar experiências e definir ações conjuntas de prevenção, orientação e atendimento"
+        },
+        {
+          "titulo": "Senacon articula criação de núcleo regional de combate ao endividamento e ao superendividamento na Região Sul",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-articula-criacao-de-nucleo-regional-de-combate-ao-endividamento-e-ao-superendividamento-na-regiao-sul",
+          "data": "09/10/2026",
+          "resumo": "Iniciativa reúne órgãos de defesa do consumidor de Santa Catarina, Paraná e Rio Grande do Sul para compartilhar experiências e definir ações conjuntas de prevenção, orientação e atendimento"
+        },
+        {
+          "titulo": "MJSP lamenta a morte de três policiais militares em acidente aéreo em Minas Gerais",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lamenta-a-morte-de-tres-policiais-militares-em-acidente-aereo-em-minas-gerais",
+          "data": "09/10/2026",
+          "resumo": "Ocorrido foi nesta sexta-feira (9), nas proximidades do Aeroporto Regional do Vale do Aço, em Santana do Paraíso (MG)"
+        },
+        {
+          "titulo": "ENSP disponibiliza curso sobre prevenção e combate a incêndios",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ensp-disponibiliza-curso-sobre-prevencao-e-combate-a-incendios",
+          "data": "09/10/2026",
+          "resumo": "Curso aborda medidas preventivas, sistemas de proteção e legislação aplicada a situações de emergência"
+        },
+        {
+          "titulo": "Cerca de 16,6 mil sites ilegais de apostas e de publicidade são encaminhados para bloqueio",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cerca-de-16-6-mil-sites-ilegais-de-apostas-sao-encaminhados-para-bloqueio",
+          "data": "09/10/2026",
+          "resumo": "Prazo para devolução dos valores mantidos nas contas das plataformas começou nesta sexta-feira (9), com estorno previsto até 14 de outubro"
+        },
+        {
+          "titulo": "Governo Federal zera tributos sobre a gasolina e reforça subvenção a importadores de diesel",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-zera-tributos-sobre-a-gasolina-e-reforca-subvencao-a-importadores-de-diesel",
+          "data": "09/10/2026",
+          "resumo": "Medidas visam estabilizar os preços no mercado interno e assegurar o pleno abastecimento de combustíveis no País e dão sequência à estratégia adotada desde o início da guerra no Oriente Médio"
+        },
+        {
+          "titulo": "Ciberlab apoia operação contra fraudes na venda de veículos pela internet",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ciberlab-apoia-operacao-contra-fraudes-na-venda-de-veiculos-pela-internet",
+          "data": "09/10/2026",
+          "resumo": "Investigação identificou 29 anúncios fraudulentos, com negociações que somam cerca de R$ 850 mil, e contribuiu para ação em três municípios do Rio Grande do Sul"
+        },
+        {
+          "titulo": "Operação Captura mobiliza todas as Polícias Civis do País e prende 504 indivíduos de alta periculosidade",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-captura-mobiliza-todas-as-policias-civis-do-pais-e-prende-504-individuos-de-alta-periculosidade",
+          "data": "09/10/2026",
+          "resumo": "Foco da ação foi o cumprimento de mandados judiciais relacionados aos Crimes Violentos Letais Intencionais (CVLI), categoria que inclui homicídios, feminicídios e latrocínios"
+        },
+        {
+          "titulo": "Operação Nova Rota: MJSP apoia ação contra atos violentos com adolescentes em ambiente digital no Espírito Santo",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-nova-rota-mjsp-apoia-acao-contra-atos-violentos-com-adolescentes-em-ambiente-digital-no-espirito-santo",
+          "data": "09/10/2026",
+          "resumo": "Ação contou com apoio técnico do Ciberlab na identificação de envolvidos em episódios de violência transmitidos ao vivo por plataforma digital"
+        },
+        {
           "titulo": "Senajus apresenta avanços da política migratória brasileira em reunião do Mercosul",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-apresenta-avancos-da-politica-migratoria-brasileira-em-reuniao-do-mercosul",
           "data": "08/10/2026",
           "resumo": "Encontro no Uruguai reúne países do bloco para intercâmbio sobre políticas públicas, fluxos regionais e cooperação em matéria migratória"
-        },
-        {
-          "titulo": "Senacon realiza oficina de fiscalização de bets durante Encontro Técnico de Defesa do Consumidor em Minas Gerais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-realiza-oficina-de-fiscalizacao-de-bets-durante-encontro-tecnico-de-defesa-do-consumidor-em-minas-gerais",
-          "data": "07/10/2026",
-          "resumo": "Evento aborda ludopatia, publicidade, responsabilidades e proteção do consumidor após mudanças no cenário jurídico das apostas"
-        },
-        {
-          "titulo": "Escritórios Antifacção aproximam polícias de SP e RJ com intercâmbio de experiências",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escritorios-antifaccao-aproximam-policias-de-sp-e-rj-com-intercambio-de-experiencias",
-          "data": "07/10/2026",
-          "resumo": "Articulação levou comitiva da Polícia Civil paulista ao Rio de Janeiro para conhecer iniciativas de inteligência financeira, recuperação de ativos e captura de foragidos"
-        },
-        {
-          "titulo": "MJSP e Rio colocam nas ruas operação contra o roubo de cargas nos principais corredores logísticos do estado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-rio-de-janeiro-iniciam-operacao-para-proteger-corredores-logisticos-e-combater-o-roubo-de-cargas",
-          "data": "06/10/2026",
-          "resumo": "Para enfrentar organizações criminosas, ação integrada com PRF, PMERJ e Força Nacional vai atuar de forma contínua, com inteligência e foco em Avenida Brasil e BR-040"
-        },
-        {
-          "titulo": "Bets fora do ar: plataformas cumprem determinação e encerram apostas no Brasil",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/bets-fora-do-ar-plataformas-cumprem-determinacao-e-encerram-apostas-no-brasil",
-          "data": "06/10/2026",
-          "resumo": "R$ 1,325 bilhão ainda aguarda devolução a cerca de 26,5 milhões de apostadores; bancos deverão restituir os valores entre 9 e 14 de outubro"
-        },
-        {
-          "titulo": "Escola Nacional de Segurança Pública disponibiliza curso sobre prevenção da violência",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-disponibiliza-curso-sobre-prevencao-da-violencia",
-          "data": "06/10/2026",
-          "resumo": "Formação destinada a profissionais do Susp aborda conceitos e ferramentas relacionadas à prevenção da violência e ao controle da criminalidade"
-        },
-        {
-          "titulo": "MJSP defende prevenção de riscos e capacidade institucional na regulação do ambiente digital",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-defende-prevencao-de-riscos-e-capacidade-institucional-na-regulacao-do-ambiente-digital-1",
-          "data": "06/10/2026",
-          "resumo": "Semana de Proteção de Dados Pessoais 2026 no Senado contou com participação de representantes da Sedigi"
-        },
-        {
-          "titulo": "Senad reúne instituições para fortalecer proteção de crianças e adolescentes contra o crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-reune-instituicoes-para-fortalecer-protecao-de-criancas-e-adolescentes-contra-o-crime-organizado",
-          "data": "06/10/2026",
-          "resumo": "Projeto Crescer em Segurança inicia construção de metodologia para atuação integrada em territórios prioritários"
-        },
-        {
-          "titulo": "Ministério da Justiça e Segurança Pública divulga relatório final das operações no primeiro turno das eleições",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-e-seguranca-publica-divulga-relatorio-final-sobre-as-operacao-no-fim-de-semana-de-eleicoes",
-          "data": "05/10/2026",
-          "resumo": "Segurança do processo eleitoral foi monitorada em tempo real nas 27 Unidades da Federação; região Nordeste concentrou a maior parte das ocorrências, com 28,7%"
-        },
-        {
-          "titulo": "Força Nacional forma 43 profissionais no 86º curso de atendimento pré-hospitalar e resgate tático",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-forma-43-profissionais-no-86o-curso-de-aph-e-resgate-tatico",
-          "data": "05/10/2026",
-          "resumo": "Capacitação prepara profissionais para atuação emergencial em ambientes operacionais e situações de elevado risco"
         }
       ],
       "agenda": {
@@ -101,7 +101,7 @@
           "titulo": "São Paulo tem 851,8 mil inscritos na edição de 2026 do Enem",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/sao-paulo-tem-851-8-mil-inscritos-na-edicao-de-2026-do-enem",
           "data": "09/10/2026",
-          "resumo": "Do total de candidatos participantes, 506,8 mil tiveram inscrições gratuitas e 345 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
+          "resumo": "Do total de candidatos participantes, 506,8 mil tiveram inscrições gratuitas e 344,9 mil são pagantes. Em todo o país, exame reúne mais de 5 milhões de inscritos e as provas serão aplicadas nos dias 8 e 15 novembro"
         },
         {
           "titulo": "Rio de Janeiro tem 363,6 mil inscritos na edição de 2026 do Enem",
