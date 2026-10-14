@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-10-13T17:49:25.515354+00:00",
+  "atualizado_em": "2026-10-14T00:11:50.919885+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Novo decreto do SAC amplia proteção ao consumidor e estabelece regras de atendimento",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/novo-decreto-do-sac-amplia-protecao-ao-consumidor-e-estabelece-regras-de-atendimento",
+          "data": "13/10/2026",
+          "resumo": "Norma garante opção de atendimento por pessoa, define prazos para resposta e cancelamento e determina que plataformas digitais, serviços de transporte por aplicativo e empresas de entrega apresentem dados à Senacon"
+        },
+        {
+          "titulo": "Decreto amplia combate ao crime organizado e agiliza bloqueio de celulares ilegais em presídios",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/decreto-amplia-combate-ao-crime-organizado-e-agiliza-bloqueio-de-celulares-ilegais-em-presidios",
+          "data": "13/10/2026",
+          "resumo": "Nova medida permite solicitar bloqueio de aparelhos em unidades prisionais sem necessidade de apreensão física ou autorização judicial específica"
+        },
+        {
+          "titulo": "Falecimento de Jean Michel Arrighi, secretário de Assuntos Jurídicos da OEA",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/falecimento-de-jean-michel-arrighi-secretario-de-assuntos-juridicos-da-oea",
+          "data": "13/10/2026",
+          "resumo": "Ele foi um dos principais difusores do direito internacional interamericano"
+        },
         {
           "titulo": "Senacon articula criação de núcleo regional de combate ao endividamento e ao superendividamento na Região Sul",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-articula-criacao-de-nucleo-regional-de-combate-ao-endividamento-e-ao-superendividamento-na-regiao-sul-1",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-captura-mobiliza-todas-as-policias-civis-do-pais-e-prende-504-individuos-de-alta-periculosidade",
           "data": "09/10/2026",
           "resumo": "Foco da ação foi o cumprimento de mandados judiciais relacionados aos Crimes Violentos Letais Intencionais (CVLI), categoria que inclui homicídios, feminicídios e latrocínios"
-        },
-        {
-          "titulo": "Operação Nova Rota: MJSP apoia ação contra atos violentos com adolescentes em ambiente digital no Espírito Santo",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-nova-rota-mjsp-apoia-acao-contra-atos-violentos-com-adolescentes-em-ambiente-digital-no-espirito-santo",
-          "data": "09/10/2026",
-          "resumo": "Ação contou com apoio técnico do Ciberlab na identificação de envolvidos em episódios de violência transmitidos ao vivo por plataforma digital"
-        },
-        {
-          "titulo": "Senajus apresenta avanços da política migratória brasileira em reunião do Mercosul",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-apresenta-avancos-da-politica-migratoria-brasileira-em-reuniao-do-mercosul",
-          "data": "08/10/2026",
-          "resumo": "Encontro no Uruguai reúne países do bloco para intercâmbio sobre políticas públicas, fluxos regionais e cooperação em matéria migratória"
-        },
-        {
-          "titulo": "Senacon realiza oficina de fiscalização de bets durante Encontro Técnico de Defesa do Consumidor em Minas Gerais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-realiza-oficina-de-fiscalizacao-de-bets-durante-encontro-tecnico-de-defesa-do-consumidor-em-minas-gerais",
-          "data": "07/10/2026",
-          "resumo": "Evento abordou ludopatia, publicidade, responsabilidades e proteção do consumidor após mudanças no cenário jurídico das apostas"
         }
       ],
       "agenda": {
@@ -80,7 +80,68 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Márcia Barbosa: a cientista que transformou conhecimento em mudança",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/marcia-barbosa-a-cientista-que-transformou-perguntas-em-conhecimento-e-conhecimento-em-mudanca",
+          "data": "13/10/2026",
+          "resumo": "Pesquisadora brasileira construiu uma trajetória internacional na Física, ajudou a ampliar a compreensão sobre o comportamento da água"
+        },
+        {
+          "titulo": "Chamada destina R$ 100 milhões as soluções tecnológicas para a agricultura familiar",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chamada-destina-r-100-milhoes-as-solucoes-tecnologicas-para-a-agricultura-familiar",
+          "data": "13/10/2026",
+          "resumo": "Recursos não reembolsáveis do FNDCT apoiam projetos de ICTs em parceria com cooperativas. Propostas devem ser enviadas até 8 de dezembro"
+        },
+        {
+          "titulo": "Dia das Crianças do Mast será no sábado, 10 de outubro",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/dia-das-criancas-do-mast-sera-no-sabado-10-de-outubro",
+          "data": "09/10/2026",
+          "resumo": "Museu preparou uma série de atividades lúdicas envolvendo astronomia e jogos para toda a família"
+        },
+        {
+          "titulo": "RNP abre seleção para 23 bolsas de pesquisa, desenvolvimento e inovação",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/rnp-abre-selecao-para-23-bolsas-de-pesquisa-desenvolvimento-e-inovacao",
+          "data": "09/10/2026",
+          "resumo": "Oportunidades são para atividades remotas em quatros projetos. Inscrições seguem até 26 de outubro"
+        },
+        {
+          "titulo": "Intensidade do El Niño pode se manter entre forte e muito forte até primeiro trimestre de 2027",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/intensidade-do-el-nino-pode-se-manter-entre-forte-e-muito-forte-ate-primeiro-trimestre-de-2027",
+          "data": "09/10/2026",
+          "resumo": "Perspectiva sobre intensidade e duração do fenômeno sinaliza que extremos climáticos podem se acentuar no Brasil ao longo da primavera e do verão"
+        },
+        {
+          "titulo": "Estudantes do Brasil ganham cinco medalhas na 19ª Olimpíada Internacional de Astronomia e Astrofísica",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/estudantes-do-brasil-ganham-cinco-medalhas-na-19a-olimpiada-internacional-de-astronomia-e-astrofisica",
+          "data": "08/10/2026",
+          "resumo": "Evento ocorreu de 25 de setembro a 5 de outubro, em Hanói, capital do Vietnã"
+        },
+        {
+          "titulo": "IPCC abre registro para especialistas revisarem três relatórios preliminares",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/ipcc-abre-registro-para-especialistas-revisarem-tres-relatorios-preliminares",
+          "data": "08/10/2026",
+          "resumo": "Confira os prazos e as orientações para envio de contribuições para os relatórios do Sétimo Ciclo de Avaliação"
+        },
+        {
+          "titulo": "Escola Supercomputador Santos Dumont recebe trabalhos até 19 de outubro",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/escola-supercomputador-santos-dumont-recebe-trabalhos-ate-19-de-outubro",
+          "data": "07/10/2026",
+          "resumo": "Evento integra o Programa de Verão do Laboratório Nacional de Computação Científica (LNCC) e acontece de 25 de janeiro a 5 de fevereiro, em Petrópolis (RJ)"
+        },
+        {
+          "titulo": "Inscrições para o 9º Prêmio Brics Jovem Inovador estão abertas até 17 de outubro",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-para-o-9o-premio-brics-jovem-inovador-estao-abertas-ate-17-de-outubro",
+          "data": "07/10/2026",
+          "resumo": "Premiação acontece durante o 11º Fórum de Jovens Cientistas do Brics em Bangalore, na Índia"
+        },
+        {
+          "titulo": "Nise da Silveira: a médica que revolucionou os tratamentos da saúde mental no Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/nise-da-silveira-a-medica-que-revolucionou-os-tratamentos-da-saude-mental-no-brasil",
+          "data": "06/10/2026",
+          "resumo": "Psiquiatra brasileira confrontou tratamentos agressivos e encontrou na arte novas formas de compreender pessoas com transtornos mentais"
+        }
+      ],
       "agenda": {
         "resumo": "10 Sáb 11 Dom 12 Seg 13 Ter 14 Qua 15 Qui 16 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
