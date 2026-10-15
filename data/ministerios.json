@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-10-15T15:21:21.195437+00:00",
+  "atualizado_em": "2026-10-15T23:34:36.284241+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP realiza agenda no Rio de Janeiro com entrega de equipamentos e apresentação de ações contra o crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-realiza-agenda-no-rio-de-janeiro-com-entrega-de-equipamentos-e-apresentacao-de-acoes-contra-o-crime-organizado",
+          "data": "15/10/2026",
+          "resumo": "Programação reúne Senasp e Senappen no TJRJ e inclui equipamentos antidrones, resultados de operações e novas estratégias para segurança penitenciária"
+        },
+        {
+          "titulo": "MJSP e MDHC lançam Guia sobre usos da inteligência artificial na infância e adolescência",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-mdhc-lancam-guia-sobre-usos-da-inteligencia-artificial-na-infancia-e-adolescencia",
+          "data": "15/10/2026",
+          "resumo": "Material orienta famílias, educadores, crianças e adolescentes sobre uso seguro e responsável de ferramentas de IA"
+        },
+        {
+          "titulo": "Força Nacional prepara 86 profissionais de 20 Unidades da Federação para atuação em operações pelo Brasil",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-prepara-86-profissionais-de-20-unidades-da-federacao-para-atuacao-em-operacoes-pelo-brasil",
+          "data": "15/10/2026",
+          "resumo": "Nova capacitação reúne profissionais para reforçar ações de segurança pública"
+        },
+        {
+          "titulo": "Governo Federal amplia combate a incêndios no Amazonas e mobiliza 160 profissionais da Força Nacional",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-amplia-combate-a-incendios-no-amazonas-e-mobiliza-160-profissionais-da-forca-nacional",
+          "data": "15/10/2026",
+          "resumo": "MJSP envia mais 29 bombeiros e nove viaturas ao estado para atuar na mitigação dos impactos do El Niño"
+        },
         {
           "titulo": "MJSP pede à ANPD que monitore jogos eletrônicos com caixas de recompensa que não implementaram verificação de idade",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-pede-a-anpd-que-monitore-jogos-eletronicos-com-caixas-de-recompensa-que-nao-implementaram-verificacao-de-idade",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/falecimento-de-jean-michel-arrighi-secretario-de-assuntos-juridicos-da-oea",
           "data": "13/10/2026",
           "resumo": "Ele foi um dos principais difusores do direito internacional interamericano"
-        },
-        {
-          "titulo": "Senacon articula criação de núcleo regional de combate ao endividamento e ao superendividamento na Região Sul",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-articula-criacao-de-nucleo-regional-de-combate-ao-endividamento-e-ao-superendividamento-na-regiao-sul-1",
-          "data": "09/10/2026",
-          "resumo": "Iniciativa reúne órgãos de defesa do consumidor de Santa Catarina, Paraná e Rio Grande do Sul para compartilhar experiências e definir ações conjuntas de prevenção, orientação e atendimento"
-        },
-        {
-          "titulo": "MJSP lamenta a morte de três policiais militares em acidente aéreo em Minas Gerais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lamenta-a-morte-de-tres-policiais-militares-em-acidente-aereo-em-minas-gerais",
-          "data": "09/10/2026",
-          "resumo": "Ocorrido foi nesta sexta-feira (9), nas proximidades do Aeroporto Regional do Vale do Aço, em Santana do Paraíso (MG)"
-        },
-        {
-          "titulo": "ENSP disponibiliza curso sobre prevenção e combate a incêndios",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ensp-disponibiliza-curso-sobre-prevencao-e-combate-a-incendios",
-          "data": "09/10/2026",
-          "resumo": "Curso aborda medidas preventivas, sistemas de proteção e legislação aplicada a situações de emergência"
-        },
-        {
-          "titulo": "Mais de 20 mil sites ilegais de apostas e de publicidade são encaminhados para bloqueio",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-20-mil-sites-ilegais-de-apostas-e-de-publicidade-sao-encaminhados-para-bloqueio",
-          "data": "09/10/2026",
-          "resumo": "Prazo para devolução dos valores mantidos nas contas das plataformas começou nesta sexta-feira (9), com estorno previsto até 14 de outubro"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "MEC destaca ações de formação e valorização dos docentes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-destaca-acoes-de-formacao-e-valorizacao-dos-professores",
-          "data": "15/10/2026",
-          "resumo": "Na semana do Dia dos Professores, iniciativas de formação continuada e de uso pedagógico das tecnologias digitais apoiam quem faz a educação acontecer todos os dias"
-        },
-        {
-          "titulo": "De aluno a reitor: a trajetória de quem voltou à escola para ensinar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/de-aluno-a-reitor-a-trajetoria-de-quem-voltou-a-escola-para-ensinar",
-          "data": "14/10/2026",
-          "resumo": "Formado em telecomunicação pela antiga Escola Técnica Federal do Ceará, atual Instituto Federal, Wally Menezes tornou-se professor e hoje dirige o IFCE, instituição onde descobriu novos caminhos"
-        },
-        {
-          "titulo": "Como o Instituto Federal preparou um futuro advogado",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/como-o-instituto-federal-preparou-um-futuro-advogado",
-          "data": "14/10/2026",
-          "resumo": "Ex-aluno da primeira turma do Campus Colombo do Instituto Federal do Paraná, João Miguel destaca o papel dos professores, da biblioteca e da iniciação científica em sua trajetória até se tornar advogado tributarista"
-        },
-        {
-          "titulo": "Cuidotecas serão implantadas em 62 universidades federais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cuidotecas-serao-implantadas-em-62-universidades-federais",
-          "data": "14/10/2026",
-          "resumo": "Espaços gratuitos atenderão crianças de 3 a 12 anos, com e sem deficiência, em 62 universidades de 26 unidades da Federação, enquanto responsáveis estudam, trabalham ou fazem qualificação profissional"
-        },
-        {
-          "titulo": "MEC realiza aulão com estudantes da EJA em Pernambuco",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-realiza-aulao-com-estudantes-da-eja-em-pernambuco",
-          "data": "14/10/2026",
-          "resumo": "Atividade será realizada nesta quinta-feira (15), às 19h, no Ginásio Poliesportivo Djair Santos, em João Alfredo (PE)"
-        },
-        {
-          "titulo": "Egressa da escola técnica à reitora do IFS: professora transforma oportunidades em compromisso com a educação pública",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/egressa-da-escola-tecnica-a-reitora-do-ifs-professora-transforma-oportunidades-em-compromisso-com-a-educacao-publica",
-          "data": "13/10/2026",
-          "resumo": "Técnica em química, Ruth Sales construiu sua trajetória na educação profissional, tornou-se a primeira mulher reitora do IFS e fez da formação cidadã e da inclusão social marcas de sua atuação"
-        },
-        {
-          "titulo": "PND 2026: Locais de prova da reaplicação estão disponíveis",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/pnd-2026-locais-de-prova-da-reaplicacao-estao-disponiveis",
-          "data": "13/10/2026",
-          "resumo": "Documento informa data, horário e local de prova dos participantes que tiveram a solicitação de reaplicação aprovada. Exame será realizado em 18 de outubro"
-        },
-        {
-          "titulo": "MEC debate infraestrutura escolar para expansão do tempo integral",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-debate-infraestrutura-escolar-para-expansao-do-tempo-integral",
-          "data": "13/10/2026",
-          "resumo": "A oficina buscou identificar desafios e compartilhar estratégias para planejar a expansão da oferta educacional de acordo com as necessidades de cada território"
-        },
-        {
-          "titulo": "Painel permite consultar repasses do Fundeb por rede de ensino",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/painel-permite-consultar-repasses-do-fundeb-por-rede-de-ensino",
-          "data": "13/10/2026",
-          "resumo": "Atualização do Painel de Financiamento do Novo PAR permite consultar os repasses do Fundeb efetivados nos últimos 12 meses e acompanhar a evolução das receitas entre 2020 e 2025"
-        },
-        {
-          "titulo": "Da EJA ao título de doutora honoris causa",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/da-eja-ao-titulo-de-doutora-honoris-causa",
-          "data": "13/10/2026",
-          "resumo": "Após concluir a educação básica na educação de jovens e adultos, Creuza Oliveira teve sua trajetória na defesa dos direitos das trabalhadoras domésticas reconhecida pela UFBA com o título de doutora honoris causa"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +82,13 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
         {
-          "titulo": "Futuras Cientistas abre 470 vagas para imersão científica em 2027",
+          "titulo": "Chamada Eureka recebe propostas para projetos de resiliência e resposta a desastres",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chamada-eureka-recebe-propostas-para-projetos-de-resiliencia-e-resposta-a-desastres",
+          "data": "15/10/2026",
+          "resumo": "Empresas brasileiras com projetos aprovados na etapa internacional podem enviar propostas à Finep até 6 de novembro"
+        },
+        {
+          "titulo": "Futuras Cientistas abre 470 vagas para Imersão Científica 2027",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/futuras-cientistas-abre-470-vagas-para-imersao-cientifica-em-2027",
           "data": "14/10/2026",
           "resumo": "Inscrições abertas até 26 de outubro a estudantes do 2º ano do ensino médio e professoras da rede pública estadual de todo o Brasil"
@@ -195,12 +140,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/escola-supercomputador-santos-dumont-recebe-trabalhos-ate-19-de-outubro",
           "data": "07/10/2026",
           "resumo": "Evento integra o Programa de Verão do Laboratório Nacional de Computação Científica (LNCC) e acontece de 25 de janeiro a 5 de fevereiro, em Petrópolis (RJ)"
-        },
-        {
-          "titulo": "Inscrições para o 9º Prêmio Brics Jovem Inovador estão abertas até 17 de outubro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-para-o-9o-premio-brics-jovem-inovador-estao-abertas-ate-17-de-outubro",
-          "data": "07/10/2026",
-          "resumo": "Premiação acontece durante o 11º Fórum de Jovens Cientistas do Brics em Bangalore, na Índia"
         }
       ],
       "agenda": {
