@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-10-16T15:01:41.645923+00:00",
+  "atualizado_em": "2026-10-16T23:19:08.202179+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Operação Protetor registra mais de R$ 110 mil em prejuízo econômico para o crime organizado em cinco estados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-protetor-registra-mais-de-r-110-mil-em-prejuizo-economico-para-o-crime-organizado-em-cinco-estados",
+          "data": "16/10/2026",
+          "resumo": "Balanço apresenta resultados de ações de segurança pública realizadas no Acre, em Alagoas, no Rio Grande do Norte, no Rio Grande do Sul e em Santa Catarina"
+        },
+        {
+          "titulo": "Brasil registra menores taxas de desmatamento da série histórica na Amazônia e no Cerrado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-registra-menores-taxas-de-desmatamento-da-serie-historica-na-amazonia-e-no-cerrado",
+          "data": "16/10/2026",
+          "resumo": "MJSP investiu R$ 318 milhões em recursos do Fundo Amazônia para a proteção do bioma"
+        },
+        {
+          "titulo": "Em Genebra, Brasil reafirma compromisso com a Convenção de 1951 e a proteção de refugiados",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/em-genebra-brasil-reafirma-compromisso-com-a-convencao-de-1951-e-a-protecao-de-refugiados",
+          "data": "16/10/2026",
+          "resumo": "Agenda da Senajus no Comitê Executivo do Acnur inclui diálogo com alto comissário e reuniões sobre cooperação migratória"
+        },
+        {
+          "titulo": "DRCI participa de debates internacionais sobre crimes cibernéticos e recuperação de ativos na França",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/drci-participa-de-debates-internacionais-sobre-crimes-ciberneticos-e-recuperacao-de-ativos-na-franca",
+          "data": "16/10/2026",
+          "resumo": "Encontros reuniram especialistas de mais de 100 países para discutir inteligência artificial, provas eletrônicas e rastreamento de recursos ilícitos"
+        },
+        {
+          "titulo": "Senacon e ANP fiscalizam mercado de combustíveis para coibir aumentos abusivos de preços",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anp-fiscalizam-mercado-de-combustiveis-para-coibir-aumentos-abusivos-de-precos",
+          "data": "16/10/2026",
+          "resumo": "Operação conjunta, que contou com a participação do Procon Paraíba e o apoio da Senasp, fiscalizou 16 agentes econômicos na Paraíba, Rio Grande do Sul e Distrito Federal"
+        },
+        {
+          "titulo": "Brasil apresenta ações de recuperação de ativos em encontro internacional na Etiópia",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-apresenta-acoes-de-recuperacao-de-ativos-em-encontro-internacional-na-etiopia",
+          "data": "16/10/2026",
+          "resumo": "Participação do DRCI aborda ações de cooperação, investigação patrimonial e intercâmbio de boas práticas"
+        },
+        {
+          "titulo": "Renarc realiza operação contra tráfico de drogas, lavagem de dinheiro e ocultação de patrimônio",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/renarc-realiza-operacao-contra-trafico-de-drogas-lavagem-de-dinheiro-e-ocultacao-de-patrimonio",
+          "data": "16/10/2026",
+          "resumo": "Ação identificou indícios da atuação de organização criminosa interestadual com possível corrupção de agentes públicos"
+        },
         {
           "titulo": "MJSP realiza agenda no Rio de Janeiro com entrega de equipamentos e apresentação de ações contra o crime organizado",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-realiza-agenda-no-rio-de-janeiro-com-entrega-de-equipamentos-e-apresentacao-de-acoes-contra-o-crime-organizado",
@@ -21,48 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-prepara-86-profissionais-de-20-unidades-da-federacao-para-atuacao-em-operacoes-pelo-brasil",
           "data": "15/10/2026",
           "resumo": "Nova capacitação reúne profissionais para reforçar ações de segurança pública"
-        },
-        {
-          "titulo": "Governo Federal amplia combate a incêndios no Amazonas e mobiliza 160 profissionais da Força Nacional",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-amplia-combate-a-incendios-no-amazonas-e-mobiliza-160-profissionais-da-forca-nacional",
-          "data": "15/10/2026",
-          "resumo": "MJSP envia mais 29 bombeiros e nove viaturas ao estado para atuar na mitigação dos impactos do El Niño"
-        },
-        {
-          "titulo": "MJSP pede à ANPD que monitore jogos eletrônicos com caixas de recompensa que não implementaram verificação de idade",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-pede-a-anpd-que-monitore-jogos-eletronicos-com-caixas-de-recompensa-que-nao-implementaram-verificacao-de-idade",
-          "data": "15/10/2026",
-          "resumo": "Relatório da Coordenação-Geral da Classificação Indicativa destaca impacto do ECA Digital no setor de games: dos 15 jogos mais populares no Brasil, apenas seis ainda não implementaram adequação"
-        },
-        {
-          "titulo": "MJSP apresenta novas regras para combater chamadas fraudulentas e indesejadas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-apresenta-novas-regras-para-combater-chamadas-fraudulentas-e-indesejadas",
-          "data": "14/10/2026",
-          "resumo": "MP cria mecanismos de autenticação e identificação de ligações e prevê bloqueio de chamadas abusivas; bloqueio de chamadas massivas será exigido em 30 dias"
-        },
-        {
-          "titulo": "Observatório alerta para restrições a jornalistas e comunicadores nas plataformas digitais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/observatorio-alerta-para-restricoes-a-jornalistas-e-comunicadores-nas-plataformas-digitais",
-          "data": "14/10/2026",
-          "resumo": "Durante o processo eleitoral, restrições ao alcance de conteúdos jornalísticos e à atuação de jornalistas e comunicadores nas plataformas digitais representam um risco à circulação de informações e ao debate democrático"
-        },
-        {
-          "titulo": "Novo decreto do SAC amplia proteção ao consumidor e estabelece regras de atendimento",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/novo-decreto-do-sac-amplia-protecao-ao-consumidor-e-estabelece-regras-de-atendimento",
-          "data": "13/10/2026",
-          "resumo": "Norma garante opção de atendimento por pessoa, define prazos para resposta e cancelamento e determina que plataformas digitais, serviços de transporte por aplicativo e empresas de entrega apresentem dados à Senacon"
-        },
-        {
-          "titulo": "Decreto amplia combate ao crime organizado e agiliza bloqueio de celulares ilegais em presídios",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/decreto-amplia-combate-ao-crime-organizado-e-agiliza-bloqueio-de-celulares-ilegais-em-presidios",
-          "data": "13/10/2026",
-          "resumo": "Nova medida permite solicitar bloqueio de aparelhos em unidades prisionais sem necessidade de apreensão física ou autorização judicial específica"
-        },
-        {
-          "titulo": "Falecimento de Jean Michel Arrighi, secretário de Assuntos Jurídicos da OEA",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/falecimento-de-jean-michel-arrighi-secretario-de-assuntos-juridicos-da-oea",
-          "data": "13/10/2026",
-          "resumo": "Ele foi um dos principais difusores do direito internacional interamericano"
         }
       ],
       "agenda": {
@@ -74,6 +74,54 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "A Cara da Educação: do quadro-negro à formulação de políticas no MEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/a-cara-da-educacao-do-quadro-negro-a-formulacao-de-politicas-no-mec",
+          "data": "16/10/2026",
+          "resumo": "Servidores e técnicos do MEC relembram os desafios da sala de aula na educação básica, no ensino médio e na educação superior e contam como a vivência com alunos transforma a gestão pública em todo o país"
+        },
+        {
+          "titulo": "MEC Livros estará presente no Festival Literário do Sesc-DF",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-livros-estara-presente-no-festival-literario-do-sesc-df",
+          "data": "16/10/2026",
+          "resumo": "Totem da biblioteca digital gratuita estará disponível nos dias 17 e 18 de outubro, durante Festival Literário do Sesc-DF, em Brasília (DF), para aproximar o público do acervo de obras digitais"
+        },
+        {
+          "titulo": "Enem 2026: domingo (18) é o último dia para escolher idioma",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/enem-2026-domingo-18-e-o-ultimo-dia-para-escolher-idioma",
+          "data": "16/10/2026",
+          "resumo": "Termina neste domingo (18) o prazo para participantes concluintes do ensino médio da rede pública inscritos pelo MEC escolherem o idioma para a prova de Língua Estrangeira"
+        },
+        {
+          "titulo": "Pé-de-Meia: pagamento da 7ª parcela começa na segunda (19)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/pe-de-meia-pagamento-da-7a-parcela-comeca-na-segunda-19",
+          "data": "16/10/2026",
+          "resumo": "Pagamento vai até 26 de outubro e contempla estudantes que cumprem os critérios de frequência escolar, além de beneficiários da educação de jovens e adultos (EJA) elegíveis à parcela de aprovação"
+        },
+        {
+          "titulo": "Segunda fase da Obmep 2026 acontece no sábado (17)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/segunda-fase-da-obmep-2026-acontece-no-sabado-17",
+          "data": "16/10/2026",
+          "resumo": "Mais de 900 mil estudantes participam desta etapa da olimpíada. Na mesma data, professores dos anos iniciais do ensino fundamental estreiam em competição que valoriza a docência e fortalece o ensino de matemática"
+        },
+        {
+          "titulo": "MEC promove aulão do Enem para alunos na Bahia e no Maranhão",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-do-enem-para-alunos-na-bahia-e-no-maranhao",
+          "data": "16/10/2026",
+          "resumo": "Eventos em Teixeira Freitas (BA) e São Luís (MA) reuniram cerca de 4 mil alunos. Eventos trouxeram revisões de Linguagens, Ciências Humanas e da Natureza e Matemática, além de momentos culturais e de saúde emocional"
+        },
+        {
+          "titulo": "MEC promove aulão para centenas de estudantes da EJA em PE",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-para-centenas-de-estudantes-da-eja-em-pe",
+          "data": "16/10/2026",
+          "resumo": "Em João Alfredo (PE), ação realizada pelo Ministério da Educação reforça a importância da Educação de jovens e adultos e busca ampliar a visibilidade da modalidade nos territórios"
+        },
+        {
+          "titulo": "Armadilha luminosa desenvolvida no Ifpa ajuda no combate à dengue",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/armadilha-luminosa-desenvolvida-no-ifpa-ajuda-no-combate-a-dengue",
+          "data": "16/10/2026",
+          "resumo": "Protótipo construído por estudantes e professores no Instituto Federal do Pará reaproveita materiais descartados, não utiliza inseticidas e é mais barato em comparação a modelos comerciais"
+        },
+        {
           "titulo": "Pé-de-Meia Licenciaturas: Enem abre portas para docentes",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/pe-de-meia-licenciaturas-enem-abre-portas-para-docentes",
           "data": "15/10/2026",
@@ -84,54 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/formacao-e-valorizacao-docente-sao-temas-do-podmec",
           "data": "15/10/2026",
           "resumo": "Episódio foi ao ar nesta quinta (15) e está disponível nos canais do MEC no YouTube e no Spotify. Diálogo abordou os desafios da formação, das condições de trabalho e da valorização dos professores da educação básica"
-        },
-        {
-          "titulo": "MEC apoia escolas no ensino de educação financeira",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-apoia-escolas-no-ensino-de-educacao-financeira",
-          "data": "15/10/2026",
-          "resumo": "Material orienta profissionais da comunidade escolar na elaboração de oficinas para ajudar estudantes e famílias a desenvolverem autonomia e consciência sobre o uso do dinheiro"
-        },
-        {
-          "titulo": "MEC disponibiliza 10 novos cursos no Avamec para professores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-disponibiliza-10-novos-cursos-no-avamec-para-professores",
-          "data": "15/10/2026",
-          "resumo": "Formações gratuitas para professores do ensino fundamental e do ensino médio e gestores da educação básica. Cursos terão temas variados e emissão de certificado de conclusão"
-        },
-        {
-          "titulo": "Brasil tem mais de 2,4 milhões de docentes na educação básica",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/brasil-tem-mais-de-2-4-milhoes-de-docentes-na-educacao-basica",
-          "data": "15/10/2026",
-          "resumo": "No Dia dos Professores, dados do Censo Escolar mostram evolução do número de profissionais na última década. PND e Enade das Licenciaturas contribuem para a qualidade da formação docente"
-        },
-        {
-          "titulo": "Quando o sonho de voltar a estudar ainda vive, apesar da espera",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/quando-o-sonho-de-voltar-a-estudar-ainda-vive-apesar-da-espera",
-          "data": "15/10/2026",
-          "resumo": "Josiane da Silva Santos conta como a educação de jovens e adultos no Instituto Federal Catarinense a ajudou a concluir o ensino médio, a sonhar com o Enem e com o curso de pedagogia"
-        },
-        {
-          "titulo": "MEC destaca ações de formação e valorização dos docentes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-destaca-acoes-de-formacao-e-valorizacao-dos-professores",
-          "data": "15/10/2026",
-          "resumo": "Na semana do Dia dos Professores, iniciativas de formação continuada e de uso pedagógico das tecnologias digitais apoiam quem faz a educação acontecer todos os dias"
-        },
-        {
-          "titulo": "De aluno a reitor: a trajetória de quem voltou à escola para ensinar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/de-aluno-a-reitor-a-trajetoria-de-quem-voltou-a-escola-para-ensinar",
-          "data": "14/10/2026",
-          "resumo": "Formado em telecomunicação pela antiga Escola Técnica Federal do Ceará, atual Instituto Federal, Wally Menezes tornou-se professor e hoje dirige o IFCE, instituição onde descobriu novos caminhos"
-        },
-        {
-          "titulo": "Como o Instituto Federal preparou um futuro advogado",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/como-o-instituto-federal-preparou-um-futuro-advogado",
-          "data": "14/10/2026",
-          "resumo": "Ex-aluno da primeira turma do Campus Colombo do Instituto Federal do Paraná, João Miguel destaca o papel dos professores, da biblioteca e da iniciação científica em sua trajetória até se tornar advogado tributarista"
-        },
-        {
-          "titulo": "Cuidotecas serão implantadas em 62 universidades federais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cuidotecas-serao-implantadas-em-62-universidades-federais",
-          "data": "14/10/2026",
-          "resumo": "Espaços gratuitos atenderão crianças de 3 a 12 anos, com e sem deficiência, em 62 universidades de 26 unidades da Federação, enquanto responsáveis estudam, trabalham ou fazem qualificação profissional"
         }
       ],
       "agenda": {
@@ -142,6 +142,12 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Competição internacional desafia jovens a usar inteligência artificial para prever inundações e monitorar plantações",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/competicao-internacional-desafia-jovens-a-usar-inteligencia-artificial-para-prever-inundacoes-e-monitorar-plantacoes",
+          "data": "16/10/2026",
+          "resumo": "Com participação da Agência Espacial Brasileira, iniciativa reúne estudantes e pesquisadores de diferentes países para transformar imagens de satélite em soluções para problemas do cotidiano. Inscrições seguem até 23 de outubro"
+        },
         {
           "titulo": "Chamada Eureka recebe propostas para projetos de resiliência e resposta a desastres",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chamada-eureka-recebe-propostas-para-projetos-de-resiliencia-e-resposta-a-desastres",
@@ -195,12 +201,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/ipcc-abre-registro-para-especialistas-revisarem-tres-relatorios-preliminares",
           "data": "08/10/2026",
           "resumo": "Confira os prazos e as orientações para envio de contribuições para os relatórios do Sétimo Ciclo de Avaliação"
-        },
-        {
-          "titulo": "Escola Supercomputador Santos Dumont recebe trabalhos até 19 de outubro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/escola-supercomputador-santos-dumont-recebe-trabalhos-ate-19-de-outubro",
-          "data": "07/10/2026",
-          "resumo": "Evento integra o Programa de Verão do Laboratório Nacional de Computação Científica (LNCC) e acontece de 25 de janeiro a 5 de fevereiro, em Petrópolis (RJ)"
         }
       ],
       "agenda": {
