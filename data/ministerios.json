@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-18T22:52:22.005765+00:00",
+  "atualizado_em": "2026-10-19T17:13:00.954934+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "A Cara da Educação: do quadro-negro à formulação de políticas no MEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/a-cara-da-educacao-do-quadro-negro-a-formulacao-de-politicas-no-mec",
+          "data": "16/10/2026",
+          "resumo": "Servidores e técnicos do MEC relembram os desafios da sala de aula na educação básica, no ensino médio e na educação superior e contam como a vivência com alunos transforma a gestão pública em todo o país"
+        },
+        {
+          "titulo": "MEC Livros estará presente no Festival Literário do Sesc-DF",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-livros-estara-presente-no-festival-literario-do-sesc-df",
+          "data": "16/10/2026",
+          "resumo": "Totem da biblioteca digital gratuita estará disponível nos dias 17 e 18 de outubro, durante Festival Literário do Sesc-DF, em Brasília (DF), para aproximar o público do acervo de obras digitais"
+        },
+        {
+          "titulo": "Enem 2026: domingo (18) é o último dia para escolher idioma",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/enem-2026-domingo-18-e-o-ultimo-dia-para-escolher-idioma",
+          "data": "16/10/2026",
+          "resumo": "Termina neste domingo (18) o prazo para participantes concluintes do ensino médio da rede pública inscritos pelo MEC escolherem o idioma para a prova de Língua Estrangeira"
+        },
+        {
+          "titulo": "Pé-de-Meia: pagamento da 7ª parcela começa na segunda (19)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/pe-de-meia-pagamento-da-7a-parcela-comeca-na-segunda-19",
+          "data": "16/10/2026",
+          "resumo": "Pagamento vai até 26 de outubro e contempla estudantes que cumprem os critérios de frequência escolar, além de beneficiários da educação de jovens e adultos (EJA) elegíveis à parcela de aprovação"
+        },
+        {
+          "titulo": "Segunda fase da Obmep 2026 acontece no sábado (17)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/segunda-fase-da-obmep-2026-acontece-no-sabado-17",
+          "data": "16/10/2026",
+          "resumo": "Mais de 900 mil estudantes participam desta etapa da olimpíada. Na mesma data, professores dos anos iniciais do ensino fundamental estreiam em competição que valoriza a docência e fortalece o ensino de matemática"
+        },
+        {
+          "titulo": "MEC promove aulão do Enem para alunos na Bahia e no Maranhão",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-do-enem-para-alunos-na-bahia-e-no-maranhao",
+          "data": "16/10/2026",
+          "resumo": "Eventos em Teixeira Freitas (BA) e São Luís (MA) reuniram cerca de 4 mil alunos. Eventos trouxeram revisões de Linguagens, Ciências Humanas e da Natureza e Matemática, além de momentos culturais e de saúde emocional"
+        },
+        {
+          "titulo": "MEC promove aulão para centenas de estudantes da EJA em PE",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-para-centenas-de-estudantes-da-eja-em-pe",
+          "data": "16/10/2026",
+          "resumo": "Em João Alfredo (PE), ação realizada pelo Ministério da Educação reforça a importância da Educação de jovens e adultos e busca ampliar a visibilidade da modalidade nos territórios"
+        },
+        {
+          "titulo": "Armadilha luminosa desenvolvida no Ifpa ajuda no combate à dengue",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/armadilha-luminosa-desenvolvida-no-ifpa-ajuda-no-combate-a-dengue",
+          "data": "16/10/2026",
+          "resumo": "Protótipo construído por estudantes e professores no Instituto Federal do Pará reaproveita materiais descartados, não utiliza inseticidas e é mais barato em comparação a modelos comerciais"
+        },
+        {
+          "titulo": "Pé-de-Meia Licenciaturas: Enem abre portas para docentes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/pe-de-meia-licenciaturas-enem-abre-portas-para-docentes",
+          "data": "15/10/2026",
+          "resumo": "Programa oferece bolsas para estudantes que com mais de 650 pontos no exame inscritos em cursos presenciais de licenciaturas. Em dois anos, iniciativa atraiu mais de 20 mil alunos e conta com 14 mil bolsistas"
+        },
+        {
+          "titulo": "Formação e valorização docente são temas do PodMEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/formacao-e-valorizacao-docente-sao-temas-do-podmec",
+          "data": "15/10/2026",
+          "resumo": "Episódio foi ao ar nesta quinta (15) e está disponível nos canais do MEC no YouTube e no Spotify. Diálogo abordou os desafios da formação, das condições de trabalho e da valorização dos professores da educação básica"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -143,7 +204,7 @@
         }
       ],
       "agenda": {
-        "resumo": "15 Qui 16 Sex 17 Sáb 18 Dom 19 Seg 20 Ter 21 Qua Atualmente não existem compromissos agendados.",
+        "resumo": "16 Sex 17 Sáb 18 Dom 19 Seg 20 Ter 21 Qua 22 Qui Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
