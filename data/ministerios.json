@@ -1,9 +1,27 @@
 {
-  "atualizado_em": "2026-10-19T17:13:00.954934+00:00",
+  "atualizado_em": "2026-10-20T00:08:17.038932+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senasp lança curso de inteligência para análise de rotas e enfrentamento ao crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-lanca-curso-de-inteligencia-para-analise-de-rotas-e-enfrentamento-ao-crime-organizado",
+          "data": "19/10/2026",
+          "resumo": "Capacitação terá aulas sobre inteligência, análise de dados e geointeligência na identificação de padrões e rotas utilizados por organizações criminosas"
+        },
+        {
+          "titulo": "Líder de organização criminosa no Amazonas é preso em Santa Catarina com apoio do MJSP",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/lider-de-organizacao-criminosa-no-amazonas-e-preso-em-santa-catarina-com-apoio-do-mjsp",
+          "data": "19/10/2026",
+          "resumo": "Investigado é apontado como responsável por comandar atividades na região de fronteira do Alto Rio Negro, mesmo à distância"
+        },
+        {
+          "titulo": "Operação Mulher Segura prende mais de 57 mil agressores em 141 dias",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-mulher-segura-mais-de-57-mil-agressores-sao-presos-em-141-dias",
+          "data": "19/10/2026",
+          "resumo": "Prisões em flagrante superam 49 mil, e mais de 8 mil são decorrentes de mandados judiciais"
+        },
         {
           "titulo": "Governo Federal apresenta novas ações de combate aos incêndios no Amazonas, com Estado-Maior Conjunto e base da Força Nacional do SUS em Manaus",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-apresenta-novas-acoes-de-combate-aos-incendios-no-amazonas-com-estado-maior-conjunto-e-base-da-forca-nacional-do-sus-em-manaus",
@@ -45,24 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-apresenta-acoes-de-recuperacao-de-ativos-em-encontro-internacional-na-etiopia",
           "data": "16/10/2026",
           "resumo": "Participação do DRCI aborda ações de cooperação, investigação patrimonial e intercâmbio de boas práticas"
-        },
-        {
-          "titulo": "Renarc realiza operação contra tráfico de drogas, lavagem de dinheiro e ocultação de patrimônio",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/renarc-realiza-operacao-contra-trafico-de-drogas-lavagem-de-dinheiro-e-ocultacao-de-patrimonio",
-          "data": "16/10/2026",
-          "resumo": "Ação identificou indícios da atuação de organização criminosa interestadual com possível corrupção de agentes públicos"
-        },
-        {
-          "titulo": "MJSP realiza agenda no Rio de Janeiro com entrega de equipamentos e apresentação de ações contra o crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-realiza-agenda-no-rio-de-janeiro-com-entrega-de-equipamentos-e-apresentacao-de-acoes-contra-o-crime-organizado",
-          "data": "15/10/2026",
-          "resumo": "Programação reúne Senasp e Senappen no TJRJ e inclui equipamentos antidrones, resultados de operações e novas estratégias para segurança penitenciária"
-        },
-        {
-          "titulo": "MJSP e MDHC lançam Guia sobre usos da inteligência artificial na infância e adolescência",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-mdhc-lancam-guia-sobre-usos-da-inteligencia-artificial-na-infancia-e-adolescencia",
-          "data": "15/10/2026",
-          "resumo": "Material orienta famílias, educadores, crianças e adolescentes sobre uso seguro e responsável de ferramentas de IA"
         }
       ],
       "agenda": {
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "A Cara da Educação: do quadro-negro à formulação de políticas no MEC",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/a-cara-da-educacao-do-quadro-negro-a-formulacao-de-politicas-no-mec",
-          "data": "16/10/2026",
-          "resumo": "Servidores e técnicos do MEC relembram os desafios da sala de aula na educação básica, no ensino médio e na educação superior e contam como a vivência com alunos transforma a gestão pública em todo o país"
-        },
-        {
-          "titulo": "MEC Livros estará presente no Festival Literário do Sesc-DF",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-livros-estara-presente-no-festival-literario-do-sesc-df",
-          "data": "16/10/2026",
-          "resumo": "Totem da biblioteca digital gratuita estará disponível nos dias 17 e 18 de outubro, durante Festival Literário do Sesc-DF, em Brasília (DF), para aproximar o público do acervo de obras digitais"
-        },
-        {
-          "titulo": "Enem 2026: domingo (18) é o último dia para escolher idioma",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/enem-2026-domingo-18-e-o-ultimo-dia-para-escolher-idioma",
-          "data": "16/10/2026",
-          "resumo": "Termina neste domingo (18) o prazo para participantes concluintes do ensino médio da rede pública inscritos pelo MEC escolherem o idioma para a prova de Língua Estrangeira"
-        },
-        {
-          "titulo": "Pé-de-Meia: pagamento da 7ª parcela começa na segunda (19)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/pe-de-meia-pagamento-da-7a-parcela-comeca-na-segunda-19",
-          "data": "16/10/2026",
-          "resumo": "Pagamento vai até 26 de outubro e contempla estudantes que cumprem os critérios de frequência escolar, além de beneficiários da educação de jovens e adultos (EJA) elegíveis à parcela de aprovação"
-        },
-        {
-          "titulo": "Segunda fase da Obmep 2026 acontece no sábado (17)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/segunda-fase-da-obmep-2026-acontece-no-sabado-17",
-          "data": "16/10/2026",
-          "resumo": "Mais de 900 mil estudantes participam desta etapa da olimpíada. Na mesma data, professores dos anos iniciais do ensino fundamental estreiam em competição que valoriza a docência e fortalece o ensino de matemática"
-        },
-        {
-          "titulo": "MEC promove aulão do Enem para alunos na Bahia e no Maranhão",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-do-enem-para-alunos-na-bahia-e-no-maranhao",
-          "data": "16/10/2026",
-          "resumo": "Eventos em Teixeira Freitas (BA) e São Luís (MA) reuniram cerca de 4 mil alunos. Eventos trouxeram revisões de Linguagens, Ciências Humanas e da Natureza e Matemática, além de momentos culturais e de saúde emocional"
-        },
-        {
-          "titulo": "MEC promove aulão para centenas de estudantes da EJA em PE",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-para-centenas-de-estudantes-da-eja-em-pe",
-          "data": "16/10/2026",
-          "resumo": "Em João Alfredo (PE), ação realizada pelo Ministério da Educação reforça a importância da Educação de jovens e adultos e busca ampliar a visibilidade da modalidade nos territórios"
-        },
-        {
-          "titulo": "Armadilha luminosa desenvolvida no Ifpa ajuda no combate à dengue",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/armadilha-luminosa-desenvolvida-no-ifpa-ajuda-no-combate-a-dengue",
-          "data": "16/10/2026",
-          "resumo": "Protótipo construído por estudantes e professores no Instituto Federal do Pará reaproveita materiais descartados, não utiliza inseticidas e é mais barato em comparação a modelos comerciais"
-        },
-        {
-          "titulo": "Pé-de-Meia Licenciaturas: Enem abre portas para docentes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/pe-de-meia-licenciaturas-enem-abre-portas-para-docentes",
-          "data": "15/10/2026",
-          "resumo": "Programa oferece bolsas para estudantes que com mais de 650 pontos no exame inscritos em cursos presenciais de licenciaturas. Em dois anos, iniciativa atraiu mais de 20 mil alunos e conta com 14 mil bolsistas"
-        },
-        {
-          "titulo": "Formação e valorização docente são temas do PodMEC",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/formacao-e-valorizacao-docente-sao-temas-do-podmec",
-          "data": "15/10/2026",
-          "resumo": "Episódio foi ao ar nesta quinta (15) e está disponível nos canais do MEC no YouTube e no Spotify. Diálogo abordou os desafios da formação, das condições de trabalho e da valorização dos professores da educação básica"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -142,6 +81,18 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "PRONINC destina R$ 100 milhões a tecnologias para economia solidária",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/proninc-destina-r-100-milhoes-a-tecnologias-para-economia-solidaria",
+          "data": "19/10/2026",
+          "resumo": "Chamada pública recebe propostas de ICTs para soluções em produção, saneamento, sistemas digitais, energia, saúde e outras áreas até janeiro de 2027"
+        },
+        {
+          "titulo": "Pesquisas do CTI Renato Archer vão ser usadas em métodos alternativos a testes com animais",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/pesquisas-do-cti-renato-archer-vao-ser-usadas-em-metodos-alternativos-a-testes-com-animais",
+          "data": "19/10/2026",
+          "resumo": "Unidade de pesquisa projetou modelos físicos e digitais capazes de simular o funcionamento de tecidos afetados por doenças"
+        },
         {
           "titulo": "Competição internacional desafia jovens a usar inteligência artificial para prever inundações e monitorar plantações",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/competicao-internacional-desafia-jovens-a-usar-inteligencia-artificial-para-prever-inundacoes-e-monitorar-plantacoes",
@@ -189,18 +140,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/intensidade-do-el-nino-pode-se-manter-entre-forte-e-muito-forte-ate-primeiro-trimestre-de-2027",
           "data": "09/10/2026",
           "resumo": "Perspectiva sobre intensidade e duração do fenômeno sinaliza que extremos climáticos podem se acentuar no Brasil ao longo da primavera e do verão"
-        },
-        {
-          "titulo": "Estudantes do Brasil ganham cinco medalhas na 19ª Olimpíada Internacional de Astronomia e Astrofísica",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/estudantes-do-brasil-ganham-cinco-medalhas-na-19a-olimpiada-internacional-de-astronomia-e-astrofisica",
-          "data": "08/10/2026",
-          "resumo": "Evento ocorreu de 25 de setembro a 5 de outubro, em Hanói, capital do Vietnã"
-        },
-        {
-          "titulo": "IPCC abre registro para especialistas revisarem três relatórios preliminares",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/ipcc-abre-registro-para-especialistas-revisarem-tres-relatorios-preliminares",
-          "data": "08/10/2026",
-          "resumo": "Confira os prazos e as orientações para envio de contribuições para os relatórios do Sétimo Ciclo de Avaliação"
         }
       ],
       "agenda": {
