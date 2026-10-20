@@ -1,11 +1,41 @@
 {
-  "atualizado_em": "2026-10-20T15:24:20.587294+00:00",
+  "atualizado_em": "2026-10-20T23:40:22.920894+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
         {
-          "titulo": "Meta diz não saber porque contas de jornalistas caem e nega canal direto para casos urgentes envolvendo imprensa e comunicadores no período eleitoral",
+          "titulo": "Metodologia inédita mira expropriação de R$ 300 milhões em patrimônio ligado ao PCC e ao Comando Vermelho",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodologia-inedita-mira-expropriacao-de-r-300-milhoes-em-patrimonio-ligado-ao-pcc-e-ao-comando-vermelho",
+          "data": "20/10/2026",
+          "resumo": "Projeto coordenado pelo LabCrim/DRCI/Senajus reuniu Receita Federal, CNJ, CGU e AGU para transformar inteligência patrimonial em ações judiciais de perdimento de bens"
+        },
+        {
+          "titulo": "Helicópteros reforçam investigação de incêndios no interior do Amazonas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/helicopteros-reforcam-investigacao-de-incendios-no-interior-do-amazonas",
+          "data": "20/10/2026",
+          "resumo": "Bell 412 começa a operar nesta terça-feira (20). Na quarta (21), um Esquilo também será usado no transporte das equipes que realizam diligências no interior do estado"
+        },
+        {
+          "titulo": "Senad e DPU promovem ações de cidadania para população em situação de rua em Porto Alegre",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-e-dpu-promovem-acoes-de-cidadania-para-populacao-em-situacao-de-rua-em-porto-alegre",
+          "data": "20/10/2026",
+          "resumo": "Projeto Rua com Dignidade reúne atividades de formação e assistência jurídica gratuita para pessoas em vulnerabilidade social"
+        },
+        {
+          "titulo": "ENSP inicia curso de aperfeiçoamento para 330 profissionais da Força Municipal no RJ",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ensp-inicia-curso-de-aperfeicoamento-para-330-profissionais-da-forca-municipal-no-rj",
+          "data": "20/10/2026",
+          "resumo": "Formação é voltada à divisão de elite da Guarda Municipal do estado e visa à atuação orientada pelos princípios do policiamento comunitário e da proteção de direitos"
+        },
+        {
+          "titulo": "MJSP conclui caderno temático sobre aplicação da perspectiva racial e de gênero em investigações criminais",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-conclui-caderno-tematico-sobre-aplicacao-da-perspectiva-racial-e-de-genero-em-investigacoes-criminais",
+          "data": "20/10/2026",
+          "resumo": "Documento estabelece diretrizes para padronizar a atuação policial e prevenir práticas discriminatórias"
+        },
+        {
+          "titulo": "Meta diz não saber por que contas de jornalistas caem e nega canal direto para casos urgentes envolvendo imprensa e comunicadores no período eleitoral",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/meta-diz-nao-saber-porque-contas-de-jornalistas-caem-e-nega-canal-direto-para-casos-urgentes-envolvendo-imprensa-e-comunicadores-no-periodo-eleitoral",
           "data": "20/10/2026",
           "resumo": "Após meses de restrições indevidas a jornalistas e comunicadores sociais,  empresa não oferece alternativa para preservar o exercício do direito à liberdade de expressão"
@@ -33,36 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-apresenta-novas-acoes-de-combate-aos-incendios-no-amazonas-com-estado-maior-conjunto-e-base-da-forca-nacional-do-sus-em-manaus",
           "data": "18/10/2026",
           "resumo": "Mobilização reúne reforço das operações militares, preparação da assistência à saúde e ampliação dos recursos para o estado e os municípios; 16 aeronaves estão à disposição das\nações"
-        },
-        {
-          "titulo": "Operação Protetor registra mais de R$ 110 mil em prejuízo econômico para o crime organizado em cinco estados",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-protetor-registra-mais-de-r-110-mil-em-prejuizo-economico-para-o-crime-organizado-em-cinco-estados",
-          "data": "16/10/2026",
-          "resumo": "Balanço apresenta resultados de ações de segurança pública realizadas no Acre, em Alagoas, no Rio Grande do Norte, no Rio Grande do Sul e em Santa Catarina"
-        },
-        {
-          "titulo": "Brasil registra menores taxas de desmatamento da série histórica na Amazônia e no Cerrado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-registra-menores-taxas-de-desmatamento-da-serie-historica-na-amazonia-e-no-cerrado",
-          "data": "16/10/2026",
-          "resumo": "MJSP investiu R$ 318 milhões em recursos do Fundo Amazônia para a proteção do bioma"
-        },
-        {
-          "titulo": "Em Genebra, Brasil reafirma compromisso com a Convenção de 1951 e a proteção de refugiados",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/em-genebra-brasil-reafirma-compromisso-com-a-convencao-de-1951-e-a-protecao-de-refugiados",
-          "data": "16/10/2026",
-          "resumo": "Agenda da Senajus no Comitê Executivo do Acnur inclui diálogo com alto comissário e reuniões sobre cooperação migratória"
-        },
-        {
-          "titulo": "DRCI participa de debates internacionais sobre crimes cibernéticos e recuperação de ativos na França",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/drci-participa-de-debates-internacionais-sobre-crimes-ciberneticos-e-recuperacao-de-ativos-na-franca",
-          "data": "16/10/2026",
-          "resumo": "Encontros reuniram especialistas de mais de 100 países para discutir inteligência artificial, provas eletrônicas e rastreamento de recursos ilícitos"
-        },
-        {
-          "titulo": "Senacon e ANP fiscalizam mercado de combustíveis para coibir aumentos abusivos de preços",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anp-fiscalizam-mercado-de-combustiveis-para-coibir-aumentos-abusivos-de-precos",
-          "data": "16/10/2026",
-          "resumo": "Operação conjunta, que contou com a participação do Procon Paraíba e o apoio da Senasp, fiscalizou 16 agentes econômicos na Paraíba, Rio Grande do Sul e Distrito Federal"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Painel Enem 2026 detalha inscrições no exame",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/painel-enem-2026-detalha-inscricoes-no-exame",
+          "data": "20/10/2026",
+          "resumo": "Mulheres representam 63,98% dos mais de 5 milhões de inscritos confirmados; 13,8 mil participantes têm mais de 60 anos"
+        },
+        {
+          "titulo": "Secretarias de educação podem aderir à Renedic até 13 de novembro",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/secretarias-de-educacao-podem-aderir-a-renedic-ate-13-de-novembro",
+          "data": "20/10/2026",
+          "resumo": "Secretarias Municipais de Educação poderão aderir à rede até 13 de novembro. Encontro online nesta quinta-feira (22), às 15h, apresentará a iniciativa e esclarecerá dúvidas"
+        },
+        {
+          "titulo": "MEC debate modelo de compras centralizadas para laboratórios de ensino",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-debate-modelo-de-compras-centralizadas-para-laboratorios-de-ensino",
+          "data": "20/10/2026",
+          "resumo": "Audiência pública apresenta estrutura do EnLab, novo modelo nacional de aquisições para universidades e institutos federais, com previsão de edital nas próximas semanas e envio de sugestões até 21 de outubro"
+        },
+        {
+          "titulo": "Glossário orienta prevenção ao bullying e à violência escolar",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/glossario-orienta-prevencao-ao-bullying-e-a-violencia-escolar",
+          "data": "20/10/2026",
+          "resumo": "No Dia Mundial de Combate ao Bullying, material reúne conceitos sobre diferentes formas de violência, contribuindo para a promoção de uma convivência escolar segura, respeitosa e inclusiva"
+        },
+        {
+          "titulo": "Selo da Alfabetização: confira documentos que são necessários para a inscrição",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/selo-da-alfabetizacao-confira-documentos-que-sao-necessarios-para-a-inscricao",
+          "data": "20/10/2026",
+          "resumo": "Organizar os registros com antecedência ajuda as secretarias a reunir documentos sobre alfabetização e iniciativas da rede para a 3ª edição do Selo Nacional Compromisso com a Alfabetização"
+        },
+        {
+          "titulo": "MEC promove aulão de preparação para o Enem em Senador Canedo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-de-preparacao-para-o-enem-em-senador-canedo",
+          "data": "20/10/2026",
+          "resumo": "Evento reuniu quase 2 mil alunos para revisões de Linguagens, Ciências Humanas e da Natureza e Matemática. Exame acontece em pouco mais de três semanas, nos dias 8 e 15 de novembro"
+        },
+        {
+          "titulo": "Diagnóstico Equidade mobiliza redes municipais e estaduais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/diagnostico-equidade-mobiliza-redes-municipais-e-estaduais",
+          "data": "20/10/2026",
+          "resumo": "Em 2026, 97% das redes municipais e 100% das estaduais de ensino responderam ao questionário do diagnóstico sobre a implementação de políticas de educação para as Relações Étnico-Raciais e Educação Escolar Quilombola"
+        },
+        {
+          "titulo": "Primeira infância e Marco Legal são destaques no PodMEC",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/primeira-infancia-e-marco-legal-sao-destaques-no-podmec",
+          "data": "19/10/2026",
+          "resumo": "Programa debateu articulação entre saúde, educação, assistência social e combate ao racismo estrutural na infância. Novo episódio já pode ser conferido no Youtube do MEC e no Spotify"
+        },
+        {
+          "titulo": "MEC e MinC abrem inscrições para o Programa Ciclo de Saberes",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-e-minc-abrem-inscricoes-para-o-programa-ciclo-de-saberes",
+          "data": "19/10/2026",
+          "resumo": "Iniciativa prevê investimentos para apoiar projetos de instituições federais de ensino superior que integrem saberes tradicionais e populares às universidades e escolas públicas"
+        },
+        {
+          "titulo": "MEC realiza encontros técnicos com Tribunais de Contas sobre a Prova Nacional Docente",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-realiza-encontros-tecnicos-com-tribunais-de-contas-sobre-a-prova-nacional-docente",
+          "data": "19/10/2026",
+          "resumo": "Iniciativa integra ações do Programa Mais Professores para o Brasil e promove diálogo entre órgãos de controle, estados e municípios sobre o uso da PND na seleção de professores da educação básica"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -81,6 +142,24 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Elisa Frota-Pessoa: pioneira da física abriu caminho para mulheres na ciência",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/elisa-frota-pessoa-pioneira-da-fisica-abriu-caminho-para-mulheres-na-ciencia",
+          "data": "20/10/2026",
+          "resumo": "Segunda mulher a se formar em física no Brasil, pesquisadora contribui para o avanço científica e defesa da democracia"
+        },
+        {
+          "titulo": "Chuva de meteoros Oriônidas atravessa o céu nesta quarta (20)",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chuva-de-meteoros-orionidas-atravessa-o-ceu-nesta-quarta-20",
+          "data": "20/10/2026",
+          "resumo": "Fenômeno poderá ser observado em  todo o Brasil"
+        },
+        {
+          "titulo": "Inscrições para Fórum de Jovens Cientistas dos Brics e Prêmio Brics Jovem Inovador são prorrogadas",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-para-forum-de-jovens-cientistas-dos-brics-e-premio-brics-jovem-inovador-sao-prorrogadas",
+          "data": "20/10/2026",
+          "resumo": "Encontro ocorre em Bangalore, na Índia, de 17 a 19 de novembro. Inscrições seguem até 24 de outubro"
+        },
         {
           "titulo": "PRONINC destina R$ 100 milhões a tecnologias para economia solidária",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/proninc-destina-r-100-milhoes-a-tecnologias-para-economia-solidaria",
@@ -122,24 +201,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chamada-destina-r-100-milhoes-as-solucoes-tecnologicas-para-a-agricultura-familiar",
           "data": "13/10/2026",
           "resumo": "Recursos não reembolsáveis do FNDCT apoiam projetos de ICTs em parceria com cooperativas. Propostas devem ser enviadas até 8 de dezembro"
-        },
-        {
-          "titulo": "Dia das Crianças do Mast será no sábado, 10 de outubro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/dia-das-criancas-do-mast-sera-no-sabado-10-de-outubro",
-          "data": "09/10/2026",
-          "resumo": "Museu preparou uma série de atividades lúdicas envolvendo astronomia e jogos para toda a família"
-        },
-        {
-          "titulo": "RNP abre seleção para 23 bolsas de pesquisa, desenvolvimento e inovação",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/rnp-abre-selecao-para-23-bolsas-de-pesquisa-desenvolvimento-e-inovacao",
-          "data": "09/10/2026",
-          "resumo": "Oportunidades são para atividades remotas em quatros projetos. Inscrições seguem até 26 de outubro"
-        },
-        {
-          "titulo": "Intensidade do El Niño pode se manter entre forte e muito forte até primeiro trimestre de 2027",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/intensidade-do-el-nino-pode-se-manter-entre-forte-e-muito-forte-ate-primeiro-trimestre-de-2027",
-          "data": "09/10/2026",
-          "resumo": "Perspectiva sobre intensidade e duração do fenômeno sinaliza que extremos climáticos podem se acentuar no Brasil ao longo da primavera e do verão"
         }
       ],
       "agenda": {
