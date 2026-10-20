@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-10-20T00:08:17.038932+00:00",
+  "atualizado_em": "2026-10-20T15:24:20.587294+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Meta diz não saber porque contas de jornalistas caem e nega canal direto para casos urgentes envolvendo imprensa e comunicadores no período eleitoral",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/meta-diz-nao-saber-porque-contas-de-jornalistas-caem-e-nega-canal-direto-para-casos-urgentes-envolvendo-imprensa-e-comunicadores-no-periodo-eleitoral",
+          "data": "20/10/2026",
+          "resumo": "Após meses de restrições indevidas a jornalistas e comunicadores sociais,  empresa não oferece alternativa para preservar o exercício do direito à liberdade de expressão"
+        },
         {
           "titulo": "Senasp lança curso de inteligência para análise de rotas e enfrentamento ao crime organizado",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-lanca-curso-de-inteligencia-para-analise-de-rotas-e-enfrentamento-ao-crime-organizado",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anp-fiscalizam-mercado-de-combustiveis-para-coibir-aumentos-abusivos-de-precos",
           "data": "16/10/2026",
           "resumo": "Operação conjunta, que contou com a participação do Procon Paraíba e o apoio da Senasp, fiscalizou 16 agentes econômicos na Paraíba, Rio Grande do Sul e Distrito Federal"
-        },
-        {
-          "titulo": "Brasil apresenta ações de recuperação de ativos em encontro internacional na Etiópia",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-apresenta-acoes-de-recuperacao-de-ativos-em-encontro-internacional-na-etiopia",
-          "data": "16/10/2026",
-          "resumo": "Participação do DRCI aborda ações de cooperação, investigação patrimonial e intercâmbio de boas práticas"
         }
       ],
       "agenda": {
@@ -143,7 +143,7 @@
         }
       ],
       "agenda": {
-        "resumo": "16 Sex 17 Sáb 18 Dom 19 Seg 20 Ter 21 Qua 22 Qui Atualmente não existem compromissos agendados.",
+        "resumo": "17 Sáb 18 Dom 19 Seg 20 Ter 21 Qua 22 Qui 23 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
