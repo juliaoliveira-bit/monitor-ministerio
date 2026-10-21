@@ -1,9 +1,39 @@
 {
-  "atualizado_em": "2026-10-21T15:40:11.737143+00:00",
+  "atualizado_em": "2026-10-21T23:55:41.372510+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Sete dias após o decreto, 378 aparelhos ilegais são bloqueados em presídios",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sete-dias-apos-o-decreto-378-aparelhos-ilegais-sao-bloqueados-em-presidios",
+          "data": "21/10/2026",
+          "resumo": "Com 24 operações Modo Avião realizadas após a publicação da norma, Senappen e estados ampliam o combate às comunicações ilícitas; novo procedimento permite bloqueios em cerca de 30 minutos"
+        },
+        {
+          "titulo": "Homens representam 52,1% dos participantes do Dia C de capacitação sobre violência de gênero",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/homens-representam-52-1-dos-participantes-do-dia-c-de-capacitacao-sobre-violencia-de-genero",
+          "data": "21/10/2026",
+          "resumo": "Curso buscou qualificar a atuação profissional para fortalecer a rede de proteção e o enfrentamento das violências de gênero; mulheres corresponderam a 47,9% dos participantes"
+        },
+        {
+          "titulo": "Método do MJSP identifica imóveis de luxo ligados a organizações criminosas",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodo-do-mjsp-identifica-imoveis-de-luxo-ligados-a-organizacoes-criminosas",
+          "data": "21/10/2026",
+          "resumo": "Desenvolvido pela Senajus, método cruza dados judiciais, vínculos pessoais e informações patrimoniais para rastrear bens associados a facções criminosas ultraviolentas"
+        },
+        {
+          "titulo": "Escola Nacional de Segurança Pública lança curso sobre emergências com produtos perigosos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-sobre-emergencias-com-produtos-perigosos",
+          "data": "21/10/2026",
+          "resumo": "Formação aborda procedimentos para o atendimento inicial a ocorrências com produtos perigosos e aspectos relacionados à proteção do meio ambiente e das comunidades"
+        },
+        {
+          "titulo": "MJSP e CNJ avançam com medida para acelerar leilões de bens apreendidos com estimativa de arrecadação de R$ 1 bilhão para os cofres públicos",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-cnj-avancam-com-medida-para-acelerar-leiloes-de-bens-apreendidos-e-aumentar-a-arrecadacao-dos-cofres-publicos",
+          "data": "21/10/2026",
+          "resumo": "Nova norma fortalece as Operações Limpa Pátio, conduzidas pela Senad em articulação com a PF, para reduzir o acúmulo de bens apreendidos e viabilizar recursos"
+        },
         {
           "titulo": "Metodologia inédita mira expropriação de R$ 190 milhões em patrimônio ligado ao PCC e ao Comando Vermelho",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodologia-inedita-mira-expropriacao-de-r-190-milhoes-em-patrimonio-ligado-ao-pcc-e-ao-comando-vermelho",
@@ -33,36 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-conclui-caderno-tematico-sobre-aplicacao-da-perspectiva-racial-e-de-genero-em-investigacoes-criminais",
           "data": "20/10/2026",
           "resumo": "Documento estabelece diretrizes para padronizar a atuação policial e prevenir práticas discriminatórias"
-        },
-        {
-          "titulo": "Meta diz não saber por que contas de jornalistas caem e nega canal direto para casos urgentes envolvendo imprensa e comunicadores no período eleitoral",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/meta-diz-nao-saber-porque-contas-de-jornalistas-caem-e-nega-canal-direto-para-casos-urgentes-envolvendo-imprensa-e-comunicadores-no-periodo-eleitoral",
-          "data": "20/10/2026",
-          "resumo": "Após meses de restrições indevidas a jornalistas e comunicadores sociais,  empresa não oferece alternativa para preservar o exercício do direito à liberdade de expressão"
-        },
-        {
-          "titulo": "Senasp lança curso de inteligência para análise de rotas e enfrentamento ao crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-lanca-curso-de-inteligencia-para-analise-de-rotas-e-enfrentamento-ao-crime-organizado",
-          "data": "19/10/2026",
-          "resumo": "Capacitação terá aulas sobre inteligência, análise de dados e geointeligência na identificação de padrões e rotas utilizados por organizações criminosas"
-        },
-        {
-          "titulo": "Líder de organização criminosa no Amazonas é preso em Santa Catarina com apoio do MJSP",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/lider-de-organizacao-criminosa-no-amazonas-e-preso-em-santa-catarina-com-apoio-do-mjsp",
-          "data": "19/10/2026",
-          "resumo": "Investigado é apontado como responsável por comandar atividades na região de fronteira do Alto Rio Negro, mesmo à distância"
-        },
-        {
-          "titulo": "Operação Mulher Segura prende mais de 57 mil agressores em 141 dias",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-mulher-segura-mais-de-57-mil-agressores-sao-presos-em-141-dias",
-          "data": "19/10/2026",
-          "resumo": "Prisões em flagrante superam 49 mil, e mais de 8 mil são decorrentes de mandados judiciais"
-        },
-        {
-          "titulo": "Governo Federal apresenta novas ações de combate aos incêndios no Amazonas, com Estado-Maior Conjunto e base da Força Nacional do SUS em Manaus",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-apresenta-novas-acoes-de-combate-aos-incendios-no-amazonas-com-estado-maior-conjunto-e-base-da-forca-nacional-do-sus-em-manaus",
-          "data": "18/10/2026",
-          "resumo": "Mobilização reúne reforço das operações militares, preparação da assistência à saúde e ampliação dos recursos para o estado e os municípios; 16 aeronaves estão à disposição das\nações"
         }
       ],
       "agenda": {
@@ -73,6 +73,30 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Aulões do Enem reúnem mais de 3 mil estudantes em TO e SP",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/auloes-do-enem-reunem-mais-de-3-mil-estudantes-em-to-e-sp",
+          "data": "21/10/2026",
+          "resumo": "Atividades realizadas em Palmas e Bauru ofereceram revisão de conteúdos, orientações sobre a prova e ações voltadas à saúde mental na reta final para o exame, que será aplicado nos dias 8 e 15 de novembro"
+        },
+        {
+          "titulo": "MEC forma 1.950 agentes para educação inclusiva",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-forma-1-950-agentes-para-educacao-inclusiva",
+          "data": "21/10/2026",
+          "resumo": "Via Secadi, MEC conclui formação de agentes intersetoriais e fortalece articulação entre educação, saúde e assistência social, garantindo acesso, permanência, participação e aprendizagem na educação especial"
+        },
+        {
+          "titulo": "Jogos reúnem mais de mil estudantes da Rede Federal de Educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/jogos-reunem-mais-de-mil-estudantes-da-rede-federal-de-educacao",
+          "data": "21/10/2026",
+          "resumo": "Competição reúne 1.200 estudantes-atletas de institutos federais, Cefets e do Colégio Pedro II, com disputas em modalidades coletivas, individuais e paralímpicas, em Goiânia (GO), até sexta-feira (23)"
+        },
+        {
+          "titulo": "A sala de aula como espaço de realização profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/a-sala-de-aula-como-espaco-de-realizacao-profissional",
+          "data": "21/10/2026",
+          "resumo": "Formado em física pela Universidade Federal do Piauí, o professor Victor Gabriel ensina matemática em cursinho popular de Teresina e ajuda outros estudantes a buscarem o acesso à universidade pelo Enem"
+        },
         {
           "titulo": "Dia Nacional da Alimentação Escolar: conheça as diretrizes do PNAE",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/dia-nacional-da-alimentacao-escolar-conheca-as-diretrizes-do-pnae",
@@ -108,30 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-debate-modelo-de-compras-centralizadas-para-laboratorios-de-ensino",
           "data": "20/10/2026",
           "resumo": "Audiência pública apresenta estrutura do EnLab, novo modelo nacional de aquisições para universidades e institutos federais, com previsão de edital nas próximas semanas e envio de sugestões até 21 de outubro"
-        },
-        {
-          "titulo": "Glossário orienta prevenção ao bullying e à violência escolar",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/glossario-orienta-prevencao-ao-bullying-e-a-violencia-escolar",
-          "data": "20/10/2026",
-          "resumo": "No Dia Mundial de Combate ao Bullying, material reúne conceitos sobre diferentes formas de violência, contribuindo para a promoção de uma convivência escolar segura, respeitosa e inclusiva"
-        },
-        {
-          "titulo": "Selo da Alfabetização: confira documentos que são necessários para a inscrição",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/selo-da-alfabetizacao-confira-documentos-que-sao-necessarios-para-a-inscricao",
-          "data": "20/10/2026",
-          "resumo": "Organizar os registros com antecedência ajuda as secretarias a reunir documentos sobre alfabetização e iniciativas da rede para a 3ª edição do Selo Nacional Compromisso com a Alfabetização"
-        },
-        {
-          "titulo": "MEC promove aulão de preparação para o Enem em Senador Canedo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-promove-aulao-de-preparacao-para-o-enem-em-senador-canedo",
-          "data": "20/10/2026",
-          "resumo": "Evento reuniu quase 2 mil alunos para revisões de Linguagens, Ciências Humanas e da Natureza e Matemática. Exame acontece em pouco mais de três semanas, nos dias 8 e 15 de novembro"
-        },
-        {
-          "titulo": "Diagnóstico Equidade mobiliza redes municipais e estaduais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/diagnostico-equidade-mobiliza-redes-municipais-e-estaduais",
-          "data": "20/10/2026",
-          "resumo": "Em 2026, 97% das redes municipais e 100% das estaduais de ensino responderam ao questionário do diagnóstico sobre a implementação de políticas de educação para as Relações Étnico-Raciais e Educação Escolar Quilombola"
         }
       ],
       "agenda": {
@@ -143,13 +143,25 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
         {
+          "titulo": "Da pesquisa ao debate científico, CNPq investe R$ 20 milhões em eventos no Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/da-pesquisa-ao-debate-cientifico-cnpq-investe-r-20-milhoes-em-eventos-no-brasil",
+          "data": "21/10/2026",
+          "resumo": "Edital do CNPq apoia encontros nacionais, internacionais e mundiais e estabelece critérios para participação, financiamento e apresentação de propostas"
+        },
+        {
+          "titulo": "INPO testa nova plataforma para integrar dados oceânicos do Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inpo-testa-nova-plataforma-para-integrar-dados-oceanicos-do-brasil",
+          "data": "21/10/2026",
+          "resumo": "Sistema busca facilitar o compartilhamento de informações e contribuir para o avanço das pesquisas sobre o oceano"
+        },
+        {
           "titulo": "Elisa Frota-Pessoa: pioneira da física abriu caminho para mulheres na ciência",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/elisa-frota-pessoa-pioneira-da-fisica-abriu-caminho-para-mulheres-na-ciencia",
           "data": "20/10/2026",
           "resumo": "Segunda mulher a se formar em física no Brasil, pesquisadora contribui para o avanço científica e defesa da democracia"
         },
         {
-          "titulo": "Chuva de meteoros Oriônidas atravessa o céu nesta quarta (20)",
+          "titulo": "Chuva de meteoros Oriônidas atravessa o céu nesta quarta (21)",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chuva-de-meteoros-orionidas-atravessa-o-ceu-nesta-quarta-20",
           "data": "20/10/2026",
           "resumo": "Fenômeno poderá ser observado em  todo o Brasil"
@@ -189,18 +201,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/futuras-cientistas-abre-470-vagas-para-imersao-cientifica-em-2027",
           "data": "14/10/2026",
           "resumo": "Inscrições abertas até 26 de outubro a estudantes do 2º ano do ensino médio e professoras da rede pública estadual de todo o Brasil"
-        },
-        {
-          "titulo": "Márcia Barbosa: a cientista que transformou conhecimento em mudança",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/marcia-barbosa-a-cientista-que-transformou-perguntas-em-conhecimento-e-conhecimento-em-mudanca",
-          "data": "13/10/2026",
-          "resumo": "Pesquisadora brasileira construiu uma trajetória internacional na Física, ajudou a ampliar a compreensão sobre o comportamento da água"
-        },
-        {
-          "titulo": "Chamada destina R$ 100 milhões as soluções tecnológicas para a agricultura familiar",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chamada-destina-r-100-milhoes-as-solucoes-tecnologicas-para-a-agricultura-familiar",
-          "data": "13/10/2026",
-          "resumo": "Recursos não reembolsáveis do FNDCT apoiam projetos de ICTs em parceria com cooperativas. Propostas devem ser enviadas até 8 de dezembro"
         }
       ],
       "agenda": {
