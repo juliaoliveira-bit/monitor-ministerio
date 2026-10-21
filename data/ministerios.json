@@ -1,12 +1,12 @@
 {
-  "atualizado_em": "2026-10-20T23:40:22.920894+00:00",
+  "atualizado_em": "2026-10-21T15:40:11.737143+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
         {
-          "titulo": "Metodologia inédita mira expropriação de R$ 300 milhões em patrimônio ligado ao PCC e ao Comando Vermelho",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodologia-inedita-mira-expropriacao-de-r-300-milhoes-em-patrimonio-ligado-ao-pcc-e-ao-comando-vermelho",
+          "titulo": "Metodologia inédita mira expropriação de R$ 190 milhões em patrimônio ligado ao PCC e ao Comando Vermelho",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodologia-inedita-mira-expropriacao-de-r-190-milhoes-em-patrimonio-ligado-ao-pcc-e-ao-comando-vermelho",
           "data": "20/10/2026",
           "resumo": "Projeto coordenado pelo LabCrim/DRCI/Senajus reuniu Receita Federal, CNJ, CGU e AGU para transformar inteligência patrimonial em ações judiciais de perdimento de bens"
         },
@@ -74,6 +74,24 @@
       "nome": "Ministério da Educação",
       "noticias": [
         {
+          "titulo": "Dia Nacional da Alimentação Escolar: conheça as diretrizes do PNAE",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/dia-nacional-da-alimentacao-escolar-conheca-as-diretrizes-do-pnae",
+          "data": "21/10/2026",
+          "resumo": "Normas do programa orientam oferta de refeições na escola pública, elaboração de cardápios por nutricionistas, educação alimentar e nutricional e acompanhamento das ações"
+        },
+        {
+          "titulo": "Redes têm até 31 de outubro para regularizar pendências do PDDE",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/redes-tem-ate-31-de-outubro-para-regularizar-pendencias-do-pdde",
+          "data": "21/10/2026",
+          "resumo": "Guia do MEC orienta redes de ensino a identificar e resolver pendências junto ao FNDE para garantir o acesso a recursos do Programa Dinheiro Direto na Escola Equidade"
+        },
+        {
+          "titulo": "UFSCar desenvolve jogo infantil sobre saúde e meio ambiente",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/ufscar-desenvolve-jogo-infantil-sobre-saude-e-meio-ambiente",
+          "data": "21/10/2026",
+          "resumo": "Recurso educativo gratuito da Universidade Federal de São Carlos aborda sustentabilidade e saúde ambiental. Iniciativa lúdica pode ser utilizada em escolas e atividades de lazer"
+        },
+        {
           "titulo": "Painel Enem 2026 detalha inscrições no exame",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/painel-enem-2026-detalha-inscricoes-no-exame",
           "data": "20/10/2026",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/diagnostico-equidade-mobiliza-redes-municipais-e-estaduais",
           "data": "20/10/2026",
           "resumo": "Em 2026, 97% das redes municipais e 100% das estaduais de ensino responderam ao questionário do diagnóstico sobre a implementação de políticas de educação para as Relações Étnico-Raciais e Educação Escolar Quilombola"
-        },
-        {
-          "titulo": "Primeira infância e Marco Legal são destaques no PodMEC",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/primeira-infancia-e-marco-legal-sao-destaques-no-podmec",
-          "data": "19/10/2026",
-          "resumo": "Programa debateu articulação entre saúde, educação, assistência social e combate ao racismo estrutural na infância. Novo episódio já pode ser conferido no Youtube do MEC e no Spotify"
-        },
-        {
-          "titulo": "MEC e MinC abrem inscrições para o Programa Ciclo de Saberes",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-e-minc-abrem-inscricoes-para-o-programa-ciclo-de-saberes",
-          "data": "19/10/2026",
-          "resumo": "Iniciativa prevê investimentos para apoiar projetos de instituições federais de ensino superior que integrem saberes tradicionais e populares às universidades e escolas públicas"
-        },
-        {
-          "titulo": "MEC realiza encontros técnicos com Tribunais de Contas sobre a Prova Nacional Docente",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-realiza-encontros-tecnicos-com-tribunais-de-contas-sobre-a-prova-nacional-docente",
-          "data": "19/10/2026",
-          "resumo": "Iniciativa integra ações do Programa Mais Professores para o Brasil e promove diálogo entre órgãos de controle, estados e municípios sobre o uso da PND na seleção de professores da educação básica"
         }
       ],
       "agenda": {
@@ -204,7 +204,7 @@
         }
       ],
       "agenda": {
-        "resumo": "17 Sáb 18 Dom 19 Seg 20 Ter 21 Qua 22 Qui 23 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "18 Dom 19 Seg 20 Ter 21 Qua 22 Qui 23 Sex 24 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
