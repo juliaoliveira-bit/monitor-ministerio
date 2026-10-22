@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-10-22T15:41:58.818137+00:00",
+  "atualizado_em": "2026-10-22T23:54:54.294860+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "MJSP reforça atuação no combate a incêndios florestais e crimes ambientais no Pará",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reforca-atuacao-no-combate-a-incendios-florestais-e-crimes-ambientais-no-para",
+          "data": "22/10/2026",
+          "resumo": "Polícia Federal, Polícia Rodoviária Federal e Força Nacional integram ações de prevenção e repressão a incêndios criminosos, desmatamento ilegal e grilagem de terras"
+        },
+        {
+          "titulo": "Ministério da Justiça capacita policiais civis e militares do RJ para utilizar sistemas antidrones",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-capacita-policiais-civis-e-militares-do-rj-para-utilizacao-de-sistemas-anti-drones",
+          "data": "22/10/2026",
+          "resumo": "Treinamento realizado pela Senasp prepara profissionais para o uso dos equipamentos; investimento federal de R$ 8,78 milhões amplia a capacidade de resposta no estado"
+        },
+        {
+          "titulo": "Senacon, Ministério Público e Procons gaúchos cobram melhorias nos serviços da Corsan/Aegea",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-ministerio-publico-e-procons-gauchos-cobram-melhorias-nos-servicos-da-corsan-aegea",
+          "data": "22/10/2026",
+          "resumo": "Companhia assume compromissos com Procons e consumidores; Senacon fará monitoramento das medidas"
+        },
+        {
+          "titulo": "MJSP solicita esclarecimentos sobre denúncias de irregularidades em abordagem policial em Piracicaba",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-solicita-esclarecimentos-sobre-denuncias-de-irregularidades-em-abordagem-policial-em-piracicaba",
+          "data": "22/10/2026",
+          "resumo": "Senasp enviou ofícios à Secretaria da Segurança Pública, à Corregedoria da Polícia Militar e à Ouvidoria das Polícias de São Paulo para solicitar informações e preservar provas da ocorrência"
+        },
+        {
+          "titulo": "Apreensão de armas de alto poder de fogo cresce 55% no Brasil em 2026",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/apreensao-de-armas-de-alto-poder-de-fogo-cresce-55-no-brasil-em-2026",
+          "data": "22/10/2026",
+          "resumo": "Sistema Nacional de Informações de Segurança Pública mostra que 4,4 mil armas, como fuzis, submetralhadoras e carabinas, foram retiradas de circulação"
+        },
+        {
+          "titulo": "Sedigi apresenta ações de implementação do ECA Digital em webinário sobre os seis meses de vigência da lei",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-apresenta-acoes-de-implementacao-do-eca-digital-em-webinario-sobre-os-seis-meses-de-vigencia-da-lei",
+          "data": "22/10/2026",
+          "resumo": "Encontro reuniu representantes do governo, do sistema de justiça e da sociedade civil para discutir os impactos da lei no cotidiano de crianças, adolescentes e famílias"
+        },
+        {
+          "titulo": "ECA Digital: empresas têm 60 dias para fazer cadastro no Sistema Nidus da Polícia Federal",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eca-digital-empresas-tem-60-dias-para-fazer-cadastro-no-sistema-nidus-da-policia-federal",
+          "data": "22/10/2026",
+          "resumo": "Cadastro permite habilitar fornecedores de tecnologia para o envio de notificações de exploração e abuso sexual, sequestro e aliciamento de crianças e adolescentes na internet"
+        },
         {
           "titulo": "Sete dias após o decreto, 378 aparelhos ilegais são bloqueados em presídios",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sete-dias-apos-o-decreto-378-aparelhos-ilegais-sao-bloqueados-em-presidios",
@@ -21,48 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodo-do-mjsp-identifica-imoveis-de-luxo-ligados-a-organizacoes-criminosas",
           "data": "21/10/2026",
           "resumo": "Desenvolvido pela Senajus, método cruza dados judiciais, vínculos pessoais e informações patrimoniais para rastrear bens associados a facções criminosas ultraviolentas"
-        },
-        {
-          "titulo": "Escola Nacional de Segurança Pública lança curso sobre emergências com produtos perigosos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-sobre-emergencias-com-produtos-perigosos",
-          "data": "21/10/2026",
-          "resumo": "Formação aborda procedimentos para o atendimento inicial a ocorrências com produtos perigosos e aspectos relacionados à proteção do meio ambiente e das comunidades"
-        },
-        {
-          "titulo": "MJSP e CNJ avançam com medida para acelerar leilões de bens apreendidos com estimativa de arrecadação de R$ 1 bilhão para os cofres públicos",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-cnj-avancam-com-medida-para-acelerar-leiloes-de-bens-apreendidos-e-aumentar-a-arrecadacao-dos-cofres-publicos",
-          "data": "21/10/2026",
-          "resumo": "Nova norma fortalece as Operações Limpa Pátio, conduzidas pela Senad em articulação com a PF, para reduzir o acúmulo de bens apreendidos e viabilizar recursos"
-        },
-        {
-          "titulo": "Metodologia inédita mira expropriação de R$ 190 milhões em patrimônio ligado ao PCC e ao Comando Vermelho",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodologia-inedita-mira-expropriacao-de-r-190-milhoes-em-patrimonio-ligado-ao-pcc-e-ao-comando-vermelho",
-          "data": "20/10/2026",
-          "resumo": "Projeto coordenado pelo LabCrim/DRCI/Senajus reuniu Receita Federal, CNJ, CGU e AGU para transformar inteligência patrimonial em ações judiciais de perdimento de bens"
-        },
-        {
-          "titulo": "Helicópteros reforçam investigação de incêndios no interior do Amazonas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/helicopteros-reforcam-investigacao-de-incendios-no-interior-do-amazonas",
-          "data": "20/10/2026",
-          "resumo": "Bell 412 começa a operar nesta terça-feira (20). Na quarta (21), um Esquilo também será usado no transporte das equipes que realizam diligências no interior do estado"
-        },
-        {
-          "titulo": "Senad e DPU promovem ações de cidadania para população em situação de rua em Porto Alegre",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-e-dpu-promovem-acoes-de-cidadania-para-populacao-em-situacao-de-rua-em-porto-alegre",
-          "data": "20/10/2026",
-          "resumo": "Projeto Rua com Dignidade reúne atividades de formação e assistência jurídica gratuita para pessoas em vulnerabilidade social"
-        },
-        {
-          "titulo": "ENSP inicia curso de aperfeiçoamento para 330 profissionais da Força Municipal no RJ",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ensp-inicia-curso-de-aperfeicoamento-para-330-profissionais-da-forca-municipal-no-rj",
-          "data": "20/10/2026",
-          "resumo": "Formação é voltada à divisão de elite da Guarda Municipal do estado e visa à atuação orientada pelos princípios do policiamento comunitário e da proteção de direitos"
-        },
-        {
-          "titulo": "MJSP conclui caderno temático sobre aplicação da perspectiva racial e de gênero em investigações criminais",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-conclui-caderno-tematico-sobre-aplicacao-da-perspectiva-racial-e-de-genero-em-investigacoes-criminais",
-          "data": "20/10/2026",
-          "resumo": "Documento estabelece diretrizes para padronizar a atuação policial e prevenir práticas discriminatórias"
         }
       ],
       "agenda": {
@@ -72,7 +72,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Aulões do Enem reúnem 4 mil estudantes no Rio de Janeiro e em Minas Gerais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/auloes-do-enem-reunem-4-mil-estudantes-no-rio-de-janeiro-e-em-minas-gerais",
+          "data": "22/10/2026",
+          "resumo": "Encontros em Maricá (RJ) e Montes Claros (MG) aliaram preparação o exame a apresentações culturais e suporte aos participantes. Provas serão aplicadas nos dias 8 e 15 de novembro"
+        },
+        {
+          "titulo": "Decreto que regulamenta cargos do PCCTAE é publicado",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/decreto-que-regulamenta-cargos-do-pcctae-e-publicado",
+          "data": "22/10/2026",
+          "resumo": "Documento dispõe sobre 15.659 códigos de vagas para Técnico e Analista em Educação, em universidades e institutos federais, e contempla inicialmente as áreas e especialidades mais demandadas pelas instituições"
+        },
+        {
+          "titulo": "MEC participa de reunião técnica do Ibas na África do Sul",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-participa-de-reuniao-tecnica-do-ibas-na-africa-do-sul",
+          "data": "22/10/2026",
+          "resumo": "Encontro realizado na Cidade do Cabo, entre 19 e 21 de outubro, reuniu representantes de Índia, Brasil e África do Sul para discutir cooperação em alfabetização, matemática e desenvolvimento na primeira infância"
+        },
+        {
+          "titulo": "Enem integra avaliação da educação básica; entenda as novidades",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/enem-integra-avaliacao-da-educacao-basica-entenda-as-novidades",
+          "data": "22/10/2026",
+          "resumo": "Além de ser utilizado para acesso à educação superior e à certificação do ensino médio, a partir de 2026, o exame avaliará a qualidade da educação básica, com apoio de professores da rede pública"
+        },
+        {
+          "titulo": "Aulões do Enem reúnem mais de 3 mil estudantes em TO e SP",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/auloes-do-enem-reunem-mais-de-3-mil-estudantes-em-to-e-sp",
+          "data": "21/10/2026",
+          "resumo": "Atividades realizadas em Palmas e Bauru ofereceram revisão de conteúdos, orientações sobre a prova e ações voltadas à saúde mental na reta final para o exame, que será aplicado nos dias 8 e 15 de novembro"
+        },
+        {
+          "titulo": "MEC forma 1.950 agentes para educação inclusiva",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-forma-1-950-agentes-para-educacao-inclusiva",
+          "data": "21/10/2026",
+          "resumo": "Via Secadi, MEC conclui formação de agentes intersetoriais e fortalece articulação entre educação, saúde e assistência social, garantindo acesso, permanência, participação e aprendizagem na educação especial"
+        },
+        {
+          "titulo": "Jogos reúnem mais de mil estudantes da Rede Federal de Educação",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/jogos-reunem-mais-de-mil-estudantes-da-rede-federal-de-educacao",
+          "data": "21/10/2026",
+          "resumo": "Competição reúne 1.200 estudantes-atletas de institutos federais, Cefets e do Colégio Pedro II, com disputas em modalidades coletivas, individuais e paralímpicas, em Goiânia (GO), até sexta-feira (23)"
+        },
+        {
+          "titulo": "A sala de aula como espaço de realização profissional",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/a-sala-de-aula-como-espaco-de-realizacao-profissional",
+          "data": "21/10/2026",
+          "resumo": "Formado em física pela Universidade Federal do Piauí, o professor Victor Gabriel ensina matemática em cursinho popular de Teresina e ajuda outros estudantes a buscarem o acesso à universidade pelo Enem"
+        },
+        {
+          "titulo": "Dia Nacional da Alimentação Escolar: conheça as diretrizes do PNAE",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/dia-nacional-da-alimentacao-escolar-conheca-as-diretrizes-do-pnae",
+          "data": "21/10/2026",
+          "resumo": "Normas do programa orientam oferta de refeições na escola pública, elaboração de cardápios por nutricionistas, educação alimentar e nutricional e acompanhamento das ações"
+        },
+        {
+          "titulo": "Redes têm até 31 de outubro para regularizar pendências do PDDE",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/redes-tem-ate-31-de-outubro-para-regularizar-pendencias-do-pdde",
+          "data": "21/10/2026",
+          "resumo": "Guia do MEC orienta redes de ensino a identificar e resolver pendências junto ao FNDE para garantir o acesso a recursos do Programa Dinheiro Direto na Escola Equidade"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -81,6 +142,12 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Seminário de avaliação de projetos de pesquisa sobre mudança do clima sinaliza importância de editais específicos para a área",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/seminario-de-avaliacao-de-projetos-de-pesquisa-sobre-mudanca-do-clima-sinaliza-importancia-de-editais-especificos-para-a-area",
+          "data": "22/10/2026",
+          "resumo": "MCTI e CNPq reuniram coordenadores de 38 projetos de edital aprovado em 2022"
+        },
         {
           "titulo": "Da pesquisa ao debate científico, CNPq investe R$ 20 milhões em eventos no Brasil",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/da-pesquisa-ao-debate-cientifico-cnpq-investe-r-20-milhoes-em-eventos-no-brasil",
@@ -134,12 +201,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chamada-eureka-recebe-propostas-para-projetos-de-resiliencia-e-resposta-a-desastres",
           "data": "15/10/2026",
           "resumo": "Empresas brasileiras com projetos aprovados na etapa internacional podem enviar propostas à Finep até 6 de novembro"
-        },
-        {
-          "titulo": "Futuras Cientistas abre 470 vagas para Imersão Científica 2027",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/futuras-cientistas-abre-470-vagas-para-imersao-cientifica-em-2027",
-          "data": "14/10/2026",
-          "resumo": "Inscrições abertas até 26 de outubro a estudantes do 2º ano do ensino médio e professoras da rede pública estadual de todo o Brasil"
         }
       ],
       "agenda": {
