@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-21T23:55:41.372510+00:00",
+  "atualizado_em": "2026-10-22T15:41:58.818137+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -72,68 +72,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Aulões do Enem reúnem mais de 3 mil estudantes em TO e SP",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/auloes-do-enem-reunem-mais-de-3-mil-estudantes-em-to-e-sp",
-          "data": "21/10/2026",
-          "resumo": "Atividades realizadas em Palmas e Bauru ofereceram revisão de conteúdos, orientações sobre a prova e ações voltadas à saúde mental na reta final para o exame, que será aplicado nos dias 8 e 15 de novembro"
-        },
-        {
-          "titulo": "MEC forma 1.950 agentes para educação inclusiva",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-forma-1-950-agentes-para-educacao-inclusiva",
-          "data": "21/10/2026",
-          "resumo": "Via Secadi, MEC conclui formação de agentes intersetoriais e fortalece articulação entre educação, saúde e assistência social, garantindo acesso, permanência, participação e aprendizagem na educação especial"
-        },
-        {
-          "titulo": "Jogos reúnem mais de mil estudantes da Rede Federal de Educação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/jogos-reunem-mais-de-mil-estudantes-da-rede-federal-de-educacao",
-          "data": "21/10/2026",
-          "resumo": "Competição reúne 1.200 estudantes-atletas de institutos federais, Cefets e do Colégio Pedro II, com disputas em modalidades coletivas, individuais e paralímpicas, em Goiânia (GO), até sexta-feira (23)"
-        },
-        {
-          "titulo": "A sala de aula como espaço de realização profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/a-sala-de-aula-como-espaco-de-realizacao-profissional",
-          "data": "21/10/2026",
-          "resumo": "Formado em física pela Universidade Federal do Piauí, o professor Victor Gabriel ensina matemática em cursinho popular de Teresina e ajuda outros estudantes a buscarem o acesso à universidade pelo Enem"
-        },
-        {
-          "titulo": "Dia Nacional da Alimentação Escolar: conheça as diretrizes do PNAE",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/dia-nacional-da-alimentacao-escolar-conheca-as-diretrizes-do-pnae",
-          "data": "21/10/2026",
-          "resumo": "Normas do programa orientam oferta de refeições na escola pública, elaboração de cardápios por nutricionistas, educação alimentar e nutricional e acompanhamento das ações"
-        },
-        {
-          "titulo": "Redes têm até 31 de outubro para regularizar pendências do PDDE",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/redes-tem-ate-31-de-outubro-para-regularizar-pendencias-do-pdde",
-          "data": "21/10/2026",
-          "resumo": "Guia do MEC orienta redes de ensino a identificar e resolver pendências junto ao FNDE para garantir o acesso a recursos do Programa Dinheiro Direto na Escola Equidade"
-        },
-        {
-          "titulo": "UFSCar desenvolve jogo infantil sobre saúde e meio ambiente",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/ufscar-desenvolve-jogo-infantil-sobre-saude-e-meio-ambiente",
-          "data": "21/10/2026",
-          "resumo": "Recurso educativo gratuito da Universidade Federal de São Carlos aborda sustentabilidade e saúde ambiental. Iniciativa lúdica pode ser utilizada em escolas e atividades de lazer"
-        },
-        {
-          "titulo": "Painel Enem 2026 detalha inscrições no exame",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/painel-enem-2026-detalha-inscricoes-no-exame",
-          "data": "20/10/2026",
-          "resumo": "Mulheres representam 63,98% dos mais de 5 milhões de inscritos confirmados; 13,8 mil participantes têm mais de 60 anos"
-        },
-        {
-          "titulo": "Secretarias de educação podem aderir à Renedic até 13 de novembro",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/secretarias-de-educacao-podem-aderir-a-renedic-ate-13-de-novembro",
-          "data": "20/10/2026",
-          "resumo": "Secretarias Municipais de Educação poderão aderir à rede até 13 de novembro. Encontro online nesta quinta-feira (22), às 15h, apresentará a iniciativa e esclarecerá dúvidas"
-        },
-        {
-          "titulo": "MEC debate modelo de compras centralizadas para laboratórios de ensino",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-debate-modelo-de-compras-centralizadas-para-laboratorios-de-ensino",
-          "data": "20/10/2026",
-          "resumo": "Audiência pública apresenta estrutura do EnLab, novo modelo nacional de aquisições para universidades e institutos federais, com previsão de edital nas próximas semanas e envio de sugestões até 21 de outubro"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -204,7 +143,7 @@
         }
       ],
       "agenda": {
-        "resumo": "18 Dom 19 Seg 20 Ter 21 Qua 22 Qui 23 Sex 24 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "19 Seg 20 Ter 21 Qua 22 Qui 23 Sex 24 Sáb 25 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
