@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-10-23T15:29:32.989730+00:00",
+  "atualizado_em": "2026-10-23T23:46:35.477409+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Senacon notifica empresas sobre estrutura de shows do BTS em São Paulo",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-notifica-empresas-sobre-estrutura-de-shows-do-bts-em-sao-paulo",
+          "data": "23/10/2026",
+          "resumo": "Live Nation e Ticketmaster terão cinco dias para prestar informações sobre redução de telões e comunicação aos consumidores"
+        },
+        {
+          "titulo": "Centro Integrado Mulher Segura recebe representantes do Ministério Público para troca de experiências",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/centro-integrado-mulher-segura-recebe-representantes-do-ministerio-publico-para-troca-de-experiencias",
+          "data": "23/10/2026",
+          "resumo": "Encontro abordou a cooperação e o compartilhamento de informações para a proteção das mulheres"
+        },
+        {
+          "titulo": "Ministério da Justiça coordena operação integrada para garantir a segurança nas eleições",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-coordena-operacao-integrada-para-garantir-a-seguranca-nas-eleicoes",
+          "data": "23/10/2026",
+          "resumo": "Ações contam com a participação de órgãos federais e estaduais para assegurar a ordem pública durante o segundo turno"
+        },
+        {
+          "titulo": "MJSP investe R$ 6,3 milhões em 184 drones para combater o crime organizado",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-investe-r-6-3-milhoes-em-184-drones-para-combater-o-crime-organizado",
+          "data": "23/10/2026",
+          "resumo": "Equipamentos de alta tecnologia serão destinados às forças de segurança para ampliar as ações de inteligência, investigação e policiamento preventivo em todo o Brasil"
+        },
         {
           "titulo": "MJSP reforça atuação no combate a incêndios florestais e crimes ambientais no Pará",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reforca-atuacao-no-combate-a-incendios-florestais-e-crimes-ambientais-no-para",
@@ -39,30 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-apresenta-acoes-de-implementacao-do-eca-digital-em-webinario-sobre-os-seis-meses-de-vigencia-da-lei",
           "data": "22/10/2026",
           "resumo": "Encontro reuniu representantes do governo, do sistema de justiça e da sociedade civil para discutir os impactos da lei no cotidiano de crianças, adolescentes e famílias"
-        },
-        {
-          "titulo": "ECA Digital: empresas têm 60 dias para fazer cadastro no Sistema Nidus da Polícia Federal",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eca-digital-empresas-tem-60-dias-para-fazer-cadastro-no-sistema-nidus-da-policia-federal",
-          "data": "22/10/2026",
-          "resumo": "Cadastro permite habilitar fornecedores de tecnologia para o envio de notificações de exploração e abuso sexual, sequestro e aliciamento de crianças e adolescentes na internet"
-        },
-        {
-          "titulo": "Sete dias após o decreto, 378 aparelhos ilegais são bloqueados em presídios",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sete-dias-apos-o-decreto-378-aparelhos-ilegais-sao-bloqueados-em-presidios",
-          "data": "21/10/2026",
-          "resumo": "Com 24 operações Modo Avião realizadas após a publicação da norma, Senappen e estados ampliam o combate às comunicações ilícitas; novo procedimento permite bloqueios em cerca de 30 minutos"
-        },
-        {
-          "titulo": "Homens representam 52,1% dos participantes do Dia C de capacitação sobre violência de gênero",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/homens-representam-52-1-dos-participantes-do-dia-c-de-capacitacao-sobre-violencia-de-genero",
-          "data": "21/10/2026",
-          "resumo": "Curso buscou qualificar a atuação profissional para fortalecer a rede de proteção e o enfrentamento das violências de gênero; mulheres corresponderam a 47,9% dos participantes"
-        },
-        {
-          "titulo": "Método do MJSP identifica imóveis de luxo ligados a organizações criminosas",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodo-do-mjsp-identifica-imoveis-de-luxo-ligados-a-organizacoes-criminosas",
-          "data": "21/10/2026",
-          "resumo": "Desenvolvido pela Senajus, método cruza dados judiciais, vínculos pessoais e informações patrimoniais para rastrear bens associados a facções criminosas ultraviolentas"
         }
       ],
       "agenda": {
@@ -73,6 +73,24 @@
     "mec": {
       "nome": "Ministério da Educação",
       "noticias": [
+        {
+          "titulo": "Coreano chega ao MEC Idiomas e amplia oferta de aprendizagem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/coreano-chega-ao-mec-idiomas-e-amplia-oferta-de-aprendizagem",
+          "data": "23/10/2026",
+          "resumo": "Plataforma disponibilizada de forma gratuita pelo Ministério da Educação ganha nova opção de idioma, que inclui módulo com o alfabeto hangul, recursos para praticar a pronúncia e aprender expressões do dia a dia"
+        },
+        {
+          "titulo": "Painel Enem 2026 apresenta perfil dos participantes do exame",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/painel-enem-2026-apresenta-perfil-dos-participantes-do-exame",
+          "data": "23/10/2026",
+          "resumo": "Painel do Inep reúne dados sobre faixa etária, sexo, cor/raça e escolaridade dos inscritos no Enem 2026, além de informações de gratuidade e atendimentos especializados, com filtros por região, estado e município"
+        },
+        {
+          "titulo": "Inscrições para pós-graduação indígena terminam nesta segunda-feira (26)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/inscricoes-para-pos-graduacao-indigena-terminam-nesta-segunda-feira-26",
+          "data": "23/10/2026",
+          "resumo": "Reta final para o Pdai: pesquisadores de povos originários têm até 26 de outubro para concorrer a 325 bolsas de mestrado e doutorado ofertadas pela Capes em universidades públicas de todo o país"
+        },
         {
           "titulo": "IFRS atua na inclusão de imigrantes e refugiados com capacitação em língua portuguesa",
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/ifrs-atua-na-inclusao-de-imigrantes-e-refugiados-com-capacitacao-em-lingua-portuguesa",
@@ -114,24 +132,6 @@
           "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-forma-1-950-agentes-para-educacao-inclusiva",
           "data": "21/10/2026",
           "resumo": "Via Secadi, MEC conclui formação de agentes intersetoriais e fortalece articulação entre educação, saúde e assistência social, garantindo acesso, permanência, participação e aprendizagem na educação especial"
-        },
-        {
-          "titulo": "Jogos reúnem mais de mil estudantes da Rede Federal de Educação",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/jogos-reunem-mais-de-mil-estudantes-da-rede-federal-de-educacao",
-          "data": "21/10/2026",
-          "resumo": "Competição reúne 1.200 estudantes-atletas de institutos federais, Cefets e do Colégio Pedro II, com disputas em modalidades coletivas, individuais e paralímpicas, em Goiânia (GO), até sexta-feira (23)"
-        },
-        {
-          "titulo": "A sala de aula como espaço de realização profissional",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/a-sala-de-aula-como-espaco-de-realizacao-profissional",
-          "data": "21/10/2026",
-          "resumo": "Formado em física pela Universidade Federal do Piauí, o professor Victor Gabriel ensina matemática em cursinho popular de Teresina e ajuda outros estudantes a buscarem o acesso à universidade pelo Enem"
-        },
-        {
-          "titulo": "Dia Nacional da Alimentação Escolar: conheça as diretrizes do PNAE",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/dia-nacional-da-alimentacao-escolar-conheca-as-diretrizes-do-pnae",
-          "data": "21/10/2026",
-          "resumo": "Normas do programa orientam oferta de refeições na escola pública, elaboração de cardápios por nutricionistas, educação alimentar e nutricional e acompanhamento das ações"
         }
       ],
       "agenda": {
