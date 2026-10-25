@@ -1,9 +1,15 @@
 {
-  "atualizado_em": "2026-10-25T14:36:31.708957+00:00",
+  "atualizado_em": "2026-10-25T23:04:07.647229+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
       "noticias": [
+        {
+          "titulo": "Segundo turno das eleições ocorre com a segurança monitorada em tempo real",
+          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/segundo-turno-das-eleicoes-ocorre-com-a-seguranca-monitorada-em-tempo-real",
+          "data": "25/10/2026",
+          "resumo": "Ministério da Justiça coordena as ações por meio do Centro Integrado de Comando e Controle Nacional"
+        },
         {
           "titulo": "Senacon e ANP fiscalizam e notificam postos de combustíveis em 21 estados",
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anp-fiscalizam-e-notificam-postos-de-combustiveis-em-21-estados",
@@ -57,12 +63,6 @@
           "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-solicita-esclarecimentos-sobre-denuncias-de-irregularidades-em-abordagem-policial-em-piracicaba",
           "data": "22/10/2026",
           "resumo": "Senasp enviou ofícios à Secretaria da Segurança Pública, à Corregedoria da Polícia Militar e à Ouvidoria das Polícias de São Paulo para solicitar informações e preservar provas da ocorrência"
-        },
-        {
-          "titulo": "Apreensão de armas de alto poder de fogo cresce 55% no Brasil em 2026",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/apreensao-de-armas-de-alto-poder-de-fogo-cresce-55-no-brasil-em-2026",
-          "data": "22/10/2026",
-          "resumo": "Sistema Nacional de Informações de Segurança Pública mostra que 4,4 mil armas, como fuzis, submetralhadoras e carabinas, foram retiradas de circulação"
         }
       ],
       "agenda": {
@@ -80,68 +80,7 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [
-        {
-          "titulo": "Especialistas debatem aproximação entre pesquisa científica e setor mineral",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/especialistas-debatem-aproximacao-entre-pesquisa-cientifica-e-setor-mineral",
-          "data": "23/10/2026",
-          "resumo": "Seminário ocorre no Rio de Janeiro e reúne instituições de pesquisa, empresas e agentes de financiamento. Inscrições seguem abertas"
-        },
-        {
-          "titulo": "Seminário de avaliação de projetos de pesquisa sobre mudança do clima sinaliza importância de editais específicos para a área",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/seminario-de-avaliacao-de-projetos-de-pesquisa-sobre-mudanca-do-clima-sinaliza-importancia-de-editais-especificos-para-a-area",
-          "data": "22/10/2026",
-          "resumo": "MCTI e CNPq reuniram coordenadores de 38 projetos de edital aprovado em 2022"
-        },
-        {
-          "titulo": "Da pesquisa ao debate científico, CNPq investe R$ 20 milhões em eventos no Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/da-pesquisa-ao-debate-cientifico-cnpq-investe-r-20-milhoes-em-eventos-no-brasil",
-          "data": "21/10/2026",
-          "resumo": "Edital do CNPq apoia encontros nacionais, internacionais e mundiais e estabelece critérios para participação, financiamento e apresentação de propostas"
-        },
-        {
-          "titulo": "INPO testa nova plataforma para integrar dados oceânicos do Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inpo-testa-nova-plataforma-para-integrar-dados-oceanicos-do-brasil",
-          "data": "21/10/2026",
-          "resumo": "Sistema busca facilitar o compartilhamento de informações e contribuir para o avanço das pesquisas sobre o oceano"
-        },
-        {
-          "titulo": "Elisa Frota-Pessoa: pioneira da física abriu caminho para mulheres na ciência",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/elisa-frota-pessoa-pioneira-da-fisica-abriu-caminho-para-mulheres-na-ciencia",
-          "data": "20/10/2026",
-          "resumo": "Segunda mulher a se formar em física no Brasil, pesquisadora contribui para o avanço científica e defesa da democracia"
-        },
-        {
-          "titulo": "Chuva de meteoros Oriônidas atravessa o céu nesta quarta (21)",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chuva-de-meteoros-orionidas-atravessa-o-ceu-nesta-quarta-20",
-          "data": "20/10/2026",
-          "resumo": "Fenômeno poderá ser observado em  todo o Brasil"
-        },
-        {
-          "titulo": "Inscrições para Fórum de Jovens Cientistas dos Brics e Prêmio Brics Jovem Inovador são prorrogadas",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-para-forum-de-jovens-cientistas-dos-brics-e-premio-brics-jovem-inovador-sao-prorrogadas",
-          "data": "20/10/2026",
-          "resumo": "Encontro ocorre em Bangalore, na Índia, de 17 a 19 de novembro. Inscrições seguem até 24 de outubro"
-        },
-        {
-          "titulo": "PRONINC destina R$ 100 milhões a tecnologias para economia solidária",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/proninc-destina-r-100-milhoes-a-tecnologias-para-economia-solidaria",
-          "data": "19/10/2026",
-          "resumo": "Chamada pública recebe propostas de ICTs para soluções em produção, saneamento, sistemas digitais, energia, saúde e outras áreas até janeiro de 2027"
-        },
-        {
-          "titulo": "Pesquisas do CTI Renato Archer vão ser usadas em métodos alternativos a testes com animais",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/pesquisas-do-cti-renato-archer-vao-ser-usadas-em-metodos-alternativos-a-testes-com-animais",
-          "data": "19/10/2026",
-          "resumo": "Unidade de pesquisa projetou modelos físicos e digitais capazes de simular o funcionamento de tecidos afetados por doenças"
-        },
-        {
-          "titulo": "Competição internacional desafia jovens a usar inteligência artificial para prever inundações e monitorar plantações",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/competicao-internacional-desafia-jovens-a-usar-inteligencia-artificial-para-prever-inundacoes-e-monitorar-plantacoes",
-          "data": "16/10/2026",
-          "resumo": "Com participação da Agência Espacial Brasileira, iniciativa reúne estudantes e pesquisadores de diferentes países para transformar imagens de satélite em soluções para problemas do cotidiano. Inscrições seguem até 23 de outubro"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "22 Qui 23 Sex 24 Sáb 25 Dom 26 Seg 27 Ter 28 Qua Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
