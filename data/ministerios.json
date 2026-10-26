@@ -1,70 +1,9 @@
 {
-  "atualizado_em": "2026-10-25T23:04:07.647229+00:00",
+  "atualizado_em": "2026-10-26T17:01:35.209215+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
-      "noticias": [
-        {
-          "titulo": "Segundo turno das eleições ocorre com a segurança monitorada em tempo real",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/segundo-turno-das-eleicoes-ocorre-com-a-seguranca-monitorada-em-tempo-real",
-          "data": "25/10/2026",
-          "resumo": "Ministério da Justiça coordena as ações por meio do Centro Integrado de Comando e Controle Nacional"
-        },
-        {
-          "titulo": "Senacon e ANP fiscalizam e notificam postos de combustíveis em 21 estados",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anp-fiscalizam-e-notificam-postos-de-combustiveis-em-21-estados",
-          "data": "24/10/2026",
-          "resumo": "Ações monitoram aumento de preço e verificam se medidas adotadas pelo Governo Federal para reduzir os impactos da alta dos combustíveis estão chegando aos consumidores"
-        },
-        {
-          "titulo": "Senacon notifica empresas sobre estrutura de shows do BTS em São Paulo",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-notifica-empresas-sobre-estrutura-de-shows-do-bts-em-sao-paulo",
-          "data": "23/10/2026",
-          "resumo": "Live Nation e Ticketmaster terão cinco dias para prestar informações sobre redução de telões e comunicação aos consumidores"
-        },
-        {
-          "titulo": "Centro Integrado Mulher Segura recebe representantes do Ministério Público para troca de experiências",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/centro-integrado-mulher-segura-recebe-representantes-do-ministerio-publico-para-troca-de-experiencias",
-          "data": "23/10/2026",
-          "resumo": "Encontro abordou a cooperação e o compartilhamento de informações para a proteção das mulheres"
-        },
-        {
-          "titulo": "Ministério da Justiça coordena operação integrada para garantir a segurança nas eleições",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-coordena-operacao-integrada-para-garantir-a-seguranca-nas-eleicoes",
-          "data": "23/10/2026",
-          "resumo": "Ações contam com a participação de órgãos federais e estaduais para assegurar a ordem pública durante o segundo turno"
-        },
-        {
-          "titulo": "MJSP investe R$ 6,3 milhões em 184 drones para combater o crime organizado",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-investe-r-6-3-milhoes-em-184-drones-para-combater-o-crime-organizado",
-          "data": "23/10/2026",
-          "resumo": "Equipamentos de alta tecnologia serão destinados às forças de segurança para ampliar as ações de inteligência, investigação e policiamento preventivo em todo o Brasil"
-        },
-        {
-          "titulo": "MJSP reforça atuação no combate a incêndios florestais e crimes ambientais no Pará",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reforca-atuacao-no-combate-a-incendios-florestais-e-crimes-ambientais-no-para",
-          "data": "22/10/2026",
-          "resumo": "Polícia Federal, Polícia Rodoviária Federal e Força Nacional integram ações de prevenção e repressão a incêndios criminosos, desmatamento ilegal e grilagem de terras"
-        },
-        {
-          "titulo": "Ministério da Justiça capacita policiais civis e militares do RJ para utilizar sistemas antidrones",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-capacita-policiais-civis-e-militares-do-rj-para-utilizacao-de-sistemas-anti-drones",
-          "data": "22/10/2026",
-          "resumo": "Treinamento realizado pela Senasp prepara profissionais para o uso dos equipamentos; investimento federal de R$ 8,78 milhões amplia a capacidade de resposta no estado"
-        },
-        {
-          "titulo": "Senacon, Ministério Público e Procons gaúchos cobram melhorias nos serviços da Corsan/Aegea",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-ministerio-publico-e-procons-gauchos-cobram-melhorias-nos-servicos-da-corsan-aegea",
-          "data": "22/10/2026",
-          "resumo": "Companhia assume compromissos com Procons e consumidores; Senacon fará monitoramento das medidas"
-        },
-        {
-          "titulo": "MJSP solicita esclarecimentos sobre denúncias de irregularidades em abordagem policial em Piracicaba",
-          "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-solicita-esclarecimentos-sobre-denuncias-de-irregularidades-em-abordagem-policial-em-piracicaba",
-          "data": "22/10/2026",
-          "resumo": "Senasp enviou ofícios à Secretaria da Segurança Pública, à Corregedoria da Polícia Militar e à Ouvidoria das Polícias de São Paulo para solicitar informações e preservar provas da ocorrência"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "Info Agenda do Ministro Agenda do Minstro da Justiça e Segurança Pública - Wellington César Lima e Silva CONSULTE A AGENDA DE AUTORIDADES Histórico de agendas de governos anteriores",
         "link_agenda_completa": "https://eagendas.cgu.gov.br/"
@@ -72,7 +11,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Universidades federais ocupam 7 das 10 primeiras posições em ranking",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/universidades-federais-ocupam-7-das-10-primeiras-posicoes-em-ranking",
+          "data": "26/10/2026",
+          "resumo": "Levantamento do Ranking Universitário Folha 2026 aponta que 37 instituições federais estão entre as 50 primeiras do país, com resultados em ensino, pesquisa, mercado, inovação e internacionalização"
+        },
+        {
+          "titulo": "CPOP ajuda estudantes na preparação final para o Enem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cpop-ajuda-estudantes-na-preparacao-final-para-o-enem",
+          "data": "26/10/2026",
+          "resumo": "Rotina fica mais focada na resolução de exercícios e na revisão de conteúdos das quatro competências do exame. Em 2026, foram mais de 1,5 mil cursinhos contemplados e cerca de 58 mil estudantes beneficiados"
+        },
+        {
+          "titulo": "Fies remanescentes: inscrições abertas nesta segunda (26)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/fies-remanescentes-inscricoes-abertas-nesta-segunda-26",
+          "data": "26/10/2026",
+          "resumo": "Edição tem 50 mil vagas distribuídas pelo país, com inscrições gratuitas até 3 de novembro, exclusivamente pelo Portal Acesso Único. Resultado da chamada única será divulgado em 16 de novembro"
+        },
+        {
+          "titulo": "MEC Livros bate 1 milhão de empréstimos e amplia acervo",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-livros-bate-1-milhao-de-emprestimos-e-amplia-acervo",
+          "data": "24/10/2026",
+          "resumo": "Biblioteca digital gratuita reúne mais de 25 mil obras e amplia de duas para quatro a quantidade mensal de empréstimos de títulos protegidos por direitos autorais. Acervo recebe 101 novos livros"
+        },
+        {
+          "titulo": "Coreano chega ao MEC Idiomas e amplia oferta de aprendizagem",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/coreano-chega-ao-mec-idiomas-e-amplia-oferta-de-aprendizagem",
+          "data": "23/10/2026",
+          "resumo": "Plataforma disponibilizada de forma gratuita pelo Ministério da Educação ganha nova opção de idioma, que inclui módulo com o alfabeto hangul, recursos para praticar a pronúncia e aprender expressões do dia a dia"
+        },
+        {
+          "titulo": "Painel Enem 2026 apresenta perfil dos participantes do exame",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/painel-enem-2026-apresenta-perfil-dos-participantes-do-exame",
+          "data": "23/10/2026",
+          "resumo": "Painel do Inep reúne dados sobre faixa etária, sexo, cor/raça e escolaridade dos inscritos no Enem 2026, além de informações de gratuidade e atendimentos especializados, com filtros por região, estado e município"
+        },
+        {
+          "titulo": "Inscrições para pós-graduação indígena terminam nesta segunda-feira (26)",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/inscricoes-para-pos-graduacao-indigena-terminam-nesta-segunda-feira-26",
+          "data": "23/10/2026",
+          "resumo": "Reta final para o Pdai: pesquisadores de povos originários têm até 26 de outubro para concorrer a 325 bolsas de mestrado e doutorado ofertadas pela Capes em universidades públicas de todo o país"
+        },
+        {
+          "titulo": "IFRS atua na inclusão de imigrantes e refugiados com capacitação em língua portuguesa",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/ifrs-atua-na-inclusao-de-imigrantes-e-refugiados-com-capacitacao-em-lingua-portuguesa",
+          "data": "23/10/2026",
+          "resumo": "Desde 2013, mais de 700 pessoas de dez países já passaram pelo curso de nível básico, que ensina comunicação oral, leitura e escrita em português"
+        },
+        {
+          "titulo": "Aulões do Enem reúnem 4 mil estudantes no Rio de Janeiro e em Minas Gerais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/auloes-do-enem-reunem-4-mil-estudantes-no-rio-de-janeiro-e-em-minas-gerais",
+          "data": "22/10/2026",
+          "resumo": "Encontros em Maricá (RJ) e Montes Claros (MG) aliaram preparação o exame a apresentações culturais e suporte aos participantes. Provas serão aplicadas nos dias 8 e 15 de novembro"
+        },
+        {
+          "titulo": "Decreto que regulamenta cargos do PCCTAE é publicado",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/decreto-que-regulamenta-cargos-do-pcctae-e-publicado",
+          "data": "22/10/2026",
+          "resumo": "Documento dispõe sobre 15.659 códigos de vagas para Técnico e Analista em Educação, em universidades e institutos federais, e contempla inicialmente as áreas e especialidades mais demandadas pelas instituições"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -80,9 +80,70 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Especialistas debatem aproximação entre pesquisa científica e setor mineral",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/especialistas-debatem-aproximacao-entre-pesquisa-cientifica-e-setor-mineral",
+          "data": "23/10/2026",
+          "resumo": "Seminário ocorre no Rio de Janeiro e reúne instituições de pesquisa, empresas e agentes de financiamento. Inscrições seguem abertas"
+        },
+        {
+          "titulo": "Seminário de avaliação de projetos de pesquisa sobre mudança do clima sinaliza importância de editais específicos para a área",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/seminario-de-avaliacao-de-projetos-de-pesquisa-sobre-mudanca-do-clima-sinaliza-importancia-de-editais-especificos-para-a-area",
+          "data": "22/10/2026",
+          "resumo": "MCTI e CNPq reuniram coordenadores de 38 projetos de edital aprovado em 2022"
+        },
+        {
+          "titulo": "Da pesquisa ao debate científico, CNPq investe R$ 20 milhões em eventos no Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/da-pesquisa-ao-debate-cientifico-cnpq-investe-r-20-milhoes-em-eventos-no-brasil",
+          "data": "21/10/2026",
+          "resumo": "Edital do CNPq apoia encontros nacionais, internacionais e mundiais e estabelece critérios para participação, financiamento e apresentação de propostas"
+        },
+        {
+          "titulo": "INPO testa nova plataforma para integrar dados oceânicos do Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inpo-testa-nova-plataforma-para-integrar-dados-oceanicos-do-brasil",
+          "data": "21/10/2026",
+          "resumo": "Sistema busca facilitar o compartilhamento de informações e contribuir para o avanço das pesquisas sobre o oceano"
+        },
+        {
+          "titulo": "Elisa Frota-Pessoa: pioneira da física abriu caminho para mulheres na ciência",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/elisa-frota-pessoa-pioneira-da-fisica-abriu-caminho-para-mulheres-na-ciencia",
+          "data": "20/10/2026",
+          "resumo": "Segunda mulher a se formar em física no Brasil, pesquisadora contribui para o avanço científica e defesa da democracia"
+        },
+        {
+          "titulo": "Chuva de meteoros Oriônidas atravessa o céu nesta quarta (21)",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chuva-de-meteoros-orionidas-atravessa-o-ceu-nesta-quarta-20",
+          "data": "20/10/2026",
+          "resumo": "Fenômeno poderá ser observado em  todo o Brasil"
+        },
+        {
+          "titulo": "Inscrições para Fórum de Jovens Cientistas dos Brics e Prêmio Brics Jovem Inovador são prorrogadas",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-para-forum-de-jovens-cientistas-dos-brics-e-premio-brics-jovem-inovador-sao-prorrogadas",
+          "data": "20/10/2026",
+          "resumo": "Encontro ocorre em Bangalore, na Índia, de 17 a 19 de novembro. Inscrições seguem até 24 de outubro"
+        },
+        {
+          "titulo": "PRONINC destina R$ 100 milhões a tecnologias para economia solidária",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/proninc-destina-r-100-milhoes-a-tecnologias-para-economia-solidaria",
+          "data": "19/10/2026",
+          "resumo": "Chamada pública recebe propostas de ICTs para soluções em produção, saneamento, sistemas digitais, energia, saúde e outras áreas até janeiro de 2027"
+        },
+        {
+          "titulo": "Pesquisas do CTI Renato Archer vão ser usadas em métodos alternativos a testes com animais",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/pesquisas-do-cti-renato-archer-vao-ser-usadas-em-metodos-alternativos-a-testes-com-animais",
+          "data": "19/10/2026",
+          "resumo": "Unidade de pesquisa projetou modelos físicos e digitais capazes de simular o funcionamento de tecidos afetados por doenças"
+        },
+        {
+          "titulo": "Competição internacional desafia jovens a usar inteligência artificial para prever inundações e monitorar plantações",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/competicao-internacional-desafia-jovens-a-usar-inteligencia-artificial-para-prever-inundacoes-e-monitorar-plantacoes",
+          "data": "16/10/2026",
+          "resumo": "Com participação da Agência Espacial Brasileira, iniciativa reúne estudantes e pesquisadores de diferentes países para transformar imagens de satélite em soluções para problemas do cotidiano. Inscrições seguem até 23 de outubro"
+        }
+      ],
       "agenda": {
-        "resumo": "22 Qui 23 Sex 24 Sáb 25 Dom 26 Seg 27 Ter 28 Qua Atualmente não existem compromissos agendados.",
+        "resumo": "23 Sex 24 Sáb 25 Dom 26 Seg 27 Ter 28 Qua 29 Qui Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
