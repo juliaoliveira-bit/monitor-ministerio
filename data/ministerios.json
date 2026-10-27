@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-26T17:01:35.209215+00:00",
+  "atualizado_em": "2026-10-27T00:16:01.447700+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -11,68 +11,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "Universidades federais ocupam 7 das 10 primeiras posições em ranking",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/universidades-federais-ocupam-7-das-10-primeiras-posicoes-em-ranking",
-          "data": "26/10/2026",
-          "resumo": "Levantamento do Ranking Universitário Folha 2026 aponta que 37 instituições federais estão entre as 50 primeiras do país, com resultados em ensino, pesquisa, mercado, inovação e internacionalização"
-        },
-        {
-          "titulo": "CPOP ajuda estudantes na preparação final para o Enem",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/cpop-ajuda-estudantes-na-preparacao-final-para-o-enem",
-          "data": "26/10/2026",
-          "resumo": "Rotina fica mais focada na resolução de exercícios e na revisão de conteúdos das quatro competências do exame. Em 2026, foram mais de 1,5 mil cursinhos contemplados e cerca de 58 mil estudantes beneficiados"
-        },
-        {
-          "titulo": "Fies remanescentes: inscrições abertas nesta segunda (26)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/fies-remanescentes-inscricoes-abertas-nesta-segunda-26",
-          "data": "26/10/2026",
-          "resumo": "Edição tem 50 mil vagas distribuídas pelo país, com inscrições gratuitas até 3 de novembro, exclusivamente pelo Portal Acesso Único. Resultado da chamada única será divulgado em 16 de novembro"
-        },
-        {
-          "titulo": "MEC Livros bate 1 milhão de empréstimos e amplia acervo",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-livros-bate-1-milhao-de-emprestimos-e-amplia-acervo",
-          "data": "24/10/2026",
-          "resumo": "Biblioteca digital gratuita reúne mais de 25 mil obras e amplia de duas para quatro a quantidade mensal de empréstimos de títulos protegidos por direitos autorais. Acervo recebe 101 novos livros"
-        },
-        {
-          "titulo": "Coreano chega ao MEC Idiomas e amplia oferta de aprendizagem",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/coreano-chega-ao-mec-idiomas-e-amplia-oferta-de-aprendizagem",
-          "data": "23/10/2026",
-          "resumo": "Plataforma disponibilizada de forma gratuita pelo Ministério da Educação ganha nova opção de idioma, que inclui módulo com o alfabeto hangul, recursos para praticar a pronúncia e aprender expressões do dia a dia"
-        },
-        {
-          "titulo": "Painel Enem 2026 apresenta perfil dos participantes do exame",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/painel-enem-2026-apresenta-perfil-dos-participantes-do-exame",
-          "data": "23/10/2026",
-          "resumo": "Painel do Inep reúne dados sobre faixa etária, sexo, cor/raça e escolaridade dos inscritos no Enem 2026, além de informações de gratuidade e atendimentos especializados, com filtros por região, estado e município"
-        },
-        {
-          "titulo": "Inscrições para pós-graduação indígena terminam nesta segunda-feira (26)",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/inscricoes-para-pos-graduacao-indigena-terminam-nesta-segunda-feira-26",
-          "data": "23/10/2026",
-          "resumo": "Reta final para o Pdai: pesquisadores de povos originários têm até 26 de outubro para concorrer a 325 bolsas de mestrado e doutorado ofertadas pela Capes em universidades públicas de todo o país"
-        },
-        {
-          "titulo": "IFRS atua na inclusão de imigrantes e refugiados com capacitação em língua portuguesa",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/ifrs-atua-na-inclusao-de-imigrantes-e-refugiados-com-capacitacao-em-lingua-portuguesa",
-          "data": "23/10/2026",
-          "resumo": "Desde 2013, mais de 700 pessoas de dez países já passaram pelo curso de nível básico, que ensina comunicação oral, leitura e escrita em português"
-        },
-        {
-          "titulo": "Aulões do Enem reúnem 4 mil estudantes no Rio de Janeiro e em Minas Gerais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/auloes-do-enem-reunem-4-mil-estudantes-no-rio-de-janeiro-e-em-minas-gerais",
-          "data": "22/10/2026",
-          "resumo": "Encontros em Maricá (RJ) e Montes Claros (MG) aliaram preparação o exame a apresentações culturais e suporte aos participantes. Provas serão aplicadas nos dias 8 e 15 de novembro"
-        },
-        {
-          "titulo": "Decreto que regulamenta cargos do PCCTAE é publicado",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/decreto-que-regulamenta-cargos-do-pcctae-e-publicado",
-          "data": "22/10/2026",
-          "resumo": "Documento dispõe sobre 15.659 códigos de vagas para Técnico e Analista em Educação, em universidades e institutos federais, e contempla inicialmente as áreas e especialidades mais demandadas pelas instituições"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -81,6 +20,54 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "MCTI destina mais de R$ 100 milhões a Minas Gerais para qualificar infraestrutura científica do estado",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/mcti-destina-mais-de-r-100-milhoes-a-minas-gerais-para-qualificar-infraestrutura-cientifica-do-estado-1",
+          "data": "26/10/2026",
+          "resumo": "Convênios fortalecem laboratórios e centros de pesquisa em diversas regiões do estado, ampliando a capacidade científica e tecnológica das instituições."
+        },
+        {
+          "titulo": "Mamirauá identifica potencial de 369 alimentos para fortalecer a segurança alimentar nacional",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/mamiraua-identifica-potencial-de-369-alimentos-para-fortalecer-a-seguranca-alimentar-nacional",
+          "data": "26/10/2026",
+          "resumo": "O estudo publicado na revista Scientific Reports contou com rede nacional e internacional de pesquisadores. Dados poderão apoiar políticas públicas sobre nutrição e consumo"
+        },
+        {
+          "titulo": "Brasil registra aumento de raios em todo o território nacional",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/brasil-registra-aumento-de-raios-em-todo-o-territorio-nacional",
+          "data": "26/10/2026",
+          "resumo": "Dados do Instituto Nacional de Pesquisas Espaciais mostram avanço na atividade elétrica e reforçam importância do acompanhamento científico diante do aquecimento global"
+        },
+        {
+          "titulo": "Estão abertas as inscrições para mestrado e doutorado no LNCC",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/04/estao-abertas-as-inscricoes-para-mestrado-e-doutorado-no-lncc",
+          "data": "26/10/2026",
+          "resumo": "Interessados têm até 17 de abril para se candidatar a uma das 14 vagas. Os cursos são voltados para graduados em matemática, física, química, engenharias, computação, biologia ou economia"
+        },
+        {
+          "titulo": "Pesquisadores brasileiros estão em lista das cem pessoas mais influentes da revista Time",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/04/pesquisadores-brasileiros-estao-em-lista-das-cem-pessoas-mais-influentes-da-revista-time",
+          "data": "26/10/2026",
+          "resumo": "A cientista Mariangela Hungria se destaca na seleção de micro-organismos para fertilizantes naturais, enquanto o pesquisador Luciano Moreira se sobressai em um método de combate à dengue"
+        },
+        {
+          "titulo": "MCTI registra R$ 65,7 bilhões em investimentos empresariais pela Lei do Bem em 2025",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mcti-registra-r-65-7-bilhoes-em-investimentos-empresariais-pela-lei-do-bem-em-2025",
+          "data": "26/10/2026",
+          "resumo": "Comitê de Apoio Técnico do MCTI reuniu 97 especialistas"
+        },
+        {
+          "titulo": "Expansão da área protegida do Pantanal amplia o desenvolvimento de pesquisas sobre a fauna e flora",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/05/expansao-da-area-protegida-do-pantanal-amplia-o-desenvolvimento-de-pesquisas-sobre-a-fauna-e-flora-1",
+          "data": "26/10/2026",
+          "resumo": "Durante a COP15, em Mato Grosso, o presidente Lula assinou decreto que aumentou duas áreas de conservação do bioma"
+        },
+        {
+          "titulo": "Ciência leva soluções para a saúde, a produção de alimentos e a educação no Vale do São Francisco",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/06/ciencia-leva-solucoes-para-a-saude-a-producao-de-alimentos-e-a-educacao-no-vale-do-sao-francisco",
+          "data": "26/10/2026",
+          "resumo": "Ciência leva soluções para a saúde, a produção de alimentos e a educação no Vale do São Francisco"
+        },
         {
           "titulo": "Especialistas debatem aproximação entre pesquisa científica e setor mineral",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/especialistas-debatem-aproximacao-entre-pesquisa-cientifica-e-setor-mineral",
@@ -92,54 +79,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/seminario-de-avaliacao-de-projetos-de-pesquisa-sobre-mudanca-do-clima-sinaliza-importancia-de-editais-especificos-para-a-area",
           "data": "22/10/2026",
           "resumo": "MCTI e CNPq reuniram coordenadores de 38 projetos de edital aprovado em 2022"
-        },
-        {
-          "titulo": "Da pesquisa ao debate científico, CNPq investe R$ 20 milhões em eventos no Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/da-pesquisa-ao-debate-cientifico-cnpq-investe-r-20-milhoes-em-eventos-no-brasil",
-          "data": "21/10/2026",
-          "resumo": "Edital do CNPq apoia encontros nacionais, internacionais e mundiais e estabelece critérios para participação, financiamento e apresentação de propostas"
-        },
-        {
-          "titulo": "INPO testa nova plataforma para integrar dados oceânicos do Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inpo-testa-nova-plataforma-para-integrar-dados-oceanicos-do-brasil",
-          "data": "21/10/2026",
-          "resumo": "Sistema busca facilitar o compartilhamento de informações e contribuir para o avanço das pesquisas sobre o oceano"
-        },
-        {
-          "titulo": "Elisa Frota-Pessoa: pioneira da física abriu caminho para mulheres na ciência",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/elisa-frota-pessoa-pioneira-da-fisica-abriu-caminho-para-mulheres-na-ciencia",
-          "data": "20/10/2026",
-          "resumo": "Segunda mulher a se formar em física no Brasil, pesquisadora contribui para o avanço científica e defesa da democracia"
-        },
-        {
-          "titulo": "Chuva de meteoros Oriônidas atravessa o céu nesta quarta (21)",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/chuva-de-meteoros-orionidas-atravessa-o-ceu-nesta-quarta-20",
-          "data": "20/10/2026",
-          "resumo": "Fenômeno poderá ser observado em  todo o Brasil"
-        },
-        {
-          "titulo": "Inscrições para Fórum de Jovens Cientistas dos Brics e Prêmio Brics Jovem Inovador são prorrogadas",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/inscricoes-para-forum-de-jovens-cientistas-dos-brics-e-premio-brics-jovem-inovador-sao-prorrogadas",
-          "data": "20/10/2026",
-          "resumo": "Encontro ocorre em Bangalore, na Índia, de 17 a 19 de novembro. Inscrições seguem até 24 de outubro"
-        },
-        {
-          "titulo": "PRONINC destina R$ 100 milhões a tecnologias para economia solidária",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/proninc-destina-r-100-milhoes-a-tecnologias-para-economia-solidaria",
-          "data": "19/10/2026",
-          "resumo": "Chamada pública recebe propostas de ICTs para soluções em produção, saneamento, sistemas digitais, energia, saúde e outras áreas até janeiro de 2027"
-        },
-        {
-          "titulo": "Pesquisas do CTI Renato Archer vão ser usadas em métodos alternativos a testes com animais",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/pesquisas-do-cti-renato-archer-vao-ser-usadas-em-metodos-alternativos-a-testes-com-animais",
-          "data": "19/10/2026",
-          "resumo": "Unidade de pesquisa projetou modelos físicos e digitais capazes de simular o funcionamento de tecidos afetados por doenças"
-        },
-        {
-          "titulo": "Competição internacional desafia jovens a usar inteligência artificial para prever inundações e monitorar plantações",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/competicao-internacional-desafia-jovens-a-usar-inteligencia-artificial-para-prever-inundacoes-e-monitorar-plantacoes",
-          "data": "16/10/2026",
-          "resumo": "Com participação da Agência Espacial Brasileira, iniciativa reúne estudantes e pesquisadores de diferentes países para transformar imagens de satélite em soluções para problemas do cotidiano. Inscrições seguem até 23 de outubro"
         }
       ],
       "agenda": {
