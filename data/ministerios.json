@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-27T00:16:01.447700+00:00",
+  "atualizado_em": "2026-10-27T16:04:50.343119+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -11,7 +11,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "MEC dá posse a reitores do IFMG e da UFOB",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/mec-da-posse-a-reitores-do-ifmg-e-da-ufob",
+          "data": "23/09/2019",
+          "resumo": "Em Minas, Kléber Gonçalves Glória foi reconduzido ao cargo. Na Bahia, Jacques Antonio de Miranda assume a universidade"
+        },
+        {
+          "titulo": "Unidades prisionais e socioeducativas têm até 4 de outubro para realizar inscrições no Enem PPL",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/unidades-prisionais-e-socioeducativas-tem-ate-4-de-outubro-para-realizar-inscricoes-no-enem-ppl",
+          "data": "23/09/2019",
+          "resumo": "Responsável pedagógico de cada unidade deve inscrever os participantes"
+        },
+        {
+          "titulo": "Resultado das solicitações de atendimento especializado está disponível",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/resultado-das-solicitacoes-de-atendimento-especializado-esta-disponivel",
+          "data": "20/09/2019",
+          "resumo": "Fase de recursos para quem teve o pedido negado começa na segunda-feira, 23"
+        },
+        {
+          "titulo": "Hora do Enem traz especial sobre redação com o tema doação de órgãos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/hora-do-enem-traz-especial-sobre-redacao-com-o-tema-doacao-de-orgaos",
+          "data": "20/09/2019",
+          "resumo": "A professora Caroline Martins vai tratar do assunto em um especial de dois episódios"
+        },
+        {
+          "titulo": "No interior de Minas, alunos transformam resíduos têxteis em brinquedos educativos",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/no-interior-de-minas-alunos-transformam-residuos-texteis-em-brinquedos-educativos",
+          "data": "20/09/2019",
+          "resumo": "Projeto funciona de forma complementar às aulas no Centro Federal de Educação Tecnológica de Minas Gerais"
+        },
+        {
+          "titulo": "Rede Escola estreia dois quadros sobre memória, ciência e tecnologia",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/rede-escola-estreia-dois-quadros-sobre-memoria-ciencia-e-tecnologia",
+          "data": "20/09/2019",
+          "resumo": "Programa apresenta episódios inéditos toda sexta-feira"
+        },
+        {
+          "titulo": "Empresas juniores de universidades terão papel de destaque no Future-se",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/empresas-juniores-de-universidades-terao-papel-de-destaque-no-future-se",
+          "data": "20/09/2019",
+          "resumo": "MEC pretende incluir três propostas para as EJs no programa: contar como estágio, dispensa de licitação e criação de rede social especializada"
+        },
+        {
+          "titulo": "MEC rejeita aumento para 40% na contribuição da União no Fundeb",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/mec-rejeita-aumento-para-40-na-contribuicao-da-uniao-no-fundeb",
+          "data": "19/09/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "Preparação para o Enem mobiliza quase 400 mil pessoas",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/preparacao-para-o-enem-mobiliza-quase-400-mil-pessoas",
+          "data": "19/09/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "Sem desistências, número de graduados poderia dobrar no Brasil",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/setembro/sem-desistencias-numero-de-graduados-poderia-dobrar-no-brasil",
+          "data": "19/09/2019",
+          "resumo": "Mais da metade das pessoas desiste do curso e gera desperdício bilionário de recursos"
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -21,68 +82,68 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
         {
-          "titulo": "MCTI destina mais de R$ 100 milhões a Minas Gerais para qualificar infraestrutura científica do estado",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/mcti-destina-mais-de-r-100-milhoes-a-minas-gerais-para-qualificar-infraestrutura-cientifica-do-estado-1",
-          "data": "26/10/2026",
-          "resumo": "Convênios fortalecem laboratórios e centros de pesquisa em diversas regiões do estado, ampliando a capacidade científica e tecnológica das instituições."
+          "titulo": "MCTI anuncia R$ 13,2 milhões para o Hospital do Câncer de Pernambuco",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/03/mcti-anuncia-r-13-2-milhoes-para-o-hospital-do-cancer-de-pernambuco",
+          "data": "27/10/2026",
+          "resumo": "Com recursos do MCTI, por meio da Finep, a unidade de saúde vai criar o Centro Integrado de Pesquisa Clínica e Translacional em Oncologia, o primeiro do tipo no estado"
         },
         {
-          "titulo": "Mamirauá identifica potencial de 369 alimentos para fortalecer a segurança alimentar nacional",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/mamiraua-identifica-potencial-de-369-alimentos-para-fortalecer-a-seguranca-alimentar-nacional",
-          "data": "26/10/2026",
-          "resumo": "O estudo publicado na revista Scientific Reports contou com rede nacional e internacional de pesquisadores. Dados poderão apoiar políticas públicas sobre nutrição e consumo"
+          "titulo": "MCTI promove colóquio de paleontologia na Alemanha",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/06/mcti-promove-coloquio-de-paleontologia-na-alemanha",
+          "data": "27/10/2026",
+          "resumo": "Durante o evento, o MCTI e o Museu Nacional de Hannover assinaram um documento de intenções para a devolução de quatro fósseis ao Brasil"
         },
         {
-          "titulo": "Brasil registra aumento de raios em todo o território nacional",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/brasil-registra-aumento-de-raios-em-todo-o-territorio-nacional",
-          "data": "26/10/2026",
-          "resumo": "Dados do Instituto Nacional de Pesquisas Espaciais mostram avanço na atividade elétrica e reforçam importância do acompanhamento científico diante do aquecimento global"
+          "titulo": "CNPq divulga resultado da chamada Conhecimento Brasil para atração e fixação de talentos científicos",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/06/cnpq-divulga-resultado-da-chamada-conhecimento-brasil-para-atracao-e-fixacao-de-talentos-cientificos",
+          "data": "27/10/2026",
+          "resumo": "Programa trará de volta cientistas brasileiros que atuam em 34 países; maior parte virá dos Estados Unidos, Alemanha, França, Portugal e Inglaterra"
         },
         {
-          "titulo": "Estão abertas as inscrições para mestrado e doutorado no LNCC",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/04/estao-abertas-as-inscricoes-para-mestrado-e-doutorado-no-lncc",
-          "data": "26/10/2026",
-          "resumo": "Interessados têm até 17 de abril para se candidatar a uma das 14 vagas. Os cursos são voltados para graduados em matemática, física, química, engenharias, computação, biologia ou economia"
+          "titulo": "CNPq divulga resultado da chamada Conhecimento Brasil para atração e fixação de talentos científicos",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/06/cnpq-divulga-resultado-da-chamada-conhecimento-brasil-para-atracao-e-fixacao-de-talentos-cientificos-1",
+          "data": "27/10/2026",
+          "resumo": "Programa trará de volta cientistas brasileiros que atuam em 34 países; maior parte virá dos Estados Unidos, Alemanha, França, Portugal e Inglaterra"
         },
         {
-          "titulo": "Pesquisadores brasileiros estão em lista das cem pessoas mais influentes da revista Time",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/04/pesquisadores-brasileiros-estao-em-lista-das-cem-pessoas-mais-influentes-da-revista-time",
-          "data": "26/10/2026",
-          "resumo": "A cientista Mariangela Hungria se destaca na seleção de micro-organismos para fertilizantes naturais, enquanto o pesquisador Luciano Moreira se sobressai em um método de combate à dengue"
+          "titulo": "Na abertura do Tech Woman, MCTI reforça compromisso com inclusão de mulheres na tecnologia",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/07/na-abertura-do-tech-woman-mcti-reforca-compromisso-com-inclusao-de-mulheres-na-tecnologia-1",
+          "data": "27/10/2026",
+          "resumo": "No Recife, ministra Luciana Santos destacou as ações do MCTI voltadas ao empoderamento feminino"
         },
         {
-          "titulo": "MCTI registra R$ 65,7 bilhões em investimentos empresariais pela Lei do Bem em 2025",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mcti-registra-r-65-7-bilhoes-em-investimentos-empresariais-pela-lei-do-bem-em-2025",
-          "data": "26/10/2026",
-          "resumo": "Comitê de Apoio Técnico do MCTI reuniu 97 especialistas"
+          "titulo": "1º Seminário Internacional de Popularização da Ciência compartilha e debate desafios mundiais",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/10/1o-seminario-internacional-de-popularizacao-da-ciencia-compartilha-e-debate-desafios-mundiais",
+          "data": "27/10/2026",
+          "resumo": "O encontro ocorreu durante a 22ª Semana Nacional de Ciência e Tecnologia, em Brasília. Participaram representantes do Brasil, da Alemanha, dos Estados Unidos, da Noruega, da Itália, de Portugal, de Cuba, da China, do México, de Angola e da Argentina"
         },
         {
-          "titulo": "Expansão da área protegida do Pantanal amplia o desenvolvimento de pesquisas sobre a fauna e flora",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/05/expansao-da-area-protegida-do-pantanal-amplia-o-desenvolvimento-de-pesquisas-sobre-a-fauna-e-flora-1",
-          "data": "26/10/2026",
-          "resumo": "Durante a COP15, em Mato Grosso, o presidente Lula assinou decreto que aumentou duas áreas de conservação do bioma"
+          "titulo": "Hackaton promovido pelo MCTI resulta em projeto de jogo para combater desinformação em justiça climática",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/10/hackaton-promovido-pelo-mcti-resulta-em-projeto-de-jogo-para-combater-desinformacao-em-justica-climatica",
+          "data": "27/10/2026",
+          "resumo": "Durante a Semana Nacional de Ciência e Tecnologia, de 20 a 26 de outubro, os jovens participantes apresentarão o trabalho para escolas de todo o País"
         },
         {
-          "titulo": "Ciência leva soluções para a saúde, a produção de alimentos e a educação no Vale do São Francisco",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/06/ciencia-leva-solucoes-para-a-saude-a-producao-de-alimentos-e-a-educacao-no-vale-do-sao-francisco",
-          "data": "26/10/2026",
-          "resumo": "Ciência leva soluções para a saúde, a produção de alimentos e a educação no Vale do São Francisco"
+          "titulo": "Ministra apresenta iniciativas do MCTI em evento que discute propostas da sociedade civil para serem levadas à COP30",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/10/ministra-apresenta-iniciativas-do-mcti-em-evento-que-discute-propostas-da-sociedade-civil-para-serem-levadas-a-cop30",
+          "data": "27/10/2026",
+          "resumo": "Luciana Santos falou sobre como o supercomputador tornará o monitoramento das florestas mais eficaz, adiantou informações sobre o AmazonFace e explicou o as vantagens econômicas do uso da biomassa"
         },
         {
-          "titulo": "Especialistas debatem aproximação entre pesquisa científica e setor mineral",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/especialistas-debatem-aproximacao-entre-pesquisa-cientifica-e-setor-mineral",
-          "data": "23/10/2026",
-          "resumo": "Seminário ocorre no Rio de Janeiro e reúne instituições de pesquisa, empresas e agentes de financiamento. Inscrições seguem abertas"
+          "titulo": "Prêmio Capes Futuras Cientistas incentiva a participação de mulheres na ciência",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/10/premio-capes-futuras-cientistas-incentiva-a-participacao-de-mulheres-na-ciencia",
+          "data": "27/10/2026",
+          "resumo": "De acordo com a Unesco, apenas 31% das mulheres ocupam as áreas de Stem. O programa busca dar visibilidade a alunas, professoras e tutoras de escolas públicas estaduais"
         },
         {
-          "titulo": "Seminário de avaliação de projetos de pesquisa sobre mudança do clima sinaliza importância de editais específicos para a área",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/seminario-de-avaliacao-de-projetos-de-pesquisa-sobre-mudanca-do-clima-sinaliza-importancia-de-editais-especificos-para-a-area",
-          "data": "22/10/2026",
-          "resumo": "MCTI e CNPq reuniram coordenadores de 38 projetos de edital aprovado em 2022"
+          "titulo": "Brasil consolida propostas científicas para a COP30 em encontro no Rio de Janeiro",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/10/brasil-consolida-propostas-cientificas-para-a-cop30-em-encontro-no-rio-de-janeiro",
+          "data": "27/10/2026",
+          "resumo": "Especialistas discutiram realizações e projetos que se transformarão em um documento com propostas que serão levadas à Conferência das Nações Unidas sobre Mudanças Climáticas, em novembro"
         }
       ],
       "agenda": {
-        "resumo": "23 Sex 24 Sáb 25 Dom 26 Seg 27 Ter 28 Qua 29 Qui Atualmente não existem compromissos agendados.",
+        "resumo": "24 Sáb 25 Dom 26 Seg 27 Ter 28 Qua 29 Qui 30 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
