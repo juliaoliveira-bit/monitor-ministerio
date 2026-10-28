@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-28T00:18:15.479464+00:00",
+  "atualizado_em": "2026-10-28T16:51:17.383418+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -11,7 +11,68 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "MEC nomeia diretor-geral pro tempore do Cefet-RJ",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/mec-nomeia-diretor-geral-pro-tempore-do-cefet-rj",
+          "data": "16/08/2019",
+          "resumo": "Maurício Aires Vieira em sua antiga sala na Secretaria Executiva do MEC. Foto: Gaby Faria/MEC"
+        },
+        {
+          "titulo": "Rede Escola comemora os 250 anos do nascimento de Napoleão Bonaparte",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/rede-escola-comemora-os-250-anos-do-nascimento-de-napoleao-bonaparte",
+          "data": "16/08/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "Na Câmara, secretário do MEC defende programa Future-se",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/na-camara-secretario-do-mec-defende-programa-future-se",
+          "data": "15/08/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "MEC pretende ampliar vagas de ensino em tempo integral",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/mec-pretende-ampliar-vagas-de-ensino-em-tempo-integral",
+          "data": "15/08/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "MEC estabelece plano para integrar dados educacionais",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-estabelece-plano-para-integrar-dados-educacionais",
+          "data": "28/10/2026",
+          "resumo": "Publicado no Diário Oficial da União desta quarta-feira (28), Programa de Governança de Dados organiza ações para qualificar, integrar, proteger e ampliar o uso dos dados educacionais produzidos e utilizados pelo MEC"
+        },
+        {
+          "titulo": "MEC lança caderno da Política Nacional de Alfabetização",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/mec-lanca-caderno-da-politica-nacional-de-alfabetizacao",
+          "data": "15/08/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "Consulta pública do Future-se é prorrogada até 29 de agosto",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/consulta-publica-do-future-se-e-prorrogada-ate-29-de-agosto",
+          "data": "14/08/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "Após instabilidade nos portais, MEC prorroga prazos do ProUni e do Fies",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/apos-instabilidade-nos-portais-mec-prorroga-prazos-do-prouni-e-do-fies",
+          "data": "14/08/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "Saiba como vão funcionar os fundos criados para gestão do Future-se",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/saiba-como-vao-funcionar-os-fundos-criados-para-gestao-do-future-se",
+          "data": "14/08/2019",
+          "resumo": ""
+        },
+        {
+          "titulo": "Ministro destaca programa em reunião com parlamentares e reitores",
+          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/ministro-destaca-programa-em-reuniao-com-parlamentares-e-reitores",
+          "data": "13/08/2019",
+          "resumo": ""
+        }
+      ],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -82,7 +143,7 @@
         }
       ],
       "agenda": {
-        "resumo": "24 Sáb 25 Dom 26 Seg 27 Ter 28 Qua 29 Qui 30 Sex Atualmente não existem compromissos agendados.",
+        "resumo": "25 Dom 26 Seg 27 Ter 28 Qua 29 Qui 30 Sex 31 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
