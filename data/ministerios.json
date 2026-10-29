@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-28T16:51:17.383418+00:00",
+  "atualizado_em": "2026-10-29T00:39:48.279000+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -11,68 +11,7 @@
     },
     "mec": {
       "nome": "Ministério da Educação",
-      "noticias": [
-        {
-          "titulo": "MEC nomeia diretor-geral pro tempore do Cefet-RJ",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/mec-nomeia-diretor-geral-pro-tempore-do-cefet-rj",
-          "data": "16/08/2019",
-          "resumo": "Maurício Aires Vieira em sua antiga sala na Secretaria Executiva do MEC. Foto: Gaby Faria/MEC"
-        },
-        {
-          "titulo": "Rede Escola comemora os 250 anos do nascimento de Napoleão Bonaparte",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/rede-escola-comemora-os-250-anos-do-nascimento-de-napoleao-bonaparte",
-          "data": "16/08/2019",
-          "resumo": ""
-        },
-        {
-          "titulo": "Na Câmara, secretário do MEC defende programa Future-se",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/na-camara-secretario-do-mec-defende-programa-future-se",
-          "data": "15/08/2019",
-          "resumo": ""
-        },
-        {
-          "titulo": "MEC pretende ampliar vagas de ensino em tempo integral",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/mec-pretende-ampliar-vagas-de-ensino-em-tempo-integral",
-          "data": "15/08/2019",
-          "resumo": ""
-        },
-        {
-          "titulo": "MEC estabelece plano para integrar dados educacionais",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/outubro/mec-estabelece-plano-para-integrar-dados-educacionais",
-          "data": "28/10/2026",
-          "resumo": "Publicado no Diário Oficial da União desta quarta-feira (28), Programa de Governança de Dados organiza ações para qualificar, integrar, proteger e ampliar o uso dos dados educacionais produzidos e utilizados pelo MEC"
-        },
-        {
-          "titulo": "MEC lança caderno da Política Nacional de Alfabetização",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/mec-lanca-caderno-da-politica-nacional-de-alfabetizacao",
-          "data": "15/08/2019",
-          "resumo": ""
-        },
-        {
-          "titulo": "Consulta pública do Future-se é prorrogada até 29 de agosto",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/consulta-publica-do-future-se-e-prorrogada-ate-29-de-agosto",
-          "data": "14/08/2019",
-          "resumo": ""
-        },
-        {
-          "titulo": "Após instabilidade nos portais, MEC prorroga prazos do ProUni e do Fies",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/apos-instabilidade-nos-portais-mec-prorroga-prazos-do-prouni-e-do-fies",
-          "data": "14/08/2019",
-          "resumo": ""
-        },
-        {
-          "titulo": "Saiba como vão funcionar os fundos criados para gestão do Future-se",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/saiba-como-vao-funcionar-os-fundos-criados-para-gestao-do-future-se",
-          "data": "14/08/2019",
-          "resumo": ""
-        },
-        {
-          "titulo": "Ministro destaca programa em reunião com parlamentares e reitores",
-          "link": "https://www.gov.br/mec/pt-br/assuntos/noticias/2019/agosto/ministro-destaca-programa-em-reuniao-com-parlamentares-e-reitores",
-          "data": "13/08/2019",
-          "resumo": ""
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "",
         "link_agenda_completa": ""
@@ -81,6 +20,24 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Sob influência do El Niño, Brasil deve enfrentar temperaturas altas e ondas de calor nos próximos meses",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sob-influencia-do-el-nino-brasil-deve-enfrentar-temperaturas-altas-e-ondas-de-calor-nos-proximos-meses",
+          "data": "28/10/2026",
+          "resumo": "Prognóstico climático para o período de novembro, dezembro e janeiro sinaliza possibilidade de excesso de calor com temperaturas médias entre 1oC a 2oC acima da média em grande parte do país"
+        },
+        {
+          "titulo": "Impa Tech abre seleção com 150 vagas para o bacharelado em Matemática da Tecnologia e Inovação",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/impa-tech-abre-selecao-com-150-vagas-para-o-bacharelado-em-matematica-da-tecnologia-e-inovacao",
+          "data": "28/10/2026",
+          "resumo": "Candidatos podem escolher entre unidades no Rio de Janeiro (RJ) e Teresina (PI). Inscrições abrem em 3 de novembro"
+        },
+        {
+          "titulo": "Futuras Cientistas prorroga inscrições para Imersão Científica 2027 até 6 de novembro",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/futuras-cientistas-prorroga-inscricoes-para-imersao-cientifica-2027-ate-6-de-novembro",
+          "data": "28/10/2026",
+          "resumo": "Programa oferece 470 vagas para estudantes do 2º ano do ensino médio e professoras da rede pública estadual de todo o Brasil"
+        },
         {
           "titulo": "Garoto indígena participa do programa Caça Asteroides MCTI",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/08/garoto-indigena-participa-do-programa-caca-asteroides-mcti",
@@ -122,24 +79,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/08/copy_of_mcti-abre-consulta-publica-sobre-as-propostas-da-politica-e-sistema-nacional-de-ciencia-tecnologia-e-inovacao",
           "data": "27/10/2026",
           "resumo": "Com o canal de interação, a sociedade terá a oportunidade de participar na gestão pública com ideias, sugestões e opiniões"
-        },
-        {
-          "titulo": "Universidade Federal do Amazonas lança e-book sobre a lei da Informática na região amazônica",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/12/universidade-federal-do-amazonas-lanca-e-book-sobre-a-lei-da-informatica-na-regiao-amazonica",
-          "data": "27/10/2026",
-          "resumo": "E-book está disponível no portal do ministério"
-        },
-        {
-          "titulo": "Universidade Federal do Amazonas lança e-book sobre a lei da Informática na região amazônica",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/12/universidade-federal-do-amazonas-lanca-e-book-sobre-a-lei-da-informatica-na-regiao-amazonica-1",
-          "data": "27/10/2026",
-          "resumo": "E-book está disponível no portal do ministério"
-        },
-        {
-          "titulo": "Projeto liderado pelo CBPF pode ajudar experimento de ganhador do Nobel de Física",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/projeto-liderado-pelo-cbpf-pode-ajudar-experimento-de-ganhador-do-nobel-de-fisica",
-          "data": "27/10/2026",
-          "resumo": "Neste ano, a premiação foi dedicada ao estudo dos neutrinos. Laboratório ainda receberá investimento do FNDCT"
         }
       ],
       "agenda": {
