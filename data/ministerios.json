@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T17:06:42.943775+00:00",
+  "atualizado_em": "2026-10-30T00:40:17.852224+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -20,6 +20,30 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Soluções do Hackers do Bem avançam da pesquisa à aplicação prática",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/solucoes-do-hackers-do-bem-avancam-da-pesquisa-a-aplicacao-pratica",
+          "data": "29/10/2026",
+          "resumo": "Nove iniciativas desenvolvidas por pesquisadores de universidades já foram testadas ou adotadas por instituições, enquanto outras avançam para o mercado"
+        },
+        {
+          "titulo": "MCTI, RNP e INPE lançam painel para monitorar mudanças climáticas no Brasil e na América Latina",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mcti-rnp-e-inpe-lancam-painel-para-monitorar-mudancas-climaticas-no-brasil-e-na-america-latina",
+          "data": "29/10/2026",
+          "resumo": "MCTI, RNP e INPE lançam painel para monitorar mudanças climáticas no Brasil e na América Latina"
+        },
+        {
+          "titulo": "Projeto InspirAÇÃO oferece 1.500 bolsas para alunas negras desenvolverem pesquisas em ciência e tecnologia",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/projeto-inspiracao-oferece-1-500-bolsas-para-alunas-negras-desenvolver-pesquisas-em-ciencia-e-tecnologia",
+          "data": "29/10/2026",
+          "resumo": "Com investimento de R$ 30,24 milhões, projeto InspirAÇÃO oferece bolsas mensais de R$ 560 para estudantes do ensino médio. As propostas podem ser enviadas até 8 de dezembro"
+        },
+        {
+          "titulo": "Ipen e CDNT preparam dez produtos para exames e tratamentos de doenças",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/ipen-e-cdnt-preparam-dez-produtos-para-exames-e-tratamentos-de-doencas",
+          "data": "29/10/2026",
+          "resumo": "Radiofármacos são usados em exames que avaliam órgãos, tecidos e processos metabólicos e em tratamentos contra determinados tumores"
+        },
         {
           "titulo": "Sob influência do El Niño, Brasil deve enfrentar temperaturas altas e ondas de calor nos próximos meses",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sob-influencia-do-el-nino-brasil-deve-enfrentar-temperaturas-altas-e-ondas-de-calor-nos-proximos-meses",
@@ -55,30 +79,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sonia-guimaraes-professora-do-ita-e-primeira-doutora-negra-em-fisica-do-brasil",
           "data": "27/10/2026",
           "resumo": "Hoje, Sônia é doutora em Materiais Eletrônicos na Universidade de Manchester, no Reino Unido, e professora do Instituto Tecnológico de Aeronáutica (ITA)"
-        },
-        {
-          "titulo": "Preservação da memória da ciência: Mast recebe acervo de cientista pioneira em Química Nuclear",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/preservacao-da-memoria-da-ciencia-mast-recebe-acervo-de-cientista-pioneira-em-quimica-nuclear",
-          "data": "27/10/2026",
-          "resumo": "Ministra Luciana Santos participa da assinatura do termo de doação do acervo de Irene Alleluia. O Museu da Astronomia e Ciências Afins passa a guardar o primeiro conjunto documental pessoal de uma cientista negra"
-        },
-        {
-          "titulo": "Em SP, MCTI participa de seminário internacional sobre impactos da tecnologia 5G",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/08/em-sp-mcti-participa-de-seminario-internacional-sobre-impactos-da-tecnologia-5g",
-          "data": "27/10/2026",
-          "resumo": "Na abertura do evento, o ministro destacou os grandes avanços possíveis com a chegada da nova tecnologia de conectividade móvel ao Brasil"
-        },
-        {
-          "titulo": "Debate na 74ª SBPC aponta caminhos para a geração de inovação no Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/07/debate-na-74a-sbpc-aponta-caminhos-para-a-geracao-de-inovacao-no-brasil",
-          "data": "27/10/2026",
-          "resumo": "Painel teve a participação da EMBRAPII/MCTI, Embrapa, empresas e instituições de pesquisa do país"
-        },
-        {
-          "titulo": "MCTI abre consulta pública sobre as Propostas da Política e Sistema Nacional de Ciência, Tecnologia e Inovação",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2022/08/copy_of_mcti-abre-consulta-publica-sobre-as-propostas-da-politica-e-sistema-nacional-de-ciencia-tecnologia-e-inovacao",
-          "data": "27/10/2026",
-          "resumo": "Com o canal de interação, a sociedade terá a oportunidade de participar na gestão pública com ideias, sugestões e opiniões"
         }
       ],
       "agenda": {
