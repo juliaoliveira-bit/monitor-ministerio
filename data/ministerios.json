@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30T16:50:13.549319+00:00",
+  "atualizado_em": "2026-10-31T00:32:06.897845+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -19,68 +19,7 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [
-        {
-          "titulo": "Soluções do Hackers do Bem avançam da pesquisa à aplicação prática",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/solucoes-do-hackers-do-bem-avancam-da-pesquisa-a-aplicacao-pratica",
-          "data": "29/10/2026",
-          "resumo": "Nove iniciativas desenvolvidas por pesquisadores de universidades já foram testadas ou adotadas por instituições, enquanto outras avançam para o mercado"
-        },
-        {
-          "titulo": "MCTI, RNP e INPE lançam painel para monitorar mudanças climáticas no Brasil e na América Latina",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/mcti-rnp-e-inpe-lancam-painel-para-monitorar-mudancas-climaticas-no-brasil-e-na-america-latina",
-          "data": "29/10/2026",
-          "resumo": "MCTI, RNP e INPE lançam painel para monitorar mudanças climáticas no Brasil e na América Latina"
-        },
-        {
-          "titulo": "Projeto InspirAÇÃO oferece 1.500 bolsas para alunas negras desenvolverem pesquisas em ciência e tecnologia",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/projeto-inspiracao-oferece-1-500-bolsas-para-alunas-negras-desenvolver-pesquisas-em-ciencia-e-tecnologia",
-          "data": "29/10/2026",
-          "resumo": "Com investimento de R$ 30,24 milhões, projeto InspirAÇÃO oferece bolsas mensais de R$ 560 para estudantes do ensino médio. As propostas podem ser enviadas até 8 de dezembro"
-        },
-        {
-          "titulo": "Ipen e CDNT preparam dez produtos para exames e tratamentos de doenças",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/ipen-e-cdnt-preparam-dez-produtos-para-exames-e-tratamentos-de-doencas",
-          "data": "29/10/2026",
-          "resumo": "Radiofármacos são usados em exames que avaliam órgãos, tecidos e processos metabólicos e em tratamentos contra determinados tumores"
-        },
-        {
-          "titulo": "Sob influência do El Niño, Brasil deve enfrentar temperaturas altas e ondas de calor nos próximos meses",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sob-influencia-do-el-nino-brasil-deve-enfrentar-temperaturas-altas-e-ondas-de-calor-nos-proximos-meses",
-          "data": "28/10/2026",
-          "resumo": "Prognóstico climático para o período de novembro, dezembro e janeiro sinaliza possibilidade de excesso de calor com temperaturas médias entre 1oC a 2oC acima da média em grande parte do país"
-        },
-        {
-          "titulo": "Impa Tech abre seleção com 150 vagas para o bacharelado em Matemática da Tecnologia e Inovação",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/impa-tech-abre-selecao-com-150-vagas-para-o-bacharelado-em-matematica-da-tecnologia-e-inovacao",
-          "data": "28/10/2026",
-          "resumo": "Candidatos podem escolher entre unidades no Rio de Janeiro (RJ) e Teresina (PI). Inscrições abrem em 3 de novembro"
-        },
-        {
-          "titulo": "Futuras Cientistas prorroga inscrições para Imersão Científica 2027 até 6 de novembro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/futuras-cientistas-prorroga-inscricoes-para-imersao-cientifica-2027-ate-6-de-novembro",
-          "data": "28/10/2026",
-          "resumo": "Programa oferece 470 vagas para estudantes do 2º ano do ensino médio e professoras da rede pública estadual de todo o Brasil"
-        },
-        {
-          "titulo": "Garoto indígena participa do programa Caça Asteroides MCTI",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/08/garoto-indigena-participa-do-programa-caca-asteroides-mcti",
-          "data": "27/10/2026",
-          "resumo": "O estudante de 9 anos, “Tserê” também participou de forma virtual da Olimpíada Brasileira de Astronomia e da Mostra Brasileira de Foguetes"
-        },
-        {
-          "titulo": "Garoto indígena participa do programa Caça Asteroides MCTI",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/08/garoto-indigena-participa-do-programa-caca-asteroides-mcti-1",
-          "data": "27/10/2026",
-          "resumo": "O estudante de 9 anos, “Tserê” também participou de forma virtual da Olimpíada Brasileira de Astronomia e da Mostra Brasileira de Foguetes"
-        },
-        {
-          "titulo": "Sônia Guimarães: professora do ITA e primeira doutora negra em Física do Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sonia-guimaraes-professora-do-ita-e-primeira-doutora-negra-em-fisica-do-brasil",
-          "data": "27/10/2026",
-          "resumo": "Hoje, Sônia é doutora em Materiais Eletrônicos na Universidade de Manchester, no Reino Unido, e professora do Instituto Tecnológico de Aeronáutica (ITA)"
-        }
-      ],
+      "noticias": [],
       "agenda": {
         "resumo": "27 Ter 28 Qua 29 Qui 30 Sex 31 Sáb 1 Dom 2 Seg Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
