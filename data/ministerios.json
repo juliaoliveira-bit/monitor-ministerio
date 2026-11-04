@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-03T18:05:48.659169+00:00",
+  "atualizado_em": "2026-11-04T01:05:57.570405+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -20,6 +20,18 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Rita dos Anjos segue pistas que chegam do espaço para desvendar um dos mistérios da Física",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/rita-dos-anjos-segue-pistas-que-chegam-do-espaco-para-desvendar-um-dos-misterios-da-fisica",
+          "data": "03/11/2026",
+          "resumo": "Pesquisadora investiga de onde vêm algumas das partículas mais energéticas do universo e forma uma nova geração de cientistas para continuar essa busca"
+        },
+        {
+          "titulo": "Novo painel do MCTI permite identificar como mudanças climáticas podem afetar diferentes regiões do Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/novo-painel-do-mcti-permite-identificar-como-mudancas-climaticas-podem-afetar-diferentes-regioes-do-brasil",
+          "data": "03/11/2026",
+          "resumo": "Ferramenta desenvolvida com o Inpe e a RNP apresenta projeções de temperatura, chuvas e eventos extremos com detalhamento de 10 km, oferecendo informações para orientar medidas de adaptação"
+        },
         {
           "titulo": "Soluções do Hackers do Bem avançam da pesquisa à aplicação prática",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/solucoes-do-hackers-do-bem-avancam-da-pesquisa-a-aplicacao-pratica",
@@ -67,18 +79,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/08/garoto-indigena-participa-do-programa-caca-asteroides-mcti",
           "data": "27/10/2026",
           "resumo": "O estudante de 9 anos, “Tserê” também participou de forma virtual da Olimpíada Brasileira de Astronomia e da Mostra Brasileira de Foguetes"
-        },
-        {
-          "titulo": "Garoto indígena participa do programa Caça Asteroides MCTI",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/08/garoto-indigena-participa-do-programa-caca-asteroides-mcti-1",
-          "data": "27/10/2026",
-          "resumo": "O estudante de 9 anos, “Tserê” também participou de forma virtual da Olimpíada Brasileira de Astronomia e da Mostra Brasileira de Foguetes"
-        },
-        {
-          "titulo": "Sônia Guimarães: professora do ITA e primeira doutora negra em Física do Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/sonia-guimaraes-professora-do-ita-e-primeira-doutora-negra-em-fisica-do-brasil",
-          "data": "27/10/2026",
-          "resumo": "Hoje, Sônia é doutora em Materiais Eletrônicos na Universidade de Manchester, no Reino Unido, e professora do Instituto Tecnológico de Aeronáutica (ITA)"
         }
       ],
       "agenda": {
