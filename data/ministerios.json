@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-04T18:15:13.231997+00:00",
+  "atualizado_em": "2026-11-05T01:21:14.413004+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -20,6 +20,12 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/faltam-20-dias-para-23a-semana-nacional-de-ciencia-e-tecnologia",
+          "data": "04/11/2026",
+          "resumo": "Com o tema Ciências Delas, evento reúne atividades científicas e educativas de 24 a 29 de novembro, em Brasília"
+        },
         {
           "titulo": "Três novas espécies de plantas são descobertas na Mata Atlântica",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/tres-novas-especies-de-plantas-sao-descobertas-na-mata-atlantica",
@@ -73,16 +79,10 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/impa-tech-abre-selecao-com-150-vagas-para-o-bacharelado-em-matematica-da-tecnologia-e-inovacao",
           "data": "28/10/2026",
           "resumo": "Candidatos podem escolher entre unidades no Rio de Janeiro (RJ) e Teresina (PI). Inscrições abrem em 3 de novembro"
-        },
-        {
-          "titulo": "Futuras Cientistas prorroga inscrições para Imersão Científica 2027 até 6 de novembro",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/futuras-cientistas-prorroga-inscricoes-para-imersao-cientifica-2027-ate-6-de-novembro",
-          "data": "28/10/2026",
-          "resumo": "Programa oferece 470 vagas para estudantes do 2º ano do ensino médio e professoras da rede pública estadual de todo o Brasil"
         }
       ],
       "agenda": {
-        "resumo": "1 Dom 2 Seg 3 Ter 4 Qua 5 Qui 6 Sex 7 Sáb Atualmente não existem compromissos agendados.",
+        "resumo": "",
         "link_agenda_completa": ""
       }
     }
