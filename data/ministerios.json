@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-05T01:21:14.413004+00:00",
+  "atualizado_em": "2026-11-05T18:20:46.360877+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -21,7 +21,13 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
         {
-          "titulo": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia",
+          "titulo": "Brasil tem 12 representantes selecionados para Fórum de Jovens Cientistas e Prêmio Jovem Inovador do BRICS",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/brasil-tem-12-representantes-selecionados-para-forum-de-jovens-cientistas-e-premio-jovem-inovador-do-brics",
+          "data": "05/11/2026",
+          "resumo": "Encontro acontece de 17 a 19 de novembro, na Índia, com nove brasileiros no fórum e três concorrentes ao prêmio internacional"
+        },
+        {
+          "titulo": "Faltam 20 dias para a 23ª Semana Nacional de Ciência e Tecnologia",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/faltam-20-dias-para-23a-semana-nacional-de-ciencia-e-tecnologia",
           "data": "04/11/2026",
           "resumo": "Com o tema Ciências Delas, evento reúne atividades científicas e educativas de 24 a 29 de novembro, em Brasília"
@@ -73,16 +79,10 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/sob-influencia-do-el-nino-brasil-deve-enfrentar-temperaturas-altas-e-ondas-de-calor-nos-proximos-meses",
           "data": "28/10/2026",
           "resumo": "Prognóstico climático para o período de novembro, dezembro e janeiro sinaliza possibilidade de excesso de calor com temperaturas médias entre 1oC a 2oC acima da média em grande parte do país"
-        },
-        {
-          "titulo": "Impa Tech abre seleção com 150 vagas para o bacharelado em Matemática da Tecnologia e Inovação",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/impa-tech-abre-selecao-com-150-vagas-para-o-bacharelado-em-matematica-da-tecnologia-e-inovacao",
-          "data": "28/10/2026",
-          "resumo": "Candidatos podem escolher entre unidades no Rio de Janeiro (RJ) e Teresina (PI). Inscrições abrem em 3 de novembro"
         }
       ],
       "agenda": {
-        "resumo": "",
+        "resumo": "2 Seg 3 Ter 4 Qua 5 Qui 6 Sex 7 Sáb 8 Dom Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
