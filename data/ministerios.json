@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-05T18:20:46.360877+00:00",
+  "atualizado_em": "2026-11-06T01:24:52.933833+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -21,7 +21,37 @@
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
         {
-          "titulo": "Brasil tem 12 representantes selecionados para Fórum de Jovens Cientistas e Prêmio Jovem Inovador do BRICS",
+          "titulo": "Cidades costeiras terão novas ações de combate à poluição por plástico em 2027",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/cidades-costeiras-terao-novas-acoes-de-combate-a-poluicao-plastica-em-2027",
+          "data": "05/11/2026",
+          "resumo": "Plastic Reboot Brasil, coordenado pelo MCTI, prevê até dez soluções-piloto, capacitação e maior participação dos municípios no combate à poluição plástica"
+        },
+        {
+          "titulo": "Brasil adere a compromisso internacional para reduzir lixo espacial e proteger satélites em órbita",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/brasil-adere-a-compromisso-internacional-para-reduzir-lixo-espacial-e-proteger-satelites-em-orbita",
+          "data": "05/11/2026",
+          "resumo": "Iniciativa liderada pela Agência Espacial Europeia estabelece objetivos até 2030 para diminuir a geração de detritos no espaço. Duas empresas brasileiras também aderiram ao acordo"
+        },
+        {
+          "titulo": "Edital da Embrapii e Petrobras vai investir em projetos de alto impacto em economia circular",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/edital-da-embrapii-e-petrobras-vai-investir-em-projetos-de-alto-impacto-em-economia-circular",
+          "data": "05/11/2026",
+          "resumo": "Objetivo é investir em soluções desenvolvidas por empresas e startups que solucionem desafios do setor de petróleo e gás"
+        },
+        {
+          "titulo": "Pesquisas do CNPEM investigam metástase e resposta do câncer de mama a tratamentos",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/pesquisas-do-cnpem-investigam-metastase-e-resposta-do-cancer-de-mama-a-tratamentos",
+          "data": "05/11/2026",
+          "resumo": "Estudos com células de pacientes, nanopartículas e novas tecnologias buscam compreender as diferenças entre tumores e contribuir para tratamentos mais personalizados"
+        },
+        {
+          "titulo": "CGEE completa 25 anos e projeta o Brasil de 2051",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/cgee-completa-25-anos-e-projeta-o-brasil-de-2051",
+          "data": "05/11/2026",
+          "resumo": "Na celebração dos 25 anos do CGEE, a ministra do MCTI, Luciana Santos, destacou contribuições para políticas públicas, inteligência artificial e soberania tecnológica"
+        },
+        {
+          "titulo": "Brasil tem 12 representantes selecionados para Fórum de Jovens Cientistas e Prêmio Jovem Inovador do Brics",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/brasil-tem-12-representantes-selecionados-para-forum-de-jovens-cientistas-e-premio-jovem-inovador-do-brics",
           "data": "05/11/2026",
           "resumo": "Encontro acontece de 17 a 19 de novembro, na Índia, com nove brasileiros no fórum e três concorrentes ao prêmio internacional"
@@ -49,36 +79,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/novo-painel-do-mcti-permite-identificar-como-mudancas-climaticas-podem-afetar-diferentes-regioes-do-brasil",
           "data": "03/11/2026",
           "resumo": "Ferramenta desenvolvida com o Inpe e a RNP apresenta projeções de temperatura, chuvas e eventos extremos com detalhamento de 10 km, oferecendo informações para orientar medidas de adaptação"
-        },
-        {
-          "titulo": "Soluções do Hackers do Bem avançam da pesquisa à aplicação prática",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/solucoes-do-hackers-do-bem-avancam-da-pesquisa-a-aplicacao-pratica",
-          "data": "29/10/2026",
-          "resumo": "Nove iniciativas desenvolvidas por pesquisadores de universidades já foram testadas ou adotadas por instituições, enquanto outras avançam para o mercado"
-        },
-        {
-          "titulo": "MCTI, RNP e INPE lançam painel para monitorar mudanças climáticas no Brasil e na América Latina",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/mcti-rnp-e-inpe-lancam-painel-para-monitorar-mudancas-climaticas-no-brasil-e-na-america-latina",
-          "data": "29/10/2026",
-          "resumo": "MCTI, RNP e INPE lançam painel para monitorar mudanças climáticas no Brasil e na América Latina"
-        },
-        {
-          "titulo": "Projeto InspirAÇÃO oferece 1.500 bolsas para alunas negras desenvolverem pesquisas em ciência e tecnologia",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/projeto-inspiracao-oferece-1-500-bolsas-para-alunas-negras-desenvolver-pesquisas-em-ciencia-e-tecnologia",
-          "data": "29/10/2026",
-          "resumo": "Com investimento de R$ 30,24 milhões, projeto InspirAÇÃO oferece bolsas mensais de R$ 560 para estudantes do ensino médio. As propostas podem ser enviadas até 8 de dezembro"
-        },
-        {
-          "titulo": "Ipen e CDTN preparam dez produtos para exames e tratamentos de doenças",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/ipen-e-cdnt-preparam-dez-produtos-para-exames-e-tratamentos-de-doencas",
-          "data": "29/10/2026",
-          "resumo": "Radiofármacos são usados em exames que avaliam órgãos, tecidos e processos metabólicos e em tratamentos contra determinados tumores"
-        },
-        {
-          "titulo": "Sob influência do El Niño, Brasil deve enfrentar temperaturas altas e ondas de calor nos próximos meses",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/07-10-julho-outubro/sob-influencia-do-el-nino-brasil-deve-enfrentar-temperaturas-altas-e-ondas-de-calor-nos-proximos-meses",
-          "data": "28/10/2026",
-          "resumo": "Prognóstico climático para o período de novembro, dezembro e janeiro sinaliza possibilidade de excesso de calor com temperaturas médias entre 1oC a 2oC acima da média em grande parte do país"
         }
       ],
       "agenda": {
