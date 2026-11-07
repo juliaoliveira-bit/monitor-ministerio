@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-06T17:43:13.189760+00:00",
+  "atualizado_em": "2026-11-07T00:41:45.948247+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -20,6 +20,30 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/novo-painel-do-el-nino-aponta-intensificacao-da-seca-e-atualiza-previsoes-para-o-inicio-de-2027",
+          "data": "06/11/2026",
+          "resumo": "Boletim elaborado com participação do Inpe e do Cemaden mostra avanço das condições de seca no Norte e Nordeste e mantém previsão de chuvas acima da média no Sul"
+        },
+        {
+          "titulo": "Inteligência artificial desenvolvida pelo MCTI ajuda a prever enxurradas com até quatro horas de antecedência",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/inteligencia-artificial-desenvolvida-pelo-mcti-ajuda-a-prever-enxurradas-com-ate-quatro-horas-de-antecedencia",
+          "data": "06/11/2026",
+          "resumo": "Tecnologia do Cemaden analisa dados de chuva e do nível dos rios em tempo real para apoiar decisões da Defesa Civil e proteger populações em áreas de risco"
+        },
+        {
+          "titulo": "Ciência na prática, descobertas e experiências interativas integram programação da SNCT 2026",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/ciencia-na-pratica-descobertas-e-experiencias-interativas-integram-programacao-da-snct-2026",
+          "data": "06/11/2026",
+          "resumo": "Finep, CNPq e CGEE apresentam projetos de estudantes, atividades sobre a trajetória da ciência brasileira e animação educativa na 23ª Semana Nacional de Ciência e Tecnologia, em Brasília"
+        },
+        {
+          "titulo": "Museu das Amazônias reabre em Belém como legado permanente da COP30",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/museu-das-amazonias-reabre-em-belem-como-legado-permanente-da-cop30",
+          "data": "06/11/2026",
+          "resumo": "Com investimento de R$ 20 milhões do MCTI, espaço público promove ações educativas e de popularização da ciência"
+        },
         {
           "titulo": "Cidades costeiras terão novas ações de combate à poluição por plástico em 2027",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/cidades-costeiras-terao-novas-acoes-de-combate-a-poluicao-plastica-em-2027",
@@ -55,30 +79,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/brasil-tem-12-representantes-selecionados-para-forum-de-jovens-cientistas-e-premio-jovem-inovador-do-brics",
           "data": "05/11/2026",
           "resumo": "Encontro acontece de 17 a 19 de novembro, na Índia, com nove brasileiros no fórum e três concorrentes ao prêmio internacional"
-        },
-        {
-          "titulo": "Faltam 20 dias para a 23ª Semana Nacional de Ciência e Tecnologia",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/faltam-20-dias-para-23a-semana-nacional-de-ciencia-e-tecnologia",
-          "data": "04/11/2026",
-          "resumo": "Com o tema Ciências Delas, evento reúne atividades científicas e educativas de 24 a 29 de novembro, em Brasília"
-        },
-        {
-          "titulo": "Três novas espécies de plantas são descobertas na Mata Atlântica",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/tres-novas-especies-de-plantas-sao-descobertas-na-mata-atlantica",
-          "data": "04/11/2026",
-          "resumo": "Duas das espécies identificadas por pesquisadores do INMA apresentam risco de extinção"
-        },
-        {
-          "titulo": "Rita dos Anjos segue pistas que chegam do espaço para desvendar um dos mistérios da Física",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/rita-dos-anjos-segue-pistas-que-chegam-do-espaco-para-desvendar-um-dos-misterios-da-fisica",
-          "data": "03/11/2026",
-          "resumo": "Pesquisadora investiga de onde vêm algumas das partículas mais energéticas do universo e forma uma nova geração de cientistas para continuar essa busca"
-        },
-        {
-          "titulo": "Novo painel do MCTI permite identificar como mudanças climáticas podem afetar diferentes regiões do Brasil",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/novo-painel-do-mcti-permite-identificar-como-mudancas-climaticas-podem-afetar-diferentes-regioes-do-brasil",
-          "data": "03/11/2026",
-          "resumo": "Ferramenta desenvolvida com o Inpe e a RNP apresenta projeções de temperatura, chuvas e eventos extremos com detalhamento de 10 km, oferecendo informações para orientar medidas de adaptação"
         }
       ],
       "agenda": {
