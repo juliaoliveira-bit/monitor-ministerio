@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-09T21:08:10.671970+00:00",
+  "atualizado_em": "2026-11-10T03:17:19.989689+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -19,70 +19,9 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [
-        {
-          "titulo": "Herbário do INMA chega a 60 mil amostras com exemplar de café-bravo",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/herbario-do-inma-chega-a-60-mil-amostras-com-exemplar-de-cafe-bravo",
-          "data": "09/11/2026",
-          "resumo": "A planta é da família Picramniaceae, grupo encontrado principalmente nos biomas Mata Atlântica e Cerrado"
-        },
-        {
-          "titulo": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/snct-2026-mobiliza-o-pais-e-prepara-grande-encontro-da-ciencia-em-brasilia",
-          "data": "09/11/2026",
-          "resumo": "Atividades percorrem as cinco regiões brasileiras com o tema Ciência Delas. Programação nacional será de 24 a 29 de novembro, na Esplanada dos Ministérios"
-        },
-        {
-          "titulo": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/novo-painel-do-el-nino-aponta-intensificacao-da-seca-e-atualiza-previsoes-para-o-inicio-de-2027",
-          "data": "06/11/2026",
-          "resumo": "Boletim elaborado com participação do Inpe e do Cemaden mostra avanço das condições de seca no Norte e Nordeste e mantém previsão de chuvas acima da média no Sul"
-        },
-        {
-          "titulo": "Inteligência artificial desenvolvida pelo MCTI ajuda a prever enxurradas com até quatro horas de antecedência",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/inteligencia-artificial-desenvolvida-pelo-mcti-ajuda-a-prever-enxurradas-com-ate-quatro-horas-de-antecedencia",
-          "data": "06/11/2026",
-          "resumo": "Tecnologia do Cemaden analisa dados de chuva e do nível dos rios em tempo real para apoiar decisões da Defesa Civil e proteger populações em áreas de risco"
-        },
-        {
-          "titulo": "Ciência na prática, descobertas e experiências interativas integram programação da SNCT 2026",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/ciencia-na-pratica-descobertas-e-experiencias-interativas-integram-programacao-da-snct-2026",
-          "data": "06/11/2026",
-          "resumo": "Finep, CNPq e CGEE apresentam projetos de estudantes, atividades sobre a trajetória da ciência brasileira e animação educativa na 23ª Semana Nacional de Ciência e Tecnologia, em Brasília"
-        },
-        {
-          "titulo": "Museu das Amazônias reabre em Belém como legado permanente da COP30",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/museu-das-amazonias-reabre-em-belem-como-legado-permanente-da-cop30",
-          "data": "06/11/2026",
-          "resumo": "Com investimento de R$ 20 milhões do MCTI, espaço público promove ações educativas e de popularização da ciência"
-        },
-        {
-          "titulo": "Cidades costeiras terão novas ações de combate à poluição por plástico em 2027",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/cidades-costeiras-terao-novas-acoes-de-combate-a-poluicao-plastica-em-2027",
-          "data": "05/11/2026",
-          "resumo": "Plastic Reboot Brasil, coordenado pelo MCTI, prevê até dez soluções-piloto, capacitação e maior participação dos municípios no combate à poluição plástica"
-        },
-        {
-          "titulo": "Brasil adere a compromisso internacional para reduzir lixo espacial e proteger satélites em órbita",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/brasil-adere-a-compromisso-internacional-para-reduzir-lixo-espacial-e-proteger-satelites-em-orbita",
-          "data": "05/11/2026",
-          "resumo": "Iniciativa liderada pela Agência Espacial Europeia estabelece objetivos até 2030 para diminuir a geração de detritos no espaço. Duas empresas brasileiras também aderiram ao acordo"
-        },
-        {
-          "titulo": "Edital da Embrapii e Petrobras vai investir em projetos de alto impacto em economia circular",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/edital-da-embrapii-e-petrobras-vai-investir-em-projetos-de-alto-impacto-em-economia-circular",
-          "data": "05/11/2026",
-          "resumo": "Objetivo é investir em soluções desenvolvidas por empresas e startups que solucionem desafios do setor de petróleo e gás"
-        },
-        {
-          "titulo": "Pesquisas do CNPEM investigam metástase e resposta do câncer de mama a tratamentos",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/pesquisas-do-cnpem-investigam-metastase-e-resposta-do-cancer-de-mama-a-tratamentos",
-          "data": "05/11/2026",
-          "resumo": "Estudos com células de pacientes, nanopartículas e novas tecnologias buscam compreender as diferenças entre tumores e contribuir para tratamentos mais personalizados"
-        }
-      ],
+      "noticias": [],
       "agenda": {
-        "resumo": "",
+        "resumo": "7 Sáb 8 Dom 9 Seg 10 Ter 11 Qua 12 Qui 13 Sex Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
       }
     }
