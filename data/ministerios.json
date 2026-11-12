@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-11T18:09:48.171076+00:00",
+  "atualizado_em": "2026-11-12T02:08:45.233394+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -19,7 +19,68 @@
     },
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
-      "noticias": [],
+      "noticias": [
+        {
+          "titulo": "Edital de apoio a iniciativas para a SNCT vai investir cerca de R$ 8 milhões em 153 projetos",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/edital-de-apoio-a-iniciativas-para-a-snct-vai-investir-cerca-de-r-8-milhoes-em-153-projetos",
+          "data": "11/11/2026",
+          "resumo": "O CNPq divulgou o resultado final da Chamada Pop Ciência — 23ª SNCT. Evento ocorrerá de 24 a 29 de novembro, em Brasília"
+        },
+        {
+          "titulo": "Brasil reduz em 27% as emissões de gases de efeito estufa de 2022 a 2024",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-de-2022-a-2024",
+          "data": "11/11/2026",
+          "resumo": "Elaborado pelo MCTI, Inventário Nacional é a fonte oficial sobre emissões e remoções de gases de efeito estufa do País. Dados apontam queda do desmatamento como principal fator para o resultado"
+        },
+        {
+          "titulo": "MCTI divulga resultado preliminar do Hackaton Pop",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/mcti-divulga-resultado-preliminar-do-hackaton-pop",
+          "data": "11/11/2026",
+          "resumo": "O tema da competição é Combate à Desinformação contra Meninas e Mulheres na internet. A atividade integra a 23ª SNCT, que ocorrerá de 24 a 29 de novembro, em Brasília"
+        },
+        {
+          "titulo": "Política de Inovação da AEB prevê apoio a pesquisas, empresas e inventores do setor espacial",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/politica-de-inovacao-da-aeb-preve-apoio-a-pesquisas-empresas-e-inventores-do-setor-espacial",
+          "data": "11/11/2026",
+          "resumo": "Norma estabelece mecanismos de cooperação, financiamento e transferência de tecnologia para o desenvolvimento de produtos e serviços"
+        },
+        {
+          "titulo": "Estudantes brasileiros ganham quatro medalhas de ouro na Olimpíada Latino-Americana de Astronomia e Astronáutica",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/estudantes-brasileiros-ganham-quatro-medalhas-de-ouro-na-olimpiada-latino-americana-de-astronomia-e-astronautica",
+          "data": "10/11/2026",
+          "resumo": "Evento ocorreu de 1º a 9 de novembro, em Assunção, no Paraguai. Em outubro, seis outros jovens foram premiados na 19ª Olimpíada Internacional de Astronomia e Astrofísica, no Vietnã"
+        },
+        {
+          "titulo": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/mcti-e-suecia-avancam-em-cooperacao-tecnologica-nas-areas-de-aeronautica-inteligencia-artificial-e-sustentabilidade",
+          "data": "10/11/2026",
+          "resumo": "Durante a Semana de Inovação Suécia–Brasil, foram apresentados resultados de projetos científicos e propostas para fortalecer a cooperação industrial"
+        },
+        {
+          "titulo": "MCTI reúne pesquisadores de todo o País para avaliar avanços do Programa de Pesquisa em Biodiversidade",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/mcti-reune-pesquisadores-de-todo-o-pais-para-avaliar-avancos-do-programa-de-pesquisa-em-biodiversidade",
+          "data": "10/11/2026",
+          "resumo": "Com R$ 60 milhões em investimentos, PPBio atrai mais de 2,5 mil pesquisadores e alcança todos os biomas brasileiros. Encontro discute resultados e próximos passos das redes científicas"
+        },
+        {
+          "titulo": "Lélia Gonzalez: origem de conceitos para compreender a sociedade brasileira",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/lelia-gonzalez-origem-de-conceitos-para-compreender-a-sociedade-brasileira",
+          "data": "10/11/2026",
+          "resumo": "Antropóloga, filósofa e professora, ela investigou as relações entre raça, gênero, linguagem e cultura e formulou conceitos como pretuguês e amefricanidade"
+        },
+        {
+          "titulo": "Modelo Hipátia estrutura preservação de processos digitais no Tribunal de Justiça de Minas Gerais",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/modelo-hipatia-estrutura-preservacao-de-processos-digitais-no-tribunal-de-justica-de-minas-gerais",
+          "data": "10/11/2026",
+          "resumo": "Solução desenvolvida pelo Ibict organiza fluxos de recolhimento, preservação e acesso a documentos digitais permanentes"
+        },
+        {
+          "titulo": "Exoplanetas mostram potencial de água líquida",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/exoplanetas-mostram-potencial-de-agua-liquida",
+          "data": "10/11/2026",
+          "resumo": "Estudo examinou mais de 6 mil planetas de fora do Sistema Solar em condições similares do planeta Terra"
+        }
+      ],
       "agenda": {
         "resumo": "8 Dom 9 Seg 10 Ter 11 Qua 12 Qui 13 Sex 14 Sáb Atualmente não existem compromissos agendados.",
         "link_agenda_completa": ""
