@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T18:37:44.072122+00:00",
+  "atualizado_em": "2026-11-13T01:42:51.916149+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -20,6 +20,18 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/luciana-santos-destaca-importancia-da-inteligencia-artificial-para-o-servico-publico-durante-forum-no-tcu",
+          "data": "12/11/2026",
+          "resumo": "Ministra participou da abertura do 10º Fórum Nacional de Controle, que reuniu representantes de instituições públicas para discutir inovação, governança e uso responsável da tecnologia"
+        },
+        {
+          "titulo": "Chamada do CNPq apoia cursos em biodiversidade entre Brasil e França",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/chamada-do-cnpq-apoia-cursos-em-biodiversidade-entre-brasil-e-franca",
+          "data": "12/11/2026",
+          "resumo": "Iniciativa do Centro Franco-Brasileiro de Biodiversidade Amazônica incentiva a troca de conhecimentos de interesse ambiental, econômico e social"
+        },
         {
           "titulo": "Edital de apoio a iniciativas para a SNCT vai investir cerca de R$ 8 milhões em 153 projetos",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/edital-de-apoio-a-iniciativas-para-a-snct-vai-investir-cerca-de-r-8-milhoes-em-153-projetos",
@@ -67,18 +79,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/lelia-gonzalez-origem-de-conceitos-para-compreender-a-sociedade-brasileira",
           "data": "10/11/2026",
           "resumo": "Antropóloga, filósofa e professora, ela investigou as relações entre raça, gênero, linguagem e cultura e formulou conceitos como pretuguês e amefricanidade"
-        },
-        {
-          "titulo": "Modelo Hipátia estrutura preservação de processos digitais no Tribunal de Justiça de Minas Gerais",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/modelo-hipatia-estrutura-preservacao-de-processos-digitais-no-tribunal-de-justica-de-minas-gerais",
-          "data": "10/11/2026",
-          "resumo": "Solução desenvolvida pelo Ibict organiza fluxos de recolhimento, preservação e acesso a documentos digitais permanentes"
-        },
-        {
-          "titulo": "Exoplanetas mostram potencial de água líquida",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/exoplanetas-mostram-potencial-de-agua-liquida",
-          "data": "10/11/2026",
-          "resumo": "Estudo examinou mais de 6 mil planetas de fora do Sistema Solar em condições similares do planeta Terra"
         }
       ],
       "agenda": {
