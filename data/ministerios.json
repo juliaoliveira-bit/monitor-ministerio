@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-17T19:26:42.666326+00:00",
+  "atualizado_em": "2026-11-18T02:46:31.619953+00:00",
   "ministerios": {
     "mj": {
       "nome": "Ministério da Justiça e Segurança Pública",
@@ -20,6 +20,18 @@
     "mcti": {
       "nome": "Ministério da Ciência, Tecnologia e Inovação",
       "noticias": [
+        {
+          "titulo": "Brasil entrega documento sobre mudanças climáticas à Convenção do Clima durante a COP31",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/brasil-entrega-documento-sobre-mudancas-climaticas-a-convencao-do-clima-durante-a-cop31",
+          "data": "17/11/2026",
+          "resumo": "Elaborado pelo MCTI, o levantamento unificado Quinta Comunicação Nacional e Segundo Relatório Bienal de Transparência atende aos compromissos internacionais de transparência climática"
+        },
+        {
+          "titulo": "Chuva de meteoros Leonídeas: fenômeno poderá ser visto em todo o Brasil",
+          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/chuva-de-meteoros-leonideas-fenomeno-podera-ser-visto-em-todo-o-brasil",
+          "data": "17/11/2026",
+          "resumo": "A partir da 1h30 desta quarta-feira (18) será possível testemunhar os rastros esverdeados e azulados no céu. Veja as dicas do astrônomo para não perder o espetáculo"
+        },
         {
           "titulo": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança",
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/com-apoio-do-mcti-computadores-quanticos-chegam-a-joao-pessoa-e-implementacao-do-ciquanta-avanca",
@@ -67,18 +79,6 @@
           "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/edital-de-apoio-a-iniciativas-para-a-snct-vai-investir-cerca-de-r-8-milhoes-em-153-projetos",
           "data": "11/11/2026",
           "resumo": "O CNPq divulgou o resultado final da Chamada Pop Ciência — 23ª SNCT. Evento ocorrerá de 24 a 29 de novembro, em Brasília"
-        },
-        {
-          "titulo": "Brasil reduz em 27% as emissões de gases de efeito estufa de 2022 a 2024",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-de-2022-a-2024",
-          "data": "11/11/2026",
-          "resumo": "Elaborado pelo MCTI, Inventário Nacional é a fonte oficial sobre emissões e remoções de gases de efeito estufa do País. Dados apontam queda do desmatamento como principal fator para o resultado"
-        },
-        {
-          "titulo": "MCTI divulga resultado preliminar do Hackaton Pop",
-          "link": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/mcti-divulga-resultado-preliminar-do-hackaton-pop",
-          "data": "11/11/2026",
-          "resumo": "O tema da competição é Combate à Desinformação contra Meninas e Mulheres na internet. A atividade integra a 23ª SNCT, que ocorrerá de 24 a 29 de novembro, em Brasília"
         }
       ],
       "agenda": {
